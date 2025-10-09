@@ -17,5 +17,4 @@ def check(file):
             	if similarity > 95 : 
                 	print(id1)
 
-#check("/home/rui-huang/Documents/RNA_seq_doc/pfam/alfalfa_NCR_blast.txt")
 check(args['i'])

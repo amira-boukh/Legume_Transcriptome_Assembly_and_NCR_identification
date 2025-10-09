@@ -65,6 +65,7 @@ bowtie2 -p 10 -q --no-unal -k 20 -x Indigo_merged_transcripts_cdhit95.fasta -1 I
 samtools sort -@10 bowtie2_merged.bam -o bowtie2_merged_sorted.bam
 samtools index bowtie2_merged_sorted.bam
 
+
 #Cluster transcripts into gene groups using Corset
 corset -D 999999999 bowtie2_merged_sorted.bam
 corset -D 999999999 bowtie2_nods_sorted.bam
@@ -178,6 +179,36 @@ SUPER_PEP=$(ls annotation/transdecoder/merged_super/*.transdecoder.pep | head -n
 #If GFAP is installed as a Python script on PATH
 GFAP.py -i "$TRINITY_PEP" -o annotation/gfap/merged_trinity -s Glycine_max -t 24
 GFAP.py -i "$SUPER_PEP"   -o annotation/gfap/merged_super   -s Glycine_max -t 24
+
+#Quantify transcript abundance with Salmon for downstream DEG analysis
+salmon index -i indigo_nods_transcripts.idx -t Indigo_Nods/new_lacer/SuperDuper.fasta -k 31 -p 24
+salmon index -i indigo_roots_transcripts.idx -t Indigo_Roots/new_lacer/SuperDuper.fasta -k 31 -p 24
+
+salmon quant -i indigo_transcripts.idx -l A \
+  -1 Indigo_nodS4_HostRemoved_R1.fastq \
+  -2 Indigo_nodS4_HostRemoved_R2.fastq \
+  -p 24 --validateMappings -o salmon_quant_nods1
+salmon quant -i indigo_transcripts.idx -l A \
+  -1 Indigo_nodS5_HostRemoved_R1.fastq \
+  -2 Indigo_nodS5_HostRemoved_R2.fastq \
+  -p 24 --validateMappings -o salmon_quant_nods2
+salmon quant -i indigo_transcripts.idx -l A \
+  -1 Indigo_nodS6_HostRemoved_R1.fastq \
+  -2 Indigo_nodS6_HostRemoved_R2.fastq \
+  -p 24 --validateMappings -o salmon_quant_nods3
+
+salmon quant -i indigo_transcripts.idx -l A \
+  -1 Indigo_RootsS4_HostRemoved_R1.fastq \
+  -2 Indigo_RootsS4_HostRemoved_R2.fastq \
+  -p 24 --validateMappings -o salmon_quant_roots1
+salmon quant -i indigo_transcripts.idx -l A \
+  -1 Indigo_RootsS5_HostRemoved_R1.fastq \   
+  -2 Indigo_RootsS5_HostRemoved_R2.fastq \
+  -p 24 --validateMappings -o salmon_quant_roots2
+salmon quant -i indigo_transcripts.idx -l A \
+  -1 Indigo_RootsS6_HostRemoved_R1.fastq \   
+  -2 Indigo_RootsS6_HostRemoved_R2.fastq \
+  -p 24 --validateMappings -o salmon_quant_roots3
 
 
 #Nodule transcriptome assembly of Lupinus species was performed with the same method

@@ -6,10 +6,10 @@ perl spada_soft/spada/seq.check.pl -i genome.fa -o genome.checked.fa
 #Spada with CRP clusters 
 /home/amira.boukherissa/spada_soft/spada/spada.pl -c /home/amira.boukherissa/spada_soft/spada/cfg.txt -d /home/amira.boukherissa/spada_soft/spada/spada.Vfaba.CRP --fas Vfaba.checked.fa --hmm /home/amira.boukherissa/spada_soft/spada/hmm.crp --org Mtruncatula --sp --thread 12
 
-#Spada with IRLC NCR clusters : 
+#Spada with IRLC NCR clusters
 
 
-#Spada with Dalbergioids NCR clusters : 
+#Spada with Dalbergioids NCR clusters
 
 
 #Analysis after SPADA 

@@ -9,7 +9,7 @@ def list_ids():
     line by line, starting with ">"
     """
 
-    # read the first file given and generate a set (faster iteration respect lists
+    #Read the first file given and generate a set (faster iteration respect lists
 
     identifiers = set([])
 

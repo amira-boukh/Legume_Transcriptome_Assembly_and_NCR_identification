@@ -51,59 +51,59 @@ python3 NCR_detection/extract_seq.py
 mv seq.fasta results/SPADA/Medtr_merged.seq.fasta
 seqkit rmdup -s results/SPADA/Medtr_merged.seq.fasta > results/SPADA/Medtr_merged.noDup.fasta
 
-# 5) Post-SPADA filtering
-# 5.1) Self-BLAST to collapse highly similar sequences and remove reciprocal duplicates
+#Post-SPADA filtering
+#Self-BLAST to collapse highly similar sequences and remove reciprocal duplicates
 makeblastdb -in results/SPADA/Medtr_merged.noDup.fasta -dbtype prot -parse_seqids
 blastp -query results/SPADA/Medtr_merged.noDup.fasta -db results/SPADA/Medtr_merged.noDup.fasta -culling_limit 1 -outfmt 6 -evalue 1e-5 -num_threads 8 > results/SPADA/Medtr_merged.self_blast.tsv
 python3 NCR_detection/NCR_check.py -i results/SPADA/Medtr_merged.self_blast.tsv | awk '{print $2}' > results/SPADA/Medtr_merged.rm_ids.txt
 python3 NCR_detection/Exclude_ids.py results/SPADA/Medtr_merged.rm_ids.txt results/SPADA/Medtr_merged.noDup.fasta results/SPADA/Medtr_merged.noDup_noHS.fasta
 
-# 5.2) Signal peptide and mature peptide extraction (SignalP 4.1g, notm)
+#Signal peptide and mature peptide extraction (SignalP 4.1g notm)
 signalp -s notm -t euk -f summary -n results/SPADA/Medtr.signalp41.summary -m results/SPADA/Medtr.mature.fasta -v results/SPADA/Medtr_merged.noDup_noHS.fasta > results/SPADA/Medtr.signalp41.short
 
-# 5.3) Length < 100 aa and >= 4 Cys in mature peptides
+#Length < 100 aa and >= 4 Cys in mature peptides
 python3 NCR_detection/NCR_final_check.py -i results/SPADA/Medtr.mature.fasta > results/SPADA/Medtr_mature.final_check.txt
 grep "crp\|cluster" results/SPADA/Medtr_mature.final_check.txt > results/SPADA/Medtr_mature.rm_ids.txt
 python3 NCR_detection/Exclude_ids.py results/SPADA/Medtr_mature.rm_ids.txt results/SPADA/Medtr.mature.fasta results/SPADA/Medtr.mature.checked.fasta
 python3 NCR_detection/Exclude_ids.py results/SPADA/Medtr_mature.rm_ids.txt results/SPADA/Medtr_merged.noDup_noHS.fasta results/SPADA/Medtr.full.checked.fasta
 
-# 6) RNA-seq support: SRA download, mapping (STAR), and counting (htseq-count)
-# 6.1) Download SRA and convert to FASTQ (example accession)
-fastq-dump --split-files SRR000000
+#RNA-seq support: SRA download, mapping (STAR), and counting (htseq-count)
+#Download SRA and convert to FASTQ 
+fastq-dump --split-files SRR******  #replace ***** with actual SRA run ID (repeat for each run)
 
-# 6.2) STAR genome index (example genome and GTF)
+#STAR genome index (example genome and GTF)
 STAR --runThreadN 8 --runMode genomeGenerate --genomeDir results/STAR_index/Medtr --genomeFastaFiles data/Medicago_truncatula/genome.fa --sjdbGTFfile data/Medicago_truncatula/genes.gtf
 
-# 6.3) STAR mapping (paired-end example)
-STAR --runThreadN 8 --genomeDir results/STAR_index/Medtr --readFilesIn SRR000000_1.fastq SRR000000_2.fastq --outFileNamePrefix results/STAR_map/Medtr/ --outSAMtype BAM SortedByCoordinate
+#STAR mapping (paired-end example)
+STAR --runThreadN 8 --genomeDir results/STAR_index/Medtr --readFilesIn SRR******_1.fastq SRR******_2.fastq --outFileNamePrefix results/STAR_map/Medtr/ --outSAMtype BAM SortedByCoordinate
 
-# 6.4) Prepare GTF filtered to retained IDs
+#Prepare GTF filtered to retained IDs
 grep "^>" results/SPADA/Medtr.full.checked.fasta | sed 's/>//' > results/SPADA/Medtr_kept_ids.txt
 awk -F '"' 'NR==FNR { ids[$1]=1; next } ids[$2]' results/SPADA/Medtr_kept_ids.txt data/Medicago_truncatula/genes.gtf > results/SPADA/Medtr_kept.gtf
 
-# 6.5) Count reads on transcripts (htseq-count)
+#Count reads on transcripts (htseq-count)
 htseq-count --format=bam --order=pos --stranded=yes --idattr=transcript_id --mode=union results/STAR_map/Medtr/Aligned.sortedByCoord.out.bam results/SPADA/Medtr_kept.gtf > results/SPADA/Medtr_counts_htseq.txt
 
-# 6.6) Remove unexpressed candidates and keep expressed NCRs
+#Remove unexpressed candidates and keep expressed NCRs
 awk -F '\t' '$2 == 0' results/SPADA/Medtr_counts_htseq.txt | awk '{print $1}' > results/SPADA/Medtr_counts_zero_ids.txt
 python3 NCR_detection/Exclude_ids.py results/SPADA/Medtr_counts_zero_ids.txt results/SPADA/Medtr.full.checked.fasta results/SPADA/Medtr.full.checked_RNA.fasta
 python3 NCR_detection/Exclude_ids.py results/SPADA/Medtr_counts_zero_ids.txt results/SPADA/Medtr.mature.checked.fasta results/SPADA/Medtr.mature.checked_RNA.fasta
 
-# 7) Motif-based classification
-# 7.1) For IRLC species: exclude defensin-like (>=8 Cys) from annotation set
+#Motif-based classification
+#For IRLC species: exclude defensin-like (>=8 Cys) from annotation set
 python3 NCR_detection/NCR_final_check2.py -i results/SPADA/Medtr.mature.checked_RNA.fasta > results/SPADA/Medtr_mature.motif_check.txt
 grep "crp\|cluster" results/SPADA/Medtr_mature.motif_check.txt > results/SPADA/Medtr_mature.motif_rm_ids.txt
 python3 NCR_detection/Exclude_ids.py results/SPADA/Medtr_mature.motif_rm_ids.txt results/SPADA/Medtr.mature.checked_RNA.fasta results/SPADA/Medtr.mature.checked_RNA_motif.fasta
 python3 NCR_detection/Exclude_ids.py results/SPADA/Medtr_mature.motif_rm_ids.txt results/SPADA/Medtr.full.checked_RNA.fasta results/SPADA/Medtr.full.checked_RNA_motif.fasta
 
-# 7.2) Optional motif reporting (NCR_motif.py; edit if needed)
+#Optional motif reporting (NCR_motif.py)
 python3 NCR_detection/NCR_motif.py -i results/SPADA/Medtr.mature.checked_RNA.fasta
 
-# 8) Compute pI values (R package pIR) on a table of IDs and sequences (edit pI.R as needed)
+#Compute pI values (R package pIR) on a table of IDs and sequences (edit pI.R as needed)
 Rscript NCR_detection/pI.R
 
-# 9) Classify CRP-found sequences via hmmsearch against our cluster profiles and merge
-# 9.1) Prepare CRP sequences (unclassified) and search with hmmsearch per cluster
+#Classify CRP-found sequences via hmmsearch against our cluster profiles and merge
+#Prepare CRP sequences (unclassified) and search with hmmsearch per cluster
 awk '/^>/{print $0; next} !/^>/{print}' results/SPADA/Medtr.mature.checked_RNA.fasta > results/SPADA/Medtr_mature_clean.fasta
 mkdir -p results/ALL/profiles_mature results/ALL/hmmsearch_by_cluster
 cat results/IRLC/profiles_mature/*.hmm results/DAL/profiles_mature/*.hmm > results/ALL/profiles_mature/all_clusters.hmm
@@ -111,12 +111,12 @@ hmmpress results/ALL/profiles_mature/all_clusters.hmm
 for hmm in results/IRLC/profiles_mature/*.hmm results/DAL/profiles_mature/*.hmm; do bn=$(basename "$hmm" .hmm); hmmsearch --cpu 8 --tblout results/ALL/hmmsearch_by_cluster/${bn}.tbl "$hmm" results/SPADA/Medtr_mature_clean.fasta; done
 cat results/ALL/hmmsearch_by_cluster/*.tbl | grep -v '^#' > results/ALL/hmmsearch_by_cluster/all.tbl
 
-# 9.3) Keep best hit per sequence across clusters and annotate FASTA headers with best cluster
+#Keep best hit per sequence across clusters and annotate FASTA headers with best cluster
 perl -ane '$key=$F[0];$eval=$F[4];$cluster=$F[2];if(!exists $data{$key}||$eval<$data{$key}[1]){$data{$key}=[$F[1],$eval,$cluster]} END {foreach $key (sort keys %data){print "$key $data{$key}[0] $data{$key}[2]\n";}}' results/ALL/hmmsearch_by_cluster/all.tbl | sed 's/ -//' > results/SPADA/Medtr_CRPs_best_hits.txt
 awk 'BEGIN{while(getline<"results/SPADA/Medtr_CRPs_best_hits.txt"){a[$1]=$2}} /^>/{print $0" "a[substr($1,2)]}!/^>/{print}' < results/SPADA/Medtr_mature_clean.fasta | sed 's/\s/\|/' > results/SPADA/Medtr_mature_crps_classified.fasta
 perl -ne 'if (/^>/) { ($id) = $_ =~ /^(>\S+)/; $found = 0; if ($id =~ /Cluster/) { $found = 1; print; } } elsif ($found) { print; }' results/SPADA/Medtr_mature_crps_classified.fasta > results/SPADA/Medtr_mature_crps_classified_clusters.fasta
 
-# 9.5) Split classified CRP sequences per cluster for downstream per-cluster handling
+#Split classified CRP sequences per cluster for downstream per-cluster handling
 mkdir -p results/SPADA/Medtr_CRPs_classified_by_cluster
 seqkit split --by-id --id-regexp "(Cluster_[0-9]+)" results/SPADA/Medtr_mature_crps_classified_clusters.fasta -O results/SPADA/Medtr_CRPs_classified_by_cluster
 
@@ -126,7 +126,7 @@ cut -d' ' -f1 results/SPADA/Medtr_CRPs_best_hits.txt | sort -u > results/SPADA/M
 comm -23 results/SPADA/Medtr_all_ids.txt results/SPADA/Medtr_hit_ids.txt > results/SPADA/Medtr_nohit_ids.txt
 awk 'NR==FNR{no[$1]=1; next} /^>/{h=$0; sub(/^>/,"",h); id=h; if(id in no){print ">"$0"|CladeSpecific"} else {print}} !/^>/{print}' results/SPADA/Medtr_nohit_ids.txt results/SPADA/Medtr_mature_clean.fasta > results/SPADA/Medtr_mature_clade_specific_annot.fasta
 
-# Filter clade-specific sequences by NCR criteria and keep as singletons
+#Filter clade-specific sequences by NCR criteria and keep as singletons
 python3 NCR_detection/NCR_final_check.py -i results/SPADA/Medtr_mature_clade_specific_annot.fasta > results/SPADA/Medtr_clade_specific_check.txt
 grep -v "please check" results/SPADA/Medtr_clade_specific_check.txt | sed '/^$/d' > results/SPADA/Medtr_clade_specific_fail_ids.txt
 python3 NCR_detection/Exclude_ids.py results/SPADA/Medtr_clade_specific_fail_ids.txt results/SPADA/Medtr_mature_clade_specific_annot.fasta results/SPADA/Medtr_clade_specific_pass.fasta
