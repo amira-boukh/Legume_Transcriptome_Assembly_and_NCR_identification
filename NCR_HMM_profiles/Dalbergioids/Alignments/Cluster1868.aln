@@ -1,0 +1,16 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+ArHy|AhNCR26                                                  MAKSTLSHIFSLVLLILAISIRNQVARAADTACQEIWTDLKGCTSVGYLPCKLECIRKYG
+arahy.Tifrunner.gnm2.ann1.HW25RM.1_NCR5                       MAKSTLSHIFSLVLLILAISIRNQVARAANTACVESWSDLKGCTSVGYLPCKQECIRKYG
+ArHy|AhNCR43                                                  --------MLIILFLFSAISIRNQVARAADTACQEIWTDLKGCTSVGYLPCKLECIRKYG
+AsEv|aesev.CIAT22838.gnm1.ann1.Ae02g17931.1                   MIKLTLTNIFALVFLVAVISIISD---VAGKKCGQSWYDLQ-CKDPNYNGCTKDCINKYG
+AsEv|crp0560_aesev.CIAT22838.gnm1.Ae09_05M_2|cluster1868      MKVISLV---LIVSIVLFVSIDNKGLLKTTEACDVTLYE--DCS--SIYVCNRDCQNKKG
+                                                                         :: :.  :** ..    :   *     :   *.  .   *. :* .* *
+
+ArHy|AhNCR26                                                  SG-SYGYCANISHCICVFACVPIN
+arahy.Tifrunner.gnm2.ann1.HW25RM.1_NCR5                       SA-SYGYCANISHCICVFVCVLIN
+ArHy|AhNCR43                                                  SG-SYGYCANISHCICVFACVPIN
+AsEv|aesev.CIAT22838.gnm1.ann1.Ae02g17931.1                   DSLMYGFCENL-DCICLYVCVDYR
+AsEv|crp0560_aesev.CIAT22838.gnm1.Ae09_05M_2|cluster1868      NH-ARGWCNNIQDCVCTYPC----
+                                                              .    *:* *: .*:* : *    

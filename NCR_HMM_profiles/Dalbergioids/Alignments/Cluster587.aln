@@ -1,0 +1,44 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+ArHy|AhNCR31                                                      --MAKLITIANLFSIILLASVF-LLVTIQ----VAEGEKCKQHWANYFCENADIDSDICK
+arahy.Tifrunner.gnm2.ann1.JDX2LD.1_NCR6                           --MAKLITIANLFSITLLASVF-LLVTIQ----VAEGEKCKQHWANYFCENADIDSDICK
+ArHy|AhNCR30                                                      --MA--KSMANLFSCVLLVSVFVFAVTIE----VGEGRQCHETLSNYLCERVD----LCQ
+ArHy|AhNCR23                                                      -MTNKLITMINLFSIFLLVSALSITLHQV----AEGATICRDQWEV----TNCDDFNFCR
+arahy.Tifrunner.gnm2.ann1.Q1AA10.1_NCR15                          ---MAKLTMRNLLSVFLLISGVVSMMSME----VAKGAVCEERWQS----PYCHKFDTCR
+ArHy|AhNCR29                                                      --MAKF-STTNLFLLVLLASVF--SRTIQ----VVKGAFCRVQTGNF-----CIQDNICE
+ArHy|AhNCR32                                                      ---MSKLTMITLFLLVLLFEGVLVR---------INGKYCEEQWAD-----ACIEGGVCV
+arahy.Tifrunner.gnm2.ann1.Z9LBZZ.1_NCR20                          ---MAKLTMRNLLSVFLLISAVVSMMSME----VAKGAVCEEQWQS----PYCHKFDTCR
+arahy.Tifrunner.gnm2.ann1.PV6SN2.1_NCR14                          MMTNKLIIMTNLFSIFFLVSAISITV-------TERVRICGENWLMK---TNCNNDDFCR
+arahy.Tifrunner.gnm2.ann1.LXWJ5V.1_NCR10                          MMTNKLIIMTNLFSIFFLVSAISIAV-------TERVRICGEKWLMK---TDCNNYDFCR
+AsEv|crp0560_aesev.CIAT22838.gnm1.Ae09_05M_3|cluster587           ---MK------VISLILIVSIV-LSVGIDNKGLLKSAEACDVTLY-----EDCNNIDVCN
+ArHy|crp0570_arahy.Tifrunner.gnm2.Arahy.09_002M_2|cluster587      ----------MMKLFIYLFTVF-LLVTIQ----VAEGEKCKQHWANYFCENADIDSDICK
+ArHy|cluster587_arahy.Tifrunner.gnm2.Arahy.13_031M_1              ------------MFNFTLFSVF--SRTIQ----VVKGEFCRVQTDNF-----CIQDNICE
+ArHy|cluster587_arahy.Tifrunner.gnm2.Arahy.09_022M_2              -MTNKLITKTNLFSIFLLVSAISITLHQV----AEGVTICRDQWEVT---TNCDDFNICR
+ArHy|cluster587_arahy.Tifrunner.gnm2.Arahy.03_029M_1              ------------MFNFTLFSVF--SRTIQ----VVKGAFCRVQTGNF-----CIQDNICE
+ArHy|crp0110_arahy.Tifrunner.gnm2.Arahy.19_003M_1|cluster587      ----------MMKLFIYLFTVF-LLVTIQ----VAEGEKCKQHWANYFCENADIDSDICK
+ArHy|cluster587_arahy.Tifrunner.gnm2.Arahy.19_003M_1              ---------MNEIKCVVLFTVFVFAVTIE----VGEGRECHDNFSNYLCERVD----FCQ
+ArHy|cluster587_arahy.Tifrunner.gnm2.Arahy.09_022M_1              --------MTNLFSIFFLVSAISIAV-------TERVRICGEKWLMK---TDCNNYDFCR
+ArHy|cluster587_arahy.Tifrunner.gnm2.Arahy.19_003M_2              ---MSKLTMITLFLLVLLFEGVLVR---------INGKFCEEQWTD-----ACIDGGVCV
+                                                                                   :   .                 *                  * 
+
+ArHy|AhNCR31                                                      NICKQLHPR-PGTFGYCVH----PHCVCIHKC------------
+arahy.Tifrunner.gnm2.ann1.JDX2LD.1_NCR6                           NICKQLHPR-HGTFGYCVH----PHCVCIYKC------------
+ArHy|AhNCR30                                                      SICEHLHAG-IETVGYCAY----PHCYCSYNC------------
+ArHy|AhNCR23                                                      NKCLKLHPG-PMTWSRCIDLAEAFYCICEFSC------------
+arahy.Tifrunner.gnm2.ann1.Q1AA10.1_NCR15                          PECWRNHPG-SMSFGSCEN---HHNCVCTYNC------------
+ArHy|AhNCR29                                                      EKCEKFQLG-TYALGYCGN----SFCICTYICGL----------
+ArHy|AhNCR32                                                      ELCERLHPPAPSTFAYCIP----PYCHCHYYCHQ----------
+arahy.Tifrunner.gnm2.ann1.Z9LBZZ.1_NCR20                          PECWRNHPG-SMSFGRCEN---HHNCVCTYNC------------
+arahy.Tifrunner.gnm2.ann1.PV6SN2.1_NCR14                          NKCFGLHPG-PMSWWRCID---SFNCVCQYYC------------
+arahy.Tifrunner.gnm2.ann1.LXWJ5V.1_NCR10                          EKCFGLHPG-PMSWWRCID---SFNCSGIINLWSTVDLQRVGAS
+AsEv|crp0560_aesev.CIAT22838.gnm1.Ae09_05M_3|cluster587           RVCQNKKGK--HARGWCTN---IQDCVCTYPC------------
+ArHy|crp0570_arahy.Tifrunner.gnm2.Arahy.09_002M_2|cluster587      NICKQLHPR-PGTFGYCVH----PHCVCIHKC------------
+ArHy|cluster587_arahy.Tifrunner.gnm2.Arahy.13_031M_1              QKCEKFQLG-TYALGYCAN----LFCICTYICGL----------
+ArHy|cluster587_arahy.Tifrunner.gnm2.Arahy.09_022M_2              NKCLKLHPG-PMTWPRCLDFLETFYCICEFSC------------
+ArHy|cluster587_arahy.Tifrunner.gnm2.Arahy.03_029M_1              EKCEKFQLG-TYALGYCGN----SFCICTYICGL----------
+ArHy|crp0110_arahy.Tifrunner.gnm2.Arahy.19_003M_1|cluster587      NICKQLHPR-HGTFGYCVH----PHCVCIYKC------------
+ArHy|cluster587_arahy.Tifrunner.gnm2.Arahy.19_003M_1              SICENLHGG-IGTVGYCAY----PHCYCSYQC------------
+ArHy|cluster587_arahy.Tifrunner.gnm2.Arahy.09_022M_1              EKCFGLHPG-PMSWWRCID---SFNCVCQYYC------------
+ArHy|cluster587_arahy.Tifrunner.gnm2.Arahy.19_003M_2              ELCERLHPPVSSTFAYCIP----PYCHCHYYCHQ----------
+                                                                    *   :     :   *        *                  

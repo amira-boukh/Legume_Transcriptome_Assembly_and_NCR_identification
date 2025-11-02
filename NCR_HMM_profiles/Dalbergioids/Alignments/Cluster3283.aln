@@ -1,0 +1,22 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+ArHy|AhNCR41                                               MAKLTIAKKLFLLLLVSGVLMTIQVIGDKRCEDVWYD-----------ESCKDGNS-YYC
+ArHy|AhNCR50                                               MAKLTIAKKLFLLLLVSGVLMTIQVIGDKRCEDVWYD-----------ESCKDGNS-YYC
+AsEv|aesev.CIAT22838.gnm1.ann1.Ae09g09661.1                MIKLTLANILSLILMVSVILMTSEVVRDQMCQRFWYD-----------LKCKHPNY-DDC
+AsEv|cluster3283_aesev.CIAT22838.gnm1.Ae07_05M_1           MTKLTLINFFTFVLLVT--------VSGEVCFRVWYD-----------LSCYRGNS-HRC
+ArHy|cluster3283_arahy.Tifrunner.gnm2.Arahy.19_003M_2      MAKLTIAKKLFLLLLVSGVLMTIQVIGDERCEDVWYD-----------ESCKRGNS-YYC
+ArHy|cluster3283_arahy.Tifrunner.gnm2.Arahy.19_003M_1      MTKLTSANMFLLVLLVSVVWMTSEV-GGERCQVVWYD-----------AGCDEGIYDYSC
+ArHy|cluster3283_arahy.Tifrunner.gnm2.Arahy.19_003M_4      MAKLTIAKKLFLLLLVSGVLMTTLVIGDKRCEDVWYDERTGVDYNLPDESCKDGNS-YYC
+ArHy|cluster3283_arahy.Tifrunner.gnm2.Arahy.09_002M_1      MTNFTSANIFLLVLLVSVVWMTSEV-GGERCQVVWYD-----------AGCDEGIYDYSC
+                                                           * ::*  : : ::*:*:          .: *  .***             *        *
+
+ArHy|AhNCR41                                               TLECINKYGFTAGADCRDSSCTCSHKCLS---Y--------
+ArHy|AhNCR50                                               ILECINKYGFTAGADCRDSSCTCSHKCLS---Y--------
+AsEv|aesev.CIAT22838.gnm1.ann1.Ae09g09661.1                MMECINTYDYRAYGFCKYPHCVCTY----------------
+AsEv|cluster3283_aesev.CIAT22838.gnm1.Ae07_05M_1           SVACTNKYGDLAMGRCDRGHCNCRYESEECPDYPDFGSSNY
+ArHy|cluster3283_arahy.Tifrunner.gnm2.Arahy.19_003M_2      ILKCITKYDLIARADCRDSFCTCTHKCFS---Y--------
+ArHy|cluster3283_arahy.Tifrunner.gnm2.Arahy.19_003M_1      VQECKRQYGFWAFGYCKVSLCECNYSCTS---Y--------
+ArHy|cluster3283_arahy.Tifrunner.gnm2.Arahy.19_003M_4      ILECITKYGFTAGADCRDSFCTCSHKCLS---Y--------
+ArHy|cluster3283_arahy.Tifrunner.gnm2.Arahy.09_002M_1      VQQCKRQYGFWAFGYCKVSLCECNYSCIS---Y--------
+                                                              *   *.  * . *    * * :                

@@ -1,0 +1,20 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+arahy.Tifrunner.gnm2.ann1.NIEY44.1_NCR11                   ----------MTKLILANIFLLILMTSVVLMTTSEETNKEKTTMCKEIWFDYFDCTKK--
+arahy.Tifrunner.gnm2.ann1.VAVN59.1_NCR16                   ----------MTKLILANIFLLILMTSVVLMT-SEETNKETKTMCKEIWFDYFDCTKK--
+arahy.Tifrunner.gnm2.ann1.LAVQ7I.1_NCR8                    MRELFILVRKMTKLNVANI--FSVLLVSVVLMTSHV--TEAVKLCNEMWADYFNCNKK--
+arahy.Tifrunner.gnm2.ann1.P0VRBT.1_NCR13                   MRELFILVRKMTKLNAANI--FSVLLISVVLMTSHV--TEAVKLCNEMWADYFNCNKK--
+AsEv|cluster2284_aesev.CIAT22838.gnm1.Ae07_20M_1           ---------MALK---FELYNYLFTIICVCVCLYNSENEGMVRVTEAKWCSDFTPNCQSD
+ArHy|cluster2284_arahy.Tifrunner.gnm2.Arahy.09_002M_1      ---------MFYIIKYISLFNFLFQYFAVVLMTSEETNKETKTMCKEIWFDYFDCTKK--
+ArHy|cluster2284_arahy.Tifrunner.gnm2.Arahy.09_002M_2      ----------MLYLNF--L--LIYTYFAVVLMTSHV--TEAVKLCNEMWADYFNCNKK--
+                                                                             :         * :   .        : :  * . *  . :  
+
+arahy.Tifrunner.gnm2.ann1.NIEY44.1_NCR11                   -SCQKECSD-KHDDDPHAIGECIAYPHCLCTYAC
+arahy.Tifrunner.gnm2.ann1.VAVN59.1_NCR16                   -SCQKECSDNKHDDDPHAIGECIAYPHCLCTYAC
+arahy.Tifrunner.gnm2.ann1.LAVQ7I.1_NCR8                    -SCQKECNR---KHDPYAVGHCVDYPHCLCIYAC
+arahy.Tifrunner.gnm2.ann1.P0VRBT.1_NCR13                   -NCQKECNR---KHDPYAVGVCIEYPHCLCTYAC
+AsEv|cluster2284_aesev.CIAT22838.gnm1.Ae07_20M_1           PKCNNDCKT--KHRSLEALGYCTSFGSCQCVYPC
+ArHy|cluster2284_arahy.Tifrunner.gnm2.Arahy.09_002M_1      -SCQKECSDNKHDDDPHAIGECIAYPHCLCTYAC
+ArHy|cluster2284_arahy.Tifrunner.gnm2.Arahy.09_002M_2      -NCQKECNR---KHDPYAVGVCIEYPHCLCTYAC
+                                                            .*:::*.    . .  *:* *  :  * * * *

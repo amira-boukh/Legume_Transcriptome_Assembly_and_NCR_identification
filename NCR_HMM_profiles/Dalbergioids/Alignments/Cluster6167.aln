@@ -1,0 +1,34 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+arahy.Tifrunner.gnm2.ann1.MJEV51.1_NCR21                           MAKLSLGNIFLLSLLVSSVMWMTSSDGAASSSQFITEDTTLCRYDFMFD-DDCKHHYPHR
+arahy.Tifrunner.gnm2.ann1.K5Q7XJ.1_NCR7                            MAKLSLGNIFLLSLLVSSVMWIS-SDGATSSSQFITEDTTLCRDDFMFD-QDCKNDYPNR
+ArHy|AhNCR40                                                       MANFYLGNIIFLLVLLVSVVWKASTV----------ADTDVCKDNISYDDEDCKKGLYLS
+ArHy|AhNCR49                                                       MANFYLGNIIFLLVLLVSVVWKASAV---------AADTDVCKDNISYDDEDCKKHLYLS
+ArHy|crp0830_arahy.Tifrunner.gnm2.Arahy.16_129M_1|cluster6167      ------------MIVLVLFTFVINTY---------GEEKPGCEDRFIID-GQCGKNGDID
+ArHy|crp0830_arahy.Tifrunner.gnm2.Arahy.06_098M_1|cluster6167      ---MKPRIIFFMIIVLVLFTFVINTY---------GEEKPGCEDRFIMD-GQCGKNGDID
+                                                                                :::  . :   :            :.  *.  :  *  :* :     
+
+arahy.Tifrunner.gnm2.ann1.MJEV51.1_NCR21                           CVEKCYAKYHSKLIL-GDCMKKYA--VSHVCRCTYFCKEKPSFFR-NLIKGKGKGKPEHN
+arahy.Tifrunner.gnm2.ann1.K5Q7XJ.1_NCR7                            CVGKCFAKYNSKLIL-ADCMRKYA--VSHVCRCTYFCREKPSFFR-NLIKGKGKGKPEHN
+ArHy|AhNCR40                                                       CTERCKEKYGRKYIT-GQCVRRFW--GSEICQCLYKCPPKKPFFQ-RFKDKMKKKPPLHK
+ArHy|AhNCR49                                                       CTERCKEKYGGKHIT-GQCVRRFW--GQEICQCLYQCPPKKPFFQ-RFKDKMKKKPPLHK
+ArHy|crp0830_arahy.Tifrunner.gnm2.Arahy.16_129M_1|cluster6167      CIVECVKRLGTRLITTGDCYCLDLPDNKRRCICAYDSCM---------------------
+ArHy|crp0830_arahy.Tifrunner.gnm2.Arahy.06_098M_1|cluster6167      CIVECVKRLGLRLITAGDCYCRDLPDNKRRCICAYDSCISNLGVEKMCLVRSGT------
+                                                                   *  .*  :   : *  .:*        .. * * * .                       
+
+arahy.Tifrunner.gnm2.ann1.MJEV51.1_NCR21                           ------------------------------------------------------------
+arahy.Tifrunner.gnm2.ann1.K5Q7XJ.1_NCR7                            ------------------------------------------------------------
+ArHy|AhNCR40                                                       PREIEKQKPIEGEHKQPIEGEHKQPREGEHQKPTEGEHKQPSEGERQKPTEGEGEHQKPS
+ArHy|AhNCR49                                                       PKEIEKPKPIEGEHKQPTEGEHQKPSEGEHQEPSDN------------------------
+ArHy|crp0830_arahy.Tifrunner.gnm2.Arahy.16_129M_1|cluster6167      ------------------------------------------------------------
+ArHy|crp0830_arahy.Tifrunner.gnm2.Arahy.06_098M_1|cluster6167      ------------------------------------------------------------
+                                                                                                                               
+
+arahy.Tifrunner.gnm2.ann1.MJEV51.1_NCR21                           --
+arahy.Tifrunner.gnm2.ann1.K5Q7XJ.1_NCR7                            --
+ArHy|AhNCR40                                                       DN
+ArHy|AhNCR49                                                       --
+ArHy|crp0830_arahy.Tifrunner.gnm2.Arahy.16_129M_1|cluster6167      --
+ArHy|crp0830_arahy.Tifrunner.gnm2.Arahy.06_098M_1|cluster6167      --
+                                                                     
