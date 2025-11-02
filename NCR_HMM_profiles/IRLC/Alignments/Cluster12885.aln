@@ -1,0 +1,41 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|crp1160_GJLK01001448.1_0M_1|cluster12885          ----------------------MTSFLKFVYIMVIFLSFFLIATDV--KALLK-------
+Medtr|cluster12885_MtrunA17Chr5_26M_2                    ----------------------MTGVLKFVYTMVFFLSLFLIAIDIKVEAFLR-------
+Medsat|crp1160_GJLK01057627.1_0M_1|cluster12885          ----------------------MTGVLKFVYIMVFFLSLFLIATDI--KAFLK-------
+Ps|PsNCR179                                              ----------------MQRKKNMTEILKFLYIMILFLFRTLTAN--KFNAFLK-------
+Medtr|MtNCR655                                           MNFIYHEVIKSFSIYYRQKEKNMTSFLKFVYIMVLFLSLFLIATDV--KAFLK-------
+TriPr|cluster12885_tripr.MilvusB.gnm2.scaf_904_0M_1      ----------------------MTKILMFVYVNVMVLFLFLFLTITGVSALGE-------
+TriPr|cluster12885_tripr.MilvusB.gnm2.Tp6_22M_1          MTGLGSERSWLVICNIQKKKKSMTKILKFTYVMILLLFLFLFITDVGFPDLLNRKMPTEV
+TriPr|cluster12885_tripr.MilvusB.gnm2.scaf_714_0M_1      -----------MPYFLQVNEKNMTQIHKFIYVMILFLFLFLVATYT--DAHDE-------
+TriPr|cluster12885_tripr.MilvusB.gnm2.Tp4_07M_1          ----------------MQRVENMDNFLKFVYVMIFLFSQYLVSAQY--------------
+MelOff|crp1160_GJLW01039334.1_0M_1|cluster12885          ----------------------MVQILKFVYIMIFFLFILFVATDV--NAFFK-------
+MelOff|cluster12885_GJLW01025970.1_0M_1                  ----------------------MVQINKIFDVMIIFISLFLIARNV--NAFVE-------
+                                                                               *  .  :    ::.:   :                   
+
+Medsat|crp1160_GJLK01001448.1_0M_1|cluster12885          -----------CDSDLDCPPKMCYSHLSF-VS-L-------CVDNHCDCIQ---------
+Medtr|cluster12885_MtrunA17Chr5_26M_2                    -----------CDFDLDCPPKMCYSHLYF-VP-M-------CVDNHCDC-----------
+Medsat|crp1160_GJLK01057627.1_0M_1|cluster12885          -----------CDFDLDCPPKMCYSHLYF-VP-M-------CVDNRCDCVL---------
+Ps|PsNCR179                                              -----------CDTELDCPPQMCYTFLKF-FP-K-------CVNHLCNCVRKDDL-GQ--
+Medtr|MtNCR655                                           -----------CDSDLDCPPKMCYSHLSF-VP-L-------CVDNHCDCIQWKFK-NNI-
+TriPr|cluster12885_tripr.MilvusB.gnm2.scaf_904_0M_1      ----------FCCFNGDCSSSDCDIPK---VG-T-------CIKRHCLCL----------
+TriPr|cluster12885_tripr.MilvusB.gnm2.Tp6_22M_1          TFGTILPTDDACITFLDCLHVHCLSTQ---TQ-L-------CVMNKCECTDLTVK-----
+TriPr|cluster12885_tripr.MilvusB.gnm2.scaf_714_0M_1      -----------CNSDDDCKKSICLFPF-V-YN-K-------CIDNICVCAGVKHL-IV--
+TriPr|cluster12885_tripr.MilvusB.gnm2.Tp4_07M_1          -----LPRAKPCVRNRDCPTCLYPAKRRERKDYMVSYDP--LITVMCNMSL------LPQ
+MelOff|crp1160_GJLW01039334.1_0M_1|cluster12885          -----------CDYDTDCPPKMCYNHLKF-VA-M-------CVDNKCDCIQWKDL-GPIT
+MelOff|cluster12885_GJLW01025970.1_0M_1                  -----------CYYDIDCPMSAADGGALHSIG-RATASPIRVIKRQC--GRLLHFLFMFY
+                                                                    *    **                        :   *             
+
+Medsat|crp1160_GJLK01001448.1_0M_1|cluster12885          ---------------------------------------
+Medtr|cluster12885_MtrunA17Chr5_26M_2                    ---------------------------------------
+Medsat|crp1160_GJLK01057627.1_0M_1|cluster12885          ---------------------------------------
+Ps|PsNCR179                                              ---------------------------------------
+Medtr|MtNCR655                                           PKAFP----------------------------------
+TriPr|cluster12885_tripr.MilvusB.gnm2.scaf_904_0M_1      ---------------------------------------
+TriPr|cluster12885_tripr.MilvusB.gnm2.Tp6_22M_1          ---------------------------------------
+TriPr|cluster12885_tripr.MilvusB.gnm2.scaf_714_0M_1      ---------------------------------------
+TriPr|cluster12885_tripr.MilvusB.gnm2.Tp4_07M_1          SEDLGAYGIYVDPLRK-----------------------
+MelOff|crp1160_GJLW01039334.1_0M_1|cluster12885          PNDFP----------------------------------
+MelOff|cluster12885_GJLW01025970.1_0M_1                  ASDLGCLLLFVTVLHRRVEMLWKLVVFALSRIVIINLEV
+                                                                                                

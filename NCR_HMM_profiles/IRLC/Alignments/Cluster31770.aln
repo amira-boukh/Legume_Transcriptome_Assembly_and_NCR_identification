@@ -1,0 +1,20 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|crp1230_GJLK01035673.1_0M_1|cluster31770                          MAKILMLFYVIILFHSIFLVASNLD-----------------------------------
+Medsa|MsatMercedes_NRG001046g01776561_NCR                                MATIFKIVYAMILFLSLFLVAINV------------------------------------
+Medtr|MtNCR379                                                           MATILKIVYAMILFISLFLVAMNV------------------------------------
+Medsa|MsatMercedes_NRG000356g01036951_NCR                                MATIFKIVYAIILFLSLFFVAMNV------------------------------------
+MelOff|crp1430_GJLW01011583.1_0M_1=cluster31770_GJLW01011583.1_0M_1      -----MCVYAKVVFISLFVVAMNVDGYQCLPSIQHVCRFIDGSL----------------
+MelOff|crp1440_GJLW01018324.1_0M_1|cluster31770                          MAKTLKCFYATLLFLFLFLVAKEVGATPLY------------------------------
+MelOff|cluster31770_GJLW01004571.1_0M_1                                  MYTIFKIVYPMILFIFLFFVAMNVDGEPVFYPFQILFFTLQDTHNRLYNCINIILFSFII
+                                                                                .*  ::*  :*.** ::                                    
+
+Medsat|crp1230_GJLK01035673.1_0M_1|cluster31770                          THIDECSTDADCEPIL----CMFPIIKMCIQN-QCKCVPT-----
+Medsa|MsatMercedes_NRG001046g01776561_NCR                                DAYVECETDADCPEIM----CKWPYIVQCYQN-VCICVHHTNPYI
+Medtr|MtNCR379                                                           DAYVECETDADCQPNM----CKWPFIVQCYKN-VCICVHHTNPYL
+Medsa|MsatMercedes_NRG000356g01036951_NCR                                DAYVECETDADCLEIM----CKWPYIVQCYQN-VCICVHHTNPYI
+MelOff|crp1430_GJLW01011583.1_0M_1=cluster31770_GJLW01011583.1_0M_1      --------------------KERGFL-----VGLCSCI-------
+MelOff|crp1440_GJLW01018324.1_0M_1|cluster31770                          -PIHKCTTDADCAQFLETSLTWFTFSYECYKKVCILNFEGQ----
+MelOff|cluster31770_GJLW01004571.1_0M_1                                  TAYVECETDADCQPNM----CKWPFIVQCYKNVLCICVHHMNPYL
+                                                                                                              .       

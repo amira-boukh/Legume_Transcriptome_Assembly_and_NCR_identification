@@ -1,0 +1,24 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Ps|PsNCR337                                                 MVQIMKFVYLIFLFISFFLVVQGGIIPEKTHKKCEKDIHCPRSSCPPYL-YAKCV-RFRC
+Ps|PsNCR301                                                 MVKIMKFVYLIILFISLYLVV-----PAMTQQRCKKDSHCPASLCDHPL-HAKCI-FFKC
+Ps|PsNCR182                                                 MVKIIIFVYLMILFFSLCLVVTN--ISAMAPPKCKEASDCPYFFCLSPF-LVKCI-FDQC
+Ps|PsNCR233                                                 MVETLKFVYLMILFVYIFLIIIN--VTALMRAVCEQDSDCPRNYCRNSH-VTKCI-YFQC
+Ps|PsNCR173                                                 MAEIVKFSYLTIQIIFLVVVVTN--INAYTWPTCKKDSECPPLFCLPPQ-YAKCL-FYKC
+Medtr|MtNCR582                                              MTKIIKFVHVMVLFILLFFVVTN---VNGKWPSCKEAIDCGENFCISRF-RVKCW-RFKC
+Medsa|MsatMercedes_NRG000651g01440181_NCR                   MTKIIKFVHVMILFILLFFVVTN---VNGKWPSCKEAYDCGENFCTSRF-RVKCW-RFKC
+Medtr|cluster4255_MtrunA17Chr7_30M_1                        MGTIHKFLYAMILFIHITLVVSGN--FFEFFHKCTQDSDCPSLLCRNKSELPKCIAGFMC
+TriPr|crp1160_tripr.MilvusB.gnm2.Tp7_28M_1|cluster4255      MSQIIKFVYFTILFISLLLVVTH--VDAQSSPDCEKDSDCPPLLCPDSY-VAKCI-AFMC
+                                                            *     * :  . :. : .::            * :  .*    *       **     *
+
+Ps|PsNCR337                                                 YCR-----
+Ps|PsNCR301                                                 YCR-----
+Ps|PsNCR182                                                 YCRP----
+Ps|PsNCR233                                                 YCRH----
+Ps|PsNCR173                                                 YCQDPIMQ
+Medtr|MtNCR582                                              FCIL----
+Medsa|MsatMercedes_NRG000651g01440181_NCR                   FCIL----
+Medtr|cluster4255_MtrunA17Chr7_30M_1                        RCPNV---
+TriPr|crp1160_tripr.MilvusB.gnm2.Tp7_28M_1|cluster4255      ICLSFSQ-
+                                                             *      

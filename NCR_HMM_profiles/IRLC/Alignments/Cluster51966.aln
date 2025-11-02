@@ -1,0 +1,20 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG000095g00433271_NCR                                MIINSGNFFTSTQALELFTIFKVRMSFISHKVIKPYSISYKNREESMTKFFTFVYVIIIF
+Medtr|MtNCR774                                                           MIINLEFFFTSPQALELFTIFKVRMSFISHKVIKSYSISYKNMEESMIKIVKFDYAIIIF
+MelOff|cluster51966_GJLW01006951.1_0M_1                                  ----------------------------------------MQREESMTKIVKFIDVMIIF
+MelOff|crp1170_GJLW01020843.1_0M_1=cluster51966_GJLW01020843.1_0M_1      ----------------------------------------------MTKIVKFIDVMIIF
+                                                                                                                       * *:..*  .:***
+
+Medsa|MsatMercedes_NRG000095g00433271_NCR                                ISLLVVAMDVD----------------------------AGPIRICSDDDDCIGYWCPLS
+Medtr|MtNCR774                                                           ISLLVVAMDVD----------------------------AGPIRICSSDDDCIGYWCPLS
+MelOff|cluster51966_GJLW01006951.1_0M_1                                  ISLFVVAMNVEAQRFVYVMIIFISLFVVAMNVDAQRVRHLRPIRFCYHENGCLGYQCPPS
+MelOff|crp1170_GJLW01020843.1_0M_1=cluster51966_GJLW01020843.1_0M_1      ISLFVVAMNVEGL-------------------------PICPIRICYHNKDCEGYRYPPS
+                                                                         ***:****:*:                              ***:*  :..* **  * *
+
+Medsa|MsatMercedes_NRG000095g00433271_NCR                                IQPRSTKPICRLVEGVSKRSRAPVGLCTCI
+Medtr|MtNCR774                                                           IQPRSTKPICRLVESISKRSRTPVGLCTCI
+MelOff|cluster51966_GJLW01006951.1_0M_1                                  IQP-----VCRF------------------
+MelOff|crp1170_GJLW01020843.1_0M_1=cluster51966_GJLW01020843.1_0M_1      IQP-----KCRKFGGIKTR-EPQVGLCSCI
+                                                                         ***      **                   

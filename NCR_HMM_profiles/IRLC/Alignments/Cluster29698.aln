@@ -1,0 +1,48 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|cluster29698_GJLK01035743.1_0M_2                                  ----------------------MTKTLKFIHVMILFLSLFLVAESHFD--------GTPC
+Medsat|cluster29698_GJLK01006435.1_0M_2                                  ----------------------MTKTLKFIYIMILFLFLFLVAESIFT--------GIPC
+Medtr|cluster29698_MtrunA17Chr4_02M_1                                    ----------------------MTKTFKFIHVMILFLSLFFVAESFFV--------DTPC
+Medsat|cluster29698_GJLK01006435.1_0M_3                                  ----------------------MTKTLKFIHVMILFLSLFLVAESFFA--------GIPC
+Medsat|cluster29698_GJLK01022613.1_0M_1                                  ----------------------MTKTLKFIHIMILFLSLFLVAE--------------TC
+Medsat|crp1500_GJLK01035743.1_0M_3|cluster29698                          ----------------------MTKTLKFIHVMILFLSLFLVAESFFA--------GIPC
+Medtr|cluster29698_MtrunA17Chr3_33M_2                                    MRFIHYKGIKSYFICYMQMEKNMTKTLKFIYVMILFLSLFLVAESFFV--------DIMC
+Medtr|MtNCR084                                                           ----------------------MTKTLKFICIMILFLSLFLVAESFAT--------GMPC
+Medsat|crp1500_GJLK01022613.1_0M_1|cluster29698                          ----------------------MTKTLKFIHIMILFLSLFLVAE------------NIPC
+Medtr|crp1500_MtrunA17Chr3_33M_8|cluster29698                            ----------------------MTKIFKFIHAMILFLSLFLVAESYFA--------DILC
+Medsa|MsatMercedes_NRG000785g01571351_NCR_NCR                            ----------------------MTKSLKFIYIMILFLSLFLVAESFAT--------GMPC
+Medsat|cluster29698_GJLK01024860.1_0M_1                                  ----------------------MTKSLKFIYIMILFLSLFLVAESFAT--------GIPC
+Medsat|cluster29698_GJLK01020947.1_0M_1                                  ----------------------MTKTLKFIHVMILFLSLFLVTESFTTGFF----EGTPC
+Medtr|MtNCR-new25                                                        ----------------------MTKTLKFICIMILFLSLFLVAESFAT--------GMPC
+Medsa|MsatMercedes_NRG000832g01614111_NCR_NCR                            ----------------------MTKSLKFIYIMILFLSLFLVAESFAT--------GMPC
+Medsat|cluster29698_GJLK01002534.1_0M_1                                  ----------------------MTKIFKFIDVIILFLSLFLVAESYFA--------DILC
+Medsat|cluster29698_GJLK01075299.1_0M_1                                  ----------------------MAKTLKFAYAIILFLSLFLVAESYFT--------DDLC
+Medsat|cluster29698_GJLK01035743.1_0M_1                                  ----------------------MTKTLKFIHVMILFLSLFLVAESHFD--------GTPC
+TriPr|cluster29698_tripr.MilvusB.gnm2.Tp3_28M_1                          ----------------------MAKILKFVYVMILSFFLFLVAKRVDCGYTNLIKKPVPC
+MelOff|crp1500_GJLW01020476.1_0M_1=cluster29698_GJLW01020476.1_0M_1      ----------------------MAKTLKFAYAIILFLSLFLVAKSYFT--------DDLC
+AsSin|AsNCR105|cluster29698                                              ----------------------MVVILKFVYVIVIFVSLFFMTITVN---------AIRC
+                                                                                               *.  :**   ::: . **:::                *
+
+Medsat|cluster29698_GJLK01035743.1_0M_2                                  KIDEDCPQFPRP------WSQVVKYYCIADQCFYYV-----------
+Medsat|cluster29698_GJLK01006435.1_0M_2                                  KIDEDCPQLPRPGS-----SKSINYYCFADQCFCY------------
+Medtr|cluster29698_MtrunA17Chr4_02M_1                                    KIDEDCPQFQRP------WSQIVKYYCIADQCFYYI-----------
+Medsat|cluster29698_GJLK01006435.1_0M_3                                  KIDEDCPQLPRPGS-----SKSINYYCFADQCFCY------------
+Medsat|cluster29698_GJLK01022613.1_0M_1                                  ETSEECPN-----------TATVKYACMNKLCYCYDNNWPNGMNPFE
+Medsat|crp1500_GJLK01035743.1_0M_3|cluster29698                          KIDEDCPQFQRPLKPPQWWAQLVKYYCFAD-----------------
+Medtr|cluster29698_MtrunA17Chr3_33M_2                                    KVHEDCPQ---------------------------------------
+Medtr|MtNCR084                                                           KTDKECPN-----------TSTHKYKCINDDCFCFYIYWPLGNSLV-
+Medsat|crp1500_GJLK01022613.1_0M_1|cluster29698                          ETSEECPN-----------TATVKYACMNKLCYCYDNNWPNGMNP--
+Medtr|crp1500_MtrunA17Chr3_33M_8|cluster29698                            KVHEDCPQ-----------KSTHKYYCIDDECFLYYWEAP-------
+Medsa|MsatMercedes_NRG000785g01571351_NCR_NCR                            KTDKECPN-----------TSTHKYKCIKDDCFCYYIHWPLGNSLI-
+Medsat|cluster29698_GJLK01024860.1_0M_1                                  KTDKECPN-----------TSIHKYKCFRDGCFCYETNYEN------
+Medsat|cluster29698_GJLK01020947.1_0M_1                                  KTPAECPQ-----------SLTHKYICLNEECFCYSI----------
+Medtr|MtNCR-new25                                                        KTDKECPN-----------TSTHKYKCINDDCFCFYIYWPLGNSLV-
+Medsa|MsatMercedes_NRG000832g01614111_NCR_NCR                            KTDKECPN-----------TSTHKYKCIKDDCFCYYIHWPLGNSLI-
+Medsat|cluster29698_GJLK01002534.1_0M_1                                  KVHEDCPQ-----------KSTHKYYCIDDECFLYYWETP-------
+Medsat|cluster29698_GJLK01075299.1_0M_1                                  KVDVDCPQ-----------SSTHNYYCVDDKCFLYRWGKLE------
+Medsat|cluster29698_GJLK01035743.1_0M_1                                  KIDEDCPQYPRP------WSQYVKYYCIADQCFYYT-----------
+TriPr|cluster29698_tripr.MilvusB.gnm2.Tp3_28M_1                          NTRDDCPQ-----------IWTRKYHCINNECVVYSISTIRL-----
+MelOff|crp1500_GJLW01020476.1_0M_1=cluster29698_GJLW01020476.1_0M_1      KVDVDCPQ-----------SSTHNYYCVDDKCFLYRWGKLE------
+AsSin|AsNCR105|cluster29698                                              KDDAECEESIP--APSG-----WKSKCIDGNCFHRPIYAPLP-----
+                                                                         :   :* :                                       

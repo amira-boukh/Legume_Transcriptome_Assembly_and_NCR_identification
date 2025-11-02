@@ -1,0 +1,22 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG001419g01971931_NCR         ------MALLLKFLYALIIFISLLFVVTNGA----------QFLCGNDSECPRDLCVRNS
+Medtr|MtNCR072                                    ------MTLLLKFLYALIIFISLLFVVTNGA----------QFLCSDDSDCPRDLCVRNS
+Ps|PsNCR44                                        MNKRKNMALTLKFVNVMIIFISLFLIVTNSTQFPSA-----QFPCNDDDDCTRDMCMRNS
+Ps|PsNCR62                                        ------MALIPKFIYIIITFIYLFFMVINGIQFPSA-----QFPCNDASDCPRDLCIRNS
+Ps|PsNCR11                                        MQRRKIMVSIFKFLYALVIFISLFLVLSNSTQFPLTRSRSPQFQCSDDNDCPWDMCLHIS
+Medsa|MsatMercedes_NRG000908g01677551_NCR         ------MALILKFPYAFIIFISLLFVVTNGA----------QFLCGDDSDCPRDLCVRNS
+Ps|PsNCR58                                        ------MVSSFKLFYALVILISLFMVLTNRTRFPLNP-----LRCIEDDDCPWDMCLHTN
+Medtr|crp1160_MtrunA17Chr2_32M_1|cluster3649      ------MAEIHNFISIMIFCLLIFIIGIKG-----------EFYCLSIKDCPQNLCVGSP
+                                                        *.   ::   ::  : ::::  :             : * . .:*  ::*:   
+
+Medsa|MsatMercedes_NRG001419g01971931_NCR         LTVRCVNYICQCR---
+Medtr|MtNCR072                                    LTLRCVNYICQCR---
+Ps|PsNCR44                                        LTPKCIKYTCECM---
+Ps|PsNCR62                                        LTIKCVNYTCECV---
+Ps|PsNCR11                                        LDPMCISDACECLIDF
+Medsa|MsatMercedes_NRG000908g01677551_NCR         LTMRCVNYICQCR---
+Ps|PsNCR58                                        LDRICINDACFCG---
+Medtr|crp1160_MtrunA17Chr2_32M_1|cluster3649      LPLQCLKFICRCESI-
+                                                  *   *:.  * *    

@@ -1,0 +1,48 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medtr|crp1230_MtrunA17Chr2_19M_1|cluster22309                            --------MAKLTKFFYVMIHFISLLLITTNVHAY-DDCYNHAECKTKIKCVLPRIAECV
+Medsat|cluster22309_GJLK01036292.1_0M_1                                  ------------MKLFYLLIHFISLFLV-RNVHAF-YDCHNHDDCKNKIKCVLPRIAECR
+Medsat|crp1230_GJLK01027209.1_0M_1|cluster22309                          --------MAKLMMFFYVLIHFFVLVSCQRRRRS--TECGNDSDCEKMVKCVLPRIPRCM
+Medsat|crp1230_GJLK01032656.1_0M_1|cluster22309                          --------MAKLMKFFYVMIHFISLLLITTNVHAY-DDCYNHAECTNKIKCVLPRIAQCA
+Medsa|MsatMercedes_NRG000171g00653111_NCR                                --------MGKLMKFIYVIVHFLSLFLVVMNVEAH-FQCHIDTECENQIKCVLPRVAKCV
+Medsat|cluster22309_GJLK01002295.1_0M_1                                  MSFNKYVDTLKLMKFFYVMIHFISLLLITTNVHAY-DDCYNHAECTNKIKCVLPRIAQCV
+Medtr|MtNCR575                                                           --MQGGEYMDKRLKFVYVIVHFLALFLAVMNVEAH-FQCHIDSECENQIKCVLPRVAKCV
+Medtr|crp1230_MtrunA17Chr2_19M_2|cluster22309                            --------MAKLMKLFYVMIHFISLLLITTNVRAY-DDCYNHTECTNKIKCVPPRIAQCF
+Medsa|MsatMercedes_NRG000093g00426121_NCR                                --------MGKLMKFIYVIVHFLSLFLVVMNVEAH-FQCHIDSECENQIKCVLPRVTKCV
+Medsa|MsatMercedes_NRG000347g01022241_NCR_NCR                            --------MGKLMKFIYVIVHFLSLFLVVMNVEAH-FQCHIDTECENQIKCVLPRVAKCV
+Medtr|crp1430_MtrunA17Chr5_25M_2|cluster22309                            --------MAKLMMFFYVMIYFFVLVACQKRRRS--TECRNDSDCEKMVKCVLPRIARCI
+TriPr|crp1130_tripr.MilvusB.gnm2.Tp2_01M_1|cluster22309                  --------MAKLMTFIYVMICFLSLFLV---------DCINDSECID-VKCKPPRIPRCT
+MelOff|crp1230_GJLW01009451.1_0M_1|cluster22309                          --------MAKLMKLVFFTIHFLSLFLVAMSVGSI-YDCHNDSECQNKIKCQLPWIPRCI
+MelOff|crp1230_GJLW01028851.1_0M_1=cluster22309_GJLW01028851.1_0M_1      --------MAKLI-KFYVMFYFISLFLITTNVHAYQDDCYNHAQCTNKIKCVLPRIAQCV
+MelOff|crp1230_GJLW01061937.1_0M_1|cluster22309                          ------------MKFVYVMIYFLSLFLVAKA---K-VHCHVDSDCEKQIKCVLPRVPRCI
+MelOff|crp1230_GJLW01000226.1_0M_1|cluster22309                          --------MAKLMKFVYVIVYFLSIFLFVLNVDAH-FQCHIDSECGNQIKCVLPRIAKCV
+MelOff|crp1500_GJLW01034881.1_0M_1|cluster22309                          --------MAKLMKFAYLVILFLSLFLVAKG--AF-VECLVDSVCENQIKCVFPRVPRCI
+MelOff|crp1230_GJLW01027766.1_0M_1|cluster22309                          --------MAKLMKIVYAMIHFFSLYLVAMNVDAI-IECYNDSECQ--IKCVPPKVPQCI
+MelOff|crp1230_GJLW01025799.1_0M_1=cluster22309_GJLW01025799.1_0M_1      --------MAKLMKFAYLVILFLSLFLVAKG--AF-VECLVDSVCENQIKCVFPRVPRCI
+MelOff|crp1230_GJLW01019701.1_0M_1|cluster22309                          --------MAKFMKFVYVTINFLSLFLIAMNDAAY-FECRNDSDCK--LKCMLPRIPQCN
+MelOff|crp1500_GJLW01010646.1_0M_1|cluster22309                          --------MAKLMKFAYLVILFLSLFLVAKG--GY-LECKVDVDCVPRIKCLLPKVPLCI
+                                                                                         :  . *: :            .*  .  *   :**  * :  * 
+
+Medtr|crp1230_MtrunA17Chr2_19M_1|cluster22309                            -RFKCDCVRL--------------------------
+Medsat|cluster22309_GJLK01036292.1_0M_1                                  -DNRCNCFPLHLPKT---------------------
+Medsat|crp1230_GJLK01027209.1_0M_1|cluster22309                          -NYRCQCRNFL-------------------------
+Medsat|crp1230_GJLK01032656.1_0M_1|cluster22309                          -RNVATIDVI--------------------------
+Medsa|MsatMercedes_NRG000171g00653111_NCR                                -RYKCDCVRFDAKEDPWSARTKRIDKYHAMKNDLSD
+Medsat|cluster22309_GJLK01002295.1_0M_1                                  -Q----------------------------------
+Medtr|MtNCR575                                                           -RYKCDCVRFDAEQDPWSART---------------
+Medtr|crp1230_MtrunA17Chr2_19M_2|cluster22309                            -RFKCDCIRL--------------------------
+Medsa|MsatMercedes_NRG000093g00426121_NCR                                -RYKCDCVRFDAKEDPWSARTKRIDKYHAMKNDLSD
+Medsa|MsatMercedes_NRG000347g01022241_NCR_NCR                            -RYKCDCVRFDAKEDPWSARTKRIDKYHAMKNDLSD
+Medtr|crp1430_MtrunA17Chr5_25M_2|cluster22309                            -KYRCQCRNFL-------------------------
+TriPr|crp1130_tripr.MilvusB.gnm2.Tp2_01M_1|cluster22309                  DSHRCNCLLPFVPKVPWSTRLKTVHKYHIGKNDFLH
+MelOff|crp1230_GJLW01009451.1_0M_1|cluster22309                          -KYKCHCIHLNAPLTP--------------------
+MelOff|crp1230_GJLW01028851.1_0M_1=cluster22309_GJLW01028851.1_0M_1      -RYQCDCIRLNVPKTPWSARPK--------------
+MelOff|crp1230_GJLW01061937.1_0M_1|cluster22309                          -DFRCLCGSSDRNKY---------------------
+MelOff|crp1230_GJLW01000226.1_0M_1|cluster22309                          -RYKCDCVRFDAPQDP--------------------
+MelOff|crp1500_GJLW01034881.1_0M_1|cluster22309                          -KFQCICSS-NDPK----------------------
+MelOff|crp1230_GJLW01027766.1_0M_1|cluster22309                          -KYKCNCVLPYSPTNIWSTKSKILHIYHRGKNDFLD
+MelOff|crp1230_GJLW01025799.1_0M_1=cluster22309_GJLW01025799.1_0M_1      -KFQCICSS-NDPKNRWSTRPNRIQKFSTVKNDFLH
+MelOff|crp1230_GJLW01019701.1_0M_1|cluster22309                          DNYQCLCNFPNGYKRIWSVRPKRIDG----------
+MelOff|crp1500_GJLW01010646.1_0M_1|cluster22309                          -EHRCRCHNASDPNNRSSTRPKRIQKFHL-------
+                                                                                                             

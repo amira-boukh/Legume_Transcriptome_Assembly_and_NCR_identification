@@ -1,0 +1,20 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|crp1470_GJLK01014526.1_0M_1|cluster16241      ------MAQILFYVYALIILFSPFLV----------------------------------
+Medtr|MtNCR318                                       MQMRKNMAQILFYVYALLILFTPFLV----------------------------------
+Medtr|MtNCR118                                       MQMRKNMAQILFYVYALLILFSPFLV----------------------------------
+Medsat|crp1470_GJLK01014526.1_0M_2|cluster16241      ------MAQILFYVYALIILFPPFLV----------------------------------
+AsSin|AsNCR092|cluster16241                          --MAKS----LKCISTLFLFFFLFFHLNNGYLFSKNNLTFGGEDVEDRRRRRRRPLRESV
+AsSin|AsNCR115|cluster16241                          --MAKS----LKCISAFFLFFILYLQLTNG------------------------------
+AsSin|AsNCR120|cluster16241                          --MAKN----LKLISTLILFSFLFLYLTT-YRFSKYNSIRRDEDEDVDVKGNKKIKKKY-
+                                                               *  : :::::   ::                                   
+
+Medsat|crp1470_GJLK01014526.1_0M_1|cluster16241      ARIVVFNPNNPCVTDADCQRYRHELAIRMI-CN---QGFCLMDF----------
+Medtr|MtNCR318                                       ARIMVVNPNNPCVTDADCQRYRHKLATRMI-CN---QGFCLMDFTHDPYAPSLP
+Medtr|MtNCR118                                       ARIMVVNPNNPCVTDADCQRYRHKLATRMV-CN---IGFCLMDFTHDPYAPSLP
+Medsat|crp1470_GJLK01014526.1_0M_2|cluster16241      ARIVVFNPDNPCVTNADCQRYRHELAIRMI-CN---HGFCLMDF----------
+AsSin|AsNCR092|cluster16241                          GPYNSHTSEYPCKDSADCKEYCGELDYREYVCNWKKKCFCWFRIQRD-------
+AsSin|AsNCR115|cluster16241                          ---------FPCEVNANCKKFCNKLHYREYICNWKKKCLCWWYKV---------
+AsSin|AsNCR120|cluster16241                          --KKPFHTEFPCITDNDCKEYCEKSGYRIYKCKWHKKCVCTRPFID--------
+                                                               **  . :*:.:  :   *   *:     .*              

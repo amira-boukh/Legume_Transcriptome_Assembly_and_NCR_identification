@@ -1,0 +1,18 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|crp1190_GJLK01012712.1_0M_2|cluster32589            ----------------------MAEIFKFIYALIIFISLILSVTNANPMYCFNDDDCPEL
+Ps|PsNCR190                                                ----------------------MARVLKFIYTLIIFVSLIILVSSKDQVLCVTDKECRHN
+Medtr|MtNCR271                                             ----------------------MAEIFKFFYALIIFISLILSVANADPMYCFNDDDCREL
+Medsa|MsatMercedes_NRG001156g01844071_NCR_NCR_NCR_NCR      MVFTYKVINQLSIYYIKCGKKNMAKIFKFFYALIIFISLILLVTNADPMYCFNDDDCPEL
+TriPr|cluster32589_tripr.MilvusB.gnm2.scaf_186_0M_1        ----------------------MNKTLKFIHVLIIIFSLIALVTSYDSSFCFTDDDCKEN
+TriPr|cluster32589_tripr.MilvusB.gnm2.Tp2_31M_1            ----------------------MAKIVNFVQALIIFFSLIVLATSDYRVFCSTNDDCRHN
+                                                                                 * . .:*. .***:.***  .:.     * .:.:* . 
+
+Medsat|crp1190_GJLK01012712.1_0M_2|cluster32589            KCSHPRVQKCRMFLCRCEEVDE-----------------------
+Ps|PsNCR190                                                TCDSPFVSKCRMFFCLCGLA-------------------------
+Medtr|MtNCR271                                             KCSHPRVRKCRMFLCRCEEVDKEDEK-------------------
+Medsa|MsatMercedes_NRG001156g01844071_NCR_NCR_NCR_NCR      KCSHPRVQKCRMFLCRCEEVDKEDEK-------------------
+TriPr|cluster32589_tripr.MilvusB.gnm2.scaf_186_0M_1        KCYKGYITKCRLYICICEPTD------------------------
+TriPr|cluster32589_tripr.MilvusB.gnm2.Tp2_31M_1            ECSATFVPECLWIICTCXXXXXXXXXXXXXXXXXXXXXXXIINYV
+                                                            *    : :*   :* *                            

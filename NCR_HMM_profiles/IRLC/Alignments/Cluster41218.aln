@@ -1,0 +1,18 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Ps|PsNCR178                                                      MQAWKNMAEILKFVYFLIIFLFV-CII-V------------------DGVYFCEKDKDCP
+Ps|PsNCR89                                                       --MWTNMAGILKFVYVIIIFLFI-CFIMI------------------EGVYFCENNKDCP
+TriPr|cluster41218_tripr.MilvusB.gnm2.scaf_5667_0M_1             ------MAEILKFIYVMIIFLFM-CMIVT------------------NGIYLCEHDEECP
+TriPr|crp1220_tripr.MilvusB.gnm2.scaf_941_0M_1|cluster41218      ------MAEILKFACVMIILLFIMCIIVTNVQRLYHFILLTSIFPYFTGIFLCDRDRDCP
+TriPr|cluster41218_tripr.MilvusB.gnm2.Tp2_04M_1                  ------MAEILKFIYMMIIFLFM-CIIVT------------------NGNYLCDEDKDCP
+TriPr|cluster41218_tripr.MilvusB.gnm2.scaf_941_0M_1              ------MAKIIKFIYVMIIFLFM-PIV-I------------------GRIFFCEHHEDCL
+                                                                       ** *:**  .:**:**:  ::                       ::*:...:* 
+
+Ps|PsNCR178                                                      IPMCF-PNENPKCVKMICRCV--------
+Ps|PsNCR89                                                       KSMCL-PFEIPKCMRTICECVENVLDEKN
+TriPr|cluster41218_tripr.MilvusB.gnm2.scaf_5667_0M_1             ENECL-YHEHSHCIWGVCRCV--------
+TriPr|crp1220_tripr.MilvusB.gnm2.scaf_941_0M_1|cluster41218      KPDCL-PEEYPKCVRGVCKCIQF------
+TriPr|cluster41218_tripr.MilvusB.gnm2.Tp2_04M_1                  KNICL-YNEYPRCMKGICRCVKL------
+TriPr|cluster41218_tripr.MilvusB.gnm2.scaf_941_0M_1              DSECLEYNEHAMCKSGVCRCVPW------
+                                                                    *:   *   *   :*.*:        

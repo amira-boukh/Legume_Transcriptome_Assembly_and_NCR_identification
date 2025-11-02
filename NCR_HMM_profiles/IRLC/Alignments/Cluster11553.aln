@@ -1,0 +1,20 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medtr|MtNCR-new39                                    MQRMEHMTKIQFCVYVLIIFLSLFLVVTCG-----------KVYECYNYIDCPVGCRACY
+Medtr|crp1190_MtrunA17Chr4_30M_2|cluster11553        ---MEHTTKIQFCVYVLIIFLSLFLVVTNV-----------KIAECVSYTDCQGGCPACY
+Medsat|crp1190_GJLK01012333.1_0M_1|cluster11553      MQMMEHMTQIHFCLYALIIFLSLFLVVTNGGMSLYTPRNS--VSECATYTDCPRDCPACY
+Medsat|cluster11553_GJLK01012333.1_0M_1              MQMMEHMTQIHFCLYALIIFLSLFLVVTNG------------VSECATYTDCPRDCPACY
+Medtr|MtNCR428                                       MQRMEHTTKIQFCVYVLIIFLSLFLVVTNGDKPRYTPRNAVKIAECVSYTDCQGGCPACY
+Medtr|crp1470_MtrunA17Chr4_30M_2|cluster11553        ------MAQIHLCVYALIIFLSPFLALTNDRI---------VYHGCYSDDQCPNECPAIL
+Ps|crp1140_chr5LG3_434M_1|cluster11553               MATRKS-------SALIMIFLLAFCIYASD-I------CMKSEASCTEDIDCQAGCPGKQ
+                                                                     ::***  *   :                 *    :*   * .  
+
+Medtr|MtNCR-new39                                    MRCIDGQCIPFIKK---LI----------
+Medtr|crp1190_MtrunA17Chr4_30M_2|cluster11553        MRCIDGQCEPFIIK---------------
+Medsat|crp1190_GJLK01012333.1_0M_1|cluster11553      MR---------------------------
+Medsat|cluster11553_GJLK01012333.1_0M_1              MRCIDGMCEPFI-----------------
+Medtr|MtNCR428                                       MRLTWFF--KYILF---FLSVHGLPSRNS
+Medtr|crp1470_MtrunA17Chr4_30M_2|cluster11553        MRCIHSLCVEFIRT---D-----------
+Ps|crp1140_chr5LG3_434M_1|cluster11553               GQCIDGRCWCIGAKSLYDITPKLIPSNEK
+                                                      :                           

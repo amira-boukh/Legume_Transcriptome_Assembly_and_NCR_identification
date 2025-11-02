@@ -1,0 +1,26 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medtr|cluster16951_MtrunA17Chr8_14M_1                             -------------MSEIIKFVYAMFIFIFMFTV-------------ATETDALCDSNRDC
+Medsat|cluster16951_GJLK01048221.1_0M_1                           -----------------------MVIYLFMFTIVT-----------DAFSFGFCESNEGC
+Medtr|cluster16951_MtrunA17Chr6_12M_1                             -----------------------MIISVFTFII-------------VVDCVVICDLEKDC
+Medsat|cluster16951_GJLK01005387.1_0M_1                           -----------------------MIIYLFTFIIVFHIINIHSFFLFYIIGVVICDLEKDC
+Medsat|crp1150_GJLK01011912.1_0M_1|cluster16951                   -------------MGEIIKFVFAMIIYLFMLTI----------------AVTICDSDQDC
+Ps|PsNCR259                                                       -----------------------MAILFFIFII-------------VTNGAQICLSDKEC
+Medtr|MtNCR272                                                    MNIYILTYKQINNMGDIIKVVFAMIIYLYMLTI-------------VTNAVTICDSDQDC
+TriPr|crp1190_tripr.MilvusB.gnm2.scaf_8380_0M_1|cluster16951      -------------MAEILKFIYVMIIYLFIFIVV----TDRNFFFFDITGVFLCDNDKDC
+MelOff|crp1130_GJLW01015676.1_0M_1|cluster16951                   -------------MTEICKFIYNMIIYIFIFI-------------VVVDCVYLCDSEREC
+MelOff|crp1150_GJLW01006249.1_0M_1|cluster16951                   -------------MGQIIKFVYAMIIYFCMFTI-------------VTPAVILCESDQDC
+                                                                                         * * .  :                     :*  :. *
+
+Medtr|cluster16951_MtrunA17Chr8_14M_1                             RGYHCNWPKFPICVRMICECI----
+Medsat|cluster16951_GJLK01048221.1_0M_1                           RQFYCDPPKFPRCVAMLCRCVKLL-
+Medtr|cluster16951_MtrunA17Chr6_12M_1                             RQYLCIPPEFPRCIGGICRCK----
+Medsat|cluster16951_GJLK01005387.1_0M_1                           RKYLCIPTEFPRCIGGICRCK----
+Medsat|crp1150_GJLK01011912.1_0M_1|cluster16951                   RRYRCDPPEYPRCLGILCKCVYISS
+Ps|PsNCR259                                                       HRFNCKAPKYQRCIDLFCKCV----
+Medtr|MtNCR272                                                    RRYRCDPPEYPRCLGILCKCVYVSG
+TriPr|crp1190_tripr.MilvusB.gnm2.scaf_8380_0M_1|cluster16951      RNYKCPPLDYPRCIGIMCRCMETSD
+MelOff|crp1130_GJLW01015676.1_0M_1|cluster16951                   RKYLCIPPEFPRCVGGNL-------
+MelOff|crp1150_GJLW01006249.1_0M_1|cluster16951                   RRYRCDPPEFPSCNISENG------
+                                                                  : : *   .:  *            

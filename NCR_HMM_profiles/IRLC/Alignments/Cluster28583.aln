@@ -1,0 +1,24 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medtr|MtNCR361                                                           ------MTKTMKFLYVLIIF----ISIFVVASVYDSIPYVNSGPCVTDKDCPKV----SQ
+Medsat|crp1520_GJLK01015897.1_0M_1|cluster28583                          ------MAKTLKFVYVLIQF----ISIFLVIIQGDSYSIHTVNPCKTDKDCIRT----TG
+Medsat|cluster28583_GJLK01026968.1_0M_1                                  ------MAKTLNYVYVLILF----ISIFLSITVYGYIPRIVNQPCTTDKDCPKK----PR
+Medsa|MsatMercedes_NRG000119g00511521_NCR                                MQREENMTKTMKFLYVLIIF----ISIFLVVSVYDSIPYVNSGPCVTDKDCPKV----SQ
+Medsa|MsatMercedes_NRG000398g01105351_NCR_NCR                            MQREENMTKTMKFLYVLIIF----ISIFLVVSVYDSIPYVNSGPCVTDKDCPKV----SQ
+Medsat|cluster28583_GJLK01045577.1_0M_1                                  ------MTKIVKFLYVLILFIILFISTFLVIRVYDFIPYVNYGPCVTHKDCPKL----PQ
+MelOff|crp1520_GJLW01013227.1_0M_1=cluster28583_GJLW01013227.1_0M_1      ------MAKTGKFLYVMILF----ISIFLVIRVSHSIPYVFARPCVRDKDCPKH----PK
+MelOff|crp1520_GJLW01013227.1_0M_2=cluster28583_GJLW01013227.1_0M_2      ------MAKTVKFLYVMILF----IFIFLVIRVFDSIPYVNTPPCVTNKDCPKY----PK
+AsSin|AsNCR089|cluster28583                                              ------MVVILKFVYVMVIF----VSLFLMAINVNAIP---GMPCINDVDCEKYISPVSG
+                                                                               *.   :::**:: *    :  *:              **  . ** :       
+
+Medtr|MtNCR361                                                           YNIRCRKGQCARIRV
+Medsat|crp1520_GJLK01015897.1_0M_1|cluster28583                          FNIRCRKGFCVRIG-
+Medsat|cluster28583_GJLK01026968.1_0M_1                                  RNIRCRKGQCVEIL-
+Medsa|MsatMercedes_NRG000119g00511521_NCR                                YNIRCRKGQCVRIRV
+Medsa|MsatMercedes_NRG000398g01105351_NCR_NCR                            YNIRCRKGQCVRIRV
+Medsat|cluster28583_GJLK01045577.1_0M_1                                  YHISCRRGQC-----
+MelOff|crp1520_GJLW01013227.1_0M_1=cluster28583_GJLW01013227.1_0M_1      QNIRCRKGQCVNI--
+MelOff|crp1520_GJLW01013227.1_0M_2=cluster28583_GJLW01013227.1_0M_2      QNIRCRKGQCVTI--
+AsSin|AsNCR089|cluster28583                                              YQVKCIDGNCERIRI
+                                                                          :: *  * *     

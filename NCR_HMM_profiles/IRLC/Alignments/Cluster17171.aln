@@ -1,0 +1,38 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG000413g01130301_NCR            ------MYKVVESIFIRYMHRKTSMTKIFKFVYTMFILISLFLVVTNA------------
+Medsa|MsatMercedes_NRG000643g01431191_NCR            ------MYKVVESIFIRYMHRKTSMTKIFKFVYTMFILISLFLVVTNA------------
+Medtr|MtNCR244                                       ------MYKVVESIFIRYMHRKPNMTKFFKFVYTMFILISLFLVVTNA------------
+Medtr|MtNCR338                                       ------MYKVVESIFIRYMHRKPNMTKFFKFVYTMFILISLFLVVTNA------------
+Ps|cluster17171_chr1LG6_306M_1                       ------------------------MTKVFMFVYAMIILHSLFSVSSDA------------
+TriPr|cluster17171_tripr.MilvusB.gnm2.Tp7_24M_1      MKGDNELYKMIQSCSICYIKRRETMAAILKFIYAMFLFISLFMFPMAIESKNCQT-----
+MelOff|cluster17171_GJLW01015473.1_0M_1              -------------------MHIKNMTKIVKFVYAMILLLSLFFVITDA------------
+MelOff|cluster17171_GJLW01000493.1_0M_1              ------------------------MNNIFKFVYAMIILISLLFVVTDANGEHFFLIIFNS
+MelOff|crp1190_GJLW01015147.1_0M_1|cluster17171      ------------------------MTKTFKLVYVMFILLSLFLVVTDA------------
+MelOff|cluster17171_GJLW01021153.1_0M_1              ------------------MHTIKSMTKIDNFIYAMILLIFIFLVVAELTPTL--SIFFNS
+                                                                             *     ::*.*:::  :: .                
+
+Medsa|MsatMercedes_NRG000413g01130301_NCR            -----------------NAKNCTD-------TSDCSSDHCS-YEGVSLC-------MNGQ
+Medsa|MsatMercedes_NRG000643g01431191_NCR            -----------------NAKNCTD-------TSDCSSDHCS-YEGVSLC-------MNGQ
+Medtr|MtNCR244                                       -----------------NANNCTD-------TSDCSSNHCS-YEGVSLC-------MNGQ
+Medtr|MtNCR338                                       -----------------NAHNCTD-------ISDCSSNHCS-YEGVSLC-------MNGQ
+Ps|cluster17171_chr1LG6_306M_1                       -----------------NGFKCTT-------FLDCFTTKCMRVRGTPNC-------LLGG
+TriPr|cluster17171_tripr.MilvusB.gnm2.Tp7_24M_1      ------------DEECLKNYRCPPHLS-----LQC-------IHGWCECEPPVEQPIETP
+MelOff|cluster17171_GJLW01015473.1_0M_1              -----------------NTHNCTT-------IIDCENNHCS-YHGTSLC-------MTGQ
+MelOff|cluster17171_GJLW01000493.1_0M_1              LNLLSMIVQVIIVPHMERHYACSVNAHAFISILHSNMHHSKIFVTSSLQEQTIQISRYAS
+MelOff|crp1190_GJLW01015147.1_0M_1|cluster17171      -----------------NAYNCTA-------IFDCSSNHCS-YQGVSLC-------MMGQ
+MelOff|cluster17171_GJLW01021153.1_0M_1              LLFLFYI----------KTHSCTT-------IEDLSCNHCS-LHGSVLC-------MME-
+                                                                      .   *           .                          
+
+Medsa|MsatMercedes_NRG000413g01130301_NCR            C--ICIYE----------------
+Medsa|MsatMercedes_NRG000643g01431191_NCR            C--ICIYE----------------
+Medtr|MtNCR244                                       C--ICIYE----------------
+Medtr|MtNCR338                                       C--ICIYE----------------
+Ps|cluster17171_chr1LG6_306M_1                       C--ICT------------------
+TriPr|cluster17171_tripr.MilvusB.gnm2.Tp7_24M_1      VDLIE-------------------
+MelOff|cluster17171_GJLW01015473.1_0M_1              C--ICIY-----------------
+MelOff|cluster17171_GJLW01000493.1_0M_1              CTRICTTPRYGISNIVILCMGSRT
+MelOff|crp1190_GJLW01015147.1_0M_1|cluster17171      C--ICIY-----------------
+MelOff|cluster17171_GJLW01021153.1_0M_1              ------------------------
+                                                                             

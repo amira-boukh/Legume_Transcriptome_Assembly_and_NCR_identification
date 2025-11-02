@@ -1,0 +1,20 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|crp1410_GJLK01032753.1_0M_1|cluster10366                          MAEILKYFYAMNLFIFLIILPAKIRGEPFLCVTDDDCPKPVNKLRVIKCIDHICQYARNL
+Medsat|cluster10366_GJLK01019741.1_0M_1                                  MAEILKYFYAMNLFIFLIILPLKIRGEHIQCVIDDDCPKSLNKLLLPPFLYN-CHFCIKF
+Medsat|cluster10366_GJLK01004230.1_0M_1                                  MAEILKYFYAMNLFIFLIILPLKIRGEHIQCVIDDDCPKSLNKLLLIKCINHVCQYVGNL
+Medtr|MtNCR175                                                           MAEILKCFYTMNLFIFLIILPAKIRGEHIQCVIDDDCPKSLNKLLIIKCINHVCQYVGNL
+Medsat|cluster10366_GJLK01032753.1_0M_1                                  MADILKYFYAMNLFIFLIILPAKICGEPLRCATDYDCPKPVNYFTFIKCLDHICQYGYKN
+Medtr|MtNCR330                                                           MVEILKNFYAMNLFIFLIILAVKIRGAHFPCVTDDDCPKPVNKLRVIKCIDHICQYARNL
+MelOff|crp1410_GJLW01021795.1_0M_1=cluster10366_GJLW01021795.1_0M_1      MAESFKFFYAMNLFLFFFILPVKVCGEYIKCETDDDCPKSLNESLVIKCIDHICKFVRNP
+                                                                         *.: :* **:****:*::**  *: *  : *  * **** :*   .   : : *::  : 
+
+Medsat|crp1410_GJLK01032753.1_0M_1|cluster10366                          ------------------
+Medsat|cluster10366_GJLK01019741.1_0M_1                                  L-----------------
+Medsat|cluster10366_GJLK01004230.1_0M_1                                  ------------------
+Medtr|MtNCR175                                                           PDFASQIPKSTKMPYKGE
+Medsat|cluster10366_GJLK01032753.1_0M_1                                  ------------------
+Medtr|MtNCR330                                                           PDFASEISESTKMPCKGE
+MelOff|crp1410_GJLW01021795.1_0M_1=cluster10366_GJLW01021795.1_0M_1      LDVQSQIRESTKIS----
+                                                                                           

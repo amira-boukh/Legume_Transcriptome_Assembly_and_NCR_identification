@@ -1,0 +1,34 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|cluster11778_GJLK01040579.1_0M_1                                                                                              ------MVESLKFVYVLILIISISLIIIVSDSF-N---P-VIRQYCKTDKDCPKFQKHY-
+Medtr|cluster11778_MtrunA17Chr5_09M_1                                                                                                ------MAETLKFVYVIL-FISLFLMIIVSDSF-N---P-LIRQYCVTDKDCPKFKKYN-
+Medtr|MtNCR722                                                                                                                       ------MAENLKFVYLLILFISIFLVIIVSHSI-T---PWL-KKNCVTDKDCPKVAKIN-
+Medtr|MtNCR723                                                                                                                       MKRGENMAENLKFVYLLILFISIFLVIIVSHSI-T---PWL-KKTCVTDKDCPKVAKIN-
+Medsat|cluster11778_GJLK01014240.1_0M_1                                                                                              ------MGETSKFVYVLILFIFIFLVIVVSAAPGV---R-YVEQDCVTDKDCPKVTRHN-
+Medsat|crp1520_GJLK01026677.1_0M_1|cluster11778                                                                                      ------MVKTPKLVYVLILFLSIFLSIKVSNSSFL---G-TFISNCIRDKDCPKYHRIN-
+Medsat|cluster11778_GJLK01063292.1_0M_1                                                                                              ------MAETLKFVYLLILFISLFLVITVSHSV-S---PWVLKKHCVTDKDCPKVGKLN-
+Medtr|cluster11778_MtrunA17Chr7_45M_3                                                                                                ------MAETLKSVYLLILFISLFLVIIVSHSVTS---PWVLKQHCVTDKDCPQMGKIK-
+TriPr|cluster11778_tripr.MilvusB.gnm2.scaf_549_0M_1                                                                                  ------MAENLKFVFLVIIFVSSFLVVVKGIDTTKILPISGLGKECVTDKDCCKRLQKQY
+MelOff|crp1520_GJLW01017705.1_0M_1=cluster11778_GJLW01017705.1_0M_1                                                                  ------MNENLKFVYALILFLSLFLFIIVSNSN-----HIYIPRRCITDKDCPKIGGLN-
+MelOff|cluster11778_GJLW01053246.1_0M_1                                                                                              ------MDETLKFVYVLILFISIFLVIIVSHSL-N---PYL-GRLCKTDKDCPKIQNYN-
+MelOff|crp1520_GJLW01055356.1_0M_1=crp1520_GJLW01062175.1_0M_1=cluster11778_GJLW01055356.1_0M_1=cluster11778_GJLW01062175.1_0M_      ------MVKTLKVVYVLILFISLFLVINVSDST-----PFV-NKQCMTDKDCPKIPKVN-
+MelOff|crp1520_GJLW01016430.1_0M_1=cluster11778_GJLW01016430.1_0M_1                                                                  ------MAEILKFVYLLLLFLSIFHVMIIKIP--------ILDIPCVTDKDCPKRPRKN-
+MelOff|cluster11778_GJLW01013227.1_0M_1                                                                                              ------MVENIKFVYVMILFISIFLVIRVSHSI-----PYVFARPCVRDKDCPKHPKQN-
+                                                                                                                                           * :  * *: :: ::     :                  *  **** :      
+
+Medsat|cluster11778_GJLK01040579.1_0M_1                                                                                              ---TRCRKGLCVQVN------
+Medtr|cluster11778_MtrunA17Chr5_09M_1                                                                                                ---IRCRKGFCVQVNG-----
+Medtr|MtNCR722                                                                                                                       ---IRCRRGQCVQVF------
+Medtr|MtNCR723                                                                                                                       ---IRCRRGQCVQVF------
+Medsat|cluster11778_GJLK01014240.1_0M_1                                                                                              ---IRCRKGRCV---------
+Medsat|crp1520_GJLK01026677.1_0M_1|cluster11778                                                                                      ---FRCRKGHCVPI-------
+Medsat|cluster11778_GJLK01063292.1_0M_1                                                                                              ---TRCRHSQCVQA-------
+Medtr|cluster11778_MtrunA17Chr7_45M_3                                                                                                ---IRCRNGECVQ--------
+TriPr|cluster11778_tripr.MilvusB.gnm2.scaf_549_0M_1                                                                                  GARRYCLNGYCVYRYMGLKNK
+MelOff|crp1520_GJLW01017705.1_0M_1=cluster11778_GJLW01017705.1_0M_1                                                                  ---MRCRKGYCENIFH-----
+MelOff|cluster11778_GJLW01053246.1_0M_1                                                                                              ---IRCRNSYCVQI-------
+MelOff|crp1520_GJLW01055356.1_0M_1=crp1520_GJLW01062175.1_0M_1=cluster11778_GJLW01055356.1_0M_1=cluster11778_GJLW01062175.1_0M_      ---VRCRGSRCVQI-------
+MelOff|crp1520_GJLW01016430.1_0M_1=cluster11778_GJLW01016430.1_0M_1                                                                  ---IRCRKGICTNI-------
+MelOff|cluster11778_GJLW01013227.1_0M_1                                                                                              ---IRCRKGQCVNI-------
+                                                                                                                                          *  . *          

@@ -1,0 +1,28 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|cluster32612_GJLK01059037.1_0M_1              --------------------MFLFIFLFVVPTKVDGKKKNLPF------N----------
+Medsat|cluster32612_GJLK01003176.1_0M_3              ----------MAAIIKFIYTMFLFISLFVVSTKVDGRNAL---ETLTINLIPGLSLKEKI
+Medsat|cluster32612_GJLK01050306.1_0M_1              ----------MAAIIKFIYTMFLFISLFVVSTKVDGRNAL---ETLTINLIPGLSLKEKI
+Medtr|MtNCR269                                       -----------MAIIKFIYTMFLFILLFVVPTKVDGRITHDPSTRSTVSG----------
+Medsa|MsatMercedes_NRG000611g01395321_NCR            -----------MAIIKFIYTMFLFILLFAVPTKVDGRITREPSTGSAISG----------
+Medtr|crp1200_MtrunA17Chr2_32M_1|cluster32612        MIPQQGVQSQVPNQYHFYPIFFLVLTIFILLFRLTNLIYI------------------FS
+Medsat|cluster32612_GJLK01003176.1_0M_1              --------------------MFLFISLFVVSTKVDGKQFFYPSITLTINLIPGLSLKEKI
+Medsat|crp1410_GJLK01003176.1_0M_1|cluster32612      --------------------MFLFISLFVVSTKVDGRNAL---ETLTINLIPGLSLKEKI
+Medsat|cluster32612_GJLK01003176.1_0M_2              ----------MAAIIKFIYTMFLFISLFVVSTKVDGRNAL---ETLTINLIPGLSLKEKI
+Medsa|MsatMercedes_NRG000185g00684421_NCR            -----------MAIIKFIYTMFLFILLFAVPTKVDGRITREPSTGSAIS-----------
+AsSin|AsNCR155|cluster32612                          ----------MTGTLKLVYVVIFFFSLVLAQ----------------------------I
+                                                                         .::.: :.                                
+
+Medsat|cluster32612_GJLK01059037.1_0M_1              ---SFAGCVTDADCVIKKCS--SSC-------------
+Medsat|cluster32612_GJLK01003176.1_0M_3              Y-LRDNYCIRDADC------------------------
+Medsat|cluster32612_GJLK01050306.1_0M_1              HLVQDNYCISDAD-------------------------
+Medtr|MtNCR269                                       ---GFGKCVRDADCVDEVCS--PGCNKRCVGFECQCPL
+Medsa|MsatMercedes_NRG000611g01395321_NCR            ---GLGKCLRDDDCVEEVCS--PGCSKRCVGFQCQCPI
+Medtr|crp1200_MtrunA17Chr2_32M_1|cluster32612        FEGGFGKCVRDADCVDEV--------------------
+Medsat|cluster32612_GJLK01003176.1_0M_1              Y-LRDNYYIRDADCKNPECD--K---------------
+Medsat|crp1410_GJLK01003176.1_0M_1|cluster32612      Y-LRDNYYIRDADCKNPECD--KCRR------------
+Medsat|cluster32612_GJLK01003176.1_0M_2              HLVQDNYCISDAD-------------------------
+Medsa|MsatMercedes_NRG000185g00684421_NCR            ---GLGKCLRDDDCVEEVCS--PGCSKRCVGFQCQCPI
+AsSin|AsNCR155|cluster32612                          SIERIDMCLTVDDCPDNFCEHAPGCKTMCIMFYCGCSP
+                                                             :   *                         

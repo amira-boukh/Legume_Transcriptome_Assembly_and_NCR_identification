@@ -1,0 +1,34 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medtr|crp1310_MtrunA17Chr1_24M_2|cluster28159                MTQISKSFYALIIFLSLILVVT------SKDITCTVAGDCPNFFVCPPNNFVRCIRNLCK
+Medtr|crp1160_MtrunA17Chr3_06M_1|cluster28159                MAESFKFICVIIIFLCSFIAAKNID-----------DDDCAKNM-CPSYLVVKCVNGIYK
+Medtr|cluster28159_MtrunA17Chr3_06M_1                        MTEILKFVCIMIIFLSSFIVSQNIDGNTGGNRKCFRDSDCPKFM-CPSYLAVKCIGRLCR
+Medtr|crp1310_MtrunA17Chr1_25M_1|cluster28159                MDQISKSFYALMIFLSLILVVT------SNDIKCTVAGDCPDFFRCPPNTFVRCISNICI
+Medsa|MsatMercedes_NRG011065g02242271_NCR                    MAEILKFVCFMIIFISSFTVSKSLNG--GGKDKCFRDSDCPKHM-CPSNMVAKCIHRLCK
+Medtr|cluster28159_MtrunA17Chr3_06M_3                        MTEILKFVCVMIIFISSFIVSK---R--GGKDKCFRDSDCPKHM-CPSSLVAKCINRLCR
+Medsat|crp1310_GJLK01026684.1_0M_3|cluster28159              MAQISKSFYALIIFLSLIFVVT------GKDLKCTVAGDCPDFFRCPPNTFVRCISNFCK
+Medtr|cluster28159_MtrunA17Chr3_06M_4                        MAEILKFICFMIIFLSSFIVSESLNG--HGRNRCFRDSDCPKVM-CPSYLVTKCFKKHCR
+Medtr|crp1310_MtrunA17Chr1_24M_1|cluster28159                MAQISKSFYALIILLCLSLIVT------GKDITCNVAGDCPEYFRCPPNTFVRCVSNICE
+Medsa|MsatMercedes_NRG000828g01610891_NCR                    MAEILKFVCFMIIFISSFTVSKSLNG--GGKDKCFRDSDCPKHM-CPSNMVAKCIHRLCK
+Medtr|MtNCR389                                               MAEILKFICFMIIFLSSFIVSESLNG--HGKDRCFKDSDCPKYM-CPSSLVAKCIKKLCS
+TriPr|crp1150_tripr.MilvusB.gnm2.Tp1_15M_1|cluster28159      ---------MLFINILSFFI--------AVLIECYQDSDCLKHM-RFPKFVQRCIHYRCI
+MelOff|cluster28159_GJLW01011549.1_0M_1                      MAEMLKFVCVMTIFLSSFIVAKNIDA--VGRRTCFRDSDCAKNM-CPAYLVVKCVKSLCK
+AsSin|AsNCR106|cluster28159                                  ------IFYILLLKFSFFITAP------RKYSRCFQDSDCPKNTSPSPQWELRCIRGFCK
+                                                                       : : :                      .** .          :*.     
+
+Medtr|crp1310_MtrunA17Chr1_24M_2|cluster28159                CRFVYL---------
+Medtr|crp1160_MtrunA17Chr3_06M_1|cluster28159                CVRP-----------
+Medtr|cluster28159_MtrunA17Chr3_06M_1                        C--------------
+Medtr|crp1310_MtrunA17Chr1_25M_1|cluster28159                CRLVYL---------
+Medsa|MsatMercedes_NRG011065g02242271_NCR                    CRRPELQVQLNPK--
+Medtr|cluster28159_MtrunA17Chr3_06M_3                        CRRPEL---------
+Medsat|crp1310_GJLK01026684.1_0M_3|cluster28159              CRSLPN---------
+Medtr|cluster28159_MtrunA17Chr3_06M_4                        CRK------------
+Medtr|crp1310_MtrunA17Chr1_24M_1|cluster28159                CRLVYL---------
+Medsa|MsatMercedes_NRG000828g01610891_NCR                    CRRPELQVQLNPK--
+Medtr|MtNCR389                                               CRKPGLQIQLNPK--
+TriPr|crp1150_tripr.MilvusB.gnm2.Tp1_15M_1|cluster28159      CIGTE----------
+MelOff|cluster28159_GJLW01011549.1_0M_1                      CVRPDKA--------
+AsSin|AsNCR106|cluster28159                                  WGWISYPRKTSLRIQ
+                                                                            

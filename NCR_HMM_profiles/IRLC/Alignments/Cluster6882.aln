@@ -1,0 +1,30 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG000677g01466651_NCR                               MAGNLKIVYALMILIFLILVVTSH-SFLPCMTKDDCAYDECISPRKPTCYLEACHCL---
+Medsa|MsatMercedes_NRG001343g01940561_NCR                               MAGNLKIVYALMILISLILVVTSH-SFLPCMTKDDCAYDECISPRKPTCYLEACHCL---
+Medsa|MsatMercedes_NRG045010g02402011_NCR                               MAGNLKIVYALMILISLILVVTSH-SFLPCMTKDDCAYDECISPRKPTCYLEACHCL---
+Medtr|MtNCR466                                                          MAGNLKIVYALMILVSLILVVTSH-SFLPCVTKDDCAYDECISPRKPTCYLETCHCL---
+Ps|PsNCR188                                                             MAKILKLVYALIIWISLILVVTSH-SFLPCGSNRDCKDDLCFPPRKPGCYLDACRCL---
+Ps|Psat5g254680.1_NCR                                                   MAEILKMVYALIIWISLILIVTSH-SFLPCATNEDCADDICAHSQRPLCYMENCHCA---
+Medtr|cluster6882_MtrunA17Chr1_25M_1                                    MGKHIKIVYTLIIFVSLILVLTSL-------HKRHCVHHKCIYPRKSMCNLEVCNCLIVS
+Ps|crp1150_chr1LG6_011M_1|cluster6882                                   MAKVFKFVYVLILFIFLFLVETV---VSACSENEDCTKLECKDPAKPTCFLYTCICW---
+TriPr|cluster6882_tripr.MilvusB.gnm2.scaf_195_0M_1                      MAKILKIVYALIILVSLILLVNSHNSLLPCKNNTDCANDRCLNYKTPICVSKKCYCL---
+TriPr|cluster6882_tripr.MilvusB.gnm2.scaf_345_0M_1                      MVKILKIVYALIILVSLILVVTSH-SFVPCVTNDDCTDDPCIDPKKPQCYMEMCHCMPLS
+MelOff|crp1250_GJLW01017160.1_0M_1=cluster6882_GJLW01017160.1_0M_1      MAEIIKIIYVLTILVSLVLIVSSD-ELRACITTEDCPHAICTYPEYPICYHYRCVCV---
+MelOff|crp1310_GJLW01017722.1_0M_1=cluster6882_GJLW01017722.1_0M_1      MAEILKIVFALIILVSLILVVTSH-SFLPCVTKEDCAHDDCSHPKTPTCYQEVCHSQLSH
+                                                                        *   :*:::.* : : *.*: .          . .*    *       *    * .    
+
+Medsa|MsatMercedes_NRG000677g01466651_NCR                               --------
+Medsa|MsatMercedes_NRG001343g01940561_NCR                               --------
+Medsa|MsatMercedes_NRG045010g02402011_NCR                               --------
+Medtr|MtNCR466                                                          --------
+Ps|PsNCR188                                                             --------
+Ps|Psat5g254680.1_NCR                                                   --------
+Medtr|cluster6882_MtrunA17Chr1_25M_1                                    --------
+Ps|crp1150_chr1LG6_011M_1|cluster6882                                   --------
+TriPr|cluster6882_tripr.MilvusB.gnm2.scaf_195_0M_1                      --------
+TriPr|cluster6882_tripr.MilvusB.gnm2.scaf_345_0M_1                      ENKNPFHF
+MelOff|crp1250_GJLW01017160.1_0M_1=cluster6882_GJLW01017160.1_0M_1      --------
+MelOff|crp1310_GJLW01017722.1_0M_1=cluster6882_GJLW01017722.1_0M_1      F-------
+                                                                                

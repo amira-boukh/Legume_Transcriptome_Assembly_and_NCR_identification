@@ -1,0 +1,24 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG001280g01912671_NCR_NCR          -------MVKTLKFVHVMIFFLSLIHVAHNCFLVAQNI------------D----AYVEC
+Medsa|MsatMercedes_NRG001692g02061691_NCR_NCR_NCR      MQI-EKKMVKTLKFVHVMIFFLSLIHVAHNCFLVAQNI------------D----AYVEC
+Medsat|cluster37520_GJLK01071612.1_0M_1                -------MVKTLKFLSAMIFFLSLFLVAQNIEIIN-------------------EDYHPC
+Medtr|MtNCR519                                         MQIEGKKMVKTLKFVHVMIFFLSLILVAHNCFLVAQNS------------D----AYVPC
+Medsat|crp1440_GJLK01028253.1_0M_2|cluster37520        ----------MLQFL-VAILFIFLFLVASNV-----------------------EGYVLC
+Medtr|crp1430_MtrunA17Chr1_01M_1|cluster37520          -------MVKTLKFVNVIIFFLSLFLSAHNFFLVAQNI------------D----AIIKC
+Medsat|cluster37520_GJLK01004112.1_0M_1                -------MVKTLKFVNVIIFFLSLFLFARNFFLVAQNF------------DGCGESFTKC
+Medtr|crp1410_MtrunA17Chr4_34M_1|cluster37520          -------MNTILKFIFVVFLFLSIFLSAGNS-----------------------KSYGPC
+MelOff|crp1440_GJLW01018427.1_0M_1|cluster37520        -------MAETLKLVYAIILFLSLFLVAKNVDVQLLGYLLYHFSNIVFFLFFITGIIAKC
+                                                                  *::: . ::*: ::  * *                             *
+
+Medsa|MsatMercedes_NRG001280g01912671_NCR_NCR          TTVADCPPNTRFKIYRCEKGICRYHKLWIV----
+Medsa|MsatMercedes_NRG001692g02061691_NCR_NCR_NCR      TTVADCPPNTRFKIYRCEKGICRYHKLWIV----
+Medsat|cluster37520_GJLK01071612.1_0M_1                TTANDCPGNFVHREYICEEGWCRYHL--------
+Medtr|MtNCR519                                         ITVADCPPNTWFKIYRCEKGICRYHKLWIV----
+Medsat|crp1440_GJLK01028253.1_0M_2|cluster37520        KSVNDCPPNTRNLRYRLYCICCMYREKDMAHKFV
+Medtr|crp1430_MtrunA17Chr1_01M_1|cluster37520          ETVADCPPDTEHKKYRCVKNICI-----------
+Medsat|cluster37520_GJLK01004112.1_0M_1                VTVRDCPPETKYMKYRCEQ---------------
+Medtr|crp1410_MtrunA17Chr4_34M_1|cluster37520          TTLQDCETHNWFEVCSCIDFECKCWSLL------
+MelOff|crp1440_GJLW01018427.1_0M_1|cluster37520        VTVADCPPNTRLRIYRCEKNECRYQKLWIL----
+                                                        :  **  .                         

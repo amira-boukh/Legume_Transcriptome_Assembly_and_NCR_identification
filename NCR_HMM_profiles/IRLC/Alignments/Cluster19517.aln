@@ -1,0 +1,62 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|cluster19517_GJLK01029801.1_0M_1                      ------MTHISKFVFALIIFLSIYVGVNDCM-----------------------------
+Ps|PsNCR270                                                  MQMREHTVDIVKFVYLIIVFVSIFVVVTDG------------------------------
+Ps|PsNCR185                                                  ------MTEILKFFYITVIFLFVFFIVIDG------------------------------
+Ps|PsNCR271                                                  --MRKHMAQILKFVYFMIIFLFIFVVVIDG------------------------------
+Ps|Psat1g004080.1_NCR                                        MQMREHMAHIFKFVNVIIIFLFIFVVVTDGNVATDN------------------------
+Medsat|cluster19517_GJLK01006433.1_0M_1                      ------MNHISKFVYTLIIFLSVYLVVLDGL-----------------------------
+Ps|Psat1g003960.1                                            MQMREHMAHILKFVNVIIIFLLIFVVVIDGIVVTVD------------------------
+Ps|cluster19517_chr1LG6_005M_2                               MQRREYMAQILKIFNVIIIFLFIFIVVTDGTTIT--------------------------
+Ps|cluster19517_chr1LG6_007M_1                               MQMREHMTQNLKFAYFMIIFLFIFVVVTDGIV----------------------------
+Ps|cluster19517_scaffold03603_0M_1                           MQMREHMANIVKFVYLIIVFLSIFVVVTDG------------------------------
+Ps|crp1150_chr1LG6_007M_1|cluster19517                       ------MTQNLKFAYFMIIFLFIFVVVTDGIV----------------------------
+TriPr|cluster19517_tripr.MilvusB.gnm2.Tp5_02M_1              ------MTQIPKTIYVLIIFLFIFLVVIDG------------------------------
+TriPr|crp1230_tripr.MilvusB.gnm2.Tp2_14M_1|cluster19517      ------MAKLMKYFFVIFHLFSLFIVAMN-------------------------------
+MelOff|cluster19517_GJLW01003966.1_0M_1                      MQKRKNMAKLPNCIYAFIIFLFIFVVVTNGSLEDTT------------------------
+MelOff|cluster19517_GJLW01015676.1_0M_1                      MQMWKNMTEICKFIYNMIIYIFIFIVVVDCKFIVANL-FSKNSSYCTQCLNLLTF-----
+AsSin|AsNCR087|cluster19517                                  ------MAKNFKYISALILFLFLFQHLINGYQFLENNSILGDEDDCKNVENWRENRRTRG
+AsSin|AsNCR097|cluster19517                                  ------MIIILKFVYVMILLLSLFFIATNI------------------------------
+AsSin|AsNCR163|cluster19517                                  ------MAKILKFAIL---LLSFFLVVTNV------------------------------
+                                                                        :        . .:    :                               
+
+Medsat|cluster19517_GJLK01029801.1_0M_1                      ----------LVSCEDHFDCRQNLQQVGCRVEREIPQCINSIFPL---------------
+Ps|PsNCR270                                                  ----------VTKCRSNKDCRIQMP---TCLSPRVPRCIQDACDCF--------------
+Ps|PsNCR185                                                  ----------AVFCVSEKDC--------PCIPPKIPKCMGNVCQCWILW-----------
+Ps|PsNCR271                                                  ----------VILCQSNRECHREMT---HCMRPKIAKCVGGTCQCW--------------
+Ps|Psat1g004080.1_NCR                                        -----IAIDGVIKCQSNRECRKAMP---DCRRPKYPRCVSRICDCM--------------
+Medsat|cluster19517_GJLK01006433.1_0M_1                      ----------LISCKDHFECRRKVKIIGCIFPQEKPTCTNSMCTC---------------
+Ps|Psat1g003960.1                                            -------IKEIFKCESNKQCRKQMP---NCKHPKIARCVSRTCKCW--------------
+Ps|cluster19517_chr1LG6_005M_2                               --------GGTIKCQSNEICHNRKP---TCKLPKMSRCVEGICKCL--------------
+Ps|cluster19517_chr1LG6_007M_1                               --------VGVILCQSNRTCRREMT---CCMRPKHPRCVSGICKCW--------------
+Ps|cluster19517_scaffold03603_0M_1                           ----------VTKCRSNKDCRKQMS---TCLQPRVPRCIQDACECW--------------
+Ps|crp1150_chr1LG6_007M_1|cluster19517                       --------VGVILCQSNRTCRREMT---CCMRPKHPRCVSGICKCWREIQKNGLRNK---
+TriPr|cluster19517_tripr.MilvusB.gnm2.Tp5_02M_1              ---------GFIPCDSWRDCPKN-----FCVYPRRKVCVGGFCECEYKSIFMLFLTV---
+TriPr|crp1230_tripr.MilvusB.gnm2.Tp2_14M_1|cluster19517      -------VEEIIPCVDNSECHKKMY----CKLPKLPRCMAHICKCCKPGIPFIS------
+MelOff|cluster19517_GJLW01003966.1_0M_1                      --------GIYIPCKTTFDCREKNV---ICLSPKILRCSVRLCACVDFVHA---------
+MelOff|cluster19517_GJLW01015676.1_0M_1                      IFFFLFDIIGVYLCDSERECRKY-----LCIPPEFPRCVGGNL-----------------
+AsSin|AsNCR087|cluster19517                                  RGHVTNKYYSEFPCEVNKDCKKYCK---NMNYRDYKCNSNKKCLCMAHVPPL--------
+AsSin|AsNCR097|cluster19517                                  ---------DGAQCKNNEDCEYLRP---KCPRGTYPKCVFGNCKIWGSPY----------
+AsSin|AsNCR163|cluster19517                                  ---------ESGGCKSQMDCPSY-----NCLPPTVSTCIGTTCHCMYPKPSSPHFCYSGR
+                                                                          *     *                                        
+
+Medsat|cluster19517_GJLK01029801.1_0M_1                      ------------------------------
+Ps|PsNCR270                                                  ------------------------------
+Ps|PsNCR185                                                  ------------------------------
+Ps|PsNCR271                                                  ------------------------------
+Ps|Psat1g004080.1_NCR                                        ------------------------------
+Medsat|cluster19517_GJLK01006433.1_0M_1                      ------------------------------
+Ps|Psat1g003960.1                                            ------------------------------
+Ps|cluster19517_chr1LG6_005M_2                               ------------------------------
+Ps|cluster19517_chr1LG6_007M_1                               ------------------------------
+Ps|cluster19517_scaffold03603_0M_1                           ------------------------------
+Ps|crp1150_chr1LG6_007M_1|cluster19517                       ------VAKRNLQGRGGSPSNHYGYRRLSV
+TriPr|cluster19517_tripr.MilvusB.gnm2.Tp5_02M_1              ------------------------------
+TriPr|crp1230_tripr.MilvusB.gnm2.Tp2_14M_1|cluster19517      ------------------------------
+MelOff|cluster19517_GJLW01003966.1_0M_1                      ------------------------------
+MelOff|cluster19517_GJLW01015676.1_0M_1                      ------------------------------
+AsSin|AsNCR087|cluster19517                                  ------------------------------
+AsSin|AsNCR097|cluster19517                                  ------------------------------
+AsSin|AsNCR163|cluster19517                                  DCPRCLPPKVPVCGRGHCYC----------
+                                                                                           

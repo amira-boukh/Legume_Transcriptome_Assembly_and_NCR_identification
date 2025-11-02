@@ -1,0 +1,30 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|cluster21485_GJLK01003289.1_0M_1                                  MVKILKLVYFMTLFLSIFLVKTKN--DGSIECKDDFQCPQIFMPPFVIRCINFRCIIVNG
+Medsa|MsatMercedes_NRG001536g02015621_NCR                                MVKIIKFVYLLTLFLSILLVTAKK--DGSIECIANIDCPQIFMLPFVMRCINFRCQIVNS
+Medsa|MsatMercedes_NRG084176g02513231_NCR_NCR                            MVKIIKFVYFLTLFLSILLVTAKK--DGSIECIANIDCPQIFMLPFVMRCINFRCQIVNS
+Ps|PsNCR55                                                               MIKIHKFVYATILFLSISFVAAQKYVPRIRECEYDDDCPQIVAYPLAMKCVYYNCVVVNL
+Medtr|crp1140_MtrunA17Chr7_05M_2|cluster21485                            MTKIVVFIYVVILLLTIFHVSAKK--KRYIECETHEDCSQVFMPPFVMRCVIHECKIFNG
+Medtr|MtNCR289                                                           MVKIIKFVYFMTLFLSMLLVTTKE--DGSVECIANIDCPQIFMLPFVMRCINFRCQIVNS
+Medsat|crp1140_GJLK01008059.1_0M_1|cluster21485                          MTKIVMFIYVVILLLSTFLVSAIK--QRYIECETHADCSQVFMPPFVMRCVIHECKIFNG
+Medsa|MsatMercedes_NRG001851g02093561_NCR                                MVKIIKFVYFLTLFLSILLVTAKK--DGSIECIANIDCPQIFMLPFVMRCINFRCQIVNS
+Ps|crp1430_chr3LG5_395M_2|cluster21485                                   MAKIHMFIYAMIIFLSLSLVAAEH-FPLEHECRIDQDCTRVVEYPLVMRCIGYRCVVINT
+Ps|crp1190_chr3LG5_395M_1|cluster21485                                   MAKIHMFIYAMIIFLSLSLVAA-V-LPLERECNIDEDCTKVVEYPLVMRCIGYKCVVLLT
+MelOff|crp1430_GJLW01006806.1_0M_1|cluster21485                          MAKIVKFVYAVILLLSKFLVTAQK--HRFIECVTHADCPQIFMPPFVMRCVIHRCKIFNI
+MelOff|crp1430_GJLW01005003.1_0M_1=cluster21485_GJLW01005003.1_0M_1      MVKILNLVYFMTLFLSIFLVKTKN--DGSIECIDDFQCPQIFMPPFVIRCINFRCIIVNG
+                                                                         * **  ::*   ::*:   * :        **  . :* ::.  *:.::*: ..* :.  
+
+Medsat|cluster21485_GJLK01003289.1_0M_1                                  ED----------------
+Medsa|MsatMercedes_NRG001536g02015621_NCR                                EDPEY-------------
+Medsa|MsatMercedes_NRG084176g02513231_NCR_NCR                            EDPEY-------------
+Ps|PsNCR55                                                               NDP---------------
+Medtr|crp1140_MtrunA17Chr7_05M_2|cluster21485                            EH----------------
+Medtr|MtNCR289                                                           EDT---------------
+Medsat|crp1140_GJLK01008059.1_0M_1|cluster21485                          ED----------------
+Medsa|MsatMercedes_NRG001851g02093561_NCR                                EDPEY-------------
+Ps|crp1430_chr3LG5_395M_2|cluster21485                                   NDVAPKPKGMHKFYEGNK
+Ps|crp1190_chr3LG5_395M_1|cluster21485                                   NNHGSKYL----------
+MelOff|crp1430_GJLW01006806.1_0M_1|cluster21485                          ENLKN-------------
+MelOff|crp1430_GJLW01005003.1_0M_1=cluster21485_GJLW01005003.1_0M_1      ED----------------
+                                                                         :.                

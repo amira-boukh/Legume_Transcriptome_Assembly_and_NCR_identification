@@ -1,0 +1,35 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG000371g01063881_NCR_NCR       ----MVKIIIFVY-VIFFLSLFLFATN---------------------------------
+Medsat|cluster3095_GJLK01033809.1_0M_3              ----MVKIIMFVY-VIFFLSLFLFGTN---------------------------------
+Ps|PsNCR105                                         ----MVKIIKYVFAMMFFLSQIIFAAN---------------------------------
+Medtr|MtNCR234                                      MKKSIVKISIFVY-VIFFLYLFIFATN---------------------------------
+Medsa|MsatMercedes_NRG001304g01923251_NCR           ----MVKIIIFVY-VIFFLSLFLFATN---------------------------------
+Ps|crp1140_scaffold00408_0M_1|cluster3095           ----MAETHMFLYAIVYFISFFIFAIE---------------------------------
+MelOff|crp1190_GJLW01021347.1_0M_1|cluster3095      ----MGKTIKFVYVMIFFLSLFVFEMN---------------------------------
+MelOff|crp1440_GJLW01025970.1_0M_1|cluster3095      ----MVQINKIFDVMIIFISLFLIARN---------------------------------
+AsSin|AsNCR044|cluster3095                          -MKKMAKTLKCVATLIWFSFIFIHFTNGYQFFQNSSTLVKKPLYPPIVRKPLGPAPKDSI
+                                                        : :    .  :: *   ::   :                                 
+
+Medsa|MsatMercedes_NRG000371g01063881_NCR_NCR       --------INAISECEEDGDCPKTWCFGQFFV-K-CTTNECSCVHEDRLLPRIPWDPWIP
+Medsat|cluster3095_GJLK01033809.1_0M_3              --------INAISECEEDGDCPRTWCFGQFFV-K-CITNECICTMNDS------------
+Ps|PsNCR105                                         --------CNAYNECYEDEDCPNKMCKIYFVV-K-CLYNKCRCVHDDDLQSLLPIFRN--
+Medtr|MtNCR234                                      --------INAISECEEDIDCPRTWCFGQFFV-K-CITNECICVHEDRLLPRIPWDPWIP
+Medsa|MsatMercedes_NRG001304g01923251_NCR           --------INAISECEEDGDCPKTWCFGQFFV-K-CITNECSCVHEDRLLPRIPWDPWIP
+Ps|crp1140_scaffold00408_0M_1|cluster3095           --------NKVFAKCNYDIDCP--ACFSDFIR-M-CVNEKCRCVNWDDLMA---------
+MelOff|crp1190_GJLW01021347.1_0M_1|cluster3095      --------IIAIFECEDDGDCPRTWCFGKFFV-K-CLNNECICLHEDRLLPSILWDPWIP
+MelOff|crp1440_GJLW01025970.1_0M_1|cluster3095      --------VNAFVECYYDIDCP--MCMVNFVK-K-CVEEKCKCVHQDDLGQ---------
+AsSin|AsNCR044|cluster3095                          WNRPPKRALELNFPCEEDEDCKLTCLIKAYHKYECTPEKKCNCLLDDD------------
+                                                                  *  * **        :        ::* *   *             
+
+Medsa|MsatMercedes_NRG000371g01063881_NCR_NCR       MI-------
+Medsat|cluster3095_GJLK01033809.1_0M_3              ---------
+Ps|PsNCR105                                         ---------
+Medtr|MtNCR234                                      MI-------
+Medsa|MsatMercedes_NRG001304g01923251_NCR           MIKVINVIQ
+Ps|crp1140_scaffold00408_0M_1|cluster3095           ---------
+MelOff|crp1190_GJLW01021347.1_0M_1|cluster3095      RI-------
+MelOff|crp1440_GJLW01025970.1_0M_1|cluster3095      ---------
+AsSin|AsNCR044|cluster3095                          ---------
+                                                             

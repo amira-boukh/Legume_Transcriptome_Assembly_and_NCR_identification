@@ -1,0 +1,20 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG001338g01937891_NCR_NCR        MTKFLKLIYAMIHLLFLFLVVTHCTAKVIQCTPPEVVKCT---CQCGKRTLY--------
+Medsa|MsatMercedes_NRG002434g02145871_NCR_NCR        MTKFLKLIYAMIHLLFLFLVVTHCTAKVIQCTPPEVVKCT---CQCGKRTLY--------
+Medtr|MtNCR649                                       MTKFLKLIYATIYLLFLFLVATHCTAKVLKCTPPEVVKCT---CLCGKRTLY--------
+CicerAr|cluster21127_contig76814_0M_1                MSKFLKLVYAITLLHFLFFVVTNGL----RCYYPQVMCCDPYGCFCNIPMSPF-------
+TriPr|cluster21127_tripr.MilvusB.gnm2.Tp2_14M_1      MTKFSKLVYAMILLLFIFLVATNAMNASERCIPPQMLMCDLHGCHCGTWEQTA-------
+TriPr|cluster21127_tripr.MilvusB.gnm2.Tp2_14M_2      MTKFLKLVYAMILLIFLFLVVADGTNSSYECIRPQFMICNLRGCFCGTWENT--------
+MelOff|crp1430_GJLW01004559.1_0M_1|cluster21127      MTKFLKLIYAKILLLSLFLLVTHGTAKILQCTPPEVVKCT---CQCGKRTLMIWKLADKM
+                                                     *:** **:**   *  :*::.:.      .*  *:.: *    * *.             
+
+Medsa|MsatMercedes_NRG001338g01937891_NCR_NCR        -----------------------
+Medsa|MsatMercedes_NRG002434g02145871_NCR_NCR        -----------------------
+Medtr|MtNCR649                                       -----------------------
+CicerAr|cluster21127_contig76814_0M_1                -----------------------
+TriPr|cluster21127_tripr.MilvusB.gnm2.Tp2_14M_1      -----------------------
+TriPr|cluster21127_tripr.MilvusB.gnm2.Tp2_14M_2      -----------------------
+MelOff|crp1430_GJLW01004559.1_0M_1|cluster21127      TALANLWVVSFAYLRTNSTPEFT
+                                                                            

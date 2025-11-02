@@ -1,0 +1,30 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Ps|Psat6g189320.4_NCR                                MSQTLIFIYALITFLSLTFVVTT---KTSIPCVSDEDCPVPFLPIVIKCIDKFCVLSIFQ
+Ps|Psat6g189320.2_NCR                                MSQTLIFIYALITFLSLTFVVTT---KTSIPCVSDEDCPVPFLPIVIKCIDKFCVLSIFV
+Medtr|crp1450_MtrunA17Chr7_29M_1|cluster18425        MARILVFVFSFIVLL-SQFLVVINGS---IPCETTADCPVAVPPEYYKCMYKVCVLIR--
+Medsat|crp1450_GJLK01010060.1_0M_1|cluster18425      MPRLLVFIFAFIVLL-SQFLVVTNGS---IPCETTADCPVAVPPPYYKCMYKVCVLIR--
+Ps|Psat6g189320.3_NCR                                MSQTLIFIYALITFLSLTFVVTT---KTSIPCVSDEDCPVPFLPIVIKCIDKFCVLSIFV
+Ps|Psat6g189320.1_NCR                                MSQTLIFIYALITFLSLTFVVTT---KTSIPCVSDEDCPVPFLPIVIKCIDKFCVLSIFT
+Ps|PsNCR212                                          MAQTLMLVYVLITLFSLSFGVTT--IRSNVRCVSDADCPAVFLPTIFKCIDNFCVLIRPD
+Ps|crp1400_scaffold02086_0M_1|cluster18425           MAQITLFVYVLFISFSLSFAAR---LTTTIRCVSDNDCPEQVLPLVMKCVQEFCELMMFE
+Ps|crp1510_super-scaffold8699_0M_1|cluster18425      MTQILMLIYAFIIFS-SPFLVVT--SETRIPCIHDNDCPVAILPMVVQCIDNFCKFWNAY
+MelOff|crp1430_GJLW01031683.1_0M_1|cluster18425      MAHIFIFVYALIILL-SSFLVEMKGGRTYIECISNADCPVAQPPYVLLCIDKFCTYFRDD
+MelOff|crp1430_GJLW01006206.1_0M_1|cluster18425      MAQNLMLVYALIICL-FPYLVVT--IKTAISCGSDEDCRQMFTPLVLKCIDNVCEQFYMC
+MelOff|crp1400_GJLW01020305.1_0M_1|cluster18425      MAHIFMFVYILIILL-SPFLVESKGKKTLLECISHEDCPLAQLPYVLKCADKFCTYYWAD
+                                                     * :  :::: ::      : .        : *    **     *    *  :.*      
+
+Ps|Psat6g189320.4_NCR                                T-----
+Ps|Psat6g189320.2_NCR                                S-----
+Medtr|crp1450_MtrunA17Chr7_29M_1|cluster18425        ------
+Medsat|crp1450_GJLK01010060.1_0M_1|cluster18425      ------
+Ps|Psat6g189320.3_NCR                                S-----
+Ps|Psat6g189320.1_NCR                                ------
+Ps|PsNCR212                                          KTWG--
+Ps|crp1400_scaffold02086_0M_1|cluster18425           ------
+Ps|crp1510_super-scaffold8699_0M_1|cluster18425      EPKEES
+MelOff|crp1430_GJLW01031683.1_0M_1|cluster18425      DLP---
+MelOff|crp1430_GJLW01006206.1_0M_1|cluster18425      IIL---
+MelOff|crp1400_GJLW01020305.1_0M_1|cluster18425      DIH---
+                                                           

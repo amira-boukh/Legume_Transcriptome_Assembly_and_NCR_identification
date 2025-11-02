@@ -1,0 +1,26 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG008289g02221751_NCR_NCR_NCR      MKNMPQILKCVYLFIIFLSLFHVVTNGA--------------------------------
+Medtr|MtNCR538                                         MKNMTQIPKCVYLFFIFLSLFHVVTNGA--------------------------------
+Medsa|MsatMercedes_NRG000839g01620011_NCR              MKNMPQILKCVYLFIIFLSLFHVVTNGA--------------------------------
+Medsat|cluster28419_GJLK01012831.1_0M_1                MKNMPQILKCVYLFIIFLSLFHVVTNGA--------------------------------
+MelOff|cluster28419_GJLW01007492.1_0M_1                MTSQAQVPNCFYALIIFLSLFVVVTYGS--------------------------------
+AsSin|AsNCR057|cluster28419                            ---MTKIFMFTYALILFFFFFHNLTSGYNLSKTNLIWGDEDHDEDVVVEGSSNGWETWVK
+                                                            ::    * :::*: :*  :* *                                 
+
+Medsa|MsatMercedes_NRG008289g02221751_NCR_NCR_NCR      --------------------LPCATDDDCPNA--------VFFI---VFKCINNICIR--
+Medtr|MtNCR538                                         --------------------LPCAIDVDCPDA--------VFFI---VFKCINNICIR--
+Medsa|MsatMercedes_NRG000839g01620011_NCR              --------------------LPCATDDDCPNA--------VFFI---VFKCINNICIR--
+Medsat|cluster28419_GJLK01012831.1_0M_1                --------------------LLCATDVDCPNA--------VFFI---VFKCINNICIR--
+MelOff|cluster28419_GJLW01007492.1_0M_1                --------------------LKDAVESSSSQFLKDAVETPGFFLCKSSLDCPEDMCLFPK
+AsSin|AsNCR057|cluster28419                            GIRMSYINPKVYKIIAKYTEIPCEIDKDCREYC---------------------------
+                                                                           :    : .. :                             
+
+Medsa|MsatMercedes_NRG008289g02221751_NCR_NCR_NCR      ---------------IETF-----------
+Medtr|MtNCR538                                         ---------------IETF-----------
+Medsa|MsatMercedes_NRG000839g01620011_NCR              ---------------IETF-----------
+Medsat|cluster28419_GJLK01012831.1_0M_1                ---------------IETF-----------
+MelOff|cluster28419_GJLW01007492.1_0M_1                RPFCVEKYVFYFVPRVEKFCECL-------
+AsSin|AsNCR057|cluster28419                            ----NKIFFPKYKCDVNMKCLCRKRVKKAD
+                                                                      ::             

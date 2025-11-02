@@ -1,0 +1,20 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medtr|MtNCR-new47                                    ------MIKIMIIFLFIFCFAMNTEA-FKCKSDDDCHCPPPSKPKSTYFG----------
+Medsa|MsatMercedes_NRG000040g00237561_NCR            ------MIEIMIIFLFIFCFAINTEA-FKCKSDDDCHCPPPLKPKCKYTKCECLTVWIGH
+Medsat|crp1430_GJLK01013592.1_0M_1|cluster18055      MAKIFKFIYVTIIFLFIFLVVTNVEASSRCKSDADCHCPPPLKPKCMHP-----------
+Medsat|cluster18055_GJLK01022914.1_0M_1              ------MIEIMIIFLFIFCFAMNIEA-FKCKSDADCHCEPPLKPKCKCTKCECLTVWIGP
+Medsa|MsatMercedes_NRG000236g00805401_NCR            ------MIEIMIIFLFIFCFAMNTDA-FKCKSDDDCHCPPPLKPKCKYTKCECLTVWIGP
+Medtr|cluster18055_MtrunA17Chr6_02M_1                ------MIKIMIIFLFIFCFAMNTEA-FKCKSDDDCHCPPPSKPKCKYTKCECLTVWMGP
+MelOff|cluster18055_GJLW01007661.1_0M_1              ---MIKFVHVMIIFLFIFFVAMNTEA-FKCKSNTDCHCPPPLKPKCKSSKCNCLTVWTGP
+                                                           :: : ******* .. * :*  :***: **** ** ***.              
+
+Medtr|MtNCR-new47                                    ----------
+Medsa|MsatMercedes_NRG000040g00237561_NCR            KILFPHDSLY
+Medsat|crp1430_GJLK01013592.1_0M_1|cluster18055      ----------
+Medsat|cluster18055_GJLK01022914.1_0M_1              QDFVPT----
+Medsa|MsatMercedes_NRG000236g00805401_NCR            QDFVPT----
+Medtr|cluster18055_MtrunA17Chr6_02M_1                RDYVPT----
+MelOff|cluster18055_GJLW01007661.1_0M_1              QEFVPT----
+                                                               

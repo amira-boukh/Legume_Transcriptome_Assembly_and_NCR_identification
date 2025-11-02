@@ -1,0 +1,71 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|cluster2218_GJLK01062061.1_0M_1                                  ------------------------------------MPFFLSPQIL-------------F
+Medtr|cluster2218_MtrunA17Chr1_10M_1                                    -----------MAEIVKYIYVIIIFLSLFLVATNIEGKLFYRFQIS--FF---------Y
+Medsat|cluster2218_GJLK01008971.1_0M_1                                  -----------MAEILKFVYVIIIFFYAFLVSTLMVIHFLYPFQIF--IL---------Y
+Medsat|cluster2218_GJLK01024206.1_0M_1                                  -----------MAEIVKYVYVIVIFLSLFLVATNIEGKPFYHFQIS--FF---------Y
+Medtr|crp1190_MtrunA17Chr1_21M_1|cluster2218                            -----------MAEIVKYVYVIIIFLSTILVATNIEG-----------------------
+Medsa|MsatMercedes_NRG001130g01829461_NCR                               -----------MVEIVKYVYVIIIFLSLILVAVNIEGKPFLSN--F--LF---------Y
+Medsat|cluster2218_GJLK01024206.1_0M_2                                  -----------MAEIVKYVYVIVIFLSLFLVATNIEGKPFYHFQIS--FF---------Y
+Medsat|cluster2218_GJLK01034919.1_0M_1                                  -----------MADIVNYVYVMIIFVSLFLVATNIEGKQFYHFQIS--FF---------Y
+Medtr|crp1130_MtrunA17Chr2_20M_1|cluster2218                            -----------MAEIVKYVYVIIIFPSLILFA----------------------------
+Medtr|cluster2218_MtrunA17Chr7_12M_1                                    -----------MVEIVKFVCIINIFIFLFLVATNVEV------------S---------Y
+Medsa|MsatMercedes_NRG000227g00785751_NCR                               -----------MVEIVKYVYVIIIFLSLILVAVNIEGKPFLSN--F--LF---------Y
+Ps|cluster2218_super-scaffold2553_0M_1                                  -----------MTRILKFMYVVSIYLFLFFVATTIDGKFFFFQILLFYFF----------
+TriPr|cluster2218_tripr.MilvusB.gnm2.Tp3_07M_1                          -----------MANIVNFVYVMIIFLFVYL--MNVDGEFSLSFTNFLIIT----------
+TriPr|crp1430_tripr.MilvusB.gnm2.scaf_333_0M_1|cluster2218              -----MHERNNMAEILKIIYAMVLLLSLFVDSAKFDLVRVRTFSFFFNFL--------IY
+TriPr|cluster2218_tripr.MilvusB.gnm2.Tp7_24M_1                          -----------MAAILKFIYAMFLFISLFLFATNIDGKLFFYPSNFLLYF---------L
+TriPr|cluster2218_tripr.MilvusB.gnm2.Tp5_02M_1                          -----------MVEIVNFIYVMIIFLSLYHVTKNVVGKSFSNFFLY--------------
+MelOff|crp1210_GJLW01000562.1_0M_2|cluster2218                          -----------MVKVIKFVNVMIIFLFLFYVSMNVEGRPFLAFSNFLSYLQLFFDITHSY
+MelOff|crp1130_GJLW01015435.1_0M_1=cluster2218_GJLW01015435.1_0M_1      -----------MTKTIKYINAMILFLSLILVARNVDGKSFFIFFKFSSFLCSW-------
+MelOff|cluster2218_GJLW01010855.1_0M_1                                  -----------MVGIPKYVLVVIIFLPLFLFAIYVEHDDFL-------------------
+MelOff|cluster2218_GJLW01004910.1_0M_1                                  MAEVVESISSSNKLWQKLVYIMIIFIFIAVLATNVEGMSIITSQIFSITT----------
+AsSin|AsNCR050|cluster2218                                              -----------MAVTLKFVYVMVLLVYVTLVT----------------------------
+                                                                                                                                    
+
+Medsat|cluster2218_GJLK01062061.1_0M_1                                  FILYTTFHPFSFTLFFGLLTVTA--FHGCKDNADCPPV--CT----RRGCPDS-------
+Medtr|cluster2218_MtrunA17Chr1_10M_1                                    FGHNIL-LYFCYLILFSFFITTA-------------------------------------
+Medsat|cluster2218_GJLK01008971.1_0M_1                                  FVNNIS-SHFNYILLFSFFIAAF-------------------------------------
+Medsat|cluster2218_GJLK01024206.1_0M_1                                  FVHDIL-SYNGYIIIISFFITGK-------------------------------------
+Medtr|crp1190_MtrunA17Chr1_21M_1|cluster2218                            -------------------------TMSCFHDADCVHK-RCQLP-QIPKCVGK-K-----
+Medsa|MsatMercedes_NRG001130g01829461_NCR                               SVHDIL-SYFCYIILFSFFITTA--YMSCFHDEDCVHK-RCTAP-QIRKCVGK-I-----
+Medsat|cluster2218_GJLK01024206.1_0M_2                                  FVHDIL-SYFGYIILISFFITGK-------------------------------------
+Medsat|cluster2218_GJLK01034919.1_0M_1                                  FIHNIL-SYFCYIILFVFFITTA-------------------------------------
+Medtr|crp1130_MtrunA17Chr2_20M_1|cluster2218                            ---TIL-LYFRYIILFSFFITTA--IIRCFHDADCVHK-ICHPP-QI-------------
+Medtr|cluster2218_MtrunA17Chr7_12M_1                                    FIHNIL-SYYCYTILFSFFLTAS--FTRCFRDSNC-------------------------
+Medsa|MsatMercedes_NRG000227g00785751_NCR                               SVHDIL-SYFCYIILFSFFITTA--YMSCFHDEDCVHK-RCTAP-QIRKCVGK-I-----
+Ps|cluster2218_super-scaffold2553_0M_1                                  VLYKIF-CLILANTNLSFFIIA---LPECYKDSDCKKCT----M-HKVTCVRG-V-----
+TriPr|cluster2218_tripr.MilvusB.gnm2.Tp3_07M_1                          --LYMI-FYPIIITFFFSFCTTA--VKKCSKTSDCPLH-MCWNY-TFPKCLDN-V-----
+TriPr|crp1430_tripr.MilvusB.gnm2.scaf_333_0M_1|cluster2218              FVHNIL-SYFNNIVLFSYFIIIAPGHLQCEDHADCIGK---VPP-FDLMCIGN-I-----
+TriPr|cluster2218_tripr.MilvusB.gnm2.Tp7_24M_1                          FVHNVL-YTFSNIILFYFFIAA---LVECRSDKECQNM--VAPH-CVMKCINN-R-----
+TriPr|cluster2218_tripr.MilvusB.gnm2.Tp5_02M_1                          FFV----SFPLHFLFFSFFITT---GSGCVQDYDCPQD-MCPPG-LKAKCFYE-T-----
+MelOff|crp1210_GJLW01000562.1_0M_2|cluster2218                          LQLKLL-SHFIYIFLLSFFIIGD--YVSCLRDTDCQTY-ECLSP-LNPKCVLK-QFLKGH
+MelOff|crp1130_GJLW01015435.1_0M_1=cluster2218_GJLW01015435.1_0M_1      ---YII-FYLVLVILFYSFLISA--QLRCLEDFQCQGGGNCVDP-RRWKCKDH-I-----
+MelOff|cluster2218_GJLW01010855.1_0M_1                                  -------------------------HYKCVQDIECRRD-LCKAP-FTPRCLDR-M-----
+MelOff|cluster2218_GJLW01004910.1_0M_1                                  ---Y----MIFYLILTTFFFIT---AILCINHFNCRKY-ECKPP-QKPWCVIFTQYLENR
+AsSin|AsNCR050|cluster2218                                              -------------------------SEECLHDSDCEKN-TCTPPDAERKCIDF-F-----
+                                                                                                                                    
+
+Medsat|cluster2218_GJLK01062061.1_0M_1                                  -----------------------------------
+Medtr|cluster2218_MtrunA17Chr1_10M_1                                    -----------------------------------
+Medsat|cluster2218_GJLK01008971.1_0M_1                                  -----------------------------------
+Medsat|cluster2218_GJLK01024206.1_0M_1                                  -----------------------------------
+Medtr|crp1190_MtrunA17Chr1_21M_1|cluster2218                            -----CRCRGQY-----------------------
+Medsa|MsatMercedes_NRG001130g01829461_NCR                               -----CKCKLVITQKDYVLT---------------
+Medsat|cluster2218_GJLK01024206.1_0M_2                                  -----------------------------------
+Medsat|cluster2218_GJLK01034919.1_0M_1                                  -----------------------------------
+Medtr|crp1130_MtrunA17Chr2_20M_1|cluster2218                            -----------------------------------
+Medtr|cluster2218_MtrunA17Chr7_12M_1                                    -----------------------------------
+Medsa|MsatMercedes_NRG000227g00785751_NCR                               -----CKCKLVITQKDYVLT---------------
+Ps|cluster2218_super-scaffold2553_0M_1                                  -----CKCIVTVPRNI-------------------
+TriPr|cluster2218_tripr.MilvusB.gnm2.Tp3_07M_1                          -----CKCIKGSP----------------------
+TriPr|crp1430_tripr.MilvusB.gnm2.scaf_333_0M_1|cluster2218              -------CVIVIFDNAVMQSP--------------
+TriPr|cluster2218_tripr.MilvusB.gnm2.Tp7_24M_1                          -----CKCFI-------------------------
+TriPr|cluster2218_tripr.MilvusB.gnm2.Tp5_02M_1                          -----CLCAGKMLQ---------------------
+MelOff|crp1210_GJLW01000562.1_0M_2|cluster2218                          FNRLQCQCV--------------------------
+MelOff|crp1130_GJLW01015435.1_0M_1=cluster2218_GJLW01015435.1_0M_1      -----CRCLLPLQV---------------------
+MelOff|cluster2218_GJLW01010855.1_0M_1                                  -----CVCRLWR-----------------------
+MelOff|cluster2218_GJLW01004910.1_0M_1                                  WGK--CTCF--------------------------
+AsSin|AsNCR050|cluster2218                                              -----CACGDNYTLEDYLSTIPKRVHKLPLGRILH
+                                                                                                           

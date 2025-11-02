@@ -1,0 +1,28 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medtr|cluster28872_MtrunA17Chr7_30M_2                ------MVETLRLFYIMILFVSLYLVVVDGVSKLAQSCSEDFECYIKNPHAP---FGQLR
+Medsat|cluster28872_GJLK01015594.1_0M_1              MFYDSVVAETLKIVYIVILLVSLCLVVVDGISILV-RCESTSDCYTAFKFAPESYRESAL
+Medsat|cluster28872_GJLK01014396.1_0M_1              ------MVETLRLFYIMILFVFLCLVVVDGESKLEQTCSEDFECYIKNPHVP---FGHLR
+Medsat|cluster28872_GJLK01014396.1_0M_2              ------MVETLRLFYIMILFASLCLVVVDGISKLEQTCSEDFECYIKNPHVP---FGHLR
+Medtr|cluster28872_MtrunA17Chr7_10M_2                ------MAETLKIVYIVILLVFLCLVVVDGISIYV-RCASTNECYTTFKFAPR---GSMR
+Medtr|MtNCR-new69                                    ------MAETLKIVYIVILLVFLCLVVVDGISIYV-RCASTNECYTTFKFAPR---GSMR
+Medsat|cluster28872_GJLK01005820.1_0M_1              ------MVETLKIVYIVILLVSLCLVVVDGTSIYV-RCASVNDCYTTFKFAPP---GSMR
+Medtr|MtNCR452                                       ------MAETLKIVYIVILLVSLCLVVVDGISIYV-RCASTNECYTTFKFAPL---GSMR
+Medsat|crp1530_GJLK01015594.1_0M_1|cluster28872      MFYDSVVAETLKIVYIVILLVSLCLVVVDGISILV-RCESTSDCYTAFKFAPESALKVIV
+Medsat|cluster28872_GJLK01014772.1_0M_2              ------MAETLKIVYIVNLMVSLCLVDVDDISIYV-HCASTSDCYTTFKFAPQSYRRSMR
+Medtr|cluster28872_MtrunA17Chr7_30M_1                ------MVETLRLFYIMILFVSLCLVVVDGESKLEQTCSEDFECYIKNPHVP---FGHLR
+                                                           :.***::.**: *:. * ** **. *     * .  :**    ..*        
+
+Medtr|cluster28872_MtrunA17Chr7_30M_2                CFEGYCQRL----------------------
+Medsat|cluster28872_GJLK01015594.1_0M_1              K------------------------------
+Medsat|cluster28872_GJLK01014396.1_0M_1              CFEGFCQQL----------------------
+Medsat|cluster28872_GJLK01014396.1_0M_2              CFEGFCQQL----------------------
+Medtr|cluster28872_MtrunA17Chr7_10M_2                CLEGYCKHLK---------------------
+Medtr|MtNCR-new69                                    CLEGYCKHLKNFKAKHSEKRNR---------
+Medsat|cluster28872_GJLK01005820.1_0M_1              CVKGYCRYLK---------------------
+Medtr|MtNCR452                                       CVEGYCKHLKDFKVKTPLQIKEITPLLLHFP
+Medsat|crp1530_GJLK01015594.1_0M_1|cluster28872      M------------------------------
+Medsat|cluster28872_GJLK01014772.1_0M_2              CVKGYCR------------------------
+Medtr|cluster28872_MtrunA17Chr7_30M_1                CFEGFCQQL----------------------
+                                                                                    

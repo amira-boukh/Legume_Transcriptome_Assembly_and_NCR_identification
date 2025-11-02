@@ -1,0 +1,50 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG180738g02688631_NCR_NCR                                                                                        ----------MDAVLKFVYTMILYIFLLHVVAE----------DFPFHKCEKDEDCLEIC
+Medtr|MtNCR215b                                                                                                                      ----------MDAVLKFVYTMILYLFLLHVIAE----------DFPFHKCEKDEDCLEIC
+Medsa|MsatMercedes_NRG051805g02424551_NCR_NCR                                                                                        ----------MDAVLKFVYTMILYIFLLHVVAE----------DFPFHKCEKDEDCLEIC
+Medsat|cluster22453_GJLK01038022.1_0M_1                                                                                              MAAILFVYITILYLFFFLRETILYLFLLHVVAE----------GLLIHECNRDKDCHISC
+Medsat|crp1240_GJLK01005924.1_0M_1|cluster22453                                                                                      --------------------MILYIFLLHAVAE----------DLPFHKCEKDEDCLEAC
+Medtr|crp1240_MtrunA17Chr6_01M_08|cluster22453                                                                                       -----MRINMTAAILKFVYTIIIYLFLLRVVAK----------DLPFNICEKDEDCLEFC
+MelOff|crp1240_GJLW01000504.1_0M_1|cluster22453                                                                                      --------------------MILYLFILHVVAN----------DFPFDNCTRDEDCVEIC
+MelOff|crp1240_GJLW01011835.1_0M_1=cluster22453_GJLW01011835.1_0M_1                                                                  --------------------MIIYLFVLHVVAE----------GLSIYEGKEDEDCRHIC
+MelOff|crp1240_GJLW01023377.1_0M_1=cluster22453_GJLW01023377.1_0M_1                                                                  ----------MVALLKFVYLIILFFFLLHVVAE----------ESQIHRCTRDEDCPEIC
+MelOff|crp1240_GJLW01018263.1_0M_1=crp1240_GJLW01018263.1_0M_2=cluster22453_GJLW01018263.1_0M_1=cluster22453_GJLW01018263.1_0M_      ----------MVAILKFVYIMILYLFLLHVVAK----------DRPFHECNTDEDCLEIC
+MelOff|crp1240_GJLW01021309.1_0M_1=cluster22453_GJLW01021309.1_0M_1                                                                  --------------------MILYLFLIHVVAQ----------KWS-QDCYTEEDCVDVC
+MelOff|crp1240_GJLW01013286.1_0M_2=cluster22453_GJLW01013286.1_0M_1                                                                  ----------MVAILKFIYIMILYLFILHVVAD----------DFPFNKCTRDEDCVEIC
+MelOff|cluster22453_GJLW01000504.1_0M_1                                                                                              ----------MVAILKFIYLMILYLFILHVVAN----------DFPFDNCTRDEDCVEIC
+AsSin|AsNCR059|cluster22453                                                                                                          ----------MVKCLKCISALIIFLFLFVHLTIGYQFLHNMSFHQSNLLCEKNKDCKEYC
+                                                                                                                                                          *:::*::  ::                    ::**   *
+
+Medsa|MsatMercedes_NRG180738g02688631_NCR_NCR                                                                                        AEDEM--AMCILN-VCFCY-----------------------------------------
+Medtr|MtNCR215b                                                                                                                      ADDQM--AMCILN-VCFCY-----------------------------------------
+Medsa|MsatMercedes_NRG051805g02424551_NCR_NCR                                                                                        AEDEM--AMCILN-VCFCY-----------------------------------------
+Medsat|cluster22453_GJLK01038022.1_0M_1                                                                                              VPPEH--PKCIA------------------------------------------------
+Medsat|crp1240_GJLK01005924.1_0M_1|cluster22453                                                                                      AHAQM--AQCVLN-NCVCY-----------------------------------------
+Medtr|crp1240_MtrunA17Chr6_01M_08|cluster22453                                                                                       AHDKV--AKCMLN-ICFC------------------------------------------
+MelOff|crp1240_GJLW01000504.1_0M_1|cluster22453                                                                                      DPSEI--PKCILN-ICFCF-----------------------------------------
+MelOff|crp1240_GJLW01011835.1_0M_1=cluster22453_GJLW01011835.1_0M_1                                                                  APPEL--PTKRRRGQEFDYVSILHVVAEDFPIYEGKEDEDCRHICAPPELPTKRRGWGSN
+MelOff|crp1240_GJLW01023377.1_0M_1=cluster22453_GJLW01023377.1_0M_1                                                                  VLPKI--KKCVAN-MCFCFI----------------------------------------
+MelOff|crp1240_GJLW01018263.1_0M_1=crp1240_GJLW01018263.1_0M_2=cluster22453_GJLW01018263.1_0M_1=cluster22453_GJLW01018263.1_0M_      DPSEI--PKCINK-ICMCY-----------------------------------------
+MelOff|crp1240_GJLW01021309.1_0M_1=cluster22453_GJLW01021309.1_0M_1                                                                  TTPEI--PKCIFK-MCICF-----------------------------------------
+MelOff|crp1240_GJLW01013286.1_0M_2=cluster22453_GJLW01013286.1_0M_1                                                                  DPSEI--PKCILN-ICFCF-----------------------------------------
+MelOff|cluster22453_GJLW01000504.1_0M_1                                                                                              DPSEI--PKCILN-ICFCF-----------------------------------------
+AsSin|AsNCR059|cluster22453                                                                                                          TNRGSTSFRCTSKKMCICIDPVTKRR---APLTQKRN-----------------------
+                                                                                                                                                                                                 
+
+Medsa|MsatMercedes_NRG180738g02688631_NCR_NCR                                                                                        --------
+Medtr|MtNCR215b                                                                                                                      --------
+Medsa|MsatMercedes_NRG051805g02424551_NCR_NCR                                                                                        --------
+Medsat|cluster22453_GJLK01038022.1_0M_1                                                                                              --------
+Medsat|crp1240_GJLK01005924.1_0M_1|cluster22453                                                                                      --------
+Medtr|crp1240_MtrunA17Chr6_01M_08|cluster22453                                                                                       --------
+MelOff|crp1240_GJLW01000504.1_0M_1|cluster22453                                                                                      --------
+MelOff|crp1240_GJLW01011835.1_0M_1=cluster22453_GJLW01011835.1_0M_1                                                                  PGHLTSPH
+MelOff|crp1240_GJLW01023377.1_0M_1=cluster22453_GJLW01023377.1_0M_1                                                                  --------
+MelOff|crp1240_GJLW01018263.1_0M_1=crp1240_GJLW01018263.1_0M_2=cluster22453_GJLW01018263.1_0M_1=cluster22453_GJLW01018263.1_0M_      --------
+MelOff|crp1240_GJLW01021309.1_0M_1=cluster22453_GJLW01021309.1_0M_1                                                                  --------
+MelOff|crp1240_GJLW01013286.1_0M_2=cluster22453_GJLW01013286.1_0M_1                                                                  --------
+MelOff|cluster22453_GJLW01000504.1_0M_1                                                                                              --------
+AsSin|AsNCR059|cluster22453                                                                                                          --------
+                                                                                                                                             

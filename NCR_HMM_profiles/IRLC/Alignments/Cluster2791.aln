@@ -1,0 +1,32 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Ps|PsNCR18                                                              ----------MAESFKFVYAIVLFIFLFLVAIEAGGG---------RVECETQEDCPQSP
+Medtr|MtNCR100                                                          ----------MIETLKFVYAMILFLSLFLITSEVGGL---------YIGCETDRDYPPLA
+Ps|PsNCR119                                                             ----------MAEILKFVYTIILFLSLFLVTTIISDG---------HIKCENDVDCPHSV
+Medtr|cluster2791_MtrunA17Chr5_32M_3                                    ----------MVEIHKFVFAMIQFISLFLITIEVGRL---------RYGCETDADCPRYT
+Medtr|cluster2791_MtrunA17Chr5_32M_2                                    MTETLKFVVTKKKTLKFVYAMILFLSFFLIASEVGGS---------HFGCETDADCPRST
+Ps|crp1430_scaffold01316_0M_1|cluster2791                               ----------MAESFKFVYAIVLFIFLFLVAIEAGGG---------RIECETEEDCPQSP
+Ps|cluster2791_scaffold01316_0M_1                                       ----------MAKIIKFVCSMILYLSLFLVTMKVGSE----------DICEADEDCPQSD
+TriPr|cluster2791_tripr.MilvusB.gnm2.scaf_602_0M_1                      ----------MIEILKFVCGFILFVSLFFIATEVA-A---------HIQCETDGDCPQSL
+TriPr|crp1410_tripr.MilvusB.gnm2.scaf_6428_0M_1|cluster2791             ----------MTKILKFIFVTALFLSLVFVATEVGGEYIN---NENNIDCETDADCPKSV
+TriPr|cluster2791_tripr.MilvusB.gnm2.Tp2_16M_1                          ----------MADTLKFIFTMILFFLLFLVPMKASGGKPFSHPFKAYIDCKTNEDCPESV
+MelOff|cluster2791_GJLW01025307.1_0M_2                                  ----------MAEMLKFVYTMILFIFLFFIAIEVGGE---------HSKCETDTDCPWSM
+MelOff|crp1410_GJLW01022505.1_0M_1=cluster2791_GJLW01022505.1_0M_1      ----------MVQILKFVYPMILLFSLFLIAAKFGGA---------YNECETDDGCPKSG
+MelOff|crp1420_GJLW01017299.1_0M_1=cluster2791_GJLW01017299.1_0M_1      ----------MAKTLKFVYAMILFSSLFVVALTAGLG----------EPCESDDDCPKIN
+                                                                                    .  **:        :..:    .              *: : . *   
+
+Ps|PsNCR18                                                              NIFYVIKCIHYFCEWVVEDFDLIP---------
+Medtr|MtNCR100                                                          NKTFYLKCIDKKCEWTVTDSLSTRSGRMQKLSI
+Ps|PsNCR119                                                             NMFYTIKCIDLKCEAIQIL--------------
+Medtr|cluster2791_MtrunA17Chr5_32M_3                                    HNNFSLKCINKKCEWSAKLH-------------
+Medtr|cluster2791_MtrunA17Chr5_32M_2                                    DKNFFLRCINKKCEWAAKRH-------------
+Ps|crp1430_scaffold01316_0M_1|cluster2791                               STFYLIKCIHYFCEWVVEYKNTLLLF-------
+Ps|cluster2791_scaffold01316_0M_1                                       NVFYVIKCIGNKCEESTKHF-------------
+TriPr|cluster2791_tripr.MilvusB.gnm2.scaf_602_0M_1                      DEYFKIQCIDRKCEWINTKHL------------
+TriPr|crp1410_tripr.MilvusB.gnm2.scaf_6428_0M_1|cluster2791             NMCFIFKCIDKKCKLIENLV-------------
+TriPr|cluster2791_tripr.MilvusB.gnm2.Tp2_16M_1                          NEHYTIICIDYKCETIRIPPTSGLIW-------
+MelOff|cluster2791_GJLW01025307.1_0M_2                                  DEYFVLKCIDKKCELVTRIH-------------
+MelOff|crp1410_GJLW01022505.1_0M_1=cluster2791_GJLW01022505.1_0M_1      NLVYVYKCIDQKCELVAAHL-------------
+MelOff|crp1420_GJLW01017299.1_0M_1=cluster2791_GJLW01017299.1_0M_1      LRFFGIKCKENICIYVDLDPYKPRAGKNEFLH-
+                                                                           :   *    *                    

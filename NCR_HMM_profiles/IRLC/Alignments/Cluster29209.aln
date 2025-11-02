@@ -1,0 +1,18 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG000052g00286111_NCR                                ---------------MDEVFKFVYIIIIFISLIL-VATNAEKIRRCFNDAHCPPDMCTLG
+Medsa|MsatMercedes_NRG000245g00823691_NCR_NCR_NCR_NCR                    MSFIDYKMIKPFVGNMDEVFKFLYVMIIFLSLIL-AATNAEKIRRCFNDAHCPPDMCTLG
+Medsa|MsatMercedes_NRG000798g01582071_NCR_NCR_NCR                        MSFIDYKMIKPFVGNI-EVFKFLYVMIIFLSLIL-AATNAEKIRRCFNDAHCPPDMCTIG
+Medtr|MtNCR284                                                           ---------------MDKVYKFVYVMIIFFSQII-VATNAQKIRRCFNDAHCPPDMCTPG
+Medtr|cluster29209_MtrunA17Chr3_11M_3                                    ---------------MDEVFKFVYVMIIFPFLILDVATNAEKIRRCFNDAHCPPDMCTLG
+MelOff|crp1190_GJLW01030747.1_0M_1=cluster29209_GJLW01030747.1_0M_1      ---------------MDKIFMFVSVMIIFFSLFL-VATNAEKIKRCFNDAHCPPNMCPDG
+                                                                                        : ::: *: ::***   :: .****:**:**********:**  *
+
+Medsa|MsatMercedes_NRG000052g00286111_NCR                                VIPKC-RFTICKC-----
+Medsa|MsatMercedes_NRG000245g00823691_NCR_NCR_NCR_NCR                    VIPKC-RFTICKC-----
+Medsa|MsatMercedes_NRG000798g01582071_NCR_NCR_NCR                        VIPKC-RFTICKC-----
+Medtr|MtNCR284                                                           VIPKC-KFTICKC-----
+Medtr|cluster29209_MtrunA17Chr3_11M_3                                    VIPKCSRFTICIC-----
+MelOff|crp1190_GJLW01030747.1_0M_1=cluster29209_GJLW01030747.1_0M_1      IKPRC-RFTICKCIPGGI
+                                                                         : *:* :**** *     

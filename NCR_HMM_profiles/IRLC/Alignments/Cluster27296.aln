@@ -1,0 +1,42 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|cluster27296_GJLK01003893.1_0M_2                          -MKYTYVMTLFLFLFLIAINVNALFV-------CRSVTECPEIFCVPPLITRCVNYTCIC
+Medsat|crp1230_GJLK01003215.1_0M_1|cluster27296                  -MKYVYVMTLFISLFLIAINVNGVSNS-SVKETFRGVPDCPENFCVPPLTIRCINYTCIC
+Medsat|cluster27296_GJLK01054943.1_0M_1                          -MKFVYVMTFFLSLFIISTNIN-------ALHECQSVHDCPDNFCAPPLITRCVNYTCIC
+Medsat|crp1230_GJLK01024420.1_0M_2|cluster27296                  -MKFIYIMILFLSLFLVQFL-----TCKGLTVPCENPTTCPEDFCTPPMITRCINFICLC
+Medsat|cluster27296_GJLK01003215.1_0M_1                          -MKYVYVMILFISLFLVAMNVNALYV-------CRSVSDCPENFCVPPLTIRCVNYICIC
+Medsat|cluster27296_GJLK01003215.1_0M_2                          -MKYVYVMILFISLFLVAMNVNALYV-------CRSVSDCPENFCVPPLTIRCVNYICIC
+Medsa|MsatMercedes_NRG001055g01782701_NCR                        -MKYTYVMTLFLFLFLIAMNVNAIYV-------CRKVAECPENFCVPPLITRCVNYTCIC
+Medsa|MsatMercedes_NRG000143g00579031_NCR                        -MKYTYVMTLFLFLFLIAMNVNAIYV-------CRKVAECPENFCVPPLITRCVNYTCIC
+Medsat|cluster27296_GJLK01024420.1_0M_1                          -MKFIYVMILFISLFLAQFL-----TCKGLTVPCQNAASCPENFCTPPKFTRCINFICLC
+Medtr|MtNCR657                                                   MKKYTYVMTLILFLFLIAMNVNALYV-------CRKVAECPENFCVPPLITKCVNYTCIC
+CicerAr|CaNCR48                                                  -------MTLVTFLFLISTNVHAFIE-------CEKHEQCPIDMCKLYWLVRCYKYKCNC
+TriPr|cluster27296_tripr.MilvusB.gnm2.scaf_535_0M_2              -MAQIFNLFIILSLFL---------VVTNGKVGCDRHGDCPRSICVYPWVVRCFNYVCDC
+TriPr|cluster27296_tripr.MilvusB.gnm2.scaf_535_0M_1              ------MFVCNIPL-F---------LFDFAEVDCESAGDCPRSLCVYPWIVRCINYICDC
+TriPr|crp1220_tripr.MilvusB.gnm2.scaf_535_0M_2|cluster27296      --MNIYFYFCIIHLF----------LFDFAEVGCDRHGDCPRSICVYPWVVRCFNYVCDC
+MelOff|crp1150_GJLW01016173.1_0M_1|cluster27296                  -MKFVYVMTFFLSLFLISTNINVFCFLITALHECQSVHDCPDNFCAPPLITRCVNYTCIC
+MelOff|crp1230_GJLW01021147.1_0M_1|cluster27296                  -MKFVYVMTLFLSLFLISTNINALYVC------RRSVSECPENFCVPPLITRCVNYTCIC
+MelOff|crp1230_GJLW01027815.1_0M_1|cluster27296                  -MKFIYVMILFISLFLAQFL-----TCKGLTVPCQNAASCPENFCTPPKFTRCINFICLC
+MelOff|cluster27296_GJLW01042514.1_0M_1                          -MKFVYVMTLFLSLFLISTNTNAHYK-------CCSFLDCPENFCLPGFILRCVNYTCIC
+                                                                              *                         **  :*      :* :: * *
+
+Medsat|cluster27296_GJLK01003893.1_0M_2                          DDP-AHGEP-------------------------------------
+Medsat|crp1230_GJLK01003215.1_0M_1|cluster27296                  DD--------------------------------------------
+Medsat|cluster27296_GJLK01054943.1_0M_1                          DDP-TYGIP-------------------------------------
+Medsat|crp1230_GJLK01024420.1_0M_2|cluster27296                  DGP-EYA---------------------------------------
+Medsat|cluster27296_GJLK01003215.1_0M_1                          DDP-PYGEP-------------------------------------
+Medsat|cluster27296_GJLK01003215.1_0M_2                          DDP-PYGEP-------------------------------------
+Medsa|MsatMercedes_NRG001055g01782701_NCR                        DDP-AYGEPLYDYNDDFIK---R-----------------------
+Medsa|MsatMercedes_NRG000143g00579031_NCR                        DDP-AYGEPLYDYNDDFIK---R-----------------------
+Medsat|cluster27296_GJLK01024420.1_0M_1                          DDP-EYA---------------------------------------
+Medtr|MtNCR657                                                   DDP-AYGEPIYDFVSVRTE---KQKIKIKR----------------
+CicerAr|CaNCR48                                                  VNVWGYGEPIWDSKQNKCK--KE-----------------------
+TriPr|cluster27296_tripr.MilvusB.gnm2.scaf_535_0M_2              ----EYGKPPTRGNGGIWP----RKFSTQKSNSSSYERFIF-----
+TriPr|cluster27296_tripr.MilvusB.gnm2.scaf_535_0M_1              ----EYGNPPTRGNRNRKG----NRVWL------------------
+TriPr|crp1220_tripr.MilvusB.gnm2.scaf_535_0M_2|cluster27296      ----EYGKPPTRGNGGIWP----RKFSTQKSNSSSYERFIF-----
+MelOff|crp1150_GJLW01016173.1_0M_1|cluster27296                  DDP-AYGILKIDYNSDSYTCSMREKPKIKNEKKMMRQREIMMEIET
+MelOff|crp1230_GJLW01021147.1_0M_1|cluster27296                  DDP-AYGIPKIDYNSDFVG-VRRQNPKIKNEEKM---REMMIEIEN
+MelOff|crp1230_GJLW01027815.1_0M_1|cluster27296                  DDP-EYAEPEYDSDDDFVS----VKPKIKNENMMMIEREMMNEIET
+MelOff|cluster27296_GJLW01042514.1_0M_1                          DNP-AYGIQKIDYNGDFVS-VKREKQRIKNEEKMMREREMMIEKEI
+                                                                                                               

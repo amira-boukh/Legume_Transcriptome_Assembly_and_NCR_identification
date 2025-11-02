@@ -1,0 +1,24 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medtr|MtNCR007                                       ----------------MAQFLLFIYSLIIFLSLFFGEAAYERTEPIMHNGEP--------
+Medtr|MtNCR-new56                                    ----------------MAQFLLFIYSLIIFLSLFFGEAAYERTEPIMHNGEP--------
+Medtr|MtNCR-new57                                    ----------------MAQLLLFIYSLIIFLSLFFGEAALERTETTMHNVQP--------
+Medsat|crp1470_GJLK01019095.1_0M_1|cluster29687      ----------------MAQFLLFIYFLIIFLSLFLGEAAFERIETTMCSRRE--------
+Medsat|cluster29687_GJLK01028814.1_0M_1              ----------------MAQFLLFVYSLIIFLSLFFGEAAFERTATTML------------
+Medsat|cluster29687_GJLK01024012.1_0M_1              ----------------MARFLLFIYSLIIFLSLFLGEGAFERTETTMHGLKNFVWAPTSW
+Medtr|cluster29687_MtrunA17Chr6_30M_4                ----------------MVRFLMFVYSLIIFFSLFFGEAAIERTEPMLT------------
+Medtr|cluster29687_MtrunA17Chr6_30M_5                MDRNRIKFKKLTLGFMSEYLQRFIYFLIIFLSLFLGEAAFERTETMLT------------
+Medtr|MtNCR005                                       ----------------MAQLLLFIYSLIIFLSLFFGEAALERTETTMHNVQP--------
+                                                                        :  *:* ****:***:**.* **    :             
+
+Medtr|MtNCR007                                       INLIPCVTVADCPRMDEPLHMTCLVGACWPCIRSLY
+Medtr|MtNCR-new56                                    INLIPCVTVADCPRMDEPLHMTCLVGACWPCIRSLY
+Medtr|MtNCR-new57                                    SHFIPCFTAADCPMIDEPHYIECVTGFCWALMRNLH
+Medsat|crp1470_GJLK01019095.1_0M_1|cluster29687      -YAVPCVSNSDCPKAVEPYYTKCVD-----------
+Medsat|cluster29687_GJLK01028814.1_0M_1              --TIPCTSDANCPKVISPCHTKCFDGFCGW------
+Medsat|cluster29687_GJLK01024012.1_0M_1              FWVFPCVSDADCPKMG--------------------
+Medtr|cluster29687_MtrunA17Chr6_30M_4                TYLILCVSEADCPKVVKPNYTMCAGGIC--------
+Medtr|cluster29687_MtrunA17Chr6_30M_5                TYAIPCVSNGDC------------------------
+Medtr|MtNCR005                                       SHFIPCFTAADCPMIDEPHYIECVTGFCWALMRNLH
+                                                        . * : .:*                        

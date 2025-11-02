@@ -1,0 +1,23 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG002337g02140851_NCR_NCR        ------------------------------------------------------------
+Medtr|MtNCR-new83                                    ------------------------------------------------------------
+TriPr|cluster52290_tripr.MilvusB.gnm2.Tp3_27M_2      ------------------------------------------------------------
+TriPr|cluster52290_tripr.MilvusB.gnm2.Tp3_27M_1      ------------------------------------------------------------
+AsSin|AsNCR061|cluster52290                          MVKCLNYFSALILLLFLFVHLITRYQFLKNNPILGDQNEGEDVEQTEGGRGLGGKFRNKG
+                                                                                                                 
+
+Medsa|MsatMercedes_NRG002337g02140851_NCR_NCR        -MVQNLKFAYALIIVLSLFLVEF------DW---TYTHVTCKKNADCPKYLCML-PLKPK
+Medtr|MtNCR-new83                                    -MVQNLKFAYALIIVLSLFLVEF------DW---TYTHVQCRKNADCPKYLCML-PLKPK
+TriPr|cluster52290_tripr.MilvusB.gnm2.Tp3_27M_2      -MPQNHKFVYILIIFLSLSLGVV------RAGK-QHQFIRCKKNADCPKYMCA--PMKVK
+TriPr|cluster52290_tripr.MilvusB.gnm2.Tp3_27M_1      -MPQNHKFVYILIIFLSLFLGVV------YAGHKEHLYSQCKKKADCPKYMCA--PFKVK
+AsSin|AsNCR061|cluster52290                          MIIIQSFFHYLFIIQIFYFNNINNIGPYLYYMLGHHSDVPCERNHDCYEYCTKRGAIAYR
+                                                      :  :  * * :** :                   :    *.:: ** :*      :  :
+
+Medsa|MsatMercedes_NRG002337g02140851_NCR_NCR        CNETFWCTCIDRN-----------
+Medtr|MtNCR-new83                                    CKETFWCTCIEKERL---------
+TriPr|cluster52290_tripr.MilvusB.gnm2.Tp3_27M_2      CNIDLYCKCIALGLDRAGTHCFSL
+TriPr|cluster52290_tripr.MilvusB.gnm2.Tp3_27M_1      C-VEFYCKCMDLSHMDRLQ-----
+AsSin|AsNCR061|cluster52290                          CSSTKWCICIDRVLRD--------
+                                                     *    :* *:              

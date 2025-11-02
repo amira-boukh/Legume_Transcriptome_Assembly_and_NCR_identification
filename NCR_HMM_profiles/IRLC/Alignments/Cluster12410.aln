@@ -1,0 +1,56 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Ps|PsNCR276                                          ----MAVILKLFYVWIFYISLFLATSLVAGKFA---------------------------
+Ps|PsNCR208                                          ----MTKILKLFCISIFYISLFVTTSHAGASFA---------------------------
+Ps|PsNCR305                                          ----MAEILKLFYIWILYVSLFLFTSHVVGKLIK--------------------------
+Ps|PsNCR205                                          ----MAEILKLFYIWFFYVLLFVTTSHAVERYK---------------------------
+Ps|PsNCR150                                          ----MAEITKLFYIWILYISLIVVTSHVIG----------------------------ES
+Ps|PsNCR169                                          ----MAEITKLFYIWILYISLIVVTSHVVGKSFFSFFLNFLHYFIVCNIGLPSLVNAGES
+Ps|cluster12410_chr1LG6_366M_4                       ----MAEILKLFYIWFFYVLLFVTRSHAVDKPLYLYFFF-LIYFKLSRCH--------RI
+Ps|cluster12410_chr1LG6_366M_5                       MKFTCYKEIKLFYIWIFYILLYVATSHVVGKLILLYT--FLSNFLY---------TSKMI
+Ps|cluster12410_chr1LG6_366M_6                       ----MAEILKLFYIWFFYVLLFVTTSHAVERYK---------------------------
+Ps|cluster12410_chr7LG7_044M_1                       ----MAEILKLFYIWFFYVLLFVTRSHAVERYK---------------------------
+Ps|cluster12410_chr7LG7_044M_2                       ----MAEILKLFYIWFFYVLLFVTRSHAVERYK---------------------------
+Ps|cluster12410_chr1LG6_365M_2                       ----MTEILKLFYIWIFYISLLHATSHVVGKIS---------------------------
+Ps|cluster12410_chr1LG6_365M_1                       ----MAVILKLFYVWIFYISLFLATSLVAGKFA---------------------------
+Ps|cluster12410_chr1LG6_366M_1                       ----MAEILKLFYIWFSYILLFVTTSHAVERYK---------------------------
+Ps|cluster12410_chr1LG6_363M_1                       ----MAEILKLFYIWFFYVLLFGTRSHAV-GYK---------------------------
+MelOff|crp1280_GJLW01013629.1_0M_1|cluster12410      ----MAKTLKSFYAMILFLSLFLVADIVGVSLFHSLFF--------------------SN
+                                                              * *   : :: *    . .                                
+
+Ps|PsNCR276                                          --KLSLKCEIDADCPKT-VIMGADIIQAAGSR-----------TSNLKKGRACYFLTCET
+Ps|PsNCR208                                          --KLHYKCEADADCPNV-VTKLISIKC---------------------IDRFCHIIYKE-
+Ps|PsNCR305                                          --FPILKCKTVADCPKF-ITKWVAIMC---------------------VDQCCAIVY---
+Ps|PsNCR205                                          --LLPYECRVDKDCPSY-IYHPQIVKC---------------------INLFCRIVYQD-
+Ps|PsNCR150                                          I-KFHLKCAITDDCPNF-KGKFVAIEC---------------------IDHFCHIVF---
+Ps|PsNCR169                                          I-KFHLKCAITDDCPNF-KGKFVAIEC---------------------IDHFCHIVF---
+Ps|cluster12410_chr1LG6_366M_4                       CAIFSFELIVEDKTKIKQIFKNLNIYFLTHVKLMKIVLENYIITKSL-NASICFAVLYTR
+Ps|cluster12410_chr1LG6_366M_5                       C-LLPLECEVDADYLKKIIIKSIILKC---------------------INHFCHIVCISV
+Ps|cluster12410_chr1LG6_366M_6                       --LLPYECEVDEDCPRY-IHHPQIMKC---------------------INLFCRIVYQD-
+Ps|cluster12410_chr7LG7_044M_1                       --FLPYECKVDQDCPRE-LYHKHIVKC---------------------INLFCCIVYQD-
+Ps|cluster12410_chr7LG7_044M_2                       --FLPYECEVDQDCPRE-LYHKHIVKC---------------------INLFCCIVYQD-
+Ps|cluster12410_chr1LG6_365M_2                       --KLPIKCQVDADCLKG-PQKVILIKC---------------------IDHFCQMIYYD-
+Ps|cluster12410_chr1LG6_365M_1                       --KLSLKCEIDADCPKV-ISKLISIKC---------------------INRFCQIIH---
+Ps|cluster12410_chr1LG6_366M_1                       --LLPYECEVDKDCPRE-LYPQYIVKC---------------------ISLFCRIVYQN-
+Ps|cluster12410_chr1LG6_363M_1                       --LLPYGCEVDQDCPRK-LYHQQIVKC---------------------IDLFCRIVYQD-
+MelOff|crp1280_GJLW01013629.1_0M_1|cluster12410      AAILRKKCRTDLDCPRVRKTLSNITYR-------------YI-----CYANLCRLYY---
+                                                                 .                                       *       
+
+Ps|PsNCR276                                          PNGDEILEHLFVGPTKKIIDVLVRGRLPTW-
+Ps|PsNCR208                                          -------------------------------
+Ps|PsNCR305                                          -------------------------------
+Ps|PsNCR205                                          -------------------------------
+Ps|PsNCR150                                          -------------------------------
+Ps|PsNCR169                                          -------------------------------
+Ps|cluster12410_chr1LG6_366M_4                       ITDLK----ICY--------------MEKYQ
+Ps|cluster12410_chr1LG6_366M_5                       FVAL--LNYVC--------------------
+Ps|cluster12410_chr1LG6_366M_6                       -------------------------------
+Ps|cluster12410_chr7LG7_044M_1                       -------------------------------
+Ps|cluster12410_chr7LG7_044M_2                       -------------------------------
+Ps|cluster12410_chr1LG6_365M_2                       -------------------------------
+Ps|cluster12410_chr1LG6_365M_1                       -------------------------------
+Ps|cluster12410_chr1LG6_366M_1                       -------------------------------
+Ps|cluster12410_chr1LG6_363M_1                       -------------------------------
+MelOff|crp1280_GJLW01013629.1_0M_1|cluster12410      -------------------------------
+                                                                                    

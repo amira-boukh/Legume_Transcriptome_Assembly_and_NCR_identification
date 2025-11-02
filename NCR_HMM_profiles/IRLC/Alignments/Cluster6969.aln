@@ -1,0 +1,22 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medtr|cluster6969_MtrunA17Chr6_07M_1        MAVILKFVYIMIIFLFLLYVVNG-------------------------------------
+Medsat|cluster6969_GJLK01042195.1_0M_1      MAAILKFVYIMILYLFLLHVVAEAN-----------------------------------
+CicerAr|CaNCR04                             MATIHKFVYVMILIVFQLLVVTEC------------------------------------
+CicerAr|CaNCR05                             MATIHKFVYVMILIIFHFLVLTKG------------------------------------
+Medsat|cluster6969_GJLK01039909.1_0M_1      MVAILKFVYIMILYLFLIHVVAQK------------------------------------
+Medtr|MtNCR168                              MASILKFVYIMIIYLSVLLVVIEG------------------------------------
+AsSin|AsNCR024|cluster6969                  MAKALKF--ISILFFFLMLHFTDGYLFSKNSSTLVRKRKST--------MPGKKVK-ESV
+AsSin|AsNCR046|cluster6969                  MFKCLKCISILILFFFFIFHLSNGYLFSKNNLTLEVEDEGKDVELRKGGEKGLEVNSKRG
+                                            *    *   : *: .  :  .                                       
+
+Medtr|cluster6969_MtrunA17Chr6_07M_1        ----TRCNRDEDCPFIC---------TGPQIPKCVSHICFCLSS----
+Medsat|cluster6969_GJLK01042195.1_0M_1      -WQFTECKTDKDCKKTC---------GPSQIPKCISKICMCYPKG---
+CicerAr|CaNCR04                             -LPHRQCTVDSDCPNIC---------HPPKVPRCFYYQCFCHIIYIVS
+CicerAr|CaNCR05                             -LDDPHCATDDDCKNVC---------VPPRVRQCLWSNCYCNVK----
+Medsat|cluster6969_GJLK01039909.1_0M_1      -WS-QDCYTEEDCVDVC---------TTPEIPKCIFKMCICF------
+Medtr|MtNCR168                              -YPFQECKVDADCPTVCTLPGCPDICSFPDVPTCIDNNCFCT------
+AsSin|AsNCR024|cluster6969                  VETYSRCNVDEDCKNICQNLGFTRYMCN------SKEMCCCYTSM---
+AsSin|AsNCR046|cluster6969                  YISSFPCEVDHDCKHICIWRRYRNYMCS------DKKKCICTRSDS--
+                                                  *  : **   *                     * *       

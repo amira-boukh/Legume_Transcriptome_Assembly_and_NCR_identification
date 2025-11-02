@@ -1,0 +1,16 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|cluster6158_GJLK01049817.1_0M_1                                  ---------MAGILKLLYILIIFVSLFLFAE--TKKCTTDIDCYKLYYDPKLHYDPNHRL
+Medtr|MtNCR249                                                          MQSENINKNMAGILKFFYIVIIYVSLFLFVVESERECVTDADCQKNCHFLM-----Q--I
+Medtr|MtNCR249b                                                         MQSENINKNMAGILKFFYIVIIYVSLFLFVVESERECVTDADCQKNCHFLM-----Q--I
+Medtr|MtNCR249c                                                         MQSENINKNMAGILKFFYIVIIYVSLFLFVVESERECVTDADCQKNCHFLM-----Q--I
+MelOff|crp1430_GJLW01029342.1_0M_1=cluster6158_GJLW01029342.1_0M_1      ---------MAGILKLLYILIIFVSLFLFAE--TKKCTTDIDCYKLYYDLKLHYDPNHRL
+                                                                                 ******::**:**:******.    ::*.** ** *  :        :  :
+
+Medsat|cluster6158_GJLK01049817.1_0M_1                                  IEYMCTDGECL---
+Medtr|MtNCR249                                                          ILFA----------
+Medtr|MtNCR249b                                                         ILFA----------
+Medtr|MtNCR249c                                                         ILFA----------
+MelOff|crp1430_GJLW01029342.1_0M_1=cluster6158_GJLW01029342.1_0M_1      IEYMCTDGECLCLV
+                                                                        * :           

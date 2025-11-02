@@ -1,0 +1,24 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|crp1180_GJLK01020799.1_0M_1|cluster17595      --------------------MARILYFFFALLIFVSLFMVA--------T--SIPDVLPC
+Medtr|MtNCR287                                       --------------MQKEKSMARILYFFFAFLIFVSLFMVA--------TNESIPEVLPC
+Medsat|cluster17595_GJLK01020799.1_0M_1              --------------MKKVWLESYISFLLYSSLS-PYLWSQPTNSSPKPYPMNCIPDVLPC
+Ps|Psat5g236200.1_NCR                                -----MI--FNLLNVKKKKNMARILS--SALIMFVLLILVN--------GE----ERIPC
+Medtr|cluster17595_MtrunA17Chr7_09M_1                ------------MQKRKKKSMARILCFFYGLLIFVSLFMVA--------TNQSIPDVLPC
+MelOff|crp1180_GJLW01019451.1_0M_1|cluster17595      --------------------MARIQFIFYALIIFVFIFLVA--------TNQSIPDVMRC
+MelOff|crp1180_GJLW01017291.1_0M_1|cluster17595      --------------------MARIMFIFYALIVFISLFLMA--------TNQSVPDVLPC
+MelOff|crp1180_GJLW01000391.1_0M_1|cluster17595      --------------------MARILCIFYALIIFVSLFLVA--------TNQSIPDVIPC
+MelOff|cluster17595_GJLW01019451.1_0M_1              MARIQFIFYALIIFVSIFLVATNQNFIFYALIIFVFIFLVA--------TNQSIPDVMRC
+                                                                          :       . :    :                  : : *
+
+Medsat|crp1180_GJLK01020799.1_0M_1|cluster17595      LFSNECPEDLCPTDLFPKCINLSCQCTAEF------
+Medtr|MtNCR287                                       LFSNECPPDLCPIDLFPKCINLSCQCSAEFYN--ID
+Medsat|cluster17595_GJLK01020799.1_0M_1              LFSNECPEDLCPTDL---------------------
+Ps|Psat5g236200.1_NCR                                LWSLECPKDMCPTKYIPKCINLSCQCHFDKEDKDWD
+Medtr|cluster17595_MtrunA17Chr7_09M_1                LFSNECPPDLCPTDLFAKCI----------------
+MelOff|crp1180_GJLW01019451.1_0M_1|cluster17595      QFNFQCPPSLCPIPINPKCINLTCQCISEYDL-VD-
+MelOff|crp1180_GJLW01017291.1_0M_1|cluster17595      LFSPECPTDMCPTDLTPKCINLTCQCSADVEF-DLD
+MelOff|crp1180_GJLW01000391.1_0M_1|cluster17595      LFSTECPTDLCPTDLTPKCINLTCQCSFEYDY-YWD
+MelOff|cluster17595_GJLW01019451.1_0M_1              QFNFQCPPSLCPIPINPKCINLTCQCISEYDL-VD-
+                                                      :. :** .:**                        

@@ -1,0 +1,32 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medtr|cluster4973_MtrunA17Chr6_34M_1                        -------------MAQIHIFFSSLIIFLFLFLVETRQ--------TEIPCESKQDCPKMF
+Medtr|MtNCR-new58                                           -------------MAQILMFVSVLIIFLSLFLADTKQ--------TNIPCENKRDCPQPL
+Medtr|MtNCR067                                              -------------MAQILMFVSVLIIFLSLFLADTKQ--------TNIPCENKRDCPQPL
+Medsat|cluster4973_GJLK01000327.1_0M_1                      -------------MAQILIFFSSLIIFLSLFLVETRR--------TEIPCESKQDCPKMF
+Medsa|MsatMercedes_NRG000076g00368631_NCR_NCR               -------------MAKILMFVGVLIIFLSLLSVETKQ--------TNIPCTCNQDCPRRL
+Medsat|cluster4973_GJLK01006014.1_0M_2                      -------------MAKILMFVSVLIIFLSLLSVETKQ--------TNIPCTCNQDCPRRL
+Medsat|crp1520_GJLK01019741.1_0M_1|cluster4973              -------------MAQIFMFVYILIIFLSSFLIEESTA-----QKPLTPCTIDRDCFYEM
+Medsa|MsatMercedes_NRG000169g00649221_NCR                   MKNTFTLQSKELNMAKILMFVSALIIFLSLLSVETKQ--------SRIPCTSNRDCPRRL
+Medsa|MsatMercedes_NRG000434g01162261_NCR_NCR               -------------MAKILMFVSVLIIFLSLLSVETKQ--------TNIPCTCNQDCPRRL
+Medsa|MsatMercedes_NRG002037g02117751_NCR                   -------------MAKILMFVSALIIFLSLLSVETKQ--------SRIPCTSNRDCPRRL
+TriPr|crp1450_tripr.MilvusB.gnm2.Tp1_14M_1|cluster4973      -------------MVKTLKFVCTMILLFSLFLVAMAQ-------KSTINCESDKDCPQLA
+MelOff|crp1450_GJLW01003000.1_0M_1|cluster4973              ------------------MFVFALIILLSLFLVESKQ--------TSLPCASKRDCPRPI
+AsSin|AsNCR015|cluster4973                                  -------------MVVILKLVYVMALFFFLFRMTITINGLPFFPTGLIPCKQDSDCPNRG
+                                                                               :.  : :::  :                  *  . **    
+
+Medtr|cluster4973_MtrunA17Chr6_34M_1                        FPHY-VTCVEGLCWIHIIT----------------
+Medtr|MtNCR-new58                                           YPKF-VTCFEGLCRMHYPLKKF-------------
+Medtr|MtNCR067                                              YPKF-VTCFEGLCRMHYPLKKI-------------
+Medsat|cluster4973_GJLK01000327.1_0M_1                      FPHY-VTCVEGLCCIH-------------------
+Medsa|MsatMercedes_NRG000076g00368631_NCR_NCR               YPKY-MVCFHGFCRHYYP-----------------
+Medsat|cluster4973_GJLK01006014.1_0M_2                      YPKY-MVCFHGFCRPRYL-----------------
+Medsat|crp1520_GJLK01019741.1_0M_1|cluster4973              YNT---WCINGYCRFKITREE--------------
+Medsa|MsatMercedes_NRG000169g00649221_NCR                   YPKY-VVCIEGSCRFHYPL----------------
+Medsa|MsatMercedes_NRG000434g01162261_NCR_NCR               YPKY-MVCFHGFCRHYYP-----------------
+Medsa|MsatMercedes_NRG002037g02117751_NCR                   YPKY-VVCIEGSCRFHYPL----------------
+TriPr|crp1450_tripr.MilvusB.gnm2.Tp1_14M_1|cluster4973      IHPK-YVCYHGKCWRLSVGPPRVD-----------
+MelOff|crp1450_GJLW01003000.1_0M_1|cluster4973              FPKY-ATCFQGFCRIHYAG----------------
+AsSin|AsNCR015|cluster4973                                  PPDWKVVCIDGFCRGVDYEVEPAKFGKDFPSKRSL
+                                                                   * .* *                      

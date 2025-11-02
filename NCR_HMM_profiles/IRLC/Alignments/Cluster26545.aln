@@ -1,0 +1,56 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medtr|cluster26545_MtrunA17Chr4_05M_1                                            --------------------------------MVETPKLVYVFILFLSIFLCIIVSNSSF
+Medsa|MsatMercedes_NRG001101g01812581_NCR                                        --------------------------------MAETPKLFYVLVLFLSIFLSIIVCNSSI
+Medsat|crp1520_GJLK01034274.1_0M_1|cluster26545                                  --------------------------------MAETLKFVYVLILFLSIFLIMIVYDSK-
+Medtr|cluster26545_MtrunA17Chr4_09M_1                                            --------------------------------MVQTPKLVYVIVLLLSIFLGMTICNSSF
+Medtr|cluster26545_MtrunA17Chr1_15M_1                                            --------------------------------MVEIQKLVYVLILFLSIFLEMIVSNCTF
+Medsat|cluster26545_GJLK01075166.1_0M_1                                          --------------------------------MVKTPKLVYVLILFLSIFFSIIVSNSFP
+Medsat|cluster26545_GJLK01009409.1_0M_1                                          --------------------------------MAETPKLVYVLVLFLSIFLSIIVCNSSF
+Medtr|crp1520_MtrunA17Chr4_09M_11|cluster26545                                   --------------------------------MVETLKLIYVIHLFLSIFL---FTNSPF
+Medsa|MsatMercedes_NRG001383g01957841_NCR                                        --------------------------------MAETPKLFYVLVLFLSIFLSIIVCNSSI
+Medsat|cluster26545_GJLK01039304.1_0M_1                                          --------------------------------MVETPKLVYVLVLFLSIFLCIIVSNSSF
+Medtr|cluster26545_MtrunA17Chr4_06M_1                                            --------------------------------MVKTPKLVYVLILILFIFLDIIKSNRVV
+Medsat|cluster26545_GJLK01008722.1_0M_1                                          --------------------------------MVESHKLIYVLILFLSIFLEMIVADCSF
+Medtr|cluster26545_MtrunA17Chr4_06M_2                                            --------------------------------MVKTPKLVYVLILFLSIFLSMIVSNSSF
+Medtr|cluster26545_MtrunA17Chr4_06M_3                                            --------------------------------MAETPKLVYVLVLFLFIFLSIIVCNSSF
+Medtr|cluster26545_MtrunA17Chr4_06M_4                                            --------------------------------MAKTLKMVYVLVLFLFIFLSIIACNSSF
+MelOff|crp1520_GJLW01024223.1_0M_1|cluster26545                                  --------------------------------MTKNLKFVYVLILFLSLFLFIIVSNSYT
+MelOff|crp1520_GJLW01024223.1_0M_2|cluster26545                                  --------------------------------MTKNLKFVYVLILFLSLFLFIIVSNSYS
+MelOff|crp1520_GJLW01020542.1_0M_1=cluster26545_GJLW01020542.1_0M_1              --------------------------------MVETMKLVYVLILLISIFHGIIESNSSF
+MelOff|crp1520_GJLW01008143.1_0M_1|cluster26545                                  --------------------------------MTETLKFVNALILFLSIFLAMIVSNFAT
+MelOff|crp1520_GJLW01011382.1_0M_1|cluster26545                                  --------------------------------MVETLKLVYVMILLLSIFLGIIESKSTF
+MelOff|crp1520_GJLW01051477.1_0M_1|cluster26545                                  --------------------------------MDETMKFVYIMILFLSIFLLITISNSFH
+MelOff|cluster26545_GJLW01011382.1_0M_1                                          MVETLKLVYVMILMLSIFLGILESNSPFMKENMVETLKLVYVMILLLSIFLGIIESKSTF
+MelOff|crp1520_GJLW01022869.1_0M_1=cluster26545_GJLW01022869.1_0M_1              --------------------------------MVETLKIVYVMILFLSVLLCIIESNSSF
+MelOff|crp1520_GJLW01022965.1_0M_1=crp1520_GJLW01022965.1_0M_2|cluster26545      --------------------------------MTETLKFVNALILFLSIFLAMIISNIAT
+AsSin|AsNCR001|cluster26545                                                      --------------------------------MTIILKIIYVMLLFGSLFLITTNVNGDS
+                                                                                                                 *    *:.  : *:  ::      .   
+
+Medtr|cluster26545_MtrunA17Chr4_05M_1                                            SKTFDRACKTDKDCPKLRGV----NVRCRKDQCVTV----
+Medsa|MsatMercedes_NRG001101g01812581_NCR                                        LKFVDRLCETDKDCPKVSGA----NVRCRKGYCVQI----
+Medsat|crp1520_GJLK01034274.1_0M_1|cluster26545                                  SFYFSRRCQTDKDCPKNPPL----NIRCRKGFCVQI----
+Medtr|cluster26545_MtrunA17Chr4_09M_1                                            SHFFEGACKSDKDCPKLHRS----NVRCRKGQCVQI----
+Medtr|cluster26545_MtrunA17Chr1_15M_1                                            IGFQDNPCKTDKDCRKVRGV----NLRCRNGHCVMI----
+Medsat|cluster26545_GJLK01075166.1_0M_1                                          DKIFFGDCQTDKDCKPKRGV----NFRCRKGKCFPV----
+Medsat|cluster26545_GJLK01009409.1_0M_1                                          LKFFDGRCETDKDCPKVPGA----NVRCRKGHCVQI----
+Medtr|crp1520_MtrunA17Chr4_09M_11|cluster26545                                   GQIIFRQCKTDKDCPKLGRA----NIRCREGYCVRI----
+Medsa|MsatMercedes_NRG001383g01957841_NCR                                        LKFVDRLCETDKDCPKVSGA----NVRCRKGYCVQI----
+Medsat|cluster26545_GJLK01039304.1_0M_1                                          STTIESACKTDKDCPKLRGI----NVRCRKGECVAV----
+Medtr|cluster26545_MtrunA17Chr4_06M_1                                            -VTIGGNCIRDKDCLKFYGA----NIRCRKGKCVAI----
+Medsat|cluster26545_GJLK01008722.1_0M_1                                          IGFHDNPCKRDKDCPKVSGV----NLRCRGGHCVVI----
+Medtr|cluster26545_MtrunA17Chr4_06M_2                                            LGTFISSCKRDKDCPKLYGA----NFRCRKGTCVPP----
+Medtr|cluster26545_MtrunA17Chr4_06M_3                                            LKFFDGRCETDKDCPKVPGA----NVRCRKGHCVQI----
+Medtr|cluster26545_MtrunA17Chr4_06M_4                                            ITFRDSRCKTDKDCPNIPMA----TGRCRKGHCVLV----
+MelOff|crp1520_GJLW01024223.1_0M_1|cluster26545                                  ----LQPCKTDKDCPKFHGF----NIRCHKGYCDII----
+MelOff|crp1520_GJLW01024223.1_0M_2|cluster26545                                  ----PRPCRTDKDCPKFQGL----NIRCRKGYCDII----
+MelOff|crp1520_GJLW01020542.1_0M_1=cluster26545_GJLW01020542.1_0M_1              MKFPDSGCKTDKDCPKVQGA----NVRCRKGRCVWLR---
+MelOff|crp1520_GJLW01008143.1_0M_1|cluster26545                                  -LVPLKPCKTDKDCPKYFKG----NVRCRKGYCASI----
+MelOff|crp1520_GJLW01011382.1_0M_1|cluster26545                                  MKLLDRPCKTDKDCPKVAGA----NVRCRKGFCTHI----
+MelOff|crp1520_GJLW01051477.1_0M_1|cluster26545                                  -AHVPNPCRTDKDCIRKPGM----NIRCRKGYCDII----
+MelOff|cluster26545_GJLW01011382.1_0M_1                                          MKLLDRPCKTDKDCPKVAGA----NVRCRKGFCTHI----
+MelOff|crp1520_GJLW01022869.1_0M_1=cluster26545_GJLW01022869.1_0M_1              IKFFDSRCETDNDCPKVPGA----NVRCRKGHCVQI----
+MelOff|crp1520_GJLW01022965.1_0M_1=crp1520_GJLW01022965.1_0M_2|cluster26545      -LGPFKPCQTDKDCPKIYGC----NIRCRKGYCETLETSY
+AsSin|AsNCR001|cluster26545                                                      -PFLPFLCQEDLDCPKIWGAAPGWEVRCIVDSCCIINMLH
+                                                                                        *  * **            **  . *       

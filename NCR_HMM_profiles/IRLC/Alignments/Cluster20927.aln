@@ -1,0 +1,24 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG103053g02555441_NCR                                RKREMTKSLKFVYAMILFIFLFLVTKNVVALFDCEYDEDCPKSTLKRTYKCIDKKCRSYF
+Medtr|MtNCR362                                                           ----MPKSLKFVYTMILFIFLFLITKNVDALHDCEYDDDCPKSTSKRTYRCINKKCRSYF
+Medsa|MsatMercedes_NRG028540g02338421_NCR                                ----MTKSLKFVYAMILFIFLFLVTKNVVALFDCEYDEDCPKSTLKRTYKCIDKKCRSYF
+Medsat|cluster20927_GJLK01057761.1_0M_1                                  ----MAKTLKFVYAMILFIYIFFVAKNIEEYHECEKDDDCLQSW-FRMIKCINYKCVQV-
+TriPr|crp1440_tripr.MilvusB.gnm2.scaf_475_0M_1|cluster20927              ----MAKTLTFAYAVILFLFLFFVARNIDALIPCKNDSDCPDSTYTRTFRCVNKVCRW--
+MelOff|crp1440_GJLW01012929.1_0M_1=cluster20927_GJLW01012929.1_0M_1      ----MTKTLKFVYAMILFIYIFLVTKNVEGYHECVTDDDCPQSW-FRVYWCENFKCRYK-
+MelOff|crp1430_GJLW01012370.1_0M_2=cluster20927_GJLW01012370.1_0M_2      ----MDKTLKFVYAMILFIYIFFVAKNIEEYHECEKDDDCLQSW-FRMIKCINYKCVQV-
+MelOff|cluster20927_GJLW01037856.1_0M_1                                  --------------MTLFLSLFLIEKNLAVLIECN--GDCPKGSWTRTYKCIDNKCRYT-
+MelOff|crp1430_GJLW01012370.1_0M_1=cluster20927_GJLW01012370.1_0M_1      ----MAKTLKFVYAMILFIYIFFVAKNIEEYHECEKDDDCLQSW-FRMIKCINYKCVQV-
+                                                                                       : **: :*:: :*:     *    ** ..   *   * :  *    
+
+Medsa|MsatMercedes_NRG103053g02555441_NCR                                TKKMENVGPSSQKNEKL
+Medtr|MtNCR362                                                           TRVEK------------
+Medsa|MsatMercedes_NRG028540g02338421_NCR                                TKKMENVGPSSQKNEKL
+Medsat|cluster20927_GJLK01057761.1_0M_1                                  GK---------------
+TriPr|crp1440_tripr.MilvusB.gnm2.scaf_475_0M_1|cluster20927              TRKFRAIG---------
+MelOff|crp1440_GJLW01012929.1_0M_1=cluster20927_GJLW01012929.1_0M_1      EVHYDALGE--------
+MelOff|crp1430_GJLW01012370.1_0M_2=cluster20927_GJLW01012370.1_0M_2      GK---------------
+MelOff|cluster20927_GJLW01037856.1_0M_1                                  -RVMALII---------
+MelOff|crp1430_GJLW01012370.1_0M_1=cluster20927_GJLW01012370.1_0M_1      GK---------------
+                                                                                          

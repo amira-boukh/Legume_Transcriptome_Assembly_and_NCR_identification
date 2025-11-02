@@ -1,0 +1,28 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG000133g00550981_NCR                                MQRLDNMAKNLKFIYAIILFLFIFLVVIV-------------------------------
+Medsa|MsatMercedes_NRG000208g00740981_NCR                                ------MAKNLKFIYAIILFLFIFLVVIV-------------------------------
+Medtr|cluster31382_MtrunA17Chr7_02M_1                                    ------MAKNVKFIYVIILLLFIFLVIIV-------------------------------
+Medtr|crp1520_MtrunA17Chr7_02M_05|cluster31382                           ------MAETMKFVYVLILFISIFLVIIL-------------------------------
+TriPr|cluster31382_tripr.MilvusB.gnm2.Tp2_04M_2                          ------MNKNLKLAPAIILFAFLFFVTGEVDCWV--------------------------
+TriPr|cluster31382_tripr.MilvusB.gnm2.Tp2_04M_1                          ------MNKNLKLAPAIILFVFLFFVTGEVDWVL--------------------------
+MelOff|crp1520_GJLW01011374.1_0M_1=cluster31382_GJLW01011374.1_0M_1      ------MAETLKFVYVIILFLSIFLVIKI-------------------------------
+MelOff|crp1520_GJLW01005564.1_0M_2|cluster31382                          ------MAGTLKFVYALILFYFI----IV-------------------------------
+MelOff|crp1520_GJLW01005564.1_0M_1|cluster31382                          ------MAGTLKFVYVLILFYFI----IV-------------------------------
+MelOff|crp1520_GJLW01011374.1_0M_2=cluster31382_GJLW01011374.1_0M_2      ------MAEALKFVYVIILFLSIFLVIKM-------------------------------
+AsSin|AsNCR127|cluster31382                                              ------MTKSLKFVYAIILFFSLLLRLTNGNYFLKNKWIWGDEDKGWEGGDEDLDQRKKN
+                                                                               *   :*:  .:**:  :                                     
+
+Medsa|MsatMercedes_NRG000133g00550981_NCR                                -------CDSAFVPNSGPCKTDKDCKQVK---GYM-ARCRKGYCMQSVKRIRSSYSR
+Medsa|MsatMercedes_NRG000208g00740981_NCR                                -------CDSAFVPNSGPCKTDKDCKQVK---GYM-ARCRKGYCMQSVKRIRSSYSR
+Medtr|cluster31382_MtrunA17Chr7_02M_1                                    -------CDSAFVPNSGPCTTDKDCKQVK---GYI-ARCRKGYCMQSVKRTWSSYSR
+Medtr|crp1520_MtrunA17Chr7_02M_05|cluster31382                           -------CDSAYFPNSRPCKTDKNCAQVK---NYI-SKCLKGLCVQEE---------
+TriPr|cluster31382_tripr.MilvusB.gnm2.Tp2_04M_2                          ---------IDTQPTDTKCTSTKDCLDFVVEPQCFVSVCDNGYCATIVKLPFPI---
+TriPr|cluster31382_tripr.MilvusB.gnm2.Tp2_04M_1                          ---------NDVRPTATECTSSKDCPDFEIEPKLFISVCDKGYCLNKFNHDPL----
+MelOff|crp1520_GJLW01011374.1_0M_1=cluster31382_GJLW01011374.1_0M_1      -------CDSGYLPNSGPCIKDKDCQHVK---GYI-GRCRKGFCVQRVRRLMSSCS-
+MelOff|crp1520_GJLW01005564.1_0M_2|cluster31382                          -------CDSV-----IPCQEDEDCNFVE---GYL-PCCRRGFCVKRIILKIKG---
+MelOff|crp1520_GJLW01005564.1_0M_1|cluster31382                          -------CDSV-----IPCQEDEDCNFVE---GYL-PCCRRGFCVKRIILKIKG---
+MelOff|crp1520_GJLW01011374.1_0M_2=cluster31382_GJLW01011374.1_0M_2      -------CDSAYIPNSGLCITDKDCQQVK---GYI-GRCRKGICVQHKQR-------
+AsSin|AsNCR127|cluster31382                                              LSKRGISSNERYMHTVIPCEVDKDCKKYCKSEGYKEYRCKNLYCFCNKRIN------
+                                                                                           *   ::*             * .  *             

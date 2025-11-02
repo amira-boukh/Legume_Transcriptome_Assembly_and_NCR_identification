@@ -1,0 +1,48 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|cluster18099_GJLK01033778.1_0M_1              --------------------MQRTKNMAETLKFVYVLILFISLFLVLIVCDSSFLPY-SL
+Medtr|crp1520_MtrunA17Chr7_02M_03|cluster18099       --------------------------MTETLKFVYILILFIFIFLVLIVCDSAFIQL-SK
+Medtr|cluster18099_MtrunA17Chr7_01M_5                MGGGTGTLLCCDRNLFMHFKIQRAKNMTETLKFVYVLILFISIFLVIIVCESSFFPSSPV
+Medtr|crp1520_MtrunA17Chr7_01M_02|cluster18099       --------------------------MVETRKFVYILILLISIFLFIIICDSTYIPI-TR
+Medsat|cluster18099_GJLK01009929.1_0M_1              --------------------MQRVKNMVQTLMFVYVLILFISISLVIIVCDSIYLPV-SR
+Medsat|cluster18099_GJLK01000177.1_0M_1              --------------------MQRTKNMAETLKFVYVLIIFISIFLVLIVCDSTYLPF-SR
+Medsat|cluster18099_GJLK01019149.1_0M_3              --------------------MQRTKNMAETLKFVYVLILFISLFHVLIMCDSAFFPK-SQ
+Medtr|crp1520_MtrunA17Chr7_01M_01|cluster18099       --------------------------MVETLKFIYVMILFVSIFLVMIVCDFSNLHI-HV
+Medsa|MsatMercedes_NRG016684g02280101_NCR            --------------------MQRVINMAETLKFVYVLILFISIFLVIIVCDSIYFPI-SR
+Medtr|MtNCR144                                       --------------------MQRVKKMSETLKFVYVLILFISIFHVVIVCDSIYFPV-SR
+Medsat|cluster18099_GJLK01009877.1_0M_1              --------------------------MAKTFKFVYVLILFISIFLVIIVPDSAFSPINSR
+Medtr|cluster18099_MtrunA17Chr7_02M_5                --------------------MQRTKNMAETLKFVYVLILFISLFLVLIVCDSAFVAN-TE
+Medtr|crp1520_MtrunA17Chr7_02M_02|cluster18099       --------------------------MTETLKFVYILILFIFIFLVLMVCDSAFIQL-SK
+Medtr|crp1520_MtrunA17Chr7_01M_11|cluster18099       --------------------------MAETPKFVYVLIIFISIFLVLIVCDSTYLPS-TR
+Medsat|crp1520_GJLK01011474.1_0M_1|cluster18099      --------------------------MVETPKFVYILILLISIFLFIIICGSTYFPI-TH
+Medsat|crp1520_GJLK01009929.1_0M_1|cluster18099      --------------------------MVQTLMFVYVLILFISISLVIIVCDSIYLPV-SR
+Medtr|cluster18099_MtrunA17Chr7_01M_3                ------------------MQREREKNMVKTLMFVYILILFICIFLVMIVCDSAYLPF-SR
+TriPr|cluster18099_tripr.MilvusB.gnm2.Tp7_05M_2      --------------------------MAETFKFIYIMILCVSLFTVEVVG--------QV
+MelOff|crp1520_GJLW01032709.1_0M_1|cluster18099      --------------------------MTENLKFVYVFILFLSIFLIIIVCDSTYIPI-SR
+MelOff|cluster18099_GJLW01032709.1_0M_1              --------------------MQRVKNMTENLKFVYVFILFLSIFLIIIVCDSTYIPI-SR
+MelOff|cluster18099_GJLW01005564.1_0M_2              --------------------MQRVKNMAGTLKFVYALILFY----FIIVCDS------VI
+                                                                               *  .  *:* :*:      . ::           
+
+Medsat|cluster18099_GJLK01033778.1_0M_1              PCITDKDCPNGRNYV-----GWCIRG------------
+Medtr|crp1520_MtrunA17Chr7_02M_03|cluster18099       PCITDKDCSPMKNYK-----ARCRKGYCVSRR------
+Medtr|cluster18099_MtrunA17Chr7_01M_5                --------------------------------------
+Medtr|crp1520_MtrunA17Chr7_01M_02|cluster18099       TCITDKDCPSWKNYT-----GRCRKGFCILNR------
+Medsat|cluster18099_GJLK01009929.1_0M_1              PCITDKDCPQGKNYI-----ARCRKG------------
+Medsat|cluster18099_GJLK01000177.1_0M_1              SCITDKDCPNGRNYI-----GRCRKG------------
+Medsat|cluster18099_GJLK01019149.1_0M_3              TCITDKDCPNGRNYI-----GRCRKG------------
+Medtr|crp1520_MtrunA17Chr7_01M_01|cluster18099       PCLTDKDCPWAKNYV-----LKCRKGYCVF--------
+Medsa|MsatMercedes_NRG016684g02280101_NCR            PCITDKNCPNMQNYK-----AKCRKGFCISSRVR----
+Medtr|MtNCR144                                       PCITDKDCPNMKHYK-----AKCRKGFCISSRVR----
+Medsat|cluster18099_GJLK01009877.1_0M_1              TCITDKDCPNGRNYI-----GRCRKGQCQQS-------
+Medtr|cluster18099_MtrunA17Chr7_02M_5                TCITDKDCPNGRNYI-----GRCRKG------------
+Medtr|crp1520_MtrunA17Chr7_02M_02|cluster18099       PCISDKECSIVKNYR-----ARCRKGYCVRRR------
+Medtr|crp1520_MtrunA17Chr7_01M_11|cluster18099       SCITDKDCPNVQNYI-----GRCRKGFCISSW------
+Medsat|crp1520_GJLK01011474.1_0M_1|cluster18099      TCTTDKDCPSGKNYI-----GRCRKGHCTGSR------
+Medsat|crp1520_GJLK01009929.1_0M_1|cluster18099      PCITDKDCPQGKNYI-----ARCRKGYCQQSL------
+Medtr|cluster18099_MtrunA17Chr7_01M_3                SCISDKDCPQVKNFS-----ARCR--------------
+TriPr|cluster18099_tripr.MilvusB.gnm2.Tp7_05M_2      RCKTDEDCDCVKVLTPPGLTCMCDGGECGFFR------
+MelOff|crp1520_GJLW01032709.1_0M_1|cluster18099      PCITDKDCLNVKNYK-----ARCRKGYCISVSLR----
+MelOff|cluster18099_GJLW01032709.1_0M_1              PCITDKDCLNVKNYK-----ARCRKGYCISVSLR----
+MelOff|cluster18099_GJLW01005564.1_0M_2              PCQEDEDCNFVEGYL-----PCCRRGFCVKRIILKIKG
+                                                                                           

@@ -1,0 +1,40 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medtr|MtNCR554                                                          -MGAILKLVSAMFLFLSLFHAARNIDALSGCITNEDCIKYQCS-AENCMVCINFACKCVF
+Medsat|crp1410_GJLK01001392.1_0M_1|cluster7386                          -MAAIIKFIYTMFIFIFLFVVTTKVDAFKGCLSDADCAIGLKCG--LPKKCIGFKCRCAL
+Medsa|MsatMercedes_NRG001511g02007351_NCR_NCR                           -MGAILKLVSAMFLFLSLFLAARNVDAFSGCITNADCKKLRCG-DDCGMVCIDSECRCLY
+Medtr|cluster7386_MtrunA17Chr2_35M_1                                    -MGAILKLVSAMFLFLSLFHAARNIDALSGCITNEDCIKYQCS-AENCMVCINFACKCKY
+Medsat|cluster7386_GJLK01029369.1_0M_1                                  -MNTILKFIFVVFLFLSIFLVAES-LNFGPCNTHEDCQKYEYT-YNCVMECVESVCDCWS
+Ps|PsNCR125                                                             -MTAISKFIYAVLLFLFIFFIRKNIDAFEGCLSDFDCRKLMCG-PECGMRCINFKCICA-
+Medsat|cluster7386_GJLK01000504.1_0M_1                                  -MNTILKYIFVVFLFLSIFLVAGSYKSFGPCHFQEDCKKSKWQ-AENTNIYLGD------
+Medsat|cluster7386_GJLK01037981.1_0M_1                                  -MNTILKFIFVVFLFLSIF-VAES-LNFGPCNTHQDCHKYEYT-YSCVMECVESVCDC--
+Ps|PsNCR51                                                              -MVAIFKFNYIVFLFLFTFLVVNNVEAFDGCLTDSDCRILMCG-PGCAMRCVDFICQCRI
+Medsat|crp1410_GJLK01059037.1_0M_1|cluster7386                          -----------MFLFIFLFVVPTKVDAFAGCVTDADCVIKKCSS-----SC---------
+Medtr|crp1400_MtrunA17Chr2_37M_1|cluster7386                            MCNPFSHFS-----NICL-FSFFI-ADFGPCNTHEDCQKYEYT-YSCVMECVESVCDCWS
+Medsa|MsatMercedes_NRG000456g01191791_NCR_NCR                           -MGAILKLVSAMFLFLSLFLAARNIDAFSGCITNADCKKLRCG-DDCGMVCIDSECRCLY
+CicerAr|cluster7386_contig73148_0M_1                                    -MAETLKVVYTMILLVSLFLLLVAT---------LVVKKYRCP-PLQLMICLDRHCQCTR
+MelOff|cluster7386_GJLW01019899.1_0M_1                                  -MK--NCFSYSRNICL--FSLFFFITALSGCITDKDCWKLWCS-PMCGMLCINYECKCIY
+MelOff|crp1170_GJLW01012914.1_0M_1=cluster7386_GJLW01012914.1_0M_1      -MALIIKFIYCIFLFLFLFQVLTNVDAFAGCVSDADCQIQVCGQCLFRRKCVDFKCQCVI
+MelOff|crp1430_GJLW01019899.1_0M_1|cluster7386                          -MAKIRKFIYVMFLFF--LHISGCMEPLSGCITDKDCWKLWCS-PMCGMLCINYECKCIY
+MelOff|cluster7386_GJLW01004708.1_0M_1                                  -MAAIIKFIYAMFLFLFLFQVAKNVDAFDGCLSDADCVIHMCSNPQCRMRCLDFQCLCVI
+                                                                                       .                                            
+
+Medtr|MtNCR554                                                          YHEKMM--YP
+Medsat|crp1410_GJLK01001392.1_0M_1|cluster7386                          KVP-------
+Medsa|MsatMercedes_NRG001511g02007351_NCR_NCR                           LH--------
+Medtr|cluster7386_MtrunA17Chr2_35M_1                                    SV--------
+Medsat|cluster7386_GJLK01029369.1_0M_1                                  NEI-------
+Ps|PsNCR125                                                             ----------
+Medsat|cluster7386_GJLK01000504.1_0M_1                                  --QSQYALYE
+Medsat|cluster7386_GJLK01037981.1_0M_1                                  ----------
+Ps|PsNCR51                                                              ----------
+Medsat|crp1410_GJLK01059037.1_0M_1|cluster7386                          ----------
+Medtr|crp1400_MtrunA17Chr2_37M_1|cluster7386                            NEIVDFIF--
+Medsa|MsatMercedes_NRG000456g01191791_NCR_NCR                           LH--------
+CicerAr|cluster7386_contig73148_0M_1                                    ----------
+MelOff|cluster7386_GJLW01019899.1_0M_1                                  PHT-------
+MelOff|crp1170_GJLW01012914.1_0M_1=cluster7386_GJLW01012914.1_0M_1      ----------
+MelOff|crp1430_GJLW01019899.1_0M_1|cluster7386                          PHT-------
+MelOff|cluster7386_GJLW01004708.1_0M_1                                  ----------
+                                                                                  

@@ -1,0 +1,38 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|crp1300_GJLK01039742.1_0M_1|cluster16743                          --------MIKFLKFVYGMMVLISLFFVVRDVSA--------------------------
+Medsa|MsatMercedes_NRG043114g02395261_NCR                                --------MTKFLKFVYFLISLSSIFFV-RHGSSGMTFLSSFFKFFLHLIHKFLPPYVNT
+Medsat|crp1190_GJLK01034324.1_0M_1|cluster16743                          --------MIRFPKFVYGMIVLISLFFVVR------------------------------
+Medtr|crp1300_MtrunA17Chr8_33M_3|cluster16743                            --------MIKFLKFVYGMIILISLFFAVRDVSA--------------------------
+Medsa|MsatMercedes_NRG000458g01193741_NCR_NCR_NCR                        --------MTKFLKFVYFLMSLISIFFV-RHCSS--------------------------
+Medtr|MtNCR492                                                           --------MSKFLKFVYFLMSLISTFFVVRHGNS--------------------------
+Medsat|crp1300_GJLK01029563.1_0M_1|cluster16743                          --------MIKFLKFLYATIILISVFFVVRDESSAST-----------------------
+Medsa|MsatMercedes_NRG000168g00646961_NCR_NCR                            --------MTKFLKFVYFLMSLISIFFV-RHCSS--------------------------
+TriPr|crp1190_tripr.MilvusB.gnm2.Tp4_09M_1|cluster16743                  --------MNKFVNFVCVMIILISLTFVVRNINA--------------------------
+MelOff|crp1300_GJLW01011967.1_0M_1=cluster16743_GJLW01011967.1_0M_1      MFKGGQQLLKKYLKLVYVMIVLISVFFVVRNES---------------------------
+                                                                                 : :: :::   : * *  *. *                              
+
+Medsat|crp1300_GJLK01039742.1_0M_1|cluster16743                          --------G--ITTSDDEDCYDLCTSPLVEICTNYQCICLKRF-----------------
+Medsa|MsatMercedes_NRG043114g02395261_NCR                                DYFFLYITASPKYCMHGDDCNVFCPNPLMGICTDYQCICILKIS----------------
+Medsat|crp1190_GJLK01034324.1_0M_1|cluster16743                          ---------PPVYCIDDEDCYDLCTSPLVEICTNYQCICLKRF-----------------
+Medtr|crp1300_MtrunA17Chr8_33M_3|cluster16743                            --------APPVYCIEDEDCYDLCTSPLVEICTNYQCICLKR------------------
+Medsa|MsatMercedes_NRG000458g01193741_NCR_NCR_NCR                        --------ASPKYCMHGDDCNVWCPNPLMGICTDYQCICM--------------------
+Medtr|MtNCR492                                                           --------ASPKYCMHGDDCNILCPNPLMGICTDYQCICI--------------------
+Medsat|crp1300_GJLK01029563.1_0M_1|cluster16743                          --------TSPVYCVEDYVCYSLCLPPFVGICTDYQCIC---------------------
+Medsa|MsatMercedes_NRG000168g00646961_NCR_NCR                            --------ASPKYCMHGDDCNVWCPNPLMGICTDYQCIFFNNYGVIKRIINGTKEVVVAI
+TriPr|crp1190_tripr.MilvusB.gnm2.Tp4_09M_1|cluster16743                  --------AFPVYCIDDEDCYDLCDSPLIEICTNYQCICLNGSS----------------
+MelOff|crp1300_GJLW01011967.1_0M_1=cluster16743_GJLW01011967.1_0M_1      --------TSPFYCMHDDDCF-LCPLPLVRICTDYQCICMKRFK----------------
+                                                                                        ..  *   *  *:: ***:****                      
+
+Medsat|crp1300_GJLK01039742.1_0M_1|cluster16743                          ------------------------------
+Medsa|MsatMercedes_NRG043114g02395261_NCR                                ------------------------------
+Medsat|crp1190_GJLK01034324.1_0M_1|cluster16743                          ------------------------------
+Medtr|crp1300_MtrunA17Chr8_33M_3|cluster16743                            ------------------------------
+Medsa|MsatMercedes_NRG000458g01193741_NCR_NCR_NCR                        ------------------------------
+Medtr|MtNCR492                                                           ------------------------------
+Medsat|crp1300_GJLK01029563.1_0M_1|cluster16743                          ------------------------------
+Medsa|MsatMercedes_NRG000168g00646961_NCR_NCR                            REKKLKIHQVTRSDGGYNTHFKGVSSFHSL
+TriPr|crp1190_tripr.MilvusB.gnm2.Tp4_09M_1|cluster16743                  ------------------------------
+MelOff|crp1300_GJLW01011967.1_0M_1=cluster16743_GJLW01011967.1_0M_1      ------------------------------
+                                                                                                       

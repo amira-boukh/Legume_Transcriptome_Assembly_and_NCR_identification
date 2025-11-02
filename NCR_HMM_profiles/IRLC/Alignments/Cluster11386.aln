@@ -1,0 +1,30 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|cluster11386_GJLK01032676.1_0M_1                                  MSGVLKFVHAIILFLFLFLVAREVGGIETIECETDRDCPRSMIKMWNKNYRHKCIDGKCE
+Ps|PsNCR83                                                               MTEIVKVFYVIILFLSLFLVAAEVLD-PFVECETDTDCGKSL----DMNFCYKCIHNYCE
+Medsat|cluster11386_GJLK01011929.1_0M_1                                  MSGVLKFVHAIILFLFLFLVAREVG--ETIECETDRDCPRSMIKMWNKNYRHKCIDGKCE
+Medsa|MsatMercedes_NRG000521g01278551_NCR                                MFGIFKFVYVVVIFLSLYIVSIEVGG-ALIECEIDLDCPKSYIKLWDKNYAHRCVNNICE
+Medsa|MsatMercedes_NRG001108g01816351_NCR                                MFEIFKFVYVVVIFLSLYIVSIEVGG-ALIECEIDLDCPKSYIKLWDKNYAHRCVNNICE
+Medtr|crp1440_MtrunA17Chr5_32M_5|cluster11386                            MSGVLKFVYAIILFLFLFLVAREVGGLETIECETDGDCPRSMIKMWNKNYRHKCIDGKCE
+Medtr|MtNCR321                                                           MFEIFKFVYVVVIFLSLYILSIEVGG-ALIECEIDLDCPKSYIKLWDRNYAHRCVNNICE
+MelOff|crp1430_GJLW01009181.1_0M_1|cluster11386                          MAEILKFVYAIFILLSIFLVSMDAGG-EFNECERDANCLKSYIMSWNKNYNHKCIENKCQ
+MelOff|crp1420_GJLW01012478.1_0M_1|cluster11386                          MAKTLMCFYAMILFLSLFLIAKEVGAKPDPECTTHADCPLSRKYLWGFVYYHECHENICT
+MelOff|crp1440_GJLW01005283.1_0M_1=cluster11386_GJLW01005283.1_0M_1      MSRVLKFFYAIILFLFLFLAA--TEGLEPIECETDRDCPRSMIKLWNKNYRHKCIDGKCQ
+MelOff|crp1420_GJLW01012478.1_0M_2=cluster11386_GJLW01012478.1_0M_1      MAKILKCFYATLLFLSLFLVAKEVGAKPDRECTTRADCPFSRNYLWGYVYYYECRENLCT
+MelOff|crp1440_GJLW01003099.1_0M_1=cluster11386_GJLW01003099.1_0M_1      MAKTLKCFYAMILYLSLFLVAKEVGGAIPRECTTDADCGKPRNKSLKWSFWYRCIDNICQ
+                                                                         *   .  .:. .: * ::: :  .      **    :*           : :.* .. * 
+
+Medsat|cluster11386_GJLK01032676.1_0M_1                                  --------------------------------
+Ps|PsNCR83                                                               IVRKPH--------------------------
+Medsat|cluster11386_GJLK01011929.1_0M_1                                  WI------------------------------
+Medsa|MsatMercedes_NRG000521g01278551_NCR                                WVKKPRIY------------------------
+Medsa|MsatMercedes_NRG001108g01816351_NCR                                WVKKPRIY------------------------
+Medtr|crp1440_MtrunA17Chr5_32M_5|cluster11386                            --------------------------------
+Medtr|MtNCR321                                                           WVKKPRIY------------------------
+MelOff|crp1430_GJLW01009181.1_0M_1|cluster11386                          WVEKIQRPFFQKKKKKFKDPKSTRGFKTVIWR
+MelOff|crp1420_GJLW01012478.1_0M_1|cluster11386                          LIIARGYF------------------------
+MelOff|crp1440_GJLW01005283.1_0M_1=cluster11386_GJLW01005283.1_0M_1      WIKK----------------------------
+MelOff|crp1420_GJLW01012478.1_0M_2=cluster11386_GJLW01012478.1_0M_1      LIIARGYF------------------------
+MelOff|crp1440_GJLW01003099.1_0M_1=cluster11386_GJLW01003099.1_0M_1      LCSRPKC-------------------------
+                                                                                                         

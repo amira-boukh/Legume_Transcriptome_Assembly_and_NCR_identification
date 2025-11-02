@@ -1,0 +1,26 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medtr|crp1440_MtrunA17Chr3_04M_4|cluster31617        ------MAHKLVYTIILFIFLFLVANNVE-------------------------------
+Medsat|crp1440_GJLK01028253.1_0M_1|cluster31617      ------MAHKFVYAIILIIFLFLVANNVEVL-----------------------------
+Medsat|cluster31617_GJLK01028253.1_0M_2              ----MSTLMLQFLVAILFIFLFLVASNVE-------------------------------
+Medtr|crp1440_MtrunA17Chr3_04M_7|cluster31617        ------MAHKFVYAIILFIFLFLVAKNVK-------------------------------
+Medtr|crp1440_MtrunA17Chr3_04M_3|cluster31617        ------MTHMFVYAIILFIFLFFLANNVK-------------------------------
+Medsat|cluster31617_GJLK01016957.1_0M_1              ------MAHKLVFTIILFIFLFLVANNVE-------------------------------
+Medtr|crp1440_MtrunA17Chr3_04M_5|cluster31617        ------MTHKLVYAIILFIFLFLVANNVE-------------------------------
+Medtr|cluster31617_MtrunA17Chr3_04M_1                ----MAISYKFVYAIIFFIFLFLVANNVE-------------------------------
+Medsa|MsatMercedes_NRG000151g00599871_NCR            MQRDKDMAHKFVYAIILIIFLFLVANNVE-------------------------------
+Medsa|MsatMercedes_NRG001018g01757531_NCR            MQRDKDMAHKFVYAIILIIFLFLVANNVEGNVFFSILLKFHSLVCSSYIIFISSHFYNIS
+                                                                . . *::****::*.**:                               
+
+Medtr|crp1440_MtrunA17Chr3_04M_4|cluster31617        -------GDIVCITDNDCPPNTLVQGYRCIDGKCESVFLSYR---
+Medsat|crp1440_GJLK01028253.1_0M_1|cluster31617      --VPEQPGYVACITSNDCPPNTRLIRCKCQKKKRL----------
+Medsat|cluster31617_GJLK01028253.1_0M_2              -------GYVLCKSVNDCPPNTRNLRYRLYCICCMYREKDMA---
+Medtr|crp1440_MtrunA17Chr3_04M_7|cluster31617        -------GYVVCRTVDDCPPDTRDLRYRCLNGKCKSYRLSYG---
+Medtr|crp1440_MtrunA17Chr3_04M_3|cluster31617        -------GYVVCITNNDCPPRTRLILYKCRNRKCVSYSII-----
+Medsat|cluster31617_GJLK01016957.1_0M_1              -------GDVVCITDNDCPPNTLVRRYRCIDGKCESVFVSYR---
+Medtr|crp1440_MtrunA17Chr3_04M_5|cluster31617        -------GYILCKTVNDCPPNTRNLRYRCIDGKCKSHRVLYEWD-
+Medtr|cluster31617_MtrunA17Chr3_04M_1                -------GYIVCITDNDCPENTEVRQYECIEGRCRLSRVLNP---
+Medsa|MsatMercedes_NRG000151g00599871_NCR            -------GYVACITSNDCPPNTRLIRCKCINGKCRFYRRFVPRIA
+Medsa|MsatMercedes_NRG001018g01757531_NCR            LLYSFTIGYVACITSNDCPPNTRLIRCKCINGKCRFYRRFVPRIA
+                                                            * : * : :***  *     .                 

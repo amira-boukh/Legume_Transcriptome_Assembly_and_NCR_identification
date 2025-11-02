@@ -1,0 +1,22 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG001178g01857301_NCR                                MLYFLYAKVKKMDEMLKLVYKVILFVFLYLVIA-DSQRTCSNFLQCYKIYGTPLD-GIWR
+Medsat|cluster52576_GJLK01008082.1_0M_1                                  -----------MDEILNLVYRVILFVFLYLVIA-DSQRTCSNFLQCYKIYGTPLD-GVWR
+Medsat|cluster52576_GJLK01048856.1_0M_1                                  -----------MDKILKLVYTVIVFVSLYLVVV-ESQRTCTNFVDCYNKNGCPRD-GVWR
+Medtr|MtNCR670                                                           -----------MDEILKLVYRVIFFVFLYLVIS-DSQRTCSNFLECYKIYGIPLD-GVWR
+Medsat|cluster52576_GJLK01032147.1_0M_1                                  -----------MDKILKLVYTVIVFVSLYLVVV-DSQRSCTNFIDCYNKNGCPPD-GVWR
+MelOff|crp1530_GJLW01024767.1_0M_1=cluster52576_GJLW01024767.1_0M_1      -----------MGEILIFVYVVIIFVSLYLVV--DGQKTCTTHIDCYYKTGAPLDGGVWE
+MelOff|crp1530_GJLW01010308.1_0M_1=cluster52576_GJLW01010308.1_0M_1      -----------MGEILKSVYVVIIFVSLYLVVVDGGPKTCNTYMDCYYKMGAPLDGGIWE
+MelOff|crp1530_GJLW01002799.1_0M_1|cluster52576                          ----------------MFVYIVILFVSLYLVVV-DGQRTCTKFMDCYKIYGTPLD-GVWT
+                                                                                           ** **.** ****:   . ::*...::**   * * * *:* 
+
+Medsa|MsatMercedes_NRG001178g01857301_NCR                                CMKGFCKLDIDFNTYKVREDDIVRGENIN------
+Medsat|cluster52576_GJLK01008082.1_0M_1                                  CMKGFCKLVIDFN----------------------
+Medsat|cluster52576_GJLK01048856.1_0M_1                                  RKIGFCELVI-------------------------
+Medtr|MtNCR670                                                           CVKGFCELLIDFNTYKVREVAIVRGENIN------
+Medsat|cluster52576_GJLK01032147.1_0M_1                                  CKIGFCELVI-------------------------
+MelOff|crp1530_GJLW01024767.1_0M_1=cluster52576_GJLW01024767.1_0M_1      CINGFCKSI--SGTYQVGEDVIVRGNERTWK----
+MelOff|crp1530_GJLW01010308.1_0M_1=cluster52576_GJLW01010308.1_0M_1      CVKGFCKSI--FGTPT-------------------
+MelOff|crp1530_GJLW01002799.1_0M_1|cluster52576                          CFKGFCKLIIDFGTYLKGEKIFFFFERLKGEKMLL
+                                                                            ***:                            

@@ -1,0 +1,44 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medtr|MtNCR179                                                   --MREKMAQIPYMFYTFIIIFSVFFVTTKSD----------SILCTTHAQCPGDMCELPQ
+Medsat|cluster19596_GJLK01001488.1_0M_5                          ------MAQIPYMFYAFTIFLAVFFLPTKSD----------SIPCTTHDQCPRDMCELPQ
+Medsat|cluster19596_GJLK01009866.1_0M_1                          ------MAQNTYLFCVFIIFLSLFFFLTKS-----------SIPCKTRTQCPGNMCRLPK
+Ps|Psat5g233080.1_NCR                                            ------MAQIASFFYAFIIFLTLFFVTANCNYL-------GPIPCGIPSDCPETMCDGSP
+Medsat|cluster19596_GJLK01050427.1_0M_1                          ------MAQNTYLFCVFIIFLSLFFVLTKS-----------SIPCKTRTQCPGNMCRLPK
+Medsa|MsatMercedes_NRG000446g01178571_NCR_NCR_NCR_NCR            MRIRKNMAQIPYMFYAFIIFLSVFFVPTKSD----------SIPCTTHAQCPRDICELPQ
+Medtr|cluster19596_MtrunA17Chr2_36M_1                            MRRRKNMAQLSYIFYAFIIFLCVFFVPTKSN----------SIPCTTHAQCPGDMCELPQ
+Ps|PsNCR40                                                       ------MSQIRYFLYALVMFHFLLLVSTNSNAA-------GLIPCRLPSDCPENMCDPPL
+Medsa|MsatMercedes_NRG000446g01178561_NCR_NCR_NCR_NCR            --MRKNMAQISYMFYAFIIFHSVFFVLTKSD----------SIPCTTHAQCPKDMCELPQ
+Ps|crp1250_chr7LG7_477M_2|cluster19596                           ------MAQILKFFYILIIFLSLLIIVTS-----------TFIPCVSYKDCPEGMCFPPR
+Ps|cluster19596_chr5LG3_466M_1                                   ------MSQIRYFLYALVMFHFLLLVSTNS----------SLIPCRLPSDCPENMCDPPL
+Ps|crp1250_chr7LG7_477M_3|cluster19596                           ------MAQILKFFYILIIFLSLLIIVTSKR-SDP---IGSFIPCVTYKDCPKDMCFPPR
+Ps|crp1250_chr5LG3_469M_1|cluster19596                           ------MTPIQYFCFALIIFLSLVLASAEK----------TTHPCITSKDCPGKLCKPPL
+TriPr|cluster19596_tripr.MilvusB.gnm2.scaf_1453_0M_2             ------MAQIPYYFYILIIFLSLFLIATRSS-SYI---IRTNFPCKIPLDCPENMCKHPH
+TriPr|cluster19596_tripr.MilvusB.gnm2.scaf_1453_0M_3             ------MAQIPYYFYILIIFLSLFLIATDSS-SYV---ISSNSPCKIPLDCPEDMCMYPR
+TriPr|cluster19596_tripr.MilvusB.gnm2.scaf_1453_0M_1             ------MAQIPYYFYVLIIFLSLFIVATNSSSSNI---ISTDTPCKLPSDCPENMCTAPK
+TriPr|crp1310_tripr.MilvusB.gnm2.scaf_848_0M_1|cluster19596      ------MAKILKGIYALIIFLFLILLVTGEDLIPIISIHGHHVPCITFTDCPQEKCQDPS
+MelOff|crp1160_GJLW01025932.1_0M_1|cluster19596                  ------MAPISSSFYAWIIFLCLFLVVTNGG----------SAPCKTKPDCPRYMCLPPL
+MelOff|crp1250_GJLW01020350.1_0M_1|cluster19596                  ------MAQIPYLFYAFIIFLSVFVVPTKSN----------SIPCITHADCPKDMCELPK
+                                                                       *:          ::  :..  :                *    :**   *    
+
+Medtr|MtNCR179                                                   ---FVWCERI-CDRLSLGAKERGLGADSGEKYED
+Medsat|cluster19596_GJLK01001488.1_0M_5                          ---IVWCVVGFCECA-------------------
+Medsat|cluster19596_GJLK01009866.1_0M_1                          ---FVWCIDGSCVCA-------------------
+Ps|Psat5g233080.1_NCR                                            --LVRWCVDNYCECS-------------------
+Medsat|cluster19596_GJLK01050427.1_0M_1                          ---FVWC---------------------------
+Medsa|MsatMercedes_NRG000446g01178571_NCR_NCR_NCR_NCR            ---IVWCVVGFCECV-------------------
+Medtr|cluster19596_MtrunA17Chr2_36M_1                            ---IVWCVVGFCE---------------------
+Ps|PsNCR40                                                       ---TRWCVDRYCECV-------------------
+Medsa|MsatMercedes_NRG000446g01178561_NCR_NCR_NCR_NCR            ---IVWCVVGFCECA-------------------
+Ps|crp1250_chr7LG7_477M_2|cluster19596                           ---GRRCVLNYCECA-------------------
+Ps|cluster19596_chr5LG3_466M_1                                   ---TRWCVDRYCECV-------------------
+Ps|crp1250_chr7LG7_477M_3|cluster19596                           ---GRRCELNYCECV-------------------
+Ps|crp1250_chr5LG3_469M_1|cluster19596                           ---FAICTNRFCECV-------------------
+TriPr|cluster19596_tripr.MilvusB.gnm2.scaf_1453_0M_2             IRVIPWCVQGYCECA-------------------
+TriPr|cluster19596_tripr.MilvusB.gnm2.scaf_1453_0M_3             ---IQWCIQGYCECG-------------------
+TriPr|cluster19596_tripr.MilvusB.gnm2.scaf_1453_0M_1             ---VRWCVDRFCSCV-------------------
+TriPr|crp1310_tripr.MilvusB.gnm2.scaf_848_0M_1|cluster19596      ---VLWCVSKKCYCS-------------------
+MelOff|crp1160_GJLW01025932.1_0M_1|cluster19596                  ---TRECVNGICECIFISKWHK------------
+MelOff|crp1250_GJLW01020350.1_0M_1|cluster19596                  ---IVWCVVGVCECA-------------------
+                                                                       *                           

@@ -1,0 +1,22 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG000130g00542231_NCR                                MSQISYFLKALIIFFSLFLVEING-EGRPCTYNIDCPLS----ICRS-PQIPKCINSICE
+Medsa|MsatMercedes_NRG000333g01000561_NCR                                MSQISYFLKALIIFFSLFLVEING-EGRPCTYNIDCPLS----MCRS-PQIPKCINSICE
+Medtr|MtNCR535                                                           MSQISYFLKALLIFFSLFLVEING-EVKPCTYNIDCPLS----MCPS-PEIPKCVNSICE
+Medtr|crp1260_MtrunA17Chr1_16M_4|cluster35071                            MTHISKFVFALIIFLSIYVGVNDC-KRIPCKDNNDCNNNWQLLACRFEREVPRCINSICK
+Medtr|crp1160_MtrunA17Chr2_29M_1|cluster35071                            MFKVLNIVYAMIIFLSISFSITNS-FKMFCRYDEDCPPR----MCRL-PQVPQCNEFICD
+TriPr|crp1170_tripr.MilvusB.gnm2.scaf_522_0M_1|cluster35071              MAKIVKFVYVMIILLSLFLVATNSKRNIPCVYDGDCPIK----LCRY-PLKAKCLGGICH
+MelOff|crp1160_GJLW01003226.1_0M_1=cluster35071_GJLW01003226.1_0M_2      MAQVFNFVYALIIFFSLFVVETNG-NSTPCVFNMDCPLN----MCCN-PLIPKCINSFCE
+MelOff|crp1190_GJLW01003226.1_0M_1=cluster35071_GJLW01003226.1_0M_1      MAQVFNFVYALIIIFSLFVVETNG-DSIPCVFNMDCPLN----KCRS-PLIPKCINSIW-
+                                                                         * ::  :: .::*::*: .   :      *  : **        *       :*   :  
+
+Medsa|MsatMercedes_NRG000130g00542231_NCR                                CKGFIHDSAAFSSLLT-
+Medsa|MsatMercedes_NRG000333g01000561_NCR                                CKGFILDSAAFSSLPT-
+Medtr|MtNCR535                                                           CKQFIIDSAAFQAYLHD
+Medtr|crp1260_MtrunA17Chr1_16M_4|cluster35071                            CMPM-------------
+Medtr|crp1160_MtrunA17Chr2_29M_1|cluster35071                            CGMPVYKPYQN-KYIKK
+TriPr|crp1170_tripr.MilvusB.gnm2.scaf_522_0M_1|cluster35071              CR---------------
+MelOff|crp1160_GJLW01003226.1_0M_1=cluster35071_GJLW01003226.1_0M_2      CKGFVVD----------
+MelOff|crp1190_GJLW01003226.1_0M_1=cluster35071_GJLW01003226.1_0M_1      -----------------
+                                                                                          

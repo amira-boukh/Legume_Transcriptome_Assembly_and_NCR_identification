@@ -1,0 +1,20 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|crp1510_GJLK01020916.1_0M_1|cluster23812      ------MTKILMIVYALMAFIFLSIVVSITGDISGNLARAGDISGN-LARASRKKPVDVI
+Medtr|crp1510_MtrunA17Chr4_27M_2|cluster23812        ------MTKILMIGYALMIFIFLSIAVSITGILTLH-NILSDISGN-LARASRKKPVDVI
+Medsa|MsatMercedes_NRG000105g00465821_NCR            MQMRKNMTKILMIVYALMIFILLSIAVSITG----------DISGN-LARASRKKPVDVI
+Medsa|MsatMercedes_NRG000175g00660501_NCR            MQMRKNMTKILMIVYALMIFILLSIAVSITG----------DISGN-LARASRKKPVDVI
+Medtr|MtNCR303                                       MQMRKNMTKILMIGYALMIFIFLSIAVSITG----------DISGN-LARASRKKPVDVI
+MelOff|cluster23812_GJLW01021058.1_0M_1              MQMRKNMAETIIIVYTLTIFISQLLVVSITSDIPCNLEVTFLKKPRENSQLLVVSITSDI
+MelOff|crp1510_GJLW01004529.1_0M_1|cluster23812      ------MAQILTIVYTLTIFISQLLVVYTTSDIPWNLNLSSFKKPEE-----------GV
+                                                           *:: : * *:*  **   :.*  *.            . .             :
+
+Medsat|crp1510_GJLK01020916.1_0M_1|cluster23812      PCISDDD-------------------
+Medtr|crp1510_MtrunA17Chr4_27M_2|cluster23812        PCIYDHDC------------------
+Medsa|MsatMercedes_NRG000105g00465821_NCR            PCIIDDDCPRKLYFLEQCIGNVCKYL
+Medsa|MsatMercedes_NRG000175g00660501_NCR            PCIIDDDCPRKLYFLEQCIGNVCKYL
+Medtr|MtNCR303                                       PCIYDHDCPRKLYFLERCVGRVCKYL
+MelOff|cluster23812_GJLW01021058.1_0M_1              PCTYDEDCPQGRQFFAKCAGNLCMYL
+MelOff|crp1510_GJLW01004529.1_0M_1|cluster23812      PCTYDQDCPYVRQFLAKCIGNVCMYY
+                                                     **  *.*                   

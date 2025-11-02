@@ -1,0 +1,24 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG000287g00915811_NCR_NCR                            MVEIFKFIYKWILFVSLFLVIVAK-EDD---------------TECVTDADCYEKLPALQ
+Medtr|MtNCR152                                                           MAEIFKFVYKWILFVSLFLVIVAK-EDD---------------IECVTDADCYEKLPALQ
+Medsa|MsatMercedes_NRG000644g01432191_NCR_NCR                            MAEIFKFIYKWILFVSLFLVIVAK-EDD---------------TECVTDADCYEKLPALQ
+Medsat|cluster17022_GJLK01002018.1_0M_1                                  MVKIFKLVYTMILFSFLFLVVANIEEETKECVSDADSNIEEETKECVSDADCYNKYPQQS
+TriPr|crp1530_tripr.MilvusB.gnm2.Tp7_05M_1|cluster17022                  MAVFLKCFFTMIFFVSLFLVVVKG---G---------------EECVTKEDCYKKLPDLR
+MelOff|crp1530_GJLW01025522.1_0M_1=cluster17022_GJLW01025522.1_0M_1      MAEILKFIYTLILFVSLFLVIVNGEHGK---------------AQCVSDADCSDELPGLQ
+MelOff|crp1530_GJLW01025522.1_0M_2=cluster17022_GJLW01025522.1_0M_2      MAKILKFIYKLILFVPLFLVIVNSEEDK---------------VECVSDADCYDLFPALQ
+MelOff|cluster17022_GJLW01002785.1_0M_1                                  MFKIFKFVHIVILFVSLLLVFVACEKHYVT--------FYTKKFYCANNAECHERFPNS-
+MelOff|cluster17022_GJLW01011278.1_0M_1                                  MAEILKFIYKLILFVSLFLVIVNSEHEN---------------VKCVNDFDCYKKLVDLR
+                                                                         *  ::* ..  *:*  *:**..                       *... :* .      
+
+Medsa|MsatMercedes_NRG000287g00915811_NCR_NCR                            RAVMKCIQGFCKIHI----------------------------------------
+Medtr|MtNCR152                                                           RAVMKCIQGFCKIHI----------------------------------------
+Medsa|MsatMercedes_NRG000644g01432191_NCR_NCR                            RAVMKCIQGFCKIHI----------------------------------------
+Medsat|cluster17022_GJLK01002018.1_0M_1                                  -------------------------------------------------------
+TriPr|crp1530_tripr.MilvusB.gnm2.Tp7_05M_1|cluster17022                  RIKMICVAGFCKYIIP---------------------------------------
+MelOff|crp1530_GJLW01025522.1_0M_1=cluster17022_GJLW01025522.1_0M_1      RAVMRCIGGYCKLFI----------------------------------------
+MelOff|crp1530_GJLW01025522.1_0M_2=cluster17022_GJLW01025522.1_0M_2      RAVMKCIKGYCKLHI----------------------------------------
+MelOff|cluster17022_GJLW01002785.1_0M_1                                  KHLMKCIRGDCISLSKGKKYVSIKSKPFLFFSFYNVVTLIICLKLLYISPTLKFL
+MelOff|cluster17022_GJLW01011278.1_0M_1                                  NEEIRCINGYCKVFI----------------------------------------
+                                                                                                                                

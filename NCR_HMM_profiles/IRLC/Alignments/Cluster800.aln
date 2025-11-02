@@ -1,0 +1,80 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|cluster800_GJLK01017769.1_0M_1                                  -----------MAQILMFIYSLIIFLSLFLIETKRTN--------------------IPC
+Ps|Psat1g028480.1_NCR                                                  -----MYNMQNMAQVLIFVYALVIFIFLFLVETTKVS-------------------ANPC
+Medsat|cluster800_GJLK01018229.1_0M_1                                  -----------MDQTLMFVYALIIFIFLFLIVTNIFQHNIL-SYFSERKFLFDNAGKFPC
+Medsat|cluster800_GJLK01040807.1_0M_1                                  -----------MTQALILVYALIIFISPFLITTIRKT-------------------NDPC
+Medsa|MsatMercedes_NRG000252g00838721_NCR                              MYVYYNYGRKNMVQIFMFVYALIFFISLFLVVTRSTT-------------------HVMC
+Medsa|MsatMercedes_NRG000355g01035211_NCR                              -----------MVQILMFVYALTSFISLFLVVTRSTT-------------------HVMC
+Ps|Psat1g028480.2_NCR                                                  -----MYNMQNMAQVLIFVYALVIFIFLFLVETTKVS-------------------ANPC
+Medtr|MtNCR425                                                         -----------MAKILMFVYALIIFISLV-ITGRSTI-------------------NVMC
+Medsat|cluster800_GJLK01008933.1_0M_1                                  -----------MAQLIIFVYALIIFLYLLFVEAQITK--------------------IPC
+Medtr|MtNCR069                                                         -----MLKMKNMAQLIIFVYALIIFLYLLFVEAQITK--------------------LPC
+Medtr|MtNCR128                                                         -----------MAQTLMLVYALIIFTSLFLVVISRQT-------------------DIPC
+Medtr|crp1450_MtrunA17Chr4_30M_2|cluster800                            ----------------MFVYDLILFISLILVVTGIKA-------------------DTSC
+Ps|PsNCR250                                                            -----------MAQLLMFAYSLFIFLSLFLVETSKKI-------------------ASPC
+Ps|Psat1g028480.3_NCR                                                  -----MYNMQNMAQVLIFVYALVIFIFLFLVETTKVS-------------------ANPC
+Medsa|MsatMercedes_NRG000578g01355171_NCR_NCR                          -----------MVQIFMFVYALIFFISLFLVVTRSTT-------------------HVMC
+Ps|crp1510_chr1LG6_040M_1|cluster800                                   -----------MALVLMFVYALVIYLLLFLVETSKVDN---------------VEIGDPC
+Ps|crp1430_chr1LG6_040M_1|cluster800                                   -----------MAHVLLYVYALAIFLFLFLVETSKED----------------VKTDYPC
+Ps|cluster800_chr5LG3_049M_1                                           -----------MTHVLMFVYAPIIFLFLFLVDTSK-----------------------AC
+TriPr|cluster800_tripr.MilvusB.gnm2.scaf_29271_0M_1                    -----------MTKINMFIYALIIFSFPFLVECSNYK-----------------KTNIRC
+MelOff|crp1500_GJLW01031018.1_0M_1=cluster800_GJLW01031018.1_0M_1      -----------MAQVLRLVYGLTIFISLFLVVTSRQT-------------------DIPC
+MelOff|cluster800_GJLW01021139.1_0M_1                                  -----------MSQTLIFVYALIIFLSLLLVEIFEFLIYIIHSILPPFSNILNNTARIRC
+MelOff|cluster800_GJLW01019658.1_0M_1                                  -----------MAQILMFVYALVIFLSIYLVESSIPT--------------------IRC
+MelOff|crp1470_GJLW01025002.1_0M_1=cluster800_GJLW01025002.1_0M_1      -----------MAQFIIFVYALIIFISLFLVETTKLK--------------------MIC
+MelOff|cluster800_GJLW01050046.1_0M_1                                  -----------MAQILMFVFALIVFLSLFLVETSKQT-------------------KIPC
+                                                                                          :    :     :                            *
+
+Medsat|cluster800_GJLK01017769.1_0M_1                                  FSDDDCPKRQKLAS-HFKNRGGDVFG---QSS------------SEK-------------
+Ps|Psat1g028480.1_NCR                                                  KSVEDCPEVLK--S-R--EGSGL-TS---FTS------------LNLYLIVSLPSP----
+Medsat|cluster800_GJLK01018229.1_0M_1                                  YFFFDCPDLDHN------------------------------------------------
+Medsat|cluster800_GJLK01040807.1_0M_1                                  ERFQDCRKREL--H-YAHCLGGV-CA---YWK------------FE--------------
+Medsa|MsatMercedes_NRG000252g00838721_NCR                              YYDHDCPFVLD--H-VAECKGGV-CE---YTP------------LLNE------------
+Medsa|MsatMercedes_NRG000355g01035211_NCR                              YYDHDCPFVLD--H-IAECKGGV-CE---YTP------------FLNE------------
+Ps|Psat1g028480.2_NCR                                                  KSVEDCPEFHF--L-VLNDKSSI-SG----------------------------------
+Medtr|MtNCR425                                                         YYDHDCPFVLD--H-IAECKGGV-CE---YTA------------FFYE------------
+Medsat|cluster800_GJLK01008933.1_0M_1                                  YSVDDCPKVEVPIPMVAKCFGKSFRRRCHYF-----------------------------
+Medtr|MtNCR069                                                         VTVDDCPKVEKPIPMVAKCFGGSTKHHQSSMHLLWRSCIWMIWNERNCFIFKLKEHSLHQ
+Medtr|MtNCR128                                                         KSDDACPRVSS--H-HIECVKGF-CT---YWK------------LD--------------
+Medtr|crp1450_MtrunA17Chr4_30M_2|cluster800                            HSFDDCPWVAH--H-YRECIEGL-CA---YRI------------LY--------------
+Ps|PsNCR250                                                            KFVKDCPQVEK--L-VAKCVDGF-CV---YWI------------LCQMC-----------
+Ps|Psat1g028480.3_NCR                                                  KSVEDCPEVRE--H-IAKCIDGV-CD---YWP------------DPDF------------
+Medsa|MsatMercedes_NRG000578g01355171_NCR_NCR                          YYDHDCPFVLD--H-VAECKGGV-CE---YTP------------LLNE------------
+Ps|crp1510_chr1LG6_040M_1|cluster800                                   NTVVDCPDVVD--H-IAKCIDGF-CQ---YWL------------VE--------------
+Ps|crp1430_chr1LG6_040M_1|cluster800                                   NTARDCPVVGVLLLWVAKCIRGR-CR---YKR------------NE--------------
+Ps|cluster800_chr5LG3_049M_1                                           KTVRDCPGVKD--H-FATCMGGF-CE---YGW------------LNN-------------
+TriPr|cluster800_tripr.MilvusB.gnm2.scaf_29271_0M_1                    KTNEDCPRSVKF---VWICKEKF-CELIN-------------------------------
+MelOff|crp1500_GJLW01031018.1_0M_1=cluster800_GJLW01031018.1_0M_1      KSHDSCPRVSY--H-YVECVKGN-CA---YWK------------LD--------------
+MelOff|cluster800_GJLW01021139.1_0M_1                                  RNNDDCLDRGK-------CNRNGICE---FK-----------------------------
+MelOff|cluster800_GJLW01019658.1_0M_1                                  ITEADCPCGAK-------CIHDI-CR---FFM------------NYNNLV----------
+MelOff|crp1470_GJLW01025002.1_0M_1=cluster800_GJLW01025002.1_0M_1      TSDADCPKQTK--GLTIKCFKGW-CY---YFD------------QFSYFKE---------
+MelOff|cluster800_GJLW01050046.1_0M_1                                  KFITDCPYLHP--PMHMKCLDGF-CR---IFY----------------------------
+                                                                            *                                                      
+
+Medsat|cluster800_GJLK01017769.1_0M_1                                  ---------------------------------------
+Ps|Psat1g028480.1_NCR                                                  ---------------------------------------
+Medsat|cluster800_GJLK01018229.1_0M_1                                  ---------------------------------------
+Medsat|cluster800_GJLK01040807.1_0M_1                                  ---------------------------------------
+Medsa|MsatMercedes_NRG000252g00838721_NCR                              ---------------------------------------
+Medsa|MsatMercedes_NRG000355g01035211_NCR                              ---------------------------------------
+Ps|Psat1g028480.2_NCR                                                  ---------------------------------------
+Medtr|MtNCR425                                                         ---------------------------------------
+Medsat|cluster800_GJLK01008933.1_0M_1                                  ---------------------------------------
+Medtr|MtNCR069                                                         LLDKIKLPTFWWLKAEYTTIYFDYHSWWLKRIMCLGVIT
+Medtr|MtNCR128                                                         ---------------------------------------
+Medtr|crp1450_MtrunA17Chr4_30M_2|cluster800                            ---------------------------------------
+Ps|PsNCR250                                                            ---------------------------------------
+Ps|Psat1g028480.3_NCR                                                  ---------------------------------------
+Medsa|MsatMercedes_NRG000578g01355171_NCR_NCR                          ---------------------------------------
+Ps|crp1510_chr1LG6_040M_1|cluster800                                   ---------------------------------------
+Ps|crp1430_chr1LG6_040M_1|cluster800                                   ---------------------------------------
+Ps|cluster800_chr5LG3_049M_1                                           ---------------------------------------
+TriPr|cluster800_tripr.MilvusB.gnm2.scaf_29271_0M_1                    ---------------------------------------
+MelOff|crp1500_GJLW01031018.1_0M_1=cluster800_GJLW01031018.1_0M_1      ---------------------------------------
+MelOff|cluster800_GJLW01021139.1_0M_1                                  ---------------------------------------
+MelOff|cluster800_GJLW01019658.1_0M_1                                  ---------------------------------------
+MelOff|crp1470_GJLW01025002.1_0M_1=cluster800_GJLW01025002.1_0M_1      ---------------------------------------
+MelOff|cluster800_GJLW01050046.1_0M_1                                  ---------------------------------------
+                                                                                                              

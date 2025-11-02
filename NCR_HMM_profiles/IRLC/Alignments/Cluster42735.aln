@@ -1,0 +1,18 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Ps|PsNCR14                                                        --------MENTAKIVKFIYFMIIILSLFLVTTSYDSDGDDCNYSDEC---ECDSPRKPF
+Ps|PsNCR96                                                        -----------MSKMIPLVYVMIIILSLFLVVTSISTVGEKCLTNTDC---ECDPPLIAF
+Ps|cluster42735_chr3LG5_085M_2                                    MYVISYQRMENLTKMIKFIYLMIIILSLFLVTTSNSTEGDDCFSSSDC---ECDTPLIPF
+Ps|crp1170_chr3LG5_085M_3|cluster42735                            -----------MVKILKFAPLMIIILSLFLVSVNTKPEGDDCSASTDC---DCEHPLIPV
+TriPr|cluster42735_tripr.MilvusB.gnm2.scaf_13675_0M_1             -----------MTKIVKFVYIMIILLSLFIVSTSFTYI--QCAHKGDCPNLFCPYPKRIK
+LupAl|crp1430_lupal.Amiga.gnm1.Lalb_Chr15_14M_2|cluster42735      -----------MDGIMKFVYALLLLFSFFLNVT----NGKKCNSGTGCEG-YCPEGYIAL
+                                                                                :: :   :::::*:*:  .       .*     *    *       
+
+Ps|PsNCR14                                                        CIFKMCMCM------------
+Ps|PsNCR96                                                        CIFKKCMCQPKLFDDIRLLNP
+Ps|cluster42735_chr3LG5_085M_2                                    CIFKVCLCLKKDIIMI-----
+Ps|crp1170_chr3LG5_085M_3|cluster42735                            CIFNMCKCIAL----------
+TriPr|cluster42735_tripr.MilvusB.gnm2.scaf_13675_0M_1             CIKGLCLCQ------------
+LupAl|crp1430_lupal.Amiga.gnm1.Lalb_Chr15_14M_2|cluster42735      CNLKLGSCVCM----------
+                                                                  *      *             

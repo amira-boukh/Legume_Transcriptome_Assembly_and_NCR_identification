@@ -1,0 +1,14 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Ps|PsNCR244                                          MARVFIFCYSLIIFITSIPFIT-----------------------------------SLH
+Ps|PsNCR245                                          MARVFIFCYSLIIFITSIPFIT-----------------------------------SLH
+TriPr|cluster41461_tripr.MilvusB.gnm2.Tp4_16M_1      -----MFIYTLIIFFFT-FLVE-----------------------------------SFA
+AsSin|AsNCR063|cluster41461                          MTKSLKYISAMILFFFLFLHFTNGDWFPKNNPTLRDEVVEVEETGKKGGKGGSHDKSDNI
+                                                           :  ::*:*:     .                                    .  
+
+Ps|PsNCR244                                          FRNSKIPCEYDNDCPPKPN----RYNVCKSNGFCQYWSVF-
+Ps|PsNCR245                                          FRNSKIPCEYDNDCPPKPN----RYNVCKSNGFCQYWVM--
+TriPr|cluster41461_tripr.MilvusB.gnm2.Tp4_16M_1      YKKTNIPCKYIGDCPPSGN----RYAWLCKENFCELIN---
+AsSin|AsNCR063|cluster41461                          LHSSEVPCLYDDDCIDYCKSVGYARYKCKPKRKCLCWNLHT
+                                                      :.:::** * .**    :           :  *       

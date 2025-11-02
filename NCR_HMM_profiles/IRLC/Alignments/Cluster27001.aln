@@ -1,0 +1,22 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|cluster27001_GJLK01019432.1_0M_1                                  MYKTIKFVYTMIFLNSLLLFAKNVAEYIVCETDADCPKSPLTGFGWKCIKRRCVYFDIEP
+Medtr|cluster27001_MtrunA17Chr5_26M_1                                    MVKTLKFVYDMILFIFLYLVAKNVAESIECRTVADCPKLISSKFVIKCIEKRCVAQFFD-
+Medsa|MsatMercedes_NRG000255g00846241_NCR_NCR                            MVKTLKFVYDMILFIFLFLIAKNIAESIECRTVADCPKLISSKFVIKCIKKRCVAQFFK-
+Medsat|cluster27001_GJLK01025120.1_0M_1                                  MAKILKFMYAMILFIFLFLFGKSVDGYIKCKTVVDCPYLISRTLVIMCISNQCVAHYIH-
+Medtr|crp1440_MtrunA17Chr5_27M_1|cluster27001                            MAIILKFVYTIILFIYLFLFENSVDGYIKCKTVVDCPYLISRTLVIMCINKQCVAHYIH-
+Medsa|MsatMercedes_NRG001055g01782771_NCR_NCR                            MVKTLKFVYDMILFIFLFLIAKNIAESIECRTVADCPKLISSKFVIKCIKKRCVAQFFK-
+TriPr|crp1430_tripr.MilvusB.gnm2.scaf_475_0M_1|cluster27001              MVKTLKFVCAIIYFFSIFLVAMNQPYPIDCETEEDCPIAVAGKFV--CYKKKCWHLYLLN
+MelOff|crp1440_GJLW01034207.1_0M_1=cluster27001_GJLW01034207.1_0M_1      MAKNLKFVYAMIFFISLFLIANNVAGYIECKTDADCPTIISTRLVIRCINDRCKVEYIR-
+                                                                         *   :**:  :* :  : *.  .    * *.*  ***      :   * . :*    :  
+
+Medsat|cluster27001_GJLK01019432.1_0M_1                                  -
+Medtr|cluster27001_MtrunA17Chr5_26M_1                                    -
+Medsa|MsatMercedes_NRG000255g00846241_NCR_NCR                            -
+Medsat|cluster27001_GJLK01025120.1_0M_1                                  -
+Medtr|crp1440_MtrunA17Chr5_27M_1|cluster27001                            -
+Medsa|MsatMercedes_NRG001055g01782771_NCR_NCR                            -
+TriPr|crp1430_tripr.MilvusB.gnm2.scaf_475_0M_1|cluster27001              K
+MelOff|crp1440_GJLW01034207.1_0M_1=cluster27001_GJLW01034207.1_0M_1      -
+                                                                          

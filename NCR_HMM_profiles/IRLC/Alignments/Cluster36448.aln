@@ -1,0 +1,23 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG000824g01606241_NCR_NCR_NCR                        MDKTLKFMYVLILFIFLSIVSK--------------------------------------
+Medsa|MsatMercedes_NRG001858g02094651_NCR_NCR_NCR                        MDKTLKFLYVLILFIFLSNVSK--------------------------------------
+Medtr|MtNCR432                                                           MNKTLKFVYVLILFISLSIVSK--------------------------------------
+MelOff|crp1440_GJLW01013957.1_0M_1=cluster36448_GJLW01013957.1_0M_1      MYETFKFVYALILFISLFVVAK--------------------------------------
+AsSin|AsNCR022|cluster36448                                              MAKCLMCISTLIVAILLFFHLTHGYQFLENNLILGDEDESEGVDSRRKSGGETGERKDDK
+                                                                         * : :  : .**: * *    .                                      
+
+Medsa|MsatMercedes_NRG000824g01606241_NCR_NCR_NCR                        ----------SIAQY---NI--GCKTDDDCQKYYTKMFGMKCFKSWCITGILD-------
+Medsa|MsatMercedes_NRG001858g02094651_NCR_NCR_NCR                        ----------SVAQY---NI--GCKTDDDCQKYYTKMFGMKCFKSWCITGILD-------
+Medtr|MtNCR432                                                           ----------SVAQY---NI--GCKTDDDCQKYYTKMFGMKCFKSWCITGILD-------
+MelOff|crp1440_GJLW01013957.1_0M_1=cluster36448_GJLW01013957.1_0M_1      ----------NVAQY---NINNECKTDDDCQNYISKMFGMKCIRNRCITGLLD-------
+AsSin|AsNCR022|cluster36448                                              SGGETGERKDDKSRYIVHLSKIPCKGHKDCQEYCQKSMGYKFF--WCKVTLFYSGEKKKV
+                                                                                   . ::*        ** ..***:*  * :* * :   * . ::        
+
+Medsa|MsatMercedes_NRG000824g01606241_NCR_NCR_NCR                        ---------
+Medsa|MsatMercedes_NRG001858g02094651_NCR_NCR_NCR                        ---------
+Medtr|MtNCR432                                                           ---------
+MelOff|crp1440_GJLW01013957.1_0M_1=cluster36448_GJLW01013957.1_0M_1      ---------
+AsSin|AsNCR022|cluster36448                                              CVCRKFISK
+                                                                                  

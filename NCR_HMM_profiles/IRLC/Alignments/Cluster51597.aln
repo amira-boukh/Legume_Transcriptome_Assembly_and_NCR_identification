@@ -1,0 +1,18 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|crp1520_GJLK01066210.1_0M_1|cluster51597                                  -----MEKCLSFVYVPILILSTLLVLTIYDQVYFGKSPPCVTDKDCPRPQFQKSNVRCRK
+Medtr|MtNCR358                                                                   -----MVETLKYVYVMFLFLSIFQLMVVYDSIYFRKPPPCITDKDCPQ--MKINNVRCRK
+Medsa|MsatMercedes_NRG000883g01657361_NCR                                        -----MVETLKIVYALFLFLSVFQVMVAYDSIYFRKSPPCITDKDCPN--LKDFTVRCRK
+Medtr|crp1430_MtrunA17Chr5_27M_1|cluster51597                                    -----MAKTCKLVFALILFVSLYLVSMS-----AELGGPCRSDEECPQLSLRFFAIKCRE
+MelOff|cluster51597_GJLW01011500.1_0M_2                                          MSLYDTPYASKRIVQLILFLSIFVVIIVYDSIYFRKAPPCITDKDCK-----NDNFRCRK
+MelOff|crp1520_GJLW01021671.1_0M_1=crp1520_GJLW01042452.1_0M_1|cluster51597      -----MAKTMKFIYVSILFISILLVMIVYDSVFYPNPPPCITDKDCPR--LQNTNVRCRK
+                                                                                           . :   :*::*   :             ** :*::*         .:**:
+
+Medsat|crp1520_GJLK01066210.1_0M_1|cluster51597                                  GICTN------
+Medtr|MtNCR358                                                                   GFCIQIHKFTP
+Medsa|MsatMercedes_NRG000883g01657361_NCR                                        GFCIQIHKLTP
+Medtr|crp1430_MtrunA17Chr5_27M_1|cluster51597                                    NVCIYVDLDP-
+MelOff|cluster51597_GJLW01011500.1_0M_2                                          GSCVQIHKLTP
+MelOff|crp1520_GJLW01021671.1_0M_1=crp1520_GJLW01042452.1_0M_1|cluster51597      GFCTGIIY---
+                                                                                 . *        

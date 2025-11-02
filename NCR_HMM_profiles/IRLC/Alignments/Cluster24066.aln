@@ -1,0 +1,34 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG000289g00920171_NCR                                --MAKSLK-FFYILVIFVSIYLGLVN-------------GQPCLSDHDCYIQNPKV-PYG
+Medsa|MsatMercedes_NRG000778g01565661_NCR                                --MAKSLK-FFYILVIFVSIYLGLVN-------------GQPCLSDHDCYIQNPKV-PYG
+Medsat|cluster24066_GJLK01014396.1_0M_1                                  --MDETLK-FVYIVILFVSLYLVVVDGVSKL--------EQTCSEDFECYIKNPHV-PFG
+Medtr|MtNCR540                                                           --MAKSLK-FFYILISFVSLYFGVVN-------------SHPCLSDHDCYIQYPKT-PFG
+MelOff|crp1300_GJLW01016033.1_0M_1=cluster24066_GJLW01016033.1_0M_1      --MANILK-FFYILIIFVSLYFVVVNSDENL--------DNQCVTHIDCYMQFCYY-RLG
+MelOff|cluster24066_GJLW01006324.1_0M_2                                  --MAKTLK-FFYILFIFASLYLSVVNSGRNLDKI----YGHLCISDLDCYLRNPHY-PLG
+MelOff|cluster24066_GJLW01003082.1_0M_1                                  MIHQYTLETFFYILVIFYTLYPFVVICDKN--------IGHQCATRLDCYIQYPDF-PHG
+MelOff|crp1430_GJLW01022551.1_0M_1=cluster24066_GJLW01022551.1_0M_1      --MAKTLK-FFYIIVIFVTLYLGVVNSGRII--------GEDCVTRLDCYLAYPQF-RPE
+MelOff|crp1430_GJLW01007014.1_0M_1=cluster24066_GJLW01007014.1_0M_1      --MAKTLK-FFYILIIFASLYLGVVNSDKNL--------GNQCVTDIDCYMKFSYY-HVG
+MelOff|crp1530_GJLW01006324.1_0M_1|cluster24066                          --MAKTLK-FFYILIIFASLYLSVINGGKNLGKT----LGHLCISDLDCYLRNPHY-PLG
+MelOff|crp1520_GJLW01017870.1_0M_1=cluster24066_GJLW01017870.1_0M_1      --MAKTLK-FFYIMIIFISLNLAVVNSDQNFGVN----FRQKCVTDLDCDNQNPELLLFG
+MelOff|crp1230_GJLW01003233.1_0M_1=cluster24066_GJLW01003233.1_0M_1      --MAKTLE-FFCIFIIFVSLYLGVVISDEKF--------PRPCLTDLECFVANRRSFPYG
+MelOff|crp1520_GJLW01022770.1_0M_1=cluster24066_GJLW01022770.1_0M_1      --MATTLK-FFYSTIIYVFLYLGIVNSDNKFSKSREDIRRLPCVTDLDCYVRNTDF-PLG
+MelOff|cluster24066_GJLW01021131.1_0M_1                                  --MAKTLKFFFYILIIFVTLYLDVVICDKNFGEN----LGHQCVIGPDCYIQNPDF-PHG
+                                                                               *: *.   . :  :   ::                 *    :*           
+
+Medsa|MsatMercedes_NRG000289g00920171_NCR                                H-MECYKGSCMPI----------------------------------------
+Medsa|MsatMercedes_NRG000778g01565661_NCR                                H-MECYKGSCMPI----------------------------------------
+Medsat|cluster24066_GJLK01014396.1_0M_1                                  H-LRCFEGFCQQL----------------------------------------
+Medtr|MtNCR540                                                           H-MECYKGSCRPI----------------------------------------
+MelOff|crp1300_GJLW01016033.1_0M_1=cluster24066_GJLW01016033.1_0M_1      F-WSCHGGRCVFEE---------------------------------------
+MelOff|cluster24066_GJLW01006324.1_0M_2                                  L-IDCDKGYCKCFYKPC------------------------------------
+MelOff|cluster24066_GJLW01003082.1_0M_1                                  I-QDCFGGRCVFFRKSG------------------------------------
+MelOff|crp1430_GJLW01022551.1_0M_1=cluster24066_GJLW01022551.1_0M_1      D-MDCIDGFCELLPVELWP----------------------------------
+MelOff|crp1430_GJLW01007014.1_0M_1=cluster24066_GJLW01007014.1_0M_1      F-WECYGGDCIFYEQ--------------------------------------
+MelOff|crp1530_GJLW01006324.1_0M_1|cluster24066                          L-IDCDKGYCKCFYKPC------------------------------------
+MelOff|crp1520_GJLW01017870.1_0M_1=cluster24066_GJLW01017870.1_0M_1      H-FACMGGRCYFFGKPG------------------------------------
+MelOff|crp1230_GJLW01003233.1_0M_1=cluster24066_GJLW01003233.1_0M_1      VTHECHEGFCTCDNKPC------------------------------------
+MelOff|crp1520_GJLW01022770.1_0M_1=cluster24066_GJLW01022770.1_0M_1      I-FDCKEGVCFYFNKPF------------------------------------
+MelOff|cluster24066_GJLW01021131.1_0M_1                                  I-QDCLGGSCVLFKESGKAKKISNMYRHFIFLDHHKAVIFITILTLSYISVLP
+                                                                             *  * *                                           

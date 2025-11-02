@@ -1,0 +1,32 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medtr|cluster9321_MtrunA17Chr2_36M_4                   ----------------------------------MQRGQNMAQNKYLFCAFIIFLSLFFV
+Medsa|MsatMercedes_NRG000446g01178151_NCR              ----------------------------------MQRRKNMDQIPYLFYAFIIFLYVYFA
+Medsa|MsatMercedes_NRG000446g01178461_NCR_NCR          ----------------------------------MQRRKNMGQISYLFYAFIIFLYVIFV
+Medsat|crp1250_GJLK01012549.1_0M_1|cluster9321         ----------------------------------------MAQIQYLFYAFITFLYVFLV
+Medtr|MtNCR780                                         ----------------------------------MQRRKNMDQIPYLFYAFIIFLYVFFF
+Medtr|MtNCR561                                         ----------------------------------MQRRKHMDQITHLLYAFIIFLYVNFA
+Medsa|MsatMercedes_NRG044546g02400391_NCR_NCR_NCR      ----------------------------------MQRRKNMDQIPYLFYAFIIFLYVYFA
+Ps|crp1250_chr7LG7_477M_1|cluster9321                  MAQILKFSYILIIFLSLLIIVTKKLEPIGCKSFFTPFSYVFHNIFYMLYTIFYLLFITFV
+                                                                                               : :  ::: ::: :* : : 
+
+Medtr|cluster9321_MtrunA17Chr2_36M_4                   LTKSS-----IPCKTRTQCPEKMCRLPKF---------VWCIDG--------------SC
+Medsa|MsatMercedes_NRG000446g01178151_NCR              PTKS-DYQDLLPCLTRADCPEDMCEFPKL---------PWCH--------------LYSC
+Medsa|MsatMercedes_NRG000446g01178461_NCR_NCR          PTES-GY---IPCVDRDDCPEDMCELPKR---------LWCY--------------LHSC
+Medsat|crp1250_GJLK01012549.1_0M_1|cluster9321         PAKS----NIIPCITRDDCPKDFCQFPRRVICARGSCDCWEEDG----------------
+Medtr|MtNCR780                                         STES-GY---IPCVDQDDCPEQARIQ--------------CG--------------GNGV
+Medtr|MtNCR561                                         STESEDYQDLVPCLSRADCPQDMSCNKRQQRTEPT-LLDWNTEKQLFFQETLEWGLFEIL
+Medsa|MsatMercedes_NRG044546g02400391_NCR_NCR_NCR      PTKS-DYQDLLPCLTRADCPEDMCEFPKL---------PWCH--------------LYSC
+Ps|crp1250_chr7LG7_477M_1|cluster9321                  LFL-FNISAFIPCVSYLDCPEGMCLAPRRRRCKFNYCECV--------------------
+                                                                 :**    :**:                                       
+
+Medtr|cluster9321_MtrunA17Chr2_36M_4                   VC--------------
+Medsa|MsatMercedes_NRG000446g01178151_NCR              ECI-------------
+Medsa|MsatMercedes_NRG000446g01178461_NCR_NCR          ECINSI-------LPV
+Medsat|crp1250_GJLK01012549.1_0M_1|cluster9321         ----------------
+Medtr|MtNCR780                                         K---------------
+Medtr|MtNCR561                                         LCIYIEAWKVGINAPL
+Medsa|MsatMercedes_NRG044546g02400391_NCR_NCR_NCR      ECI-------------
+Ps|crp1250_chr7LG7_477M_1|cluster9321                  ----------------
+                                                                       

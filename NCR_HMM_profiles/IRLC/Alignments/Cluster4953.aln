@@ -1,0 +1,42 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|cluster4953_GJLK01023211.1_0M_1                                  ------MDKTVKFTYAMI-IFVFLFLIATNVEA---------------YKVRCFRDSDCP
+Medsat|crp1440_GJLK01030325.1_0M_1|cluster4953                          ------MAKIEKFVYVMI-IFIFLFLIATNVEG---------------K-HRCFRDSDCP
+Medtr|MtNCR212                                                          MQRMRSMDKTIKFTYVMI-IFVYLFLIATNVEA---------------YKNRCFRDSDCP
+Medsa|MsatMercedes_NRG000081g00386721_NCR                               ------MVEIVKFVYIIN-IFIFLFLVATNVEA---------------KFTRCFRDSDCP
+Medsa|MsatMercedes_NRG000055g00297291_NCR                               ------MVEIVKFVYIIN-IFIFLFLVATNVEA---------------KFTRCFRDSDCP
+Medsat|cluster4953_GJLK01027942.1_0M_1                                  ------MVEDVKFVYVLI-IFLSLFSVATKAEP---------------RGHRCFTDSDCP
+Ps|PsNCR338                                                             ------MAQIIKFVYFII-ILFFLFPSSTNVEA---------------WMRRCFKDSDCP
+Ps|PsNCR339                                                             ------MAQTLKFINVVIIMVLFLFISSTNIEA---------------WKRTCFKDSHCP
+TriPr|crp1130_tripr.MilvusB.gnm2.scaf_1030_0M_1|cluster4953             ------MTKIINLVYDII-IFLLLFLVVTNVEAGRY-----------TKRQSCFRDSDCT
+TriPr|crp1170_tripr.MilvusB.gnm2.scaf_177_0M_1|cluster4953              ------MAEIGKLLACVI-IILLLFLVATNIEA--------------RKSSRCFSDSDCM
+TriPr|crp1130_tripr.MilvusB.gnm2.scaf_299_0M_1|cluster4953              ------MAEIVNFICVIM-IFFFLFFVATNIEA---------------TFIRCYRDACCP
+MelOff|crp1190_GJLW01013110.1_0M_2|cluster4953                          ------MAEIVKFIYVMI-IFLSVFLVTTNIEGKPIFM---------RIAPRCFKDSDCP
+MelOff|crp1190_GJLW01010090.1_0M_1|cluster4953                          ------MAEIVKFVYVMI-IFLSVFLVTTNIEGKPIFMIISLFFFFTAHRPRCFRDSDCP
+MelOff|crp1190_GJLW01017530.1_0M_1=cluster4953_GJLW01017530.1_0M_1      ------MNEIVKYLCIII-IFLSLFLVSINVEA---------------AFTRCFRDSDCR
+MelOff|crp1190_GJLW01013110.1_0M_1=cluster4953_GJLW01013110.1_0M_1      ------MAEIVKFVYVII-IFLSLFLVKTKIEA---------------HRPRCFKDSDCP
+MelOff|crp1190_GJLW01009076.1_0M_1|cluster4953                          ------MTEIVKFTYVVI-IFLFKFLIATNVEA---------------YKVRCFRDSDCP
+MelOff|crp1130_GJLW01017530.1_0M_1|cluster4953                          ------MDKIGKFVYVII-IFLSLFHVAINVEA---------------AFTRCFRDSDCR
+AsSin|AsNCR151|cluster4953                                              --MGGYMVVILSFVDVIV-LLLSLFFMATNIEA---------------SSFNCYQDSDCP
+                                                                              *    .    :  :..  *    : *                    *: *: * 
+
+Medsat|cluster4953_GJLK01023211.1_0M_1                                  KE-MCSHPKIPKCVNNAYCKCVV----------
+Medsat|crp1440_GJLK01030325.1_0M_1|cluster4953                          KR-LCKSPLKPKCM-------------------
+Medtr|MtNCR212                                                          KE-MCNHPKIPKCVNNAYCKCVVAMYFPPK---
+Medsa|MsatMercedes_NRG000081g00386721_NCR                               KT-LCHSPGKAKCMHHSICKCIFFGYNI-----
+Medsa|MsatMercedes_NRG000055g00297291_NCR                               KT-LCHSPGKAKCMHHSICKCIFFGYNI-----
+Medsat|cluster4953_GJLK01027942.1_0M_1                                  PI-I-HPPGIC-CLISFLY-----HYFRVK---
+Ps|PsNCR338                                                             KD-WCRKPKIMTCVSHSLCKCMVQGYLKPI---
+Ps|PsNCR339                                                             D--SCRRPKIMKCVFQSYCKCVMPGYIAPP---
+TriPr|crp1130_tripr.MilvusB.gnm2.scaf_1030_0M_1|cluster4953             KQ-RCQSPFIPKCMFQRYCQCVLPWHKI-----
+TriPr|crp1170_tripr.MilvusB.gnm2.scaf_177_0M_1|cluster4953              KNMFCRRPKIQKCMYQSLCKCVLPVF-------
+TriPr|crp1130_tripr.MilvusB.gnm2.scaf_299_0M_1|cluster4953              TN-LCLPRMKPRCMYNSICKCVQKTYSEINMPT
+MelOff|crp1190_GJLW01013110.1_0M_2|cluster4953                          KD-YCSPPGTVKCMFHAICKCVAPSQIRFVDT-
+MelOff|crp1190_GJLW01010090.1_0M_1|cluster4953                          KR-YCQPPGKAKCKFQSICKCVLPMGLRDFVAT
+MelOff|crp1190_GJLW01017530.1_0M_1=cluster4953_GJLW01017530.1_0M_1      TH-YCSRPKIPKCMYRAICKCIFVITPEDYMLT
+MelOff|crp1190_GJLW01013110.1_0M_1=cluster4953_GJLW01013110.1_0M_1      KN-YCSPPGIVKCDFHAICKCVPPSKINFVDT-
+MelOff|crp1190_GJLW01009076.1_0M_1|cluster4953                          KE-MCSHPRIPKCVYNAYCKCVVPMYFPPK---
+MelOff|crp1130_GJLW01017530.1_0M_1|cluster4953                          TH-YCSRPKIPKCMYRAICKCIFVITPEDYMLT
+AsSin|AsNCR151|cluster4953                                              IY-MCARPAIERCTVWRICICSFDLLW------
+                                                                                    *                    

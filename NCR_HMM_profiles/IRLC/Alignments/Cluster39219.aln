@@ -1,0 +1,26 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG009085g02227701_NCR                                MAKIVKFFCVMIIFLSVSIVAMNN------------------------------------
+Medsa|MsatMercedes_NRG017719g02286331_NCR                                MAKIVKFFCVMIIFLSVSIVAMNN------------------------------------
+Medtr|crp1190_MtrunA17Chr7_11M_1|cluster39219                            MTVIVKFVCVMIIFLSLCVFSMHI------------------------------------
+TriPr|cluster39219_tripr.MilvusB.gnm2.scaf_782_0M_1                      MNKVYMFIYAMVIFFTIFISIT-N------------------------------------
+MelOff|crp1190_GJLW01005483.1_0M_1=cluster39219_GJLW01005483.1_0M_1      MAEVVKLISITIIFIFLALLARNV------------------------------------
+AsSin|AsNCR090|cluster39219                                              MTKSLKCIVAFVLFFFLFLHLSNGYGFSKKYLSLGDENVENKKKSRPSAGKVGPFRDQQT
+                                                                         *      .   ::*: : :                                         
+
+Medsa|MsatMercedes_NRG009085g02227701_NCR                                --ESTFLCTENSDCP---------EYMCSPPKKPLCYLFASSPFERKIGVCECH------
+Medsa|MsatMercedes_NRG017719g02286331_NCR                                --ESTFLCTENSDCP---------EYMCSPPKKPLCYLFASSPFERKIGVCECH------
+Medtr|crp1190_MtrunA17Chr7_11M_1|cluster39219                            --ETVTTCIYDSDCP---------EDMCYPPKKSFCSTFEILSIERKVGVCECI------
+TriPr|cluster39219_tripr.MilvusB.gnm2.scaf_782_0M_1                      --CDWILCSGNEDCG---------DHKCIPPKVPLCMPFPFP--DHHFGQCECGITSAQW
+MelOff|crp1190_GJLW01005483.1_0M_1=cluster39219_GJLW01005483.1_0M_1      --E-TKLCFRHSDCQ---------DYLCVPPENPWCVIFTEGPM-RKVGECKCI------
+AsSin|AsNCR090|cluster39219                                              SYNSEYSCEENSDCRVYCRELFFREYSCNWQKKCFCWFSTSRP-----------------
+                                                                                *  ..**          :  *   :   *                        
+
+Medsa|MsatMercedes_NRG009085g02227701_NCR                                -------
+Medsa|MsatMercedes_NRG017719g02286331_NCR                                -------
+Medtr|crp1190_MtrunA17Chr7_11M_1|cluster39219                            -------
+TriPr|cluster39219_tripr.MilvusB.gnm2.scaf_782_0M_1                      PLKPLNV
+MelOff|crp1190_GJLW01005483.1_0M_1=cluster39219_GJLW01005483.1_0M_1      -------
+AsSin|AsNCR090|cluster39219                                              -------
+                                                                                

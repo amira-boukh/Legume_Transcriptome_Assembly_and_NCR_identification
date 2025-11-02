@@ -1,0 +1,18 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG000217g00762091_NCR                -MQIRKYMAKIIKFVYVMTTFLSLFLVATVSAHNPCK---TVVDCPPHHPTYGFVVTVKC
+Medsa|MsatMercedes_NRG000324g00985681_NCR                -MQIRKYMAKIIKFVYVMTTFLSLFLVATVSAHNPCK---TVVDCPPHHPTYGFVVTVKC
+Medtr|MtNCR662                                           -MQIRKNMTKIIKFVYVMSTFLSLFLVATVSAHNPCK---TVVDCPPPHP-YGFVVAVKC
+Medtr|cluster22607_MtrunA17Chr5_25M_1                    MQKKGKYMAKLVTFVYVMIYFLSLFLVTKGAYY----ECSNDSACQATTKCVLP-RVPRC
+TriPr|cluster22607_tripr.MilvusB.gnm2.scaf_437_0M_1      MQKGKIYMDAIVKFVNIIIIFLSLFIVATNAAGNPGKKCFSTSECP-RTMCPTF-MMAHC
+MelOff|crp1430_GJLW01014825.1_0M_1|cluster22607          -------MTKILKLVYAMTLFLSLFLVAIVYAHHPCK---TVVHCPPHPYG----FDVKC
+                                                                *  ::.:*  :  *****:*:            .   *             :*
+
+Medsa|MsatMercedes_NRG000217g00762091_NCR                VRRLCIYNVHLHT---------------------
+Medsa|MsatMercedes_NRG000324g00985681_NCR                VRRLCIYNVHLHT---------------------
+Medtr|MtNCR662                                           VRRLCIYNVHLHT---------------------
+Medtr|cluster22607_MtrunA17Chr5_25M_1                    IKYKCLCGNSNGSGNRWSTRPNRIQKGSTESNYF
+TriPr|cluster22607_tripr.MilvusB.gnm2.scaf_437_0M_1      IRKKCLCVLM------------------------
+MelOff|crp1430_GJLW01014825.1_0M_1|cluster22607          VGRICLYNRFLNL---------------------
+                                                         :   *:                            

@@ -1,0 +1,20 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medtr|cluster22648_MtrunA17Chr4_13M_2                                    --------MVEILKYVYNMILFVSLYLLGIY----------VERECYTYADCRRKYRGAN
+Medtr|MtNCR-new49                                                        MQILFINRMAEILKFIYNAILFVSLYFIVI--Y--------GELVCDTDDDCLKFFP-DN
+Medtr|MtNCR095                                                           MQILFINRMAEILKFIYNAILFVSLYFIVI--Y--------GELVCDTDDDCLKFFP-DN
+Medsat|cluster22648_GJLK01042335.1_0M_1                                  --------MAKILKFIYILILFVSLLLVVEAAL--------ELVRCDTDVDCKKLFP-NN
+MelOff|crp1530_GJLW01011417.1_0M_1=cluster22648_GJLW01011417.1_0M_1      --------MAKILKFIYILILFVSLLLVVEAAL--------ELVRCDTDVDCKKLFP-NN
+MelOff|crp1530_GJLW01044384.1_0M_1|cluster22648                          ------------------MILFVSLFLVVE-----------AYLRCVNDIDCKHQNP-FN
+MelOff|cluster22648_GJLW01013823.1_0M_1                                  --------MSKILKFFHIVILFVSSLLVLVAGEKHFVTLYKKKEVCVTEADCSKLFP-NN
+                                                                                            *****  ::                 * .  ** :     *
+
+Medtr|cluster22648_MtrunA17Chr4_13M_2                                    KHLLWCNDGYCEYHTQ-------
+Medtr|MtNCR-new49                                                        PYPMECINSICLSLTD-------
+Medtr|MtNCR095                                                           PYPMECINSICLSLTD-------
+Medsat|cluster22648_GJLK01042335.1_0M_1                                  EYLMNCINRYCVSLLYE------
+MelOff|crp1530_GJLW01011417.1_0M_1=cluster22648_GJLW01011417.1_0M_1      EYLMNCINRYCVSLLYEERSG--
+MelOff|crp1530_GJLW01044384.1_0M_1|cluster22648                          PYPSRCKNGICVDIHEEHPGNKK
+MelOff|cluster22648_GJLW01013823.1_0M_1                                  KYYMKCVGGDCVSLS--------
+                                                                          :   * .  *            

@@ -1,0 +1,28 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|crp1410_GJLK01026271.1_0M_1|cluster42177                          MNKILNFVYEMILFLSLFHLAR--------ECKTDADCTISLDEYF--E--MKCIDKKCE
+Medsat|cluster42177_GJLK01009522.1_0M_3                                  MTETLKFVYVMILFVSLFLIMSEVGGWY-YGCETDGDCPPSADK-F--Y--LKCIDKKCE
+Medsat|cluster42177_GJLK01019528.1_0M_1                                  MVEIHKFVFPMIQFISLFLITTKVGRLC-YGCETDADCPRYTHNSF--S--LKCINNKCE
+Medtr|crp1430_MtrunA17Chr5_30M_1|cluster42177                            MAKMLKFFFAIILLLSLFLVATEVGGAY-IECEVDDDCPKPMKNSHP-DTYYKCVKHRCQ
+Medtr|MtNCR447                                                           MTETLKFFYAMILFLSLFLITTNVGGSY-YGCETDADCPRSMNKDF--Y--LKCVDKKCE
+Medsa|MsatMercedes_NRG000038g00231231_NCR                                MTETLKFFYAMILFLSLFLITADVGGSY-YGCETDADCPRSMNKDF--Y--LKCVDKKCE
+Medsat|cluster42177_GJLK01009522.1_0M_1                                  ----------MILFVSLFLITSEVGGWY-YGCETDSDCPPSADKIF--Y--LKCIDKKCE
+MelOff|crp1410_GJLW01059550.1_0M_1=cluster42177_GJLW01059550.1_0M_1      MAKTLKCFYAMILFFSLFLVAKEVGGAIIRKCTTDANCAKPMNKSLKWSFWYKCIDNICR
+MelOff|crp1440_GJLW01055072.1_0M_1=cluster42177_GJLW01055072.1_0M_1      MAKILKFVYAIILFIFLFLIATKVGGVD-YGCEKDADCPRSLEKHS--S--LKCIDKKCE
+MelOff|crp1410_GJLW01025307.1_0M_1|cluster42177                          MAEMLKFVYTMILFIFLFFIAIEVGGEH-SKCETDTDCPWSMDEYF--YFVLKCIDKKCE
+MelOff|crp1440_GJLW01000394.1_0M_1=cluster42177_GJLW01000394.1_0M_1      MAEMLKFVYTMILFIFLFLIATEVGGAY-HGCETDVDCPRSLDKHF--A--LRCIDKKCE
+                                                                                   :* :. ** :           *  * :*    .:        :*:.: *.
+
+Medsat|crp1410_GJLK01026271.1_0M_1|cluster42177                          WTRRHL---------
+Medsat|cluster42177_GJLK01009522.1_0M_3                                  WAVMDS---------
+Medsat|cluster42177_GJLK01019528.1_0M_1                                  WSAKP----------
+Medtr|crp1430_MtrunA17Chr5_30M_1|cluster42177                            WA-------------
+Medtr|MtNCR447                                                           WTAKI----------
+Medsa|MsatMercedes_NRG000038g00231231_NCR                                WTAKI----------
+Medsat|cluster42177_GJLK01009522.1_0M_1                                  WAVMDSLSTRSGRMQ
+MelOff|crp1410_GJLW01059550.1_0M_1=cluster42177_GJLW01059550.1_0M_1      MRLGMAK--------
+MelOff|crp1440_GJLW01055072.1_0M_1=cluster42177_GJLW01055072.1_0M_1      ---------------
+MelOff|crp1410_GJLW01025307.1_0M_1|cluster42177                          WNFTRV---------
+MelOff|crp1440_GJLW01000394.1_0M_1=cluster42177_GJLW01000394.1_0M_1      WVTRIH---------
+                                                                                        

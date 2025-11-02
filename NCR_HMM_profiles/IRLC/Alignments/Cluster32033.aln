@@ -1,0 +1,16 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Ps|PsNCR131                                          MAKFFKIVHFMILLISVFFIERNM-CKKIECQTDADCSRPADY---FVLYSLKCIDNLCT
+Ps|PsNCR281                                          MTKFLNIVHFMILFIAVFFIERNI-CLRVKCETDEYCQKVFPSI--NKSHGVKCIDNLCQ
+Ps|PsNCR85                                           MTKFLNIVHFMILFIAVFFIERNI-CINVECETDEFCQETFPNI--NKSHIVKCIDNLCQ
+Ps|crp1430_chr5LG3_460M_3|cluster32033               MSKILKFVFAMILLLCLLLLSNKASAANVPCKTDEDCPRTKIVNLNMNTYYYKCINELCK
+MelOff|crp1430_GJLW01027822.1_0M_1|cluster32033      MAKTLKCFYAMILFLSLFLVAKVFSENYGACTTNADCPQPVNYS-SKFSYWFECIDNFCD
+                                                     *:* :: .. ***::.:::: .        * *:  * .          :  :**:::* 
+
+Ps|PsNCR131                                          FVKLPQESK---
+Ps|PsNCR281                                          FLGKKEVRINT-
+Ps|PsNCR85                                           FLGKKEVGVNT-
+Ps|crp1430_chr5LG3_460M_3|cluster32033               FVKDT-------
+MelOff|crp1430_GJLW01027822.1_0M_1|cluster32033      FCMVYHDCVAKH
+                                                     *           

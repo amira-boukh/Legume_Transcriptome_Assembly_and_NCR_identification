@@ -1,0 +1,36 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|cluster7332_GJLK01031000.1_0M_1                                  ------MAEICKFVHALVIFLSLIGLVTGG------------------------------
+Medtr|MtNCR623                                                          ------MAEILKFIHALVIFLSLIGLVISG------------------------------
+Ps|PsNCR176                                                             ------MSGVLKFVCALIIILSLVVIVTS-------------------------------
+Ps|PsNCR94                                                              MKLRGKMAEIFKFVHILIIFFSLIVLVT--------------------------------
+Ps|PsNCR315                                                             ------MTRKLKFINALIIFLSLVVLVT--------------------------------
+Ps|PsNCR258                                                             ------MVKILKFINVLVIFLFLVVLVTSKPQ----------------------------
+Ps|crp1190_chr3LG5_089M_1|cluster7332                                   ------MDKTLKLIHILIIVFSLIVLVTSD------------------------------
+Ps|cluster7332_super-scaffold3805_0M_1                                  ------MGEILKFINALIIFLPLIILVI--------------------------------
+TriPr|cluster7332_tripr.MilvusB.gnm2.Tp4_28M_1                          ------MTKILKFVQILIIFLCLIVLVTG-------------------------------
+TriPr|cluster7332_tripr.MilvusB.gnm2.scaf_30954_0M_1                    ------MAENFKFVYALIIFISLIIFATSYDSKFFFTKSFSFHIHNCHLFLIIFVYSYLT
+TriPr|cluster7332_tripr.MilvusB.gnm2.Tp2_31M_1                          ------MAKIVNFVQGLIIFFSLVALATC-------------------------------
+TriPr|cluster7332_tripr.MilvusB.gnm2.scaf_186_0M_1                      ------MAEIFKFVHVLMIFLSLIVLVS--------------------------------
+TriPr|cluster7332_tripr.MilvusB.gnm2.scaf_186_0M_2                      ------MAGIFKFVHAMMIFLSLIVLVS--------------------------------
+MelOff|crp1150_GJLW01042625.1_0M_1=cluster7332_GJLW01042625.1_0M_1      ------MVKILKFIHALVVFLSLIVLVTSG------------------------------
+AsSin|AsNCR166|cluster7332                                              -----------GTLKLVILFLSLYLAQTNA---------------GTLKLVILFLSLYLA
+                                                                                     :  :::.: *                                     
+
+Medsat|cluster7332_GJLK01031000.1_0M_1                                  --NHTYWCVTT-DDCDTN--ICRS-GLTELCWVFRCICKYET-------------
+Medtr|MtNCR623                                                          --NHTYWCVTT-DDCATN--ICRS-GLTEECWVFRCICKYETK------------
+Ps|PsNCR176                                                             --DKKLFCYKL-EDCDPN-FKCRE-GYVMKCHIFRCNCMPKEE------------
+Ps|PsNCR94                                                              -SDNKIFCYTT-DDCDSN--ICGK-AFVMRCRVFLCLCELPEH------------
+Ps|PsNCR315                                                             -SNNKIFCYKV-EHCDSS--ICRS-PYVLKCRMFRCICERTKQ------------
+Ps|PsNCR258                                                             -MEDRMFCYSH-KHCQYN--ICYS-TLVSRCRMFLCWCEKV--------------
+Ps|crp1190_chr3LG5_089M_1|cluster7332                                   -TEYHAFCTTD-EDCIKN--PCYE-NHVSKCHMYMCICEM---------------
+Ps|cluster7332_super-scaffold3805_0M_1                                  -TNERNYCFKN-EDCQVN--TCYI-TLVSKCRFFMCRCTVNY-------------
+TriPr|cluster7332_tripr.MilvusB.gnm2.Tp4_28M_1                          --EGHLFCYNKTLHCDPNPHACRA-GYVMKCHIFRCDCQPKPVELKNSSMLFLNV
+TriPr|cluster7332_tripr.MilvusB.gnm2.scaf_30954_0M_1                    LIADKFFCYTD-DDCDSN--ICRF-PFVKKCRMFLCYCDLEKH------------
+TriPr|cluster7332_tripr.MilvusB.gnm2.Tp2_31M_1                          --KYRVFCSTN-EDCQNN--DCGA-PYTPECLWIVCTCQPRKTST----------
+TriPr|cluster7332_tripr.MilvusB.gnm2.scaf_186_0M_1                      --SNKLFCYTT-DDCDKN--ICHSPPFVMNCRLFLCLCENKHNDN----------
+TriPr|cluster7332_tripr.MilvusB.gnm2.scaf_186_0M_2                      --SNKLFCYNR-DDCDKN--ICHTPPFVIHCRLFLCLCENKHKNET---------
+MelOff|crp1150_GJLW01042625.1_0M_1=cluster7332_GJLW01042625.1_0M_1      --NHTYWCLTV-DDCDPN--ICRP-GLTEQCFVFRCICKYDKK------------
+AsSin|AsNCR166|cluster7332                                              QTNAVTWCWSNKGCRGEVADICKKQKMTVECRAFRCSCKREL-------------
+                                                                              :* .           *     .  *    * *                 

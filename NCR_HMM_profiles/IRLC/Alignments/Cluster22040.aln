@@ -1,0 +1,20 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG000702g01491741_NCR                                -MKMGRNMADIVKFIYVIIIFLSIFLFATNLEAGPICLEDFDCPKS-MCWPSFKPRCSNG
+Medsa|MsatMercedes_NRG003102g02168741_NCR                                -MKMGRNMADIVKFIYVIIIFLSIFLFATNLEAGPICLEDFDCPKS-MCWPSFKPRCSNG
+Medtr|MtNCR577                                                           -MKMGRNMADIVKFIYVIIIFLSIFFFATNLEAGPICLEDFDCPKS-MCWPSFKPRCSNG
+Ps|cluster22040_chr5LG3_292M_1                                           -------MVGIVKFIYILIIFISLLLMLTNCGRIAKCLKDTDCLQYHGCQPPMIVKCDNK
+TriPr|cluster22040_tripr.MilvusB.gnm2.Tp3_11M_1                          MQLKQKNMFEIVKFIHVIFIFLSIFLVSTNVNAGYRCNSHAACVDK-HCYEPKVPRCIKT
+MelOff|crp1190_GJLW01062438.1_0M_1=cluster22040_GJLW01062438.1_0M_1      ---------MTIKFVYVIIILIYVFHIATNVEAAPICLEDFDCPQN-MCWPGFKPRCSHG
+MelOff|crp1190_GJLW01015145.1_0M_1=cluster22040_GJLW01015145.1_0M_1      -------MADVVKFFHVMIILLSLFLIARNIEAKVICIEDSDCRKE-KCWPIFKPSCLKG
+                                                                                    :**.::::*:: :: .  *      * ..  * .   *       * : 
+
+Medsa|MsatMercedes_NRG000702g01491741_NCR                                WCVCDKIMP-----------------
+Medsa|MsatMercedes_NRG003102g02168741_NCR                                WCVCDKIMP-----------------
+Medtr|MtNCR577                                                           WCVCDKIMP-----------------
+Ps|cluster22040_chr5LG3_292M_1                                           QCRCVSVIYLTRNVSK----------
+TriPr|cluster22040_tripr.MilvusB.gnm2.Tp3_11M_1                          RCNCVDLRYWQDVDGAHYDVLGHVPK
+MelOff|crp1190_GJLW01062438.1_0M_1=cluster22040_GJLW01062438.1_0M_1      WCVCDKIML-----------------
+MelOff|crp1190_GJLW01015145.1_0M_1=cluster22040_GJLW01015145.1_0M_1      WCECI---------------------
+                                                                          * *                      

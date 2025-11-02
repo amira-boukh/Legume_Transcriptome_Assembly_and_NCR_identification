@@ -1,0 +1,26 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Ps|PsNCR138                                                        MQSGKNMVELLKSFYILILYISFFLVASHVVGL---------YIKFQVKCEVDVDCPKY-
+Medtr|MtNCR357                                                     MERGKNMVELLKFVYVMILFLFLFFVTTEACGGKTH-------YSEIIECKNDADCPIG-
+Medsat|crp1510_GJLK01000893.1_0M_1|cluster18450                    ------MAELLKFIYAMILFLSLFFVTTEACGGKTH-------YSENIECKNDADCPMG-
+TriPr|cluster18450_tripr.MilvusB.gnm2.scaf_34275_0M_1              MQRRKNMTEVLKFIYAMILFLLF-LVAIKVG-------------GEHIFCASDADCTNIW
+TriPr|cluster18450_tripr.MilvusB.gnm2.Tp2_00M_1                    ------MAEMLKKNYAMTLFLFLFFVATKVIGDGNNIILLSFFITDFIICKFDADCPKSS
+MelOff|crp1430_GJLW01011637.1_0M_1|cluster18450                    ------MVQILLFVYTLVIFLSIFLVESSIP---------------AAPCIIDADCPYG-
+MelOff|crp1470_GJLW01019658.1_0M_1|cluster18450                    ------MAQILMFVYALVIFLSIYLVEST-----------------TIRCITEADCPCG-
+MelOff|crp1510_GJLW01007233.1_0M_1|cluster18450                    ------MTGLIKFVYAIILFISLFLVGMEACDGKTH-------YSEIIECKSDADCPMG-
+LupAl|crp1430_lupal.Amiga.gnm1.Lalb_Chr02_17M_07|cluster18450      ------MTKTLKFLHAMVLLFSLLFIVTRGYI--------------GRPCHNDFDCPTP-
+LupAl|crp1430_lupal.Amiga.gnm1.Lalb_Chr02_17M_06|cluster18450      ------MTKTLKFLHAMVLLFSLLFIVTRGYE--------------GRPCRNDLDCPVP-
+                                                                         *.  :   : : : : : ::                       *  : **    
+
+Ps|PsNCR138                                                        -----FECIDNFCHIHI--------------------
+Medtr|MtNCR357                                                     -----YKCIDEMCKYG---------------------
+Medsat|crp1510_GJLK01000893.1_0M_1|cluster18450                    -----YKCIDEMCKYGLQL------------------
+TriPr|cluster18450_tripr.MilvusB.gnm2.scaf_34275_0M_1              NEYYIHKCVDHECKWVWKWDLEP--------------
+TriPr|cluster18450_tripr.MilvusB.gnm2.Tp2_00M_1                    NEFLLIKCIDHICRYVGNLPDSMYQTQESTKIPYERE
+MelOff|crp1430_GJLW01011637.1_0M_1|cluster18450                    -----GECIERVCRFFVNYNN----------------
+MelOff|crp1470_GJLW01019658.1_0M_1|cluster18450                    -----AKCIHDICRFFMNYNNLV--------------
+MelOff|crp1510_GJLW01007233.1_0M_1|cluster18450                    -----YKCVDEICKFGL--------------------
+LupAl|crp1430_lupal.Amiga.gnm1.Lalb_Chr02_17M_07|cluster18450      -----LVCIQNHCTRRPI-------------------
+LupAl|crp1430_lupal.Amiga.gnm1.Lalb_Chr02_17M_06|cluster18450      -----LICIQHHCRNPV--------------------
+                                                                          *:.  *                        

@@ -1,0 +1,26 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medtr|cluster30566_MtrunA17Chr4_32M_1                MAEILKFVYIVILFISILLVVETGETKFILIFFYLIQ--NFSIIFIN-ISLFLLYITEQC
+Medsat|cluster30566_GJLK01014035.1_0M_1              MVEILNFVYFLILFVSLFLVVVKGH-----DQRECYTNYDCCVKYSCPYKHMVKCVGGYC
+Medtr|MtNCR643                                       MAEILMLFYIPIIYVSLFLDVIEGL------IKACDTDVDCQKKYPGPFEHLLKCIHGYC
+Medsa|MsatMercedes_NRG000016g00127221_NCR            MFGIRSICYIVIIYVSLFLVVIEGH------IKACDTDADCQKKYPGPYEHLLKCIHGYC
+Medsat|cluster30566_GJLK01015986.1_0M_1              MAGILELFYIVIIYLSLFLVVF-GD------KRECETNVDCQENFSSDDEDLLWCIRGYC
+Medsa|MsatMercedes_NRG000082g00390471_NCR            MFGIRSICYIVIIYVSLFLVVIEGH------IKACDTDADCQKKYPGPYEHLLKCIHGYC
+Medsat|cluster30566_GJLK01024858.1_0M_1              MAGILELFYIVIIYLSLFLVVF-GD------KRECETNVDCQENFSSN-EDLLWCIRGYC
+MelOff|crp1530_GJLW01005933.1_0M_1|cluster30566      MAGIIKFVNITILFVSLFLFRFDFE---PKDLEECNIDADCQVIFPGPDQHLLKCITGYC
+MelOff|cluster30566_GJLW01042605.1_0M_1              MAKFLKFVNIAIIFVSLFLVLSNGEREIKEYIKECDTDADCHVKYRGSFQHLLKCINGYC
+MelOff|cluster30566_GJLW01005933.1_0M_1              MAGIIKFVNITILFVSLFLFRFDFE---PK---ECNIDADCQVIFPGPDQHLLKCITGYC
+                                                     *  :  :  : *:::*::*                    :    :    . ::  :   *
+
+Medtr|cluster30566_MtrunA17Chr4_32M_1                VYD----------------------
+Medsat|cluster30566_GJLK01014035.1_0M_1              LGFRN--------------------
+Medtr|MtNCR643                                       VCFPRNPGTIHNFF-----------
+Medsa|MsatMercedes_NRG000016g00127221_NCR            VCLPRNPDKKIFLHSAKPFYFIFSL
+Medsat|cluster30566_GJLK01015986.1_0M_1              VNIPN--------------------
+Medsa|MsatMercedes_NRG000082g00390471_NCR            VCLPRNPGTIHNIF-----------
+Medsat|cluster30566_GJLK01024858.1_0M_1              VNIPN--------------------
+MelOff|crp1530_GJLW01005933.1_0M_1|cluster30566      LIFPA--------------------
+MelOff|cluster30566_GJLW01042605.1_0M_1              EIVED--------------------
+MelOff|cluster30566_GJLW01005933.1_0M_1              LIFPA--------------------
+                                                                              

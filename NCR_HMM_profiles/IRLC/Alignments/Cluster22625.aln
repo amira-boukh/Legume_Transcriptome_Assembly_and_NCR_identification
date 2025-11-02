@@ -1,0 +1,22 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG000035g00216531_NCR                        MAKTLKNVYSIIIFLSIFLIVMNVD-----------------------------------
+Medsa|MsatMercedes_NRG000016g00128751_NCR                        MAKTLKNVYSIIIFLSIFLIVMNVD-----------------------------------
+Medsa|MsatMercedes_NRG000738g01529251_NCR                        MAKTLKNVYSIIIFLSIFL--MNVD-----------------------------------
+Medtr|MtNCR641                                                   MAKTLKNIYSIIIFLSIFLVVMNVD-----------------------------------
+Medtr|cluster22625_MtrunA17Chr4_31M_1                            MAKTLKFVYAMIIFLSLFLMATNID-----------------------------------
+TriPr|crp1420_tripr.MilvusB.gnm2.scaf_475_0M_1|cluster22625      MFKTLKFVYAMVFIFSVFLVTMNV------------------------------------
+TriPr|crp1430_tripr.MilvusB.gnm2.scaf_475_0M_3|cluster22625      MVKTLHFVCAIILFFSVFQVAMNQ------------------------------------
+MelOff|cluster22625_GJLW01020359.1_0M_1                          ----------MILFLSLFIVVMNVDGGKLVFNPFQISFFSFSFVHNLLYHFINIILLISI
+                                                                           :::::*:*    *                                     
+
+Medsa|MsatMercedes_NRG000035g00216531_NCR                        --GELINCTTDDDCPKSEFRKWVCINNICRKMCRTKVIE------
+Medsa|MsatMercedes_NRG000016g00128751_NCR                        --GELINCTTDDDCPKSEFRKWVCINNICRKMCRTKVIE------
+Medsa|MsatMercedes_NRG000738g01529251_NCR                        --GELINCTTDDDCPKSEFRKWVCINNICRKMCRTKVIE------
+Medtr|MtNCR641                                                   --GELINCITDDDCPKSEFRKWVCINNICRKMCRTKV--------
+Medtr|cluster22625_MtrunA17Chr4_31M_1                            --SALIECQIDDDCPPIKFAKYLCINYKCRKICLGE---------
+TriPr|crp1420_tripr.MilvusB.gnm2.scaf_475_0M_1|cluster22625      --GEIIPCVTDEDCPTIDFRKYKCIDNKCRKICVNKLNPK-APV-
+TriPr|crp1430_tripr.MilvusB.gnm2.scaf_475_0M_3|cluster22625      --KHDIDCETDKDCPEDPYRMFVCFRDKCWKLYLKPEVYPVIPIP
+MelOff|cluster22625_GJLW01020359.1_0M_1                          FNIEFIECRTDDDCPKSENHKWVCINYICRKISSYFHFFF-DEM-
+                                                                      * *  *.***      : *:   * *:             

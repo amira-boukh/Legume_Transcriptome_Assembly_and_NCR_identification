@@ -1,0 +1,22 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medtr|crp1430_MtrunA17Chr2_29M_1|cluster34666        MAQIHIFLHAFILFLSLFFVVTNA------IPCITLDDCPGKIFN----LLFRCINNICV
+Medsat|crp1430_GJLK01012048.1_0M_2|cluster34666      MTQILEFIYTFIIFLSLFLVETNGAP----KPCVTPKDCPKTFFP----IGYKCIKNLCI
+Medsa|MsatMercedes_NRG129530g02612501_NCR_NCR        MTQILMFVYDFIIFVSLFIVVTNPE-----NSCVTNDDCPEAVFF----VTFRCINNICV
+Medtr|MtNCR716                                       MTQIIMSVYDFIIFVSLFLVVTNPE-----NSCVTNDDCPEAVFF----VTFRCIKNICV
+Medsat|crp1430_GJLK01009107.1_0M_1|cluster34666      MAQIHIFLHAFIVFLSLFFVVTNA------IPCITLDDCPGKIFN----LLFRCINNICV
+Medsat|crp1430_GJLK01012821.1_0M_1|cluster34666      MTQILMFVYDFIIFLSLFLVVINSTILCHVISCVTNDDCPEAVFF----VVFRCINNICV
+Ps|crp1130_chr3LG5_260M_1|cluster34666               MTKNHMFAYAFIIFLSLFLVLTNGA-----ITCVTDDDCPKALLP----DYYKCIYKICV
+MelOff|crp1500_GJLW01018684.1_0M_1|cluster34666      MAKTLKKNYAMILFLSLFLVAKEVGG-ANGDSCVIQSDCKQLLYTFYTFYTYLCIDNICC
+                                                     *::     : :*:*:***:*  :         *:  .**   .        : ** ::* 
+
+Medtr|crp1430_MtrunA17Chr2_29M_1|cluster34666        LVK-------
+Medsat|crp1430_GJLK01012048.1_0M_2|cluster34666      LVI-------
+Medsa|MsatMercedes_NRG129530g02612501_NCR_NCR        CIR-------
+Medtr|MtNCR716                                       RIR-------
+Medsat|crp1430_GJLK01009107.1_0M_1|cluster34666      LVK-------
+Medsat|crp1430_GJLK01012821.1_0M_1|cluster34666      RVR-------
+Ps|crp1130_chr3LG5_260M_1|cluster34666               LIR-------
+MelOff|crp1500_GJLW01018684.1_0M_1|cluster34666      CFIPMWGEMC
+                                                      .        

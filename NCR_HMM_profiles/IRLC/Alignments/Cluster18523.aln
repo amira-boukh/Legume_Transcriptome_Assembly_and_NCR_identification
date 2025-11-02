@@ -1,0 +1,56 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Ps|PsNCR224                                                  -------------------------MAEIFL-----FFNVMIFLFLLSLVVCDAY-----
+Ps|PsNCR90                                                   ------------------MTKERKKMAEILK-----FVNVIFLIFSLFLVVSDAL-----
+Ps|PsNCR263                                                  -------------------MQRRENMYEMSN-----FVNVMILLFFLFLVVSNAE-----
+Medsat|crp1190_GJLK01032464.1_0M_1|cluster18523              -------------------------MSKVLN-----IVYAMIIFLSISFSITNS----FK
+Ps|PsNCR99                                                   -----------------MFMRKRRDMAEIYK-----FVNVIILMFFLFLVVSNA------
+Ps|PsNCR07                                                   -------------------MQKKNNMAEVFM-----FVSIMILFFFLSFVACDEL-----
+Ps|cluster18523_chr6LG2_047M_1                               -------------------MRKRRDMAEIYK-----FVNVIILMFFLFLVVSNA------
+TriPr|cluster18523_tripr.MilvusB.gnm2.scaf_1250_0M_1         -------------------------MNKIFT-----FVNVMIIILSLLLVSTQSQ-IYVS
+TriPr|cluster18523_tripr.MilvusB.gnm2.Tp1_20M_3              -------------------------MTKFFK-----FVNVIILIFSLLLVGCNAF-----
+TriPr|crp1220_tripr.MilvusB.gnm2.Tp1_20M_1|cluster18523      -----------------MVISSFSHIFKIFFFYLRLFSSSFCYIFFFLLLFIAAF-----
+TriPr|cluster18523_tripr.MilvusB.gnm2.Tp1_20M_5              MALYIGETPMKKTKTVVYYIQRRNNMAKLFK-----LVNLIILSFFLFFVVCDAW----T
+TriPr|cluster18523_tripr.MilvusB.gnm2.Tp1_20M_1              -------------------------MAEIFIK----LFNIMILFIFLLLVVCDDM-----
+TriPr|cluster18523_tripr.MilvusB.gnm2.Tp1_20M_2              -------------------MQTTKNMTKFFK-----FVNVMILIFSLFLVVCNAWR-PPP
+TriPr|cluster18523_tripr.MilvusB.gnm2.Tp1_20M_4              -------------------MQRMNNMDKLFK-----FVYITIFSFFLFFVVCNAYFVPLL
+MelOff|crp1190_GJLW01009821.1_0M_1|cluster18523              -------------------------MSTALM-----FPYVMIIFLSIFFWVTNSSKFRPK
+AsSin|AsNCR165|cluster18523                                  -------------------------MIVTLK-----FIYAMVICLSLFIAQTNAI-----
+                                                                                      :          :       : : :           
+
+Ps|PsNCR224                                                  QLCLSYKSC-PNNMCNIL---AKVTKCSWFTCSCGDA-----------------------
+Ps|PsNCR90                                                   KICYTSLDC-PKDLCTFP----EVPKCKWFVCSCIDDDYRF-------------------
+Ps|PsNCR263                                                  KMCLTTLNC-DYSVCKPL----ELLRCRWFRCSCIHYKLLL-------------------
+Medsat|crp1190_GJLK01032464.1_0M_1|cluster18523              KFCLYDEDC-PPRMCRLP----QVPQCNDFICGCGMPFH---------------------
+Ps|PsNCR99                                                   KVCLTALNC-DEDLCNYP----EIPRCKWFRCICIRDESILF------------------
+Ps|PsNCR07                                                   YVCFTYQDC-PNALCGIL----QVTKCSWFICSCEDYN----------------------
+Ps|cluster18523_chr6LG2_047M_1                               KVCLTALNC-DEDLCNYP----EIPRCKWFRCICIRDESVKF------------------
+TriPr|cluster18523_tripr.MilvusB.gnm2.scaf_1250_0M_1         TPCVTDRDC-LTSTRSSFNKSPRRMRCRKGYCVPQRA-----------------------
+TriPr|cluster18523_tripr.MilvusB.gnm2.Tp1_20M_3              YFCTTSLAC-PRKLCTFP----EVPKCKWFICSCMDDEYRLSLINFFFFNKSLKVITLNF
+TriPr|crp1220_tripr.MilvusB.gnm2.Tp1_20M_1|cluster18523      YVCINDQDC-PDSSCALT----EDKMCSWIVCSCMRKL----------------------
+TriPr|cluster18523_tripr.MilvusB.gnm2.Tp1_20M_5              YYCVTQRTC-PDSMCVFP----ELPKCRFFKCRCKKEYIINDM-----------------
+TriPr|cluster18523_tripr.MilvusB.gnm2.Tp1_20M_1              TCCLTLASA-PNEMCNIL---AKVMKCNWFICSCDDD-----------------------
+TriPr|cluster18523_tripr.MilvusB.gnm2.Tp1_20M_2              FVCYTTKDC-PEDYCSHP----KVVMCKRFICKCI-------------------------
+TriPr|cluster18523_tripr.MilvusB.gnm2.Tp1_20M_4              YMCFNSQDC-PNKFCTHP----DVVTCKWFMCSCV-------------------------
+MelOff|crp1190_GJLW01009821.1_0M_1|cluster18523              RFCMYDEDC-PPRMCMLP----EVPQCNGFLCDCGISPTTFR--------KRLN------
+AsSin|AsNCR165|cluster18523                                  DWCLTNSNCSPTSVCNKP---FHAMRCRWFYCKCVHILMDPYID----------------
+                                                               *     .                 *    *                            
+
+Ps|PsNCR224                                                  ----
+Ps|PsNCR90                                                   ----
+Ps|PsNCR263                                                  ----
+Medsat|crp1190_GJLK01032464.1_0M_1|cluster18523              ----
+Ps|PsNCR99                                                   ----
+Ps|PsNCR07                                                   ----
+Ps|cluster18523_chr6LG2_047M_1                               ----
+TriPr|cluster18523_tripr.MilvusB.gnm2.scaf_1250_0M_1         ----
+TriPr|cluster18523_tripr.MilvusB.gnm2.Tp1_20M_3              EAYI
+TriPr|crp1220_tripr.MilvusB.gnm2.Tp1_20M_1|cluster18523      ----
+TriPr|cluster18523_tripr.MilvusB.gnm2.Tp1_20M_5              ----
+TriPr|cluster18523_tripr.MilvusB.gnm2.Tp1_20M_1              ----
+TriPr|cluster18523_tripr.MilvusB.gnm2.Tp1_20M_2              ----
+TriPr|cluster18523_tripr.MilvusB.gnm2.Tp1_20M_4              ----
+MelOff|crp1190_GJLW01009821.1_0M_1|cluster18523              ----
+AsSin|AsNCR165|cluster18523                                  ----
+                                                                 

@@ -1,0 +1,64 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG000602g01384871_NCR                                ----MTEIIKFIYVMIIFISLFHNV-TGGGG----------KKCRDNSDCLLYFFVSPYV
+Ps|PsNCR53                                                               ----MAESIKIVYLMILFTFLFCFA-TELNGK--------WQACKDDSDCANYFCEPPFV
+Medsat|cluster18580_GJLK01029636.1_0M_1                                  ----MTTSLKIVYVVILFISLLLVA-TEGGIRKKECR-IRKKECRQDSDCPSYFCATLTI
+Medsat|cluster18580_GJLK01029636.1_0M_2                                  ----MTTSLKIVYVVILFISLLLVV--TGGIRK--------KECRQDSDCPSYFCATLTI
+Ps|PsNCR312                                                              ----MADIIKFVYLMILSISL-LFV-LGINGR--------RQNCKEHSDCANYFCVTPYV
+Medsat|cluster18580_GJLK01048115.1_0M_1                                  ----MTTSLKFVYVAILFLSLLLV--VMGGIRR--------FECRQDSDCPSYFCEKLTV
+Medsat|cluster18580_GJLK01039152.1_0M_1                                  ----MTTSLKIVYVVILFISLLLVA-TEGGIRK--------KECRQDSDCPSYFCEKLTV
+Medsat|cluster18580_GJLK01029636.1_0M_4                                  ----MTTSLKIVYVVILFISLLLVA-TEGGIRK--------KECRQDSDCPSYFCATLTI
+Ps|PsNCR255                                                              ----MADIIKFVYLMILFFSL-FLV-LGINGR--------RQNCKEHSDCANYFCVTPYV
+Medsat|crp1160_GJLK01029636.1_0M_1|cluster18580                          ----MTTSLKIVYVVILFISLLLVA-TEGGIRKKEC--IRKKECRQDSDCPSYFCATLTI
+Medsat|cluster18580_GJLK01020196.1_0M_1                                  ----MGEIIKFLFAMVIYLFMFTIV-TGNEY---------SVFCDHVKDCRTYYCPPPKI
+Medtr|cluster18580_MtrunA17Chr7_33M_1                                    ----MTTSLKFVYVAILFLSLLLV--VMGGIRR--------FECRQDSDCPSYFCEKLTV
+Medtr|cluster18580_MtrunA17Chr7_33M_2                                    ----MTTSLKFVYVAILFLSLLLV--VMGGIRK--------KECRQDSDCPSYFCEKLTI
+Medtr|crp1190_MtrunA17Chr7_21M_2|cluster18580                            ----MNNIVKFSYVMIIFLSLFFVV-ADAYG----------EKCGSSPDCEIYKCIPPAK
+Medtr|MtNCR388                                                           ----MNTIPKFVYITILFISLLLV--VTGAVR--------KPECRQNSDCPPYFCIKPTV
+TriPr|cluster18580_tripr.MilvusB.gnm2.Tp4_25M_3                          ----MGEIIKFVYLLILSISLFVVV-ANITEM-------RGQKCRDDYDCPRFLCVPPLL
+TriPr|crp1130_tripr.MilvusB.gnm2.Tp2_30M_1|cluster18580                  ----MAEIFKFVYLIILFISLFLVI-IDVTAT------RTLISCKENIDCSKWFCIYPLV
+TriPr|cluster18580_tripr.MilvusB.gnm2.Tp4_26M_2                          ----MAEIINFVYLMIFFISLFLVV-NDN-NE--------WKNCKEDANCQYYYCLPPYV
+TriPr|cluster18580_tripr.MilvusB.gnm2.Tp4_25M_1                          ----MAKIIKFVYLVILFIFLVVVV-TDITAQ-------GKLNCEKDSDCFMFSCVPAAF
+TriPr|cluster18580_tripr.MilvusB.gnm2.Tp5_05M_1                          ----MQNNSP---LTIIFYFLIFFYIT---A-------DKRLNCKVDSDCFKFTCPAPLI
+TriPr|crp1190_tripr.MilvusB.gnm2.Tp4_25M_1|cluster18580                  ----MAKIINFVYLVILFIFLSVVV-TDVIAQ-------GKLNCEKNSDCVMFSCVPPSN
+TriPr|cluster18580_tripr.MilvusB.gnm2.Tp4_25M_2                          ----MGEIIKFVYLLILSISLFVVV-VNITEM-------RGQKCRDDYDCPRFLCVPPIL
+TriPr|cluster18580_tripr.MilvusB.gnm2.Tp2_31M_1                          ----MAEIIKFAYLMIFFISLFLVV-TDVNAL--------WKKCKDDDGCRYFRCISPYV
+TriPr|cluster18580_tripr.MilvusB.gnm2.scaf_84_0M_1                       ----MAEIIKFVYLMIF-ISLLYAV-VEVAGI-------ARLHCRYDSDCSKFNCAPPMV
+TriPr|crp1190_tripr.MilvusB.gnm2.Tp4_21M_1|cluster18580                  ----MAEIIKFIYLMVLFISLSLIL-TNSIAV----W-DKNISCKENSDCSGYVCLPSYV
+TriPr|cluster18580_tripr.MilvusB.gnm2.Tp4_26M_3                          ----MAEIIKFAYLMIFFISLFVVV-TDVSAF--------WKKCKEDANCQFFPCVPPYV
+TriPr|cluster18580_tripr.MilvusB.gnm2.Tp1_03M_1                          ----MFRSLSLT------LVFFLFDITEYN---------HYQKCYNDKDCPVFLCIPPRV
+MelOff|crp1160_GJLW01029351.1_0M_1=cluster18580_GJLW01029351.1_0M_1      ----MATIFKFVYAIILFTFILLLIVTEGFGL-------RGTKCTNNTDCKNYLCFK-RV
+AsSin|AsNCR154|cluster18580                                              MGRNMIVILKLVY-MILFISLFLMT-TYGGIS---FWTSETQECHDDSDCALFKCPRIFT
+                                                                             *               :                      *    .*  :       
+
+Medsa|MsatMercedes_NRG000602g01384871_NCR                                PKCDGFK-----CRCRPLSLSLD------------
+Ps|PsNCR53                                                               PKCLYLV-----CRCYLFNAELVV-TD--------
+Medsat|cluster18580_GJLK01029636.1_0M_1                                  PKCIHS-----------------------------
+Medsat|cluster18580_GJLK01029636.1_0M_2                                  PKCIHST-----CLCK-------------------
+Ps|PsNCR312                                                              PKCLYLK-----CRCRLLDGKLML-RD--------
+Medsat|cluster18580_GJLK01048115.1_0M_1                                  PKCFWSK-----CYCK-------------------
+Medsat|cluster18580_GJLK01039152.1_0M_1                                  PKCFWSK-----CYCK-------------------
+Medsat|cluster18580_GJLK01029636.1_0M_4                                  PKCIHST-----CLCK-------------------
+Ps|PsNCR255                                                              PKCLYLK-----CRCRLLDGIILF-QE--------
+Medsat|crp1160_GJLK01029636.1_0M_1|cluster18580                          PKCIHSI----------------------------
+Medsat|cluster18580_GJLK01020196.1_0M_1                                  KKCVMLS-----CRCLFPD----------------
+Medtr|cluster18580_MtrunA17Chr7_33M_1                                    PKCFWSK-----CYCK-------------------
+Medtr|cluster18580_MtrunA17Chr7_33M_2                                    AKCIHST-----CLCK-------------------
+Medtr|crp1190_MtrunA17Chr7_21M_2|cluster18580                            PKCVLFG-----CMCIT------------------
+Medtr|MtNCR388                                                           PKCIKFK-----CLCK-------------------
+TriPr|cluster18580_tripr.MilvusB.gnm2.Tp4_25M_3                          PKCISF-----------------------------
+TriPr|crp1130_tripr.MilvusB.gnm2.Tp2_30M_1|cluster18580                  PKCISFK-----CKCGL------------------
+TriPr|cluster18580_tripr.MilvusB.gnm2.Tp4_26M_2                          PKCICRT-----CKCGPPRSSF----IRRQLRYRV
+TriPr|cluster18580_tripr.MilvusB.gnm2.Tp4_25M_1                          PKCVSFE-----CRCPFSATIEK------------
+TriPr|cluster18580_tripr.MilvusB.gnm2.Tp5_05M_1                          PDCRSYY-----CVCEFLMKPIGY--A--------
+TriPr|crp1190_tripr.MilvusB.gnm2.Tp4_25M_1|cluster18580                  PKCVSFE-----CRCRHY-----------------
+TriPr|cluster18580_tripr.MilvusB.gnm2.Tp4_25M_2                          PKCISFK-----CKCRKKLIL--------------
+TriPr|cluster18580_tripr.MilvusB.gnm2.Tp2_31M_1                          PKCVYRT-----CKCLPLKDENPL-YINTLIPR--
+TriPr|cluster18580_tripr.MilvusB.gnm2.scaf_84_0M_1                       PKCISYQ-----CRCH-------------------
+TriPr|crp1190_tripr.MilvusB.gnm2.Tp4_21M_1|cluster18580                  AKCLSSR-----CDCRPLIHC--------------
+TriPr|cluster18580_tripr.MilvusB.gnm2.Tp4_26M_3                          PKCVVRT-----CKCLPPK--NPL-YVNTRFPC--
+TriPr|cluster18580_tripr.MilvusB.gnm2.Tp1_03M_1                          PKCIRKS-----CRXXXXXXXQVQKYDDTVE----
+MelOff|crp1160_GJLW01029351.1_0M_1=cluster18580_GJLW01029351.1_0M_1      PKCIEGM-----CRCK-------------------
+AsSin|AsNCR154|cluster18580                                              PKCSPWLFGMKFCDCTFRFPLWP----RSLT----
+                                                                          .*                                

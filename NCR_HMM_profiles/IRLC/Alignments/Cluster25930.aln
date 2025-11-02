@@ -1,0 +1,54 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|crp1460_GJLK01026938.1_0M_2|cluster25930                    ------MDIFHKFVYVFIIFLAIRLP-P------------AKKTIPCK-TKADCPQHIYY
+Medtr|crp1460_MtrunA17Chr8_29M_5|cluster25930                      -----------MFVYAFTIFLSIPLP-------------PVRSDFPCK-TKVDCPQHKKY
+Medsat|crp1460_GJLK01005517.1_0M_2|cluster25930                    ------MDLVHMFVYAFIIFLSIPLP-------------PVRCDVPCK-TKEDCPQHRKY
+Medtr|cluster25930_MtrunA17Chr8_29M_3                              MQTRKNMDSFLKFVYVFIIFLAIRLP-P------------AKETIPCK-TKADCPQHIYY
+Medtr|cluster25930_MtrunA17Chr8_29M_4                              ------MDLVHMFVYAFIIFLSIPLP-------------PARSDFPCK-TKDDCAQQIDY
+Medtr|MtNCR063                                                     MQTRKIMDSLHMLIYAFIIFLSIPLP-P------------TRKTIPCK-TKVDCPQQIYY
+Medtr|crp1460_MtrunA17Chr8_29M_2|cluster25930                      -----------MFFYAFIIFLSAPLP-------------SVRSDFPCK-TKADCLQHIYY
+Medsat|crp1460_GJLK01039292.1_0M_1|cluster25930                    ------MYLVHMFVYAFIIFLSTPLPPPRSINIP-FSLFDNFGDFPCK-TKAHCPQHKKY
+Medsat|cluster25930_GJLK01007645.1_0M_1                            ------MYLVHMFVYAFIIFLSTPLP-------------PPRSDFPCK-TKADCLQHIYY
+Medtr|crp1460_MtrunA17Chr8_29M_6|cluster25930                      -----------MFVYAFIIFLSIHLP-------------TVRSDIPCK-TKADCTQHRKY
+Medsat|crp1260_GJLK01018406.1_0M_1|cluster25930                    ------MDLVHMFVYAFIIFLSLYLFLPN---IL-FFLFDNLGDVPCK-TKEDCPQHRKY
+Medsat|crp1450_GJLK01079553.1_0M_1|cluster25930                    -----------MCTYVLIIFLFSFSFRS---------------KFSCK-TQFDCPALVYH
+Medsat|crp1460_GJLK01026938.1_0M_3|cluster25930                    -----------MLVYAFIIFLSMS------------------HTIPCT-TKYNCPVNVYY
+Ps|PsNCR24                                                         MQKRNNMVQITMFIYILTIFLSLFIVVTSR------------STLACK-TEEDCPDELYF
+Medsat|cluster25930_GJLK01026938.1_0M_2                            MQTRKNMDIFHKFVYVFIIFLAIRLP-P------------AKKTIPCK-TKADCPQHIYY
+Medsat|crp1510_GJLK01036136.1_0M_1|cluster25930                    ------MAQTLMCTYVLIIFLFSFSFRSMTFLTKFTIFSNLSCKFSCK-TQFDCPALVYH
+Medtr|cluster25930_MtrunA17Chr8_29M_1                              MQTIKNMDLFQMFVYAFFIFLSIAHR-P------------PANTIPCFGTKDKCPFNLYY
+Medtr|crp1510_MtrunA17Chr4_27M_3|cluster25930                      ------MAQIIMFFYALIIFLSPFLVDRRSFPSSFVSPKSYTSEIPCK-ATRDCPYELYY
+Ps|crp1470_chr3LG5_309M_1|cluster25930                             ------MTPILMFIYSLIIFFSRFLVII--------------GDVPCD-FDRDCPKVLYH
+TriPr|crp1470_tripr.MilvusB.gnm2.scaf_84_0M_1|cluster25930         ------MAQFLIFVYALFIFLSPSLATI-----------RTKTTFPCD-SDHDCPYYIFH
+TriPr|crp1460_tripr.MilvusB.gnm2.scaf_14205_0M_1|cluster25930      ------MTQILMFVYFVVTFLSLFLLVTSR------------SSIPCK-IEADCPDELYY
+TriPr|cluster25930_tripr.MilvusB.gnm2.Tp4_18M_1                    MQMRKYMAQIHMFVYILVISLFLLIVVTSIN-----MSFTLAFLSPCK-TEDHCPEKLYY
+MelOff|crp1510_GJLW01010543.1_0M_1|cluster25930                    ------MAETIIIVYTLTIFISQLLVVSK-------------EDIPCS-ADSDCPKELYF
+MelOff|crp1460_GJLW01004069.1_0M_1|cluster25930                    ------MDPFHMFVYVLTIFLSIRAPVP------------ERKTIPCV-TGANCPQHIYY
+                                                                                 * .   :                         *     .*     .
+
+Medsat|crp1460_GJLK01026938.1_0M_2|cluster25930                    I-IECLDGFCDYWRD---------------------------------
+Medtr|crp1460_MtrunA17Chr8_29M_5|cluster25930                      I-AECIFGFCRHFKPLEHPF----------------------------
+Medsat|crp1460_GJLK01005517.1_0M_2|cluster25930                    F-AECIFGFCRHFKHIEHPF----------------------------
+Medtr|cluster25930_MtrunA17Chr8_29M_3                              I-IECLDGFCNYWRD---------------------------------
+Medtr|cluster25930_MtrunA17Chr8_29M_4                              I-AECIIGFCRYFTPFEHPF----------------------------
+Medtr|MtNCR063                                                     V-VECLDGFCDYWRD---------------------------------
+Medtr|crp1460_MtrunA17Chr8_29M_2|cluster25930                      I-VECIFGFCQYFKPLKHSV----------------------------
+Medsat|crp1460_GJLK01039292.1_0M_1|cluster25930                    I-VECFFGF---------------------------------------
+Medsat|cluster25930_GJLK01007645.1_0M_1                            I-VECISGFCQYFRPLKHSV----------------------------
+Medtr|crp1460_MtrunA17Chr8_29M_6|cluster25930                      F-AECIFGFCRHFKHLEHPF----------------------------
+Medsat|crp1260_GJLK01018406.1_0M_1|cluster25930                    F-AECIFGFCRH------------------------------------
+Medsat|crp1450_GJLK01079553.1_0M_1|cluster25930                    LYESCLDGVCW-------------------------------------
+Medsat|crp1460_GJLK01026938.1_0M_3|cluster25930                    M-VECLGGFCDYWRDKNSD-----------------------------
+Ps|PsNCR24                                                         F-IECVDGFCVYWRD---------------------------------
+Medsat|cluster25930_GJLK01026938.1_0M_2                            I-IECLDGFCDYWRD---------------------------------
+Medsat|crp1510_GJLK01036136.1_0M_1|cluster25930                    LYESCLD-----------------------------------------
+Medtr|cluster25930_MtrunA17Chr8_29M_1                              K-VECIDGFCYYPV----------------------------------
+Medtr|crp1510_MtrunA17Chr4_27M_3|cluster25930                      E-TKCVDS----------------------------------------
+Ps|crp1470_chr3LG5_309M_1|cluster25930                             F-SRCVDKFCDYRRTG--------------------------------
+TriPr|crp1470_tripr.MilvusB.gnm2.scaf_84_0M_1|cluster25930         S-SECVDGYCQYWKSI--------------------------------
+TriPr|crp1460_tripr.MilvusB.gnm2.scaf_14205_0M_1|cluster25930      F-IECVDGFXXXXXXXXXXXXXXXXXXXXXXXXXXHLTICTFIIYFKI
+TriPr|cluster25930_tripr.MilvusB.gnm2.Tp4_18M_1                    F-SRCIDNQCEYFSIFLQ------------------------------
+MelOff|crp1510_GJLW01010543.1_0M_1|cluster25930                    F-VNCVNNFCNYH-----------------------------------
+MelOff|crp1460_GJLW01004069.1_0M_1|cluster25930                    L-VECIDGFCDYWRD---------------------------------
+                                                                       *.                                          

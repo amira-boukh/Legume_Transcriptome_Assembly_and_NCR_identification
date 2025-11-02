@@ -1,0 +1,34 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Ps|PsNCR77                                                               MAKISMFVYGVMIFLSIFISIT--NCSD-ILCETKEECPT--FMCIPPRVPKCDV-F---
+Ps|PsNCR10                                                               MARISKFVYAMIIYLFQFISIT--NCSM-ILCDSDNDCPK--FFCIPPQVPKCVV-D---
+Medsat|cluster15370_GJLK01006690.1_0M_1                                  MAKILNVFYVVIIFLSIFLYVT--NCLI-ITCESDEDCPA--SFCIPPQIPKCRM-I---
+Medtr|MtNCR550                                                           MTKILNVFYAAIIFLSIFLYVT--NCSI-ITCESDEDCPT--SFCIPPQIPKCRT-I---
+Ps|cluster15370_chr1LG6_011M_1                                           MAQVNKFVKATIIFMFILLSVT--NCACNKSCKADNDCKN---YCFLPLSGICFNDN---
+CicerAr|crp1190_contig52928_0M_1|cluster15370                            MAKILKFVYVMVTFLFRFLVVT--NGLT-IYCKSRDTCPD--YNCPFPEVTICDV-V---
+TriPr|crp1230_tripr.MilvusB.gnm2.scaf_540_0M_1|cluster15370              MAKIYMFFCVMMVFISIFISMT--NCSM-ILCEQDEDCPI--HLCIPPQVPKCVL-V---
+TriPr|crp1190_tripr.MilvusB.gnm2.scaf_3202_0M_1|cluster15370             MATTSKFVYSMIILLSIFFYVT--NCSI-LLCDHDQDCPK--YLCIPPQFPKCVL-D---
+TriPr|cluster15370_tripr.MilvusB.gnm2.scaf_540_0M_1                      MVKVYMLIYGVIIFFSIFISTI--NCAV-IACEEHVGCLS--YKCTLPAVPLCSFSVSK-
+TriPr|cluster15370_tripr.MilvusB.gnm2.Tp7_28M_1                          MAKCYIFIYAMVIIFSIFISIT--NCSTQYICETTVDCHTFNLFCIPPKVLNCRIKIVEG
+MelOff|crp1190_GJLW01017532.1_0M_1|cluster15370                          MAKIPNCIFALIIFLSMFVVVT--NGSF-IHCEITKDCPE--DMCWPPRKPICRNNY---
+MelOff|cluster15370_GJLW01003552.1_0M_1                                  MAKVLKIVYAMIIFLSIFLYVT--NCSI-ITCESDEDCPT--QFCFPPQVSKCRL-I---
+MelOff|crp1160_GJLW01006529.1_0M_1=cluster15370_GJLW01006529.1_0M_1      MAKVLKIVYAMIIFLSIFLYVT--NCLI-ITCESDEECQT--RFCVPPQVPECRI-I---
+AsSin|AsNCR153|cluster15370                                              MAVIFKFIYVMILFVSLFLVATKIDAEV-IRCAQDSDCPR--YLCIPPSKPVCIG-Y---
+                                                                         *.     .   :  .  :.     :      *     *      *  *    *       
+
+Ps|PsNCR77                                                               -------CYCAILVKD---------
+Ps|PsNCR10                                                               -------CDCV--------------
+Medsat|cluster15370_GJLK01006690.1_0M_1                                  -------CECVTKTQH---------
+Medtr|MtNCR550                                                           -------CECITKTQHLR-------
+Ps|cluster15370_chr1LG6_011M_1                                           -------CQCTFW------------
+CicerAr|crp1190_contig52928_0M_1|cluster15370                            -------CQCGILKETS--------
+TriPr|crp1230_tripr.MilvusB.gnm2.scaf_540_0M_1|cluster15370              -------ACDXXXXXXXXXXKNNEK
+TriPr|crp1190_tripr.MilvusB.gnm2.scaf_3202_0M_1|cluster15370             -------CQCL--------------
+TriPr|cluster15370_tripr.MilvusB.gnm2.scaf_540_0M_1                      -PEGFGICRCFRKITVHNSGL----
+TriPr|cluster15370_tripr.MilvusB.gnm2.Tp7_28M_1                          LKSKYGLCDCTEIP-----------
+MelOff|crp1190_GJLW01017532.1_0M_1|cluster15370                          -------CECVT-------------
+MelOff|cluster15370_GJLW01003552.1_0M_1                                  -------CECVSLKHNT--------
+MelOff|crp1160_GJLW01006529.1_0M_1=cluster15370_GJLW01006529.1_0M_1      -------CVCVSLEPNT--------
+AsSin|AsNCR153|cluster15370                                              -------CACSL-------------
+                                                                                .                 

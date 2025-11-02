@@ -1,0 +1,18 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG000014g00115961_NCR_NCR                                    MQRRKNMAQILFYAYALIILFSPSLVVPVEV-IIPESTCDSDFDCLRYEDVSNLITCCNN
+Medsa|MsatMercedes_NRG001155g01843971_NCR_NCR                                    MQRRKNMAQILFYVYALIILFSPSLVVPVQV-IIPESTCDSDFDCLRYEDVSNLITCCNN
+Medtr|cluster31740_MtrunA17Chr4_30M_1                                            MQRRTNMAQILFYVCAFIILFSPLIAQRIVV-TDP--NCTFDTDCD--HDVTAIATHCDK
+Medtr|cluster31740_MtrunA17Chr2_19M_1                                            MQRRKNMAQILFYVYALIILFSPSLVVPLKV-IIPSSTCDSDYDCLRYEEALNVITCCNN
+MelOff|crp1450_GJLW01002249.1_0M_1=crp1450_GJLW01003477.1_0M_1|cluster31740      ------MAQILFYFYALIIFLSPFLVAPYPRVISIENKCLAEVDCPYFSDV-DIIKHCVN
+MelOff|cluster31740_GJLW01002249.1_0M_1=cluster31740_GJLW01003477.1_0M_1         MQRRKNMAQILFYFYALIIFLSPFLVAPYPRVISIENKCLAEVDCPYFSDV-DIIKHCVN
+                                                                                       *******  *:**::** :.           .*  : **    :.  : . * :
+
+Medsa|MsatMercedes_NRG000014g00115961_NCR_NCR                                    GRCVMFFPDHFPHFPRL
+Medsa|MsatMercedes_NRG001155g01843971_NCR_NCR                                    GRCVMFFPDHFPHFPRL
+Medtr|cluster31740_MtrunA17Chr4_30M_1                                            GTCVTYFSDDPEP----
+Medtr|cluster31740_MtrunA17Chr2_19M_1                                            GLCVMFCPDFD------
+MelOff|crp1450_GJLW01002249.1_0M_1=crp1450_GJLW01003477.1_0M_1|cluster31740      GICLIIFP---------
+MelOff|cluster31740_GJLW01002249.1_0M_1=cluster31740_GJLW01003477.1_0M_1         GICLIIFP---------
+                                                                                 * *:             

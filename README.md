@@ -58,4 +58,6 @@ Some steps were executed on an HPC cluster. Adjust thread counts and memory flag
 - When working with new species, start by adjusting the species lists and file naming conventions inside the shell scripts.
 - The differential expression pipeline accepts additional covariates via the `--design` option, allowing you to include batch or treatment effects beyond the nodule vs root contrast.
 
+- Manuscript figures can be regenerated with the helper scripts under `Scripts_figures/`. For example, `Rscript Scripts_figures/Figure4/figure4b_violin.R` exports the simplified violin version of Figure 4b using the same count table as the original heatmap.
+
 Please reach out if you have any questions or want to contribute. 

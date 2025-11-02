@@ -1,0 +1,28 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG000249g00831471_NCR_NCR             -------MQRRRNMAAILKFVYIMTIYLFVLLLV-VKGYYSFEECKEDADCHPVCSVPGC
+Medsat|cluster11758_GJLK01020196.1_0M_1                   -------------MGEIMKFLFAMVIYLFMFTIV-TDGK------KKKKKSIFGCCVQGC
+Ps|PsNCR142                                               -------MKIRKNMLETLKFIYVMVIFFPLVFVVSIVTAGEVFVCNRDDNCHF-------
+Medtr|MtNCR164                                            -------MQKRRNMAAILKFVYIMIIYLFVLLVA-VK---AFEECKEDADCHPVCSVPGC
+Medsa|MsatMercedes_NRG000113g00492031_NCR                 -------MQRRRNMAAILKFVYIMTIYLFVLLLV-VKGYYSFEECKEDADCHPVCSVPGC
+Medsa|MsatMercedes_NRG000197g00714561_NCR                 -------MQRRRNMAAILKFVYIMTIYLFVLLLV-VKGYYSFEECKEDADCHPVCSVPGC
+Medtr|cluster11758_MtrunA17Chr2_32M_1                     -------------MAEIHNFISIMIFCLLIFIIG-IKG---EFYCLSIKDCPQNLCVGSP
+Medtr|crp1240_MtrunA17Chr7_33M_2|cluster11758             -------------MAILLKFVYIMIIYLFVVLVV-VEGYS-VYGCNDDTDCPPSCTTRGC
+Medtr|cluster11758_MtrunA17Chr8_15M_1                     MPIYISTYKQVNNMDEIIKFLFVMVIYLLMFTIV-IDGK------FIFAKKKKNQ----T
+TriPr|cluster11758_tripr.MilvusB.gnm2.Tp5_00M_1           -------MKTKTNMAEILKFVCVMIIFLFIMCTIVTD---GIDYCETDLDCPKPPNLPDE
+LupAl|cluster11758_lupal.Amiga.gnm1.Lalb_Chr10_12M_1      -------------MAQTLKLVFVLILFFFISLISAKEN--VCTPCRTKNDCYYPCNSLGY
+                                                                       *    :::  : : : :                   .          
+
+Medsa|MsatMercedes_NRG000249g00831471_NCR_NCR             PNICTMPDVPTCIHNNCFCI-----------
+Medsat|cluster11758_GJLK01020196.1_0M_1                   LLWCLFSGVPPIYDAFSLCF-----------
+Ps|PsNCR142                                               -NLCMFPLIPTCIDNACLCAKRILH------
+Medtr|MtNCR164                                            SNICTLPDVPTCIDNNCFCI-----------
+Medsa|MsatMercedes_NRG000113g00492031_NCR                 PNICTLPDVPTCIHNNCFCI-----------
+Medsa|MsatMercedes_NRG000197g00714561_NCR                 PNICTMPDVPTCIHNNCFCI-----------
+Medtr|cluster11758_MtrunA17Chr2_32M_1                     LPL-------Q-------CLKFICRWIESDK
+Medtr|crp1240_MtrunA17Chr7_33M_2|cluster11758             PDSCAYPHVLRCIG-----------------
+Medtr|cluster11758_MtrunA17Chr8_15M_1                     FLFNLIHCREP--------------------
+TriPr|cluster11758_tripr.MilvusB.gnm2.Tp5_00M_1           --------FRICSDGVCLCMQF---------
+LupAl|cluster11758_lupal.Amiga.gnm1.Lalb_Chr10_12M_1      DDY-------ECQYQRCVCY-----------
+                                                                                         

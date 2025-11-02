@@ -1,0 +1,22 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|cluster22779_GJLK01039075.1_0M_1                  MGRVSSDYSVLGSDTDALIIFLSLILVVTGKD------------IKCTVADDCPDFFKCP
+Medsa|MsatMercedes_NRG000002g00019861_NCR                MERRKN-MIQILIFVYALIIFISLFLVVTCETQ-----------IPCVHHDDCPK---RP
+Medtr|MtNCR126                                           MERRKN-MIQILIFVYALIIFISLFLVVTSETH-----------IPCVHHDDCPK---RP
+Medtr|cluster22779_MtrunA17Chr4_29M_1                    MLRRKN-TVQILMFVSALIIYIFLFLVITSSAN-----------IPCNSDSDCPW---KI
+Medsa|MsatMercedes_NRG188572g02697141_NCR                MERRKN-MIQILIFVYALIIFISLFLVVTCETQ-----------IPCVHHDDCPK---RP
+TriPr|cluster22779_tripr.MilvusB.gnm2.scaf_715_0M_2      -------MAQILMFTYALIIFFSLFLVGTSTSETPFSGTPLKTKHACEKDEDCPI---KL
+TriPr|cluster22779_tripr.MilvusB.gnm2.scaf_715_0M_1      -------MAQILMFASALIIFLSLFLVVNGITS----------TVPCTGDQDCKV---LT
+MelOff|crp1510_GJLW01013962.1_0M_1|cluster22779          -------MTQNLIFVYALIIFLYLFLVVTSETR-----------ISCVSHDDCPK---RP
+                                                                       . ****:: *:** .                 *   .**       
+
+Medsat|cluster22779_GJLK01039075.1_0M_1                  PYTFVRCISNFC--------
+Medsa|MsatMercedes_NRG000002g00019861_NCR                YPQFMKCVDNFCETWIIGWE
+Medtr|MtNCR126                                           YPRFMKCVDNFCETWIIGWE
+Medtr|cluster22779_MtrunA17Chr4_29M_1                    YYTY-RCNDGFCVYKS----
+Medsa|MsatMercedes_NRG188572g02697141_NCR                YPQFMKCVDNFCEAWIIGWE
+TriPr|cluster22779_tripr.MilvusB.gnm2.scaf_715_0M_2      YYLFAWCVQKLCEYH-----
+TriPr|cluster22779_tripr.MilvusB.gnm2.scaf_715_0M_1      GYV-GECTNGFCEYYRL---
+MelOff|crp1510_GJLW01013962.1_0M_1|cluster22779          YPLFMKCVDNFCETWMIGWE
+                                                               * . :*        

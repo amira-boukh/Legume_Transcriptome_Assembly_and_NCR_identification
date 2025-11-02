@@ -1,0 +1,26 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG000659g01448151_NCR                                ------------MDKTIKSVYAMI--LFISMFLA-----------ARNVDAYLKCKTVDD
+Medsa|MsatMercedes_NRG000497g01248221_NCR                                MLTVGFFFLFKFLSLVLFSLYTIFYLILVTLLHS-----------LFFITAYLKCKTVDD
+Medsat|crp1420_GJLK01012842.1_0M_2|cluster17078                          ------------MTKTLKFVYTMV--LFFSLFLV-----------AKNVDAYVWCETVED
+Medsat|cluster17078_GJLK01030235.1_0M_1                                  ------------MTKTLKFMHVMI--LFLSLFLVAESFFVTLFYYILFITVDITCKVHED
+Medsa|MsatMercedes_NRG000116g00500391_NCR                                ------------MDKTIKSVYAMI--LFISMFLA-----------ARNVDAYLKCKTVDD
+Medsa|MsatMercedes_NRG000819g01601961_NCR                                MLTVGFFFLFKFLSLVLFSLYTIFYLILVTLLHS-----------LFFITAYLKCKTVDD
+Medtr|MtNCR207                                                           ------------MDKTIKFVYAMI--LFISMFLA-----------ARNVDAYLKCKTVHD
+Medsat|crp1420_GJLK01026804.1_0M_1|cluster17078                          ------------MDKTIKSVYAMI--LFISMFLA-----------ARNVDAYLKCKTVDD
+MelOff|crp1420_GJLW01012309.1_0M_1=cluster17078_GJLW01012309.1_0M_1      ------------MDKTIKFVYAMI--LFISLLIV-----------SKNAHAYLKCKTVKD
+MelOff|crp1440_GJLW01033587.1_0M_1=cluster17078_GJLW01033587.1_0M_1      ------------MDKTIKFMYVMI--LFISLFIV-----------AKNVHAYLKCKTVKD
+                                                                                     :  .:  ::.:.  ::.:::                  . : *:. .*
+
+Medsa|MsatMercedes_NRG000659g01448151_NCR                                CPKSQV-VYKCVGNHCHAVRIRRWGLESLAQLTNVKIVRPDVATCVQTRDLTTA
+Medsa|MsatMercedes_NRG000497g01248221_NCR                                CPKSQV-VYKCVGNHCHAVRIRRWGLESLAQLTNVKIVRPDVATCVQTRDLTAV
+Medsat|crp1420_GJLK01012842.1_0M_2|cluster17078                          CFKSQYYIFDCINNQCINVGIP--------------------------------
+Medsat|cluster17078_GJLK01030235.1_0M_1                                  CPQKLTSKYYCVDD----------------------------------------
+Medsa|MsatMercedes_NRG000116g00500391_NCR                                CPKSQV-VYKCVDNHCRAVRIRRWSLDSLAQLTNAKIARSDVATCVRTRDLTAV
+Medsa|MsatMercedes_NRG000819g01601961_NCR                                CPKSQV-VYKCVDNHCRAVRIRRWSLDSLAQLTNAKIARSDVATCVRTRDLTVV
+Medtr|MtNCR207                                                           CPKSQV-VYRCVGNYCRAVKIRRWNLG---------------------------
+Medsat|crp1420_GJLK01026804.1_0M_1|cluster17078                          CPKSQV-VYKCVANHCRSVRIRRWIL----------------------------
+MelOff|crp1420_GJLW01012309.1_0M_1=cluster17078_GJLW01012309.1_0M_1      CPISEC-VYVCINNECRVIRIKPW------------------------------
+MelOff|crp1440_GJLW01033587.1_0M_1=cluster17078_GJLW01033587.1_0M_1      CPISKC-VYVCDKNQCRCIGLRPFML----------------------------
+                                                                         *  .    : *  :                                        

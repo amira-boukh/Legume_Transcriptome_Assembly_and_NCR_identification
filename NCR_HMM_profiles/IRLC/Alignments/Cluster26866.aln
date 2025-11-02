@@ -1,0 +1,20 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG000016g00126421_NCR                                --MRNSMAQVLIFVYALILFLSLFLVVA------SRTSTPCNSDDDCLEPFLLPILKCVN
+Medsa|MsatMercedes_NRG039311g02381521_NCR                                --MRNNMAQVLIFVYALILFLSLFLVVA------SRTSTPCNSDDDCLEPFLLPILKCVN
+Medtr|MtNCR647                                                           MIMRKNMVQILSFVHALILFLSLFLVAK--------VRTPCVSDDDCLEAFLPPIWKCVH
+Medtr|crp1400_MtrunA17Chr4_16M_1|cluster26866                            ------MAHILMFVYALIIFLSPFLIGRKGGPPGGRTYIPCISDDDCIVAQPPYVLLCVN
+MelOff|crp1470_GJLW01003665.1_0M_1=cluster26866_GJLW01003665.1_0M_1      ---MQNMAQIIMFVYALIIFFSLFLVASAIRTVETSIPIPCDNDEDCPEVSRPLVLVCVS
+MelOff|cluster26866_GJLW01001588.1_0M_1                                  --MRKNMAQILFCVYVLIIFLSLFLVEPYTVIIH---KNNCVTIFDCAR-DPNGITRCID
+MelOff|crp1310_GJLW01018803.1_0M_1|cluster26866                          ------MAQVLEFFYALILFLSLILVVT------A--RTPCKSDDDCLEAFLPPIMKCVD
+                                                                               *.:::  .:.**:*:* :*:              * .  **       :  *: 
+
+Medsa|MsatMercedes_NRG000016g00126421_NCR                                NFCEFKIRNIFN--
+Medsa|MsatMercedes_NRG039311g02381521_NCR                                NFCEFKIRNIFN--
+Medtr|MtNCR647                                                           NFCENI--------
+Medtr|crp1400_MtrunA17Chr4_16M_1|cluster26866                            NFCTYFRDDDLPQR
+MelOff|crp1470_GJLW01003665.1_0M_1=cluster26866_GJLW01003665.1_0M_1      KVCRYLFND-----
+MelOff|cluster26866_GJLW01001588.1_0M_1                                  GFCHTYIAGHR---
+MelOff|crp1310_GJLW01018803.1_0M_1|cluster26866                          NFCEFKIRNIFN--
+                                                                          .*           

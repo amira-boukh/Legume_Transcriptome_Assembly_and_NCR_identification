@@ -1,0 +1,40 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+CicerAr|CaNCR03                                                 MAELLKFVYAIILFLSIFLVVADVG-------AMCEEDNDCP--VFWCFPDQ--TLRCIT
+Ps|PsNCR324                                                     MVEIVKFVCTMIIIISIFLVPSNHGR----I-SRCRNDSDCF--NRACQPPR--IVKCDN
+Medsat|crp1320_GJLK01003443.1_0M_3|cluster6944                  ----------MIIFVSPFLFSMNLDA-----ENICNGDYDCNTNIWWCPPNY--QLKCIN
+Ps|PsNCR257                                                     MGEIVKFVYIMIIFISIFLVLPNHGR----V-ATCRRDEDCP--SYGCFPPK--MAKCDN
+Ps|PsNCR284                                                     MAGIIKFILTIIIFISLLMVPSNAAK----T-VKCIQDTDCLQY-HRCMPPM--LMKCDN
+Medsat|crp1320_GJLK01022572.1_0M_1|cluster6944                  MAKFLNIVYVMIIFI-----------------FSCEDDSHCK--HYRCLPPFMYVSKCNG
+Ps|PsNCR230                                                     MAEIFKFIYIMIIFITIFLVPSNYGR----GDTRCVRDTDCH--LFGCYPPK--IMKCDN
+Ps|Psat5g179520.1_NCR                                           MAGIFKFVYIMIIFISLLLVPSNPER----I-ARCKNDNNCYRFNYMCMPPK--IMRCYN
+Ps|PsNCR347                                                     MAEILKFVYIMIIFISILLVPSNHGR----I-AKCVRDGDCF--THLCQPPR--MVKCDN
+Medsat|crp1320_GJLK01003443.1_0M_2|cluster6944                  ----------MIIFVSPFLFSMNLDA-----GNICNEDYDCNPNKWWCPPNY--LLKCIN
+Ps|cluster6944_chr5LG3_291M_1                                   MAGIIKFILTIIIFISILMVSSNA------------ENTDCLQY-HRCQPPM--LMKCDN
+TriPr|cluster6944_tripr.MilvusB.gnm2.scaf_34_0M_1               MAEIQKFVCAMILFLSLLHLVISYGE----F-KKCRTDNDCP--NYLCYPPK--LAKCSN
+TriPr|crp1130_tripr.MilvusB.gnm2.scaf_540_0M_1|cluster6944      MAKVKIFICAMIIYFSLFISITNGVD-----TMSCKKDEDCR--EFLCTPPR--IVYCNL
+TriPr|cluster6944_tripr.MilvusB.gnm2.scaf_872_0M_1              MGETFKFVYTMILFISLLLVVAVDSQRPIRERISCTHDYECINKCPHCDLNS--RLHCVR
+TriPr|crp1230_tripr.MilvusB.gnm2.scaf_535_0M_1|cluster6944      ----MAHIHTILIILSLFLVVTNGSK---FINVPCSKASHCP--NHMCIFPM--IAICKN
+MelOff|cluster6944_GJLW01017500.1_0M_1                          MTKLLKLVYATIFLHSLFLVEI----------------------ILECIPPQ--IMKCTS
+AsSin|AsNCR162|cluster6944                                      MAEILKLV---MFFVSFFLVTYSGTS----SARSCRSHLDCP--SYDCSPHQ--LSNCNG
+                                                                           ::                                  *         *  
+
+CicerAr|CaNCR03                                                 -KNCYCLY---------------------------------
+Ps|PsNCR324                                                     -KQCACLKISSLFQYVPL-----------------------
+Medsat|crp1320_GJLK01003443.1_0M_3|cluster6944                  -NQCSCVGFTPAIYALD------------------------
+Ps|PsNCR257                                                     -KRCRCTYLISPNDYVHI-----------------------
+Ps|PsNCR284                                                     -KQCRCVPVTYFIRYVPV-----------------------
+Medsat|crp1320_GJLK01022572.1_0M_1|cluster6944                  -RACKCM----------------------------------
+Ps|PsNCR230                                                     -RRCRCTSMFSSIDYVHI-----------------------
+Ps|Psat5g179520.1_NCR                                           -KQCTCVRLTSLFHYVPV-----------------------
+Ps|PsNCR347                                                     -KKCTCVRVTSILRYVSK-----------------------
+Medsat|crp1320_GJLK01003443.1_0M_2|cluster6944                  -YQCSCVGFTPAIYVLDS-----------------------
+Ps|cluster6944_chr5LG3_291M_1                                   -KQCKCVPVTYFIRYVPI-----------------------
+TriPr|cluster6944_tripr.MilvusB.gnm2.scaf_34_0M_1               -YNCHCT----------------------------------
+TriPr|crp1130_tripr.MilvusB.gnm2.scaf_540_0M_1|cluster6944      QHLCGCDIMRFPKMQ--------------------------
+TriPr|cluster6944_tripr.MilvusB.gnm2.scaf_872_0M_1              -GFCGCRP---------------------------------
+TriPr|crp1230_tripr.MilvusB.gnm2.scaf_535_0M_1|cluster6944      -KFCLCTPLLDSNRVI-------------------------
+MelOff|cluster6944_GJLW01017500.1_0M_1                          -NGCHCTNEGGSKFI--------------------------
+AsSin|AsNCR162|cluster6944                                      -IQCYCYYPKPSAQFCLFAEHCPNCVPPNVRTCRKEHCYCS
+                                                                   * *                                   

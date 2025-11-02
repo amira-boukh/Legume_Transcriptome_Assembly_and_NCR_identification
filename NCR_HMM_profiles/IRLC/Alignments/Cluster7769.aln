@@ -1,0 +1,48 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Ps|PsNCR216                                                             --------MVKIVKFVYVLIIFVFLFFIAI-------------------NVDG--IRCIQ
+Medtr|MtNCR414                                                          --------MAEFVKFVYVMIIFIFLCLVVE-------------------NIDG--FRCLR
+Medsa|MsatMercedes_NRG000192g00698911_NCR_NCR                           --------MAEFVKFVYVMIIFIFLFLVVE-------------------NIDG--IRCQR
+Medsa|MsatMercedes_NRG000184g00681491_NCR_NCR                           --------MAEFVKFVYVMIIFIFLFLVIE-------------------NIDG--IRCQR
+Ps|PsNCR193                                                             --------MPEIVKFVYIMITFSFLTIIVT-------------------NVEG--FRCEE
+TriPr|crp1190_tripr.MilvusB.gnm2.scaf_410_0M_1|cluster7769              ----MGKNKTKIVKFVHVMIILN-------------------YIILFAMIIDA-GNRCFQ
+TriPr|crp1220_tripr.MilvusB.gnm2.scaf_4418_0M_1|cluster7769             --------MAKIVKFTVFMIILLSLFFVAT-------------------NLDV-GGICVR
+TriPr|crp1190_tripr.MilvusB.gnm2.scaf_410_0M_2|cluster7769              --------MVKIVMFVYVMIICVSLIHFATN-----------------------AGTCFQ
+TriPr|crp1130_tripr.MilvusB.gnm2.scaf_3024_0M_1|cluster7769             --------MVKIVMFVYVMIICVSLIHFATNNLFQISLFTVIIVRFFFFFVTA-GTRCFQ
+MelOff|crp1190_GJLW01043558.1_0M_1=cluster7769_GJLW01043558.1_0M_1      --------MAEIVKFVYVMIIFIFLFFVVE-------------------KIDG--IKCYR
+MelOff|crp1190_GJLW01028294.1_0M_1=cluster7769_GJLW01028294.1_0M_1      --------MTEIFKFVYVMIIFLYLVLVST-------------------NIDG--VKCKV
+MelOff|crp1190_GJLW01009142.1_0M_1=cluster7769_GJLW01009142.1_0M_1      --------MAENVKFVYVMIIFLFLILVVT-------------------NVNGS-KKCLE
+MelOff|crp1190_GJLW01019775.1_0M_1=cluster7769_GJLW01019775.1_0M_1      ----MGENILEIVKFIYVMIVSIFVFLVAM-------------------KVEG--FRCQL
+MelOff|crp1190_GJLW01004747.1_0M_2=cluster7769_GJLW01004747.1_0M_2      --------MAENVKFVYIMIIFLFLYLVVT-------------------NVDGIGFKCYE
+AsSin|AsNCR042|cluster7769                                              --------MAILLKVTYVMVVFLSLFFMST-------------------NVDA-TFPCET
+AsSin|AsNCR070|cluster7769                                              --------MAIILKFVYVMVLIGSLFLMAINGNGDNS--------------RFIPFLCNE
+AsSin|AsNCR072|cluster7769                                              --------MVVILKLVYIMVLFVCLFLMEI-------------------NVNA--YPCND
+AsSin|AsNCR075|cluster7769                                              --------MNLILKFIYVMILF----LITI-------------------NVNA--DRCRK
+AsSin|AsNCR080|cluster7769                                              --MQLGGNMVVILKFVYIMVLFLSLFLMST-------------------KVNS--RPCEN
+AsSin|AsNCR098|cluster7769                                              --------MDVILKFLFVMVLLFPPILMST-------------------YAND--IPCKS
+AsSin|AsNCR148|cluster7769                                              LLYINGKNTFVILKFTYVMVLFLFLFLIET-------------------NVYA-IFPCKV
+                                                                                    . .  .::                                     *  
+
+Ps|PsNCR216                                                             DCDCPHNFCPPP-YTPKCI-IGRCNCVQKI----------------
+Medtr|MtNCR414                                                          NLDCPDSMCSSA-YTPRCR-HRTCVCLNNDEIKIL-----------
+Medsa|MsatMercedes_NRG000192g00698911_NCR_NCR                           NLDCPEGMCSSA-YTPKCR-HRSCVCLNNDEIKIQ-----------
+Medsa|MsatMercedes_NRG000184g00681491_NCR_NCR                           NLDCPEGMCSSA-YTPKCR-HRSCVCLNNDEIKIQ-----------
+Ps|PsNCR193                                                             DSDCPRRYCPFA-FRPRCL-LSYCICERFML---------------
+TriPr|crp1190_tripr.MilvusB.gnm2.scaf_410_0M_1|cluster7769              DSDCPQNMCSPP-FKPGCF-YGWCVPELILE---------------
+TriPr|crp1220_tripr.MilvusB.gnm2.scaf_4418_0M_1|cluster7769             DKDCPNRLCPYP-HHMRCR-KSICICR-------------------
+TriPr|crp1190_tripr.MilvusB.gnm2.scaf_410_0M_2|cluster7769              DSDCPQDMCQSP-FKPKCI-YSNCVCYRMMP---------------
+TriPr|crp1130_tripr.MilvusB.gnm2.scaf_3024_0M_1|cluster7769             DSDCPQDMCQSP-FKPKCI-YSNCVCYRMMP---------------
+MelOff|crp1190_GJLW01043558.1_0M_1=cluster7769_GJLW01043558.1_0M_1      GFDCPKNMCSFA-FTPRCR-FGSCVCYKSFEYQTQKST--------
+MelOff|crp1190_GJLW01028294.1_0M_1=cluster7769_GJLW01028294.1_0M_1      DYDCLSFYCPRG-KKSRCM-KHQCVCLSFYERRFLYIET-------
+MelOff|crp1190_GJLW01009142.1_0M_1=cluster7769_GJLW01009142.1_0M_1      NYDCPRNMCPFG-SRPICR-YNICECD-KLLPRIRPKGVHTPY---
+MelOff|crp1190_GJLW01019775.1_0M_1=cluster7769_GJLW01019775.1_0M_1      ESDCPQDFCNFL-FKAQCV-MRFYLIPR-----DGRFNNDSNFRNE
+MelOff|crp1190_GJLW01004747.1_0M_2=cluster7769_GJLW01004747.1_0M_2      DFDCPSNMCTYSQSRPRCR-YGYCTCDDKLMPKIIRKRVHTPY---
+AsSin|AsNCR042|cluster7769                                              DSDCPENMSPPG-FSSKCM-EGKCVCWARSTLGGIEKL--SP----
+AsSin|AsNCR070|cluster7769                                              DLDCPEIGDTAPGWTVRCI-ERSCIASTLRT---------------
+AsSin|AsNCR072|cluster7769                                              DSDCPKHICSPG-YHPRCI-LEECKCRETFGI--------------
+AsSin|AsNCR075|cluster7769                                              DFDCRKNMCPSI-YKPRCV-TMICRCAPIQKIF-------------
+AsSin|AsNCR080|cluster7769                                              DSDCTNTSCPPG-YKPKCI-GKECFFEKKIFSGPWF----------
+AsSin|AsNCR098|cluster7769                                              HSDCPEDMCPID-YTPKCV-AGDCVCLGGLMPLEIEKFSS------
+AsSin|AsNCR148|cluster7769                                              DSDCLEKICPIW-TTPLCDKIGICMCEITIH---------------
+                                                                          **             *                            

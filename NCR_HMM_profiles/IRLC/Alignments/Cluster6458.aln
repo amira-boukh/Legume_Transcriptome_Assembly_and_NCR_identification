@@ -1,0 +1,24 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG000462g01200361_NCR              ------MAKLVKYVYVIIAFYTLFLVATEIVSGIPCNDDVDCSQTLCDRISN---RKFNF
+Medtr|MtNCR591                                         MQKARNMAKLVKLVYVIIVFYTLFLVATEIVSGIPCNDDVDCPQTLCEQLIADFKYMIDF
+Medtr|MtNCR123                                         MQKARNMAKLVKLVYVIIVFYTLFLVATEIVSGIPCNDDVDCPQTLCEQLIADFKYMIDF
+Medtr|MtNCR-new20                                      MQKARNMAKLVKLVYVIIVFYTLFLVATEIVSGIPCNDDVDCPQTLCEQLIADFKYMIDF
+Medsa|MsatMercedes_NRG000026g00180461_NCR_NCR_NCR      MQKARNMAKLVKFVYVIIAFYTLFLVATEIVSGIPCNDDVDCSQTLCDRISN---LTFNF
+Medtr|cluster6458_MtrunA17Chr3_31M_4                   ------MAKLVKFVYVIIVFYTLFLVGTEIVSGHACTVNADCEQSMCDPFCV---GGYHF
+Medsat|cluster6458_GJLK01007811.1_0M_1                 ------MAKLVKFVYVIIVFYTLF-------AGHACTVDADCEQSMCDPYCN---QEYYF
+Medsat|cluster6458_GJLK01046057.1_0M_1                 ------MAKLVKYVYVIIAFYTLFLVATEIVSGIPCNDDVDCPQTLCDRISN---RKFNV
+Medsat|cluster6458_GJLK01030731.1_0M_1                 ------MAKLVKFVYVIIAFYTLFLVATEIVSGHACTVDADCEQSMCDPFYV---EGYHF
+                                                             ****** *****.*****       :*  *. :.** *::*:           .
+
+Medsa|MsatMercedes_NRG000462g01200361_NCR              KSKCV-FGLCICEAV--
+Medtr|MtNCR591                                         KSECV-SRMCACTGSPV
+Medtr|MtNCR123                                         KSECV-SRMCACTGSPV
+Medtr|MtNCR-new20                                      KSECV-SRMCACTGSPV
+Medsa|MsatMercedes_NRG000026g00180461_NCR_NCR_NCR      KSKCA-FGLCICEGSAV
+Medtr|cluster6458_MtrunA17Chr3_31M_4                   TPICV-IGWC-------
+Medsat|cluster6458_GJLK01007811.1_0M_1                 KAACSSRGWCGCIGSR-
+Medsat|cluster6458_GJLK01046057.1_0M_1                 IFGIS-FKSK-------
+Medsat|cluster6458_GJLK01030731.1_0M_1                 KPVCA-IGWC-------
+                                                                        

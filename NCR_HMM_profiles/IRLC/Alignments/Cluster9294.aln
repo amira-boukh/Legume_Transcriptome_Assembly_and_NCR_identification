@@ -1,0 +1,47 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|cluster9294_GJLK01039010.1_0M_3                                                                                              MAETLKFVYIVILLVSLCLVVFD-GIRSHQECGSTSDCYIMY-SAPYGSMRCARGVCKRL
+Medsat|crp1530_GJLK01004170.1_0M_1|cluster9294                                                                                      ----------MILIVSLCFLVAG-GIKTDVECASIGDCYKRYKSVPYGKMRCIRGYCKLQ
+Medtr|MtNCR412                                                                                                                      MAETFKFVYIVILLVSLCLVVVD-GIRTYRECENASDCYSIYWRAPYGTMRCVKGHCKQI
+Medsat|cluster9294_GJLK01004170.1_0M_1                                                                                              MAGTLKSVYIMILIVSLCFLVAG-GIKTDVECASIGDCYKRYKSVPYGKMRCIRGYCKLQ
+Medsat|cluster9294_GJLK01025348.1_0M_1                                                                                              MAETLKFVYIVILLVSLCLVVFD-GIRSHRECDNTSDCYIVY-SAPYGSMRCVKGFCKWL
+Medtr|cluster9294_MtrunA17Chr7_26M_1                                                                                                MAGTLKCVYIMILIYSLCFLVAG-GIKFNGECRNINDCYRKYTLVPYGYMRCIRGYCKLQ
+Medsa|MsatMercedes_NRG019992g02298581_NCR_NCR                                                                                       MAETLKFVYIVILLVSLCLVAVD-GIRTYRECASASDCYSVYRRAPYGTMRCVKGVCKQL
+Medsat|cluster9294_GJLK01025348.1_0M_2                                                                                              MAETLKFVYIVILLVSLCLVVFD-GIRSHQECGSTSDCYIMY-SAPYGSMRCVKGFCKRL
+Medsa|MsatMercedes_NRG000243g00818851_NCR                                                                                           MAETLKFVYIVILLVSLCLVAVD-GIRTYRECASASDCYSVYRRAPYGTMRCVKGVCKQL
+Medsat|cluster9294_GJLK01039010.1_0M_1                                                                                              MAETLKFVYIAILLVSLCLVVFA-GKR--MECVSTSDCYRIYWTAPYGSMRCARGVCKRL
+MelOff|crp1530_GJLW01012147.1_0M_1=crp1530_GJLW01019728.1_0M_1=cluster9294_GJLW01012147.1_0M_1=cluster9294_GJLW01019728.1_0M_1      MVETLKFVYIVILFVFLCFGVTDCNTRYYKECNTHADCYRIYPTVPHGMMRCVKGSCKFM
+MelOff|cluster9294_GJLW01008665.1_0M_1                                                                                              MAKTLKFVIIVILLVSLCLVVVG-GIRTDVECIRISDCYRKYPLIPYEIMRCIRDYCKLL
+MelOff|cluster9294_GJLW01003651.1_0M_1                                                                                              MAETLKFVYIVILLIFLCLVVAE-GTPSYRECLNIDDCYSRYPTAAYGTMRCSKGCSKGC
+                                                                                                                                               **:  **: .   .     **    ***  *    :  *** :. .*  
+
+Medsat|cluster9294_GJLK01039010.1_0M_3                                                                                              ND----------------------------------------------------------
+Medsat|crp1530_GJLK01004170.1_0M_1|cluster9294                                                                                      RDVKRIGMKLV-------------------------------------------------
+Medtr|MtNCR412                                                                                                                      KDVKVMKFLYCV------------------------------------------------
+Medsat|cluster9294_GJLK01004170.1_0M_1                                                                                              R-----------------------------------------------------------
+Medsat|cluster9294_GJLK01025348.1_0M_1                                                                                              KD----------------------------------------------------------
+Medtr|cluster9294_MtrunA17Chr7_26M_1                                                                                                R-----------------------------------------------------------
+Medsa|MsatMercedes_NRG019992g02298581_NCR_NCR                                                                                       KDVKVMKFLYCV------------------------------------------------
+Medsat|cluster9294_GJLK01025348.1_0M_2                                                                                              KD----------------------------------------------------------
+Medsa|MsatMercedes_NRG000243g00818851_NCR                                                                                           KDVKVMKFLYCV------------------------------------------------
+Medsat|cluster9294_GJLK01039010.1_0M_1                                                                                              NDV---------------------------------------------------------
+MelOff|crp1530_GJLW01012147.1_0M_1=crp1530_GJLW01019728.1_0M_1=cluster9294_GJLW01012147.1_0M_1=cluster9294_GJLW01019728.1_0M_1      KDVKIAEAKWG-------------------------------------------------
+MelOff|cluster9294_GJLW01008665.1_0M_1                                                                                              RDVEA-------------------------------------------------------
+MelOff|cluster9294_GJLW01003651.1_0M_1                                                                                              YILIFFLFILYTIFSPPPPLSFGNIYIFFIYITEECTNIDDRSVQILTIVIEDIRLLHME
+                                                                                                                                                                                                
+
+Medsat|cluster9294_GJLK01039010.1_0M_3                                                                                              -
+Medsat|crp1530_GJLK01004170.1_0M_1|cluster9294                                                                                      -
+Medtr|MtNCR412                                                                                                                      -
+Medsat|cluster9294_GJLK01004170.1_0M_1                                                                                              -
+Medsat|cluster9294_GJLK01025348.1_0M_1                                                                                              -
+Medtr|cluster9294_MtrunA17Chr7_26M_1                                                                                                -
+Medsa|MsatMercedes_NRG019992g02298581_NCR_NCR                                                                                       -
+Medsat|cluster9294_GJLK01025348.1_0M_2                                                                                              -
+Medsa|MsatMercedes_NRG000243g00818851_NCR                                                                                           -
+Medsat|cluster9294_GJLK01039010.1_0M_1                                                                                              -
+MelOff|crp1530_GJLW01012147.1_0M_1=crp1530_GJLW01019728.1_0M_1=cluster9294_GJLW01012147.1_0M_1=cluster9294_GJLW01019728.1_0M_1      -
+MelOff|cluster9294_GJLW01008665.1_0M_1                                                                                              -
+MelOff|cluster9294_GJLW01003651.1_0M_1                                                                                              L
+                                                                                                                                     

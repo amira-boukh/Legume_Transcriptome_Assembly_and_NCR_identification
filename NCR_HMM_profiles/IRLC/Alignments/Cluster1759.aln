@@ -1,0 +1,30 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG000490g01239611_NCR                   --MSKNMAQILKIIYVLIIFISLFSITSAAP--------GR-KPFNPMNCQTIVDCRYKA
+Medsa|MsatMercedes_NRG000469g01210331_NCR                   --MSKNMAQILKIIYVLIIFISLFSITSAAP--------GR-KPFNPMNCQTIVDCRYKA
+Ps|Psat5g174640.1_NCR                                       ------MVQILKFVSALIIFLSVFTNLV---------YSSKPKPIPLWPCNTRADCINKE
+Medsat|cluster1759_GJLK01015289.1_0M_1                      ------MAQLHKLIYALTIFLSLFIVGAVRI--------PR-PLINPLNCQIDIHCIYKE
+Ps|PsNCR308                                                 ------MGKIPRCGYYFIIFCFLFLVVITGV---N-AAEGRPTIFQRFPCQTDVDCRNRA
+Ps|PsNCR336                                                 ------MLQIFKYVFSLIVFLSVFLVLTN-------GVRDKPHPYFSSPCQTKTDCRDKA
+Medtr|MtNCR481                                              --MLKNMAQILKFIYVLIISISLFSVTS--A--------GR-RPFNPFNCQTIIDCKYKA
+Ps|cluster1759_chr5LG3_328M_1                               MLRRKNMSQILKCVYYLIVSLCLFLVEAKAA---KPLWRTTPHNYFASPCETDKDCFNKV
+TriPr|crp1440_tripr.MilvusB.gnm2.Tp7_08M_1|cluster1759      ------MAKTLKFLSTMILFLFLFLTAKEVDSTSKRSKPSKPTPYFLMICKTRDDCPDIF
+MelOff|crp1150_GJLW01023669.1_0M_1|cluster1759              ------MAKITNFFFALLIFISLFVVVT-----------------NPINCLTIDDCKYKA
+MelOff|crp1150_GJLW01059324.1_0M_1|cluster1759              ------MVEIPKFIYALLIFISVF---------------------YPINCLTIDDCKYKA
+MelOff|cluster1759_GJLW01019017.1_0M_1                      ------MAQIIKFIYVLIIFISLFVVVTSGR--------G--KSFYPINCQTIVDCKYKA
+                                                                  * :  .    : :   :*                         *    .*    
+
+Medsa|MsatMercedes_NRG000490g01239611_NCR                   CYRPLKPQCIDGKCVCMPVLQLS-----
+Medsa|MsatMercedes_NRG000469g01210331_NCR                   CYRPLKPQCIDGKCVCMPVLQLS-----
+Ps|Psat5g174640.1_NCR                                       CFFPAKPFCVSSQCLCV-----------
+Medsat|cluster1759_GJLK01015289.1_0M_1                      CQRPLKQSCLNFKCD-------------
+Ps|PsNCR308                                                 CHRPLKRKCVFFYCECVEVLKIFKI---
+Ps|PsNCR336                                                 CYRPLKRKCISYRCECA-----------
+Medtr|MtNCR481                                              CHRPLTRKCIDEKCVCM-----------
+Ps|cluster1759_chr5LG3_328M_1                               CYRPLKRKCISSRCECVRRTLQEDL---
+TriPr|crp1440_tripr.MilvusB.gnm2.Tp7_08M_1|cluster1759      VPDICMSMCNHGNCDLHFGIGPVPLGWT
+MelOff|crp1150_GJLW01023669.1_0M_1|cluster1759              CYRPLKATCINHRCECVK----------
+MelOff|crp1150_GJLW01059324.1_0M_1|cluster1759              CYRPLKATCINHRCECVK----------
+MelOff|cluster1759_GJLW01019017.1_0M_1                      CHRPFIRKCINYKCKCM-----------
+                                                                    *    *              

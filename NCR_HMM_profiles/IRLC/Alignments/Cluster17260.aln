@@ -1,0 +1,26 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG001571g02027371_NCR            ------MAQIILFLGALIILLSLFLVE---------------------------------
+Medsa|MsatMercedes_NRG000952g01712101_NCR            ------MAQIILFLGALIILLSLFLVE---------------------------------
+Medtr|MtNCR011                                       ------MAQIIPFLGALIIFLSLFLVE---------------------------------
+TriPr|cluster17260_tripr.MilvusB.gnm2.Tp4_16M_1      MQNKKNMAQIPMFVYALIIFLSIYGY----------------------------------
+MelOff|crp1450_GJLW01021664.1_0M_1|cluster17260      -----------MFVYVFIIFLSLCLVKA--------------------------------
+AsSin|AsNCR112|cluster17260                          ------MAKCLPFIFALILFSFLCLQMTNVYCISKNKWIQGDENEGELGDEGWGGGGEDL
+                                                                 *: .:*::  :                                     
+
+Medsa|MsatMercedes_NRG001571g02027371_NCR            ------------------------------------SKQTNIPCKSQEDCPKPIYPRYV-
+Medsa|MsatMercedes_NRG000952g01712101_NCR            ------------------------------------SKQTNIPCKSQEDCPKPIYPRYV-
+Medtr|MtNCR011                                       ------------------------------------SKQTNIPCKSAEDCPKPIYPRYV-
+TriPr|cluster17260_tripr.MilvusB.gnm2.Tp4_16M_1      -------------------------------------KKTDIPCKSVSDCPEPAHERFV-
+MelOff|crp1450_GJLW01021664.1_0M_1|cluster17260      ------------------------------------DNTIGFPCDSNEDCPKAVYPHVA-
+AsSin|AsNCR112|cluster17260                          EGSKKGEKNKQPHEKGKEKQQKEKGKEEQPKEKSSGTWYTLIPCKYDEDCLKPCREKGYK
+                                                                                              :**.  .** :    :   
+
+Medsa|MsatMercedes_NRG001571g02027371_NCR            -LCSY--GFCRIF--FP---
+Medsa|MsatMercedes_NRG000952g01712101_NCR            -LCSY--GFCRIF--FP---
+Medtr|MtNCR011                                       -LCSY--GFCRIF--FP---
+TriPr|cluster17260_tripr.MilvusB.gnm2.Tp4_16M_1      -WQCNDKNLCKLIKFISFRI
+MelOff|crp1450_GJLW01021664.1_0M_1|cluster17260      -KCVD--GFCRYF--IQSKI
+AsSin|AsNCR112|cluster17260                          DYKCNDKCRCRRNKDIETQ-
+                                                              *:    :    

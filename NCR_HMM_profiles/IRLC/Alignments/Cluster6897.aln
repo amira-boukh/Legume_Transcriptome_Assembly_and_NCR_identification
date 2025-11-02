@@ -1,0 +1,32 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|crp1170_GJLK01038714.1_0M_2|cluster6897                          --------------MGTIHKFVYVIILFSYIAVVASG-----------------------
+Medsat|cluster6897_GJLK01003215.1_0M_2                                  ------------------MKYVYVMILFISLFLVAMNVNGMPFCIFKFLHNVLSHLIPNN
+Medsat|crp1130_GJLK01046091.1_0M_1|cluster6897                          --------------MIEIVKYVNVLIIFLFLFLVATI--------LN---DILSYFDYII
+Medtr|MtNCR093                                                          MYGEHRFYMKRVVNMAKIVKYVYVIIIFLSLFLVATKIEGY-------------------
+Medsat|crp1170_GJLK01038714.1_0M_1|cluster6897                          --------------MGTSHKFVYAIILFLNIALVASG-----------------------
+Medsat|cluster6897_GJLK01030325.1_0M_1                                  --------------MAKIEKFVYVMIIFIFLFLIATNVEGK-------------------
+Ps|PsNCR335                                                             ------MLDVKGRNMAQIIKLVYDIIIFLFLSLVAMNVEAT-------------------
+Medsat|crp1210_GJLK01025942.1_0M_1|cluster6897                          --------------MAEIVKYIYVIIIFLSLFLVATNIET--------------------
+Medsat|cluster6897_GJLK01010810.1_0M_1                                  --------------MADIVKYVYVMIIFVSLFLVATNIEA--------------------
+Medsat|cluster6897_GJLK01025883.1_0M_1                                  --------MKRRVNMTEIVKYVYVIIIFLSLFLVATNIENFLFYFIH---DILSYFGYII
+Medtr|cluster6897_MtrunA17Chr1_21M_1                                    -----MVVEVVGVSMAEIVKYVYVIIIFLSLFLVAMNIEGK-------------------
+MelOff|cluster6897_GJLW01007326.1_0M_1                                  --------------MPEIVKSVYIIMIFLYVILVSTNIELR-------------------
+MelOff|crp1210_GJLW01000562.1_0M_1=cluster6897_GJLW01000562.1_0M_1      ----------MGENMAKVMKFVNVMIIFLFLFYVSMNVEGRPFLAFS---N---------
+                                                                                           * :  :::*  :  ::                         
+
+Medsat|crp1170_GJLK01038714.1_0M_2|cluster6897                          ----NFFEFFHKCTQDSDCPSLYCRNKAELPKCIAGFMCRC------------
+Medsat|cluster6897_GJLK01003215.1_0M_2                                  LIFGFRI-------SALYCVNY-ICI---------------------------
+Medsat|crp1130_GJLK01046091.1_0M_1|cluster6897                          LIYFFITGYFYRCFRDSDCVKM-LCR---------------------------
+Medtr|MtNCR093                                                          ---------YYKCFKDSDCVKL-LCRIPLRPKCMYRHICKCKVVLTQNNYVLT
+Medsat|crp1170_GJLK01038714.1_0M_1|cluster6897                          ----YFFEFFHKCTQDSDCPSLYCRNKAELPKCIGGFLCRC------------
+Medsat|cluster6897_GJLK01030325.1_0M_1                                  ------VGGKHRCFRDSDCPKR-LCKSPLKPKCM-------------------
+Ps|PsNCR335                                                             ---------FYRCFDDKDCVKRLYCRIPTKAKCVS-IFCKCRIDKELLNPRA-
+Medsat|crp1210_GJLK01025942.1_0M_1|cluster6897                          ---------FIRCKDDLDCVHK-RCRGPMRAKCISKSICKCRLW---------
+Medsat|cluster6897_GJLK01010810.1_0M_1                                  ---------FIRCFDDEDCVQK-RCHDPQTPKCVGK-ICKCRLVY--------
+Medsat|cluster6897_GJLK01025883.1_0M_1                                  LISFFITGTYY------------------------------------------
+Medtr|cluster6897_MtrunA17Chr1_21M_1                                    ---------FHRCFKDSECLNLLYCRTPLKPKC--------------------
+MelOff|cluster6897_GJLW01007326.1_0M_1                                  ---------KIRCTRHDHCSGM-VCPRYEAARCKWHR-CMCL-------RIGS
+MelOff|crp1210_GJLW01000562.1_0M_1=cluster6897_GJLW01000562.1_0M_1      -----FLSDYVSCLRDTDCQTY-ECLSPLNPKCVLKQFLKGHFNRLQCQCV--
+                                                                                                                             

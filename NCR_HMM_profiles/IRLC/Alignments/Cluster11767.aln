@@ -1,0 +1,30 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medtr|MtNCR688                                                           MENMARNLKFIYVMVLFLALFFVLTNGDSF------------------------RGCNKD
+CicerAr|CaNCR01                                                          ---MAKILKIVYVMILSLLLCFVVTKASSY----------------------GK-ACKDD
+Medsat|crp1230_GJLK01025398.1_0M_1|cluster11767                          ---MAKLMKFVYFMIHLLSLFLVATSDGHIIF---------------PNPFIAIHHCRND
+Medtr|crp1260_MtrunA17Chr3_08M_1|cluster11767                            ---MTHISMFVYSLIIFLSIYLVVTDGIILCKDHF---DCYE--------NIRKLRCDFD
+Medtr|cluster11767_MtrunA17Chr2_27M_1                                    ---MDGILKFVYAMFLSLILFLVVIDVHGKKIYHSFFFILYIKLLISITLFYCSFSCNVD
+Medsa|MsatMercedes_NRG000719g01509591_NCR_NCR                            MANMARNLKFIYVMVLFLALFFVLTNGDSI------------------------RGCNRD
+Medsa|MsatMercedes_NRG000214g00755681_NCR                                MANMARNLKFIYVMVLFLALFFVLTNGDSI------------------------RGCNRD
+CicerAr|cluster11767_contig44262_0M_1                                    ---MAITLKFMYVTILSLLLCLVVTKAGDY----------------------GQEACISD
+MelOff|crp1230_GJLW01062279.1_0M_1|cluster11767                          ---MARILKFIYAMVLFLSLFFIQTNVNAF------------------------NGCNSD
+MelOff|crp1190_GJLW01010534.1_0M_1=cluster11767_GJLW01010534.1_0M_1      ---MAKNFKFVYVMIIFLFLFLIATNAVFI------------------------KRVRSR
+LupAl|cluster11767_lupal.Amiga.gnm1.Lalb_Chr02_17M_3                     MRNMTKTLKFLHAMVLLFSLLFIVTRGYEG------------------------RPCLTD
+LupAl|cluster11767_lupal.Amiga.gnm1.Lalb_Chr02_17M_2                     ---MTKTLKFLYAMILLFSLLFLVTRGDND------------------------IPCFTH
+                                                                            *     :::  .  : : ::                                     
+
+Medtr|MtNCR688                                                           TDCPE--KFCSSPDVVRCIYIECYCI------------
+CicerAr|CaNCR01                                                          RDCPNTGNHCIAPDYMGCMFNNCYCVRRGR--------
+Medsat|crp1230_GJLK01025398.1_0M_1|cluster11767                          DECER-QVTCKRPQVERCM-------------------
+Medtr|crp1260_MtrunA17Chr3_08M_1|cluster11767                            TE----KPFCISLNVCQC--------------------
+Medtr|cluster11767_MtrunA17Chr2_27M_1                                    HDC-----------------------------------
+Medsa|MsatMercedes_NRG000719g01509591_NCR_NCR                            TDCPA-ENFCSSPEVVRCIYSECYCI------------
+Medsa|MsatMercedes_NRG000214g00755681_NCR                                TDCPA-ENFCSSPEVVRCIYSECYCI------------
+CicerAr|cluster11767_contig44262_0M_1                                    AECPNVTTYCTPPYRMGCWWNLCYCEQQLE--------
+MelOff|crp1230_GJLW01062279.1_0M_1|cluster11767                          ADCEK--YSCSAPEVIRCIYIDCYCV------------
+MelOff|crp1190_GJLW01010534.1_0M_1=cluster11767_GJLW01010534.1_0M_1      CKSHA-DCHCPPPLKPKCWHTLCKCLTVWSGPQDFVST
+LupAl|cluster11767_lupal.Amiga.gnm1.Lalb_Chr02_17M_3                     FDCTF-PLICIQHH--------CRNPL-----------
+LupAl|cluster11767_lupal.Amiga.gnm1.Lalb_Chr02_17M_2                     CECPS-NHVCSRSW--------CKKLP-----------
+                                                                          .                                    

@@ -1,0 +1,74 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medtr|cluster18944_MtrunA17Chr6_01M_3                --------------------------------------------------MTTILKFPYI
+Medtr|MtNCR228                                       --------------------------------------------------MTTFLKVAYI
+Medtr|cluster18944_MtrunA17Chr6_01M_4                --------------------------------------------------MTAILKVAYI
+Medsa|MsatMercedes_NRG000114g00493871_NCR_NCR        -----------------------------------MIKQFSICYIQRRRNMTTILKVAYI
+Medsat|cluster18944_GJLK01020361.1_0M_1              --------------------------------------------------MTTILKFAYI
+Medsat|crp1240_GJLK01007976.1_0M_1|cluster18944      ------------------------------------------------------------
+Ps|PsNCR57                                           --------------------------------------------------MTTILKVICI
+Medtr|MtNCR450                                       -MTTILKFAYIMITCLFLLHIAAQEVLQYELFDCNEDRDCDNVICVAVRNMTTILKFPYI
+Medsa|MsatMercedes_NRG000044g00255341_NCR_NCR        --------------------------------------------------MTTILKVAYI
+Medsat|cluster18944_GJLK01007976.1_0M_2              --------------------------------------------------MTAILKVAYI
+Ps|cluster18944_scaffold01992_0M_1                   --------------------------------------------------MTPILKFIYI
+Ps|crp0000_chr5LG3_104M_2|cluster18944               ----------------------------------------------------MNFGFFFI
+MelOff|crp1240_GJLW01025400.1_0M_1|cluster18944      --------------------------------------------------MVAILKFVYI
+AsSin|AsNCR027|cluster18944                          --------------------------------------------------MTEALKYNSA
+AsSin|AsNCR126|cluster18944                          --------------------------------------------------MAKNFKFVYV
+AsSin|AsNCR161|cluster18944                          NLSLIVSYFF------------------------------------------ILFNFVYL
+                                                                                                                 
+
+Medtr|cluster18944_MtrunA17Chr6_01M_3                -MVICLLLLHVAAY-EDFE-----------------------------------------
+Medtr|MtNCR228                                       -MIICVFVLHLAAQ-VDSQ-----------------------------------------
+Medtr|cluster18944_MtrunA17Chr6_01M_4                IMIICLFLLHDAAS-DDYL-----------------------------------------
+Medsa|MsatMercedes_NRG000114g00493871_NCR_NCR        -MIICLVVLYVVAQ-VDSQ-----------------------------------------
+Medsat|cluster18944_GJLK01020361.1_0M_1              -MIICLLLLNIAAQ-EIDQ-----------------------------------------
+Medsat|crp1240_GJLK01007976.1_0M_1|cluster18944      -MIICLVVLYVAAQ-VDSQ-----------------------------------------
+Ps|PsNCR57                                           -VSILFFLFFVVAK-AD-------------------------------------------
+Medtr|MtNCR450                                       -MVICLLLLHVAAY-EDFE-----------------------------------------
+Medsa|MsatMercedes_NRG000044g00255341_NCR_NCR        -MIICLVMLYVAAQ-VDSQ-----------------------------------------
+Medsat|cluster18944_GJLK01007976.1_0M_2              -MIICLVVLYVVAQ-VDSQ-----------------------------------------
+Ps|cluster18944_scaffold01992_0M_1                   -LSIYFFLFFVAAN-V--------------------------------------------
+Ps|crp0000_chr5LG3_104M_2|cluster18944               FLI------LLASE-MVIQIEGTHC-----------------------------------
+MelOff|crp1240_GJLW01025400.1_0M_1|cluster18944      -MILYLFLLHVVAE-ANWQFTELLHIK------------------------------ENK
+AsSin|AsNCR027|cluster18944                          -LILFYFLFFHFTNGYRFSKNSSILVRKR-----------------------PIGSGASP
+AsSin|AsNCR126|cluster18944                          -MILLFFLLFNLSNGNSFSKNKRICGDENEGWRGGGEDLDQDWKKKGLRKKKSPRRGKSS
+AsSin|AsNCR161|cluster18944                          LCI-RIFYLILVTS-SFFITTVLLCIRIF-------------------------YLILVT
+                                                                 :                                               
+
+Medtr|cluster18944_MtrunA17Chr6_01M_3                -----KEIFDCKKDGDCDH---MCVTPGIPK---CTGY--VCFCFE--------------
+Medtr|MtNCR228                                       -----KRLHGCKEDRDCDN---ICSVHAVTK---CIGN--MCRCLANVK-----------
+Medtr|cluster18944_MtrunA17Chr6_01M_4                -----KYIYRCQNDGDCDQ---ICATHGISK---CVAT--MCFCN---------------
+Medsa|MsatMercedes_NRG000114g00493871_NCR_NCR        -----KRLHGCKEDRDCDN---ICTVHAVTK---CIGN--FCRCLANVK-----------
+Medsat|cluster18944_GJLK01020361.1_0M_1              -----NGIHPCQKNEDCNHIDCVCAVHTVSK---CIDN--HCV-----------------
+Medsat|crp1240_GJLK01007976.1_0M_1|cluster18944      -----KRLHGCKEDRDCDN---ICTVHAVTK---CIRN--KCRCIRNKI-----------
+Ps|PsNCR57                                           -----EGGRRCVIDSDCEN---FCQVHETVK---CIDG--FCVCIFKPITETP-------
+Medtr|MtNCR450                                       -----KEIFDCKKDGDCDH---MCVTPGIPK---CTGL--IEYIDTIQIQIR--------
+Medsa|MsatMercedes_NRG000044g00255341_NCR_NCR        -----KRLHGCKEDRDCDN---ICTVHAVTK---CIGN--FCRCLANVK-----------
+Medsat|cluster18944_GJLK01007976.1_0M_2              -----KRLHGCKEDRDCDN---ISTVHAVTK---CIGN--FCVCLA--------------
+Ps|cluster18944_scaffold01992_0M_1                   -----NGAPECKEDSDC-----VCEVHKISL---CIDG--LCAACLMDS-----------
+Ps|crp0000_chr5LG3_104M_2|cluster18944               ELKSYQFQGICFSDRSCAK---VCNVEGYIAGGKCRGFFSHCYCKRVVNINSANVYSSIY
+MelOff|crp1240_GJLW01025400.1_0M_1|cluster18944      HAEANWQFTECKTDKDCKK---TCGPSQIPK---CISK--ICMCYPKGV-----------
+AsSin|AsNCR027|cluster18944                          KKGVHESLYPCKFDEDCNA---YCESMDFTKY-LCNSN-RKCSCFNPL------------
+AsSin|AsNCR126|cluster18944                          NDKFLHTLIRCEVDKDCKK---ICKSEGYKDY-KCKNL--FCFCDKHIKN----------
+AsSin|AsNCR161|cluster18944                          SSFFITTVIKCKEDSDCKE---WCPSGHIPS---CFKG--FCTPYMY-------------
+                                                               *  : .*      .          *                         
+
+Medtr|cluster18944_MtrunA17Chr6_01M_3                -
+Medtr|MtNCR228                                       -
+Medtr|cluster18944_MtrunA17Chr6_01M_4                -
+Medsa|MsatMercedes_NRG000114g00493871_NCR_NCR        -
+Medsat|cluster18944_GJLK01020361.1_0M_1              -
+Medsat|crp1240_GJLK01007976.1_0M_1|cluster18944      -
+Ps|PsNCR57                                           -
+Medtr|MtNCR450                                       -
+Medsa|MsatMercedes_NRG000044g00255341_NCR_NCR        -
+Medsat|cluster18944_GJLK01007976.1_0M_2              -
+Ps|cluster18944_scaffold01992_0M_1                   -
+Ps|crp0000_chr5LG3_104M_2|cluster18944               F
+MelOff|crp1240_GJLW01025400.1_0M_1|cluster18944      -
+AsSin|AsNCR027|cluster18944                          -
+AsSin|AsNCR126|cluster18944                          -
+AsSin|AsNCR161|cluster18944                          -
+                                                      

@@ -1,0 +1,16 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medtr|MtNCR080                                       MSKTIMFLYAMTLFLFLLHIEKSSGVLIDCKTVKDCPT-SYTKIYRCEDNKCRFSFVIGL
+Medsat|crp1500_GJLK01030235.1_0M_1|cluster51242      MTKTLKFMHVMILFLSLFLVAESFFVDITCKVHEDCPQ-KLTSKYYCVDDKCFFVLLGRR
+Medsat|cluster51242_GJLK01027225.1_0M_1              MSKTIKFLYVMTLFLFLFHIEKSSDALIDCKTVDDCPS-SWTKIYKCIDNKCRYSVVKGL
+Medtr|MtNCR-new14                                    MSKTIMFLYAMTLFLFLLHIEKSSGVLIDCKTVKDCPP-SYTKIYRCIDNKCRLVL----
+Medsat|cluster51242_GJLK01001005.1_0M_1              MSKTIKFLYAITLFFFLFLIGKNNGVLIDCKHVRDCPKGSWSRMYKCIDNKCRFTYPR--
+                                                     *:**: *::.: **: *: : :.  . * **   ***  . :  * * *:**        
+
+Medtr|MtNCR080                                       -
+Medsat|crp1500_GJLK01030235.1_0M_1|cluster51242      R
+Medsat|cluster51242_GJLK01027225.1_0M_1              I
+Medtr|MtNCR-new14                                    -
+Medsat|cluster51242_GJLK01001005.1_0M_1              -
+                                                      

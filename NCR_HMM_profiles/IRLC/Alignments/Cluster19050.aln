@@ -1,0 +1,32 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+CicerAr|CaNCR12                                                          ------MAQIFVFVYALIIFLSLSLVVSMEREKAPCNSWRDCEEFDYYE-VACIDGFCEY
+Medsat|cluster19050_GJLK01033458.1_0M_1                                  ---MKNTVQIPMFVYALIIYISLFLVVT-SSTTIPCDSDTDCPWKIYYT-YRCIDGFCKY
+Medsat|crp1430_GJLK01018229.1_0M_1|cluster19050                          ------MDQTLMFVYALIIFIFLFLIVT---SKFPCYFFFDCPDLDHNILWKCIGRFCEY
+Medsat|crp1450_GJLK01033458.1_0M_1|cluster19050                          -----------MFVYALIIYISLFLVVT-SSTTIPCDSDTDCPWKIYYT-YRCIDGFCKY
+Medtr|MtNCR359                                                           MKRRKYMDQPLMFVYVLIIFLSQFLIVT-SRSKFPCLSIIDCPDLRYHTLQNCIRGFCVY
+Medsa|MsatMercedes_NRG000030g00196441_NCR                                MQRRKNMDQTLMFVYVLIIFLSLFLIVT-SRSKIPCHSITDCPDLHYHTLWRCIDGFCEY
+Medsat|crp1450_GJLK01004393.1_0M_1|cluster19050                          ------MDQTLMFVYVLIIFLSLFLIVT-SRSKIPCHSITDCPDLHYHILWRCIGGFCEY
+Ps|crp1450_chr1LG6_042M_1|cluster19050                                   ------MAHLLMFVFALIIFLFLFLVET--NTGDPCNTFVDCPDDEDHY-ATCIDGFC--
+MelOff|crp1510_GJLW01007125.1_0M_1|cluster19050                          ------MVQILMFVYALMIYLSLFLVVT-SRSSIPCNSDKDCLWKIYHT-YTCKDGFCEY
+MelOff|crp1450_GJLW01024277.1_0M_1=cluster19050_GJLW01024277.1_0M_1      ------MVQTLMFVYALINFVSLFLIIT-SRSKFPCRSRVDCPDLNHFMFWRCADGFCEY
+MelOff|crp1450_GJLW01000548.1_0M_1|cluster19050                          -----------MFVYALINFVSLFLIVT-SRSKFPCLSTADCPNLNYFVYWNCIDGFCEY
+MelOff|crp1450_GJLW01035736.1_0M_1|cluster19050                          -----------MFIYSLIIFLYLFFIVT-SRSKFPCHSIMDCPDLDYHLFFNCIKGFCEY
+LupAl|crp1430_lupal.Amiga.gnm1.Lalb_Chr21_14M_1|cluster19050             ------MANILKCVYGVILFFSFFLLVT--SQVIPCHEDRDCANLFHN--AICIGGWCHY
+                                                                                      :: :: :.   :: :      **    **          *   :*  
+
+CicerAr|CaNCR12                                                          QYTCE------------
+Medsat|cluster19050_GJLK01033458.1_0M_1                                  IPIVY------------
+Medsat|crp1430_GJLK01018229.1_0M_1|cluster19050                          QE---------------
+Medsat|crp1450_GJLK01033458.1_0M_1|cluster19050                          IPIVYPQIPNRID----
+Medtr|MtNCR359                                                           LE---------------
+Medsa|MsatMercedes_NRG000030g00196441_NCR                                LDV--------------
+Medsat|crp1450_GJLK01004393.1_0M_1|cluster19050                          LDV--------------
+Ps|crp1450_chr1LG6_042M_1|cluster19050                                   -----------------
+MelOff|crp1510_GJLW01007125.1_0M_1|cluster19050                          VPIIYPIWY--------
+MelOff|crp1450_GJLW01024277.1_0M_1=cluster19050_GJLW01024277.1_0M_1      IDK--------------
+MelOff|crp1450_GJLW01000548.1_0M_1|cluster19050                          LDKSQLRLEIIMLPLSV
+MelOff|crp1450_GJLW01035736.1_0M_1|cluster19050                          LER--------------
+LupAl|crp1430_lupal.Amiga.gnm1.Lalb_Chr21_14M_1|cluster19050             PFFVYS-----------
+                                                                                          

@@ -1,0 +1,20 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG000153g00603711_NCR      ---------MVKMLKFVYAMI-LI----SLFLVVTHGGISCNHNYDCPYDDCSPKGSKCI
+Medsa|MsatMercedes_NRG000456g01190691_NCR      ---------MVKMLKFIYAMILLI----SLFLVVTHGGISCNHNYDCPYDDCSPKGSKCI
+Ps|PsNCR147                                    MSCLKRRENMAKFIKIVYAMILFV----SIILTLTYGDPSCTCDYDCPFIECPTHHMKCI
+Medtr|cluster32945_MtrunA17Chr2_35M_1          ---------MVKMLKFIYAMILLI----SHFLVVTHGGTSCNHNYDCPYDDCSPKGSKCI
+Ps|crp1140_chr5LG3_434M_2|cluster32945         ---------MATTKISALIMIFLLAFCIYASDMCMKSEASCTEDVDCQ-AGCPGKQGQCI
+Ps|crp1140_chr5LG3_434M_3|cluster32945         -------------------MIFLLAFCIYTSDMSMKSEASCTEDIDCQ-VGCPGKQGQCI
+Ps|crp1140_chr4LG4_128M_1|cluster32945         -------------------MIITN----ISLLLLFIIDHYCSHGNDCPFLECSTHVMKCI
+                                                                  **                   *. . **    *  :  :**
+
+Medsa|MsatMercedes_NRG000153g00603711_NCR      CHRCYCA-------------------
+Medsa|MsatMercedes_NRG000456g01190691_NCR      CHRCYCA-------------------
+Ps|PsNCR147                                    SNRCYCEHPHKEVIKLS---------
+Medtr|cluster32945_MtrunA17Chr2_35M_1          CHRCYCA-------------------
+Ps|crp1140_chr5LG3_434M_2|cluster32945         DGRCWCIGAKSLYDITPRLIPSNAK-
+Ps|crp1140_chr5LG3_434M_3|cluster32945         DGRCWCIGAKSLYDITPRLIPSNAII
+Ps|crp1140_chr4LG4_128M_1|cluster32945         SNRCYIL-------------------
+                                                 **:                     

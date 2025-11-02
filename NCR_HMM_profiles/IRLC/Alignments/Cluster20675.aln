@@ -1,0 +1,22 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG001202g01871051_NCR                                ------MAQLLKFVYAIIFMFSL-CLAATKEKFHSCVTADDCPYDFCSPPKYAKCVYNSC
+Medsa|MsatMercedes_NRG000124g00526451_NCR                                ------MAQLLKFVYAIIFMFSL-CLAATKEKFHSCVTADDCPYDFCSPPKYAKCVYNSC
+Medtr|MtNCR386                                                           ------MAQLLKFVYAIIFLFSL-CLAATKEKFHSCVNANDCPYDFCSPPKYAKCVYNSC
+Ps|PsNCR23                                                               MQMKKHMAQTPKFAYAIILFFSL-CLVVTNNEFRSCIYDNDCPYDYCTPPKYQKCIWSSC
+Ps|crp1190_chr5LG3_470M_1|cluster20675                                   ------MAKVYKFIYVMIIFLS--SFLVLIDAFDFCIDDNDCPYIGCSPPKNMTCIGNIC
+TriPr|crp1150_tripr.MilvusB.gnm2.scaf_5607_0M_1|cluster20675             ----------------MTPFNNNILLLFYIAAFRFCINKKDCPYMECDPPKNSTCIGNIC
+MelOff|crp1190_GJLW01002682.1_0M_1|cluster20675                          ------MTKIFKFFYVMILFLSL--SLVLTEEFQF------CPYYSCSPPKKPKCIWYSC
+MelOff|crp1190_GJLW01017508.1_0M_1=cluster20675_GJLW01017508.1_0M_1      ------MAQHLKFVYAIIFLFSL-FLVGTNGEFRFCLLDNDCPYDYCSPPKHPKCYWSSC
+                                                                                         :  : .          *        ***  * ***  .*    *
+
+Medsa|MsatMercedes_NRG001202g01871051_NCR                                YCEDQGRL----------
+Medsa|MsatMercedes_NRG000124g00526451_NCR                                YCEDQGRL----------
+Medtr|MtNCR386                                                           YCEDQGRL----------
+Ps|PsNCR23                                                               YCVDQYNDLLS-------
+Ps|crp1190_chr5LG3_470M_1|cluster20675                                   SCT---------------
+TriPr|crp1150_tripr.MilvusB.gnm2.scaf_5607_0M_1|cluster20675             GCTLG-------------
+MelOff|crp1190_GJLW01002682.1_0M_1|cluster20675                          YCS---------------
+MelOff|crp1190_GJLW01017508.1_0M_1=cluster20675_GJLW01017508.1_0M_1      YCEDQGRLSWKKTNYTKP
+                                                                          *                

@@ -1,0 +1,50 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|cluster3648_GJLK01031953.1_0M_1                      MTRIVKFIF-----ISIFLVATSNPNFNPGDPYLDVLNFLNYFVHNIFS-----R-----
+Medtr|crp1430_MtrunA17Chr3_32M_1|cluster3648                MVQTVKFVCVIIIFISLFLAAMIVEGRVKYKEDYGGQNKWNEF--------P---LKPHI
+Medsat|cluster3648_GJLK01007041.1_0M_1                      MTRIVKFIF-----ISIFLVATSNPNFNPGDPYLDVLNFLNYFVHNIFSHLNNTR-----
+Medsat|cluster3648_GJLK01069956.1_0M_1                      MIRIVKFIF-----ISVFLVAMREPRYNRGDPFLDVLNFFNYFVHNIFSHLNNTFLFSFF
+Medtr|cluster3648_MtrunA17Chr3_31M_1                        MVEIIKFIYVMVNFISVFLVSMN----VEGNPFLNVLNFLNYLLHNILSHFNNTLLLFFF
+Medsat|cluster3648_GJLK01019755.1_0M_1                      MVEITKLVNVMLIFLTLFVVALSN--------DLAFSNFSRYLLHNVLCKLIYTILFYFF
+Medtr|crp1130_MtrunA17Chr3_31M_1|cluster3648                MTRIVKFIF-----ISIFLVAMSNPNFNPGDPFLDVLNFLNYFIHNIFSHLNNTLSFSFF
+Medsa|MsatMercedes_NRG000026g00180001_NCR                   MIRIVKFIF-----ISVFLVAMREPRFNRGDPFLDVLNFFNYFVHNIFSHLNNTFLFSFF
+Medsat|crp1130_GJLK01019515.1_0M_1|cluster3648              MTRIVKFIF-----ISIFLVATSNPNFN----------LLNYFIHNIFSHLNNTLLFSFF
+Medsa|MsatMercedes_NRG000462g01199691_NCR                   MAKIVKFIFFLIIFISVFLGAMN----RRGNPFLDVLNFLNYFLYNILSHLSNTLLFSFF
+TriPr|cluster3648_tripr.MilvusB.gnm2.scaf_2580_0M_1         MVKIVNFVYVMITSLYAFLVATN-------------------------------------
+TriPr|crp1130_tripr.MilvusB.gnm2.Tp6_18M_1|cluster3648      --------------MHLS---------LIVCHFLPFSNFLIYFLHIILSHFNNTFLFYIF
+MelOff|cluster3648_GJLW01011583.1_0M_1                      ----------MIIFISLFVVAMN----VDGKPFLSFTNFLSYFLHNILSHFPYCY-----
+AsSin|AsNCR114|cluster3648                                  MVVILKLVYIMALFVSLFLMTSN-------------------------------------
+                                                                          :                                             
+
+Medsat|cluster3648_GJLK01031953.1_0M_1                      ----RVCKENSDCPNEI-CP----------------------------------------
+Medtr|crp1430_MtrunA17Chr3_32M_1|cluster3648                RTYRIKCKDDS-------------------------------------------------
+Medsat|cluster3648_GJLK01007041.1_0M_1                      ----RVCKENFDCP----------------------------------------------
+Medsat|cluster3648_GJLK01069956.1_0M_1                      IT--IVC-----------------------------------------------------
+Medtr|cluster3648_MtrunA17Chr3_31M_1                        ITTG--------------------------------------------------------
+Medsat|cluster3648_GJLK01019755.1_0M_1                      ITAEY-----TDC-----------------------------------------------
+Medtr|crp1130_MtrunA17Chr3_31M_1|cluster3648                IT--TGR-----------------------------------------------------
+Medsa|MsatMercedes_NRG000026g00180001_NCR                   FT--TVCEQSSDCPISL-CPFPWKPTCVEPYFLKIPTKRFK-------YCTCT-------
+Medsat|crp1130_GJLK01019515.1_0M_1|cluster3648              IT-GRVCKENSDCPNE--------------------------------------------
+Medsa|MsatMercedes_NRG000462g01199691_NCR                   ITTDHECEQDFDCPKST-CLFSWKPTCVKPYFLMINQHRYN-------YCACT-------
+TriPr|cluster3648_tripr.MilvusB.gnm2.scaf_2580_0M_1         VDATIQCNRDFQCPAYM-CPPPIRPRCI-----------NG-------ICTCINKRKP--
+TriPr|crp1130_tripr.MilvusB.gnm2.Tp6_18M_1|cluster3648      FITASMCAEDSDCQEVT-CLTPKSPYCKKWPFFSE----KG-------VCDCIAERVPYV
+MelOff|cluster3648_GJLW01011583.1_0M_1                      --------HEHGCLGYQ-CLPSIQHVCR-----------FI-------DGSCVLRSVDS-
+AsSin|AsNCR114|cluster3648                                  VNANSKCDQDLECQKLWGQLPNWKATCIDVRGFMSSRKRHKFYPPIHGMASCTLAY----
+                                                                                                                        
+
+Medsat|cluster3648_GJLK01031953.1_0M_1                      -----
+Medtr|crp1430_MtrunA17Chr3_32M_1|cluster3648                -----
+Medsat|cluster3648_GJLK01007041.1_0M_1                      -----
+Medsat|cluster3648_GJLK01069956.1_0M_1                      -----
+Medtr|cluster3648_MtrunA17Chr3_31M_1                        -----
+Medsat|cluster3648_GJLK01019755.1_0M_1                      -----
+Medtr|crp1130_MtrunA17Chr3_31M_1|cluster3648                -----
+Medsa|MsatMercedes_NRG000026g00180001_NCR                   -----
+Medsat|crp1130_GJLK01019515.1_0M_1|cluster3648              -----
+Medsa|MsatMercedes_NRG000462g01199691_NCR                   -----
+TriPr|cluster3648_tripr.MilvusB.gnm2.scaf_2580_0M_1         -----
+TriPr|crp1130_tripr.MilvusB.gnm2.Tp6_18M_1|cluster3648      WSLKN
+MelOff|cluster3648_GJLW01011583.1_0M_1                      -----
+AsSin|AsNCR114|cluster3648                                  -----
+                                                                 

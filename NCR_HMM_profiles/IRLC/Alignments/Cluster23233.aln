@@ -1,0 +1,20 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG000958g01716131_NCR                        MAKTLNFIYAMILFVFLFLIIAKK----------VYAYIPCKTRLDCPNTYLWTFPRMWK
+Medsat|crp1430_GJLK01011993.1_0M_1|cluster23233                  MVKTFNFAYTMILLFFLFL-TAKR----------VYAYHLCKTRFDCPKTYLWFFPRMWK
+Medsat|cluster23233_GJLK01011993.1_0M_1                          MAKTLKSAYLMILIIFLFLSIANK----------VYAYILCKTCFDCPITYLWMFPRMWK
+Medsat|crp1440_GJLK01011993.1_0M_2|cluster23233                  MAKTLKSAYLMILIIFLFLSIANK----------VYAYILCKTCFDCPITYLWMFPRMWK
+Medsa|MsatMercedes_NRG000365g01052851_NCR                        MAKTLKSAYLMILIIFLFLSIANK----------VYAYILCKTFFDCPRTYLWMFPRMWK
+Medtr|crp1430_MtrunA17Chr6_38M_1|cluster23233                    MVKTFNFVCTMVLLFFLFLTAKKVYVTIFCYLFFVTAYHLCKTRFDCPRTYLLFFPRMWK
+TriPr|crp1440_tripr.MilvusB.gnm2.scaf_298_0M_1|cluster23233      MASNLKFVHAILLFISLFLIAKNDS---------GFEYMKCKSNIDCPETTVSMFPFRWK
+                                                                 *...::    ::*:. ***   :              *  **: :*** * :  **  **
+
+Medsa|MsatMercedes_NRG000958g01716131_NCR                        CINCRCRYLYFFE---
+Medsat|crp1430_GJLK01011993.1_0M_1|cluster23233                  CINRRCRYVYF-----
+Medsat|cluster23233_GJLK01011993.1_0M_1                          CINGRCRYAY------
+Medsat|crp1440_GJLK01011993.1_0M_2|cluster23233                  CINDRM----------
+Medsa|MsatMercedes_NRG000365g01052851_NCR                        CINDRM----------
+Medtr|crp1430_MtrunA17Chr6_38M_1|cluster23233                    ----------------
+TriPr|crp1440_tripr.MilvusB.gnm2.scaf_298_0M_1|cluster23233      CIEEICEFVRPMPMNV
+                                                                                 

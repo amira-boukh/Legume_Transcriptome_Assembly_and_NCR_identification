@@ -1,0 +1,20 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|cluster23637_GJLK01041613.1_0M_1                                  MNIIFKCVYHMIAILLLLLVATEA------------------GSIRKSCESHADCWNIYC
+Medsa|MsatMercedes_NRG000014g00115251_NCR_NCR                            MNIIFKCVYHMIVILLLLLVATEA------------------GSIRKGCEFDVDCQDKYC
+Medsat|crp1190_GJLK01041613.1_0M_1|cluster23637                          MNIIFKCVYHTIVILLLLLVTTEAGMYHMIAILLLLLVATEAGSIRKSCESHADCWNIYC
+Medtr|MtNCR252                                                           MNIIFKCVYHMIVILLLLLVATEAG----------------TGNIRQSCEFDVDCENKYC
+Medsa|MsatMercedes_NRG001408g01967131_NCR_NCR                            MNIIFKCVYHMIVILLLLLVATEA------------------GSIRKGCEFDVDCQDKYC
+MelOff|crp1220_GJLW01006160.1_0M_1=cluster23637_GJLW01006160.1_0M_1      MNRSFKCVYAMIVILLLLQL--------------YGLLASEIGPIRQSCDYDVDCRNIDC
+MelOff|crp1160_GJLW01022761.1_0M_1=cluster23637_GJLW01022761.1_0M_1      MNRSFKCVYAMIVILLLLQL--------------YGLLASEIGPIRQSCDYDVDCRNIDC
+                                                                         **  *****  *.***** :                      * **:.*: ..** :  *
+
+Medsat|cluster23637_GJLK01041613.1_0M_1                                  PPTEEPMCIWYLEWDVYE-------------------------------------
+Medsa|MsatMercedes_NRG000014g00115251_NCR_NCR                            PPSHDGKCVWEE----GEEEYCGCIPK----------------------------
+Medsat|crp1190_GJLK01041613.1_0M_1|cluster23637                          -------------------------------------------------------
+Medtr|MtNCR252                                                           PPSHDGKCVWEEEGEEGEEEYCGCIPR----------------------------
+Medsa|MsatMercedes_NRG001408g01967131_NCR_NCR                            PPSHDGKCVWEE----GEEEYCGCIPK----------------------------
+MelOff|crp1220_GJLW01006160.1_0M_1=cluster23637_GJLW01006160.1_0M_1      PPSHVGMCVWE---------LCGCLPK----------------------------
+MelOff|crp1160_GJLW01022761.1_0M_1=cluster23637_GJLW01022761.1_0M_1      PPSHVGMCVWE---------LCGCLPKHDYMKKLMEQWCKDKENANTEYSEAVSF
+                                                                                                                                

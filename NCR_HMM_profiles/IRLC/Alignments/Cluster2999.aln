@@ -1,0 +1,54 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|crp1520_GJLK01041904.1_0M_1|cluster2999      MAET-------------LKFVYVLILVISIFLVIIVCDSAYLTNSRPCIT----------
+Medsa|MsatMercedes_NRG000133g00551381_NCR           MAES-------------LKFVYVLILFISICNAIIVCDFAFLPTSRNCIT----------
+Medsat|crp1520_GJLK01009877.1_0M_2|cluster2999      MAET-------------LKYVYVLILFISIFLVIILCDSAFLPNSRTCIT----------
+Medsat|crp1520_GJLK01079487.1_0M_1|cluster2999      MVKT-------------LKFVYILILLICIFLVMIVCDSAYLPFSRSCIT----------
+Medtr|crp1520_MtrunA17Chr7_01M_03|cluster2999       MVKT-------------LKFVYILILFICIFLVMIVCDSAYLPLSRSCIT----------
+Medsat|crp1520_GJLK01033778.1_0M_1|cluster2999      MA-------------ETLKFVYVLILFISLFLVLIVCDSSFLPYSLPCITDKDFLYTINS
+Medsat|crp1520_GJLK01032306.1_0M_1|cluster2999      MAET-------------LKFVYVLILFISIFLVIIVCDSAYLPNSRCCIT----------
+Medsat|crp1520_GJLK01000177.1_0M_1|cluster2999      MAET-------------LKFVYVLIIFISIFLVLIVCDSTYLPFSRSCIT----------
+Medsat|cluster2999_GJLK01009877.1_0M_1              MAKT-------------FKFVYVLILFISIFLVIILCDSAFLPNSRTCIT----------
+Medtr|cluster2999_MtrunA17Chr7_01M_1                MAKT-------------LRFVYVLILFILIFLVIIVCDSAFLPRSRTCIT----------
+Medsat|crp1520_GJLK01003305.1_0M_1|cluster2999      MV-------------ETLKFIYVMILFVSTYLVIIVCDFSNLHVHIPCIT----------
+Medtr|cluster2999_MtrunA17Chr7_01M_2                MAET-------------LKFVYVLILFISIFLVIVVCDSAFLPRSRTCIT----------
+Medtr|crp1520_MtrunA17Chr7_02M_06|cluster2999       MAET-------------LKFVYVLILFISLFLVLLVCDSAF------CIT----------
+Medtr|crp1520_MtrunA17Chr7_01M_08|cluster2999       MAETLNFVYVLLLVISIFLFVYVLILFISIFLVIIVCDSAFLPRSQTCIT----------
+Medsat|crp1520_GJLK01019149.1_0M_1|cluster2999      MAET-------------LKFVSVLILCISLFLVLIVCDSAFFPKSQTCIT----------
+Medsat|crp1520_GJLK01019149.1_0M_3|cluster2999      MAET-------------LKFVYVLILFISLFHVLIMCDSAFFPKSQTCIT----------
+Medtr|crp1520_MtrunA17Chr7_01M_04|cluster2999       MVET-------------PKFVYNLILLIYIFLFIIICDSTYLPTTRICIT----------
+Medsa|MsatMercedes_NRG003266g02172651_NCR           MAES-------------LKFVYVLILFISICNAIIVCDFAFLPTSRNCIT----------
+Medsat|crp1520_GJLK01001914.1_0M_1|cluster2999      MVEI-------------LKLVYVLFLFISIFLLIIVCDSTYLPNSRPCIT----------
+Medsat|crp1520_GJLK01032306.1_0M_2|cluster2999      MAET-------------LKFVYVLILFISIFLVIIVCDSAYLPNSRSCIT----------
+Medtr|MtNCR030                                      MAES-------------PKFVYVLILFISIFNAIIVCDFAFLPTSRNCIT----------
+Medtr|cluster2999_MtrunA17Chr7_02M_1                MAET-------------VKFVYVLILFISIFLIIIVCDSSFLPNSRTCIT----------
+Medtr|crp1520_MtrunA17Chr7_32M_1|cluster2999        -------------MAATRKFIYVLSHFLFLFLVTKITDVH---------KNVSLSFFIAA
+Medsat|cluster2999_GJLK01007560.1_0M_1              MAKT-------------FKFVYVLILFISIFLVIIVCHSAFLPRSRTCIT----------
+                                                                        :  :   :       : .           .          
+
+Medsat|crp1520_GJLK01041904.1_0M_1|cluster2999      -----EKDCPRV--RKYIPRCRKGNCQYST--
+Medsa|MsatMercedes_NRG000133g00551381_NCR           -----DKDCRQV--RNYIARCRKGQCLQSPLR
+Medsat|crp1520_GJLK01009877.1_0M_2|cluster2999      -----DKDCPNG--RNYIGRCRKGQCQQSP--
+Medsat|crp1520_GJLK01079487.1_0M_1|cluster2999      -----DKDCPQV--KNFSARCRKGYCQFRV--
+Medtr|crp1520_MtrunA17Chr7_01M_03|cluster2999       -----DKDCSRV--KNYNARCRKGYCQYLQ--
+Medsat|crp1520_GJLK01033778.1_0M_1|cluster2999      QPCITDKDCPNG--R-----------------
+Medsat|crp1520_GJLK01032306.1_0M_1|cluster2999      -----DKDCAQV--KNYTSGCRKGCCVQRR--
+Medsat|crp1520_GJLK01000177.1_0M_1|cluster2999      -----DKDCPNG--RNYIGRCRKGQCQQSP--
+Medsat|cluster2999_GJLK01009877.1_0M_1              -----DKDCPNG--RNYIGRCRKGQCQQSP--
+Medtr|cluster2999_MtrunA17Chr7_01M_1                -----DKDCLQV--RNYIARCRKGICQQHP--
+Medsat|crp1520_GJLK01003305.1_0M_1|cluster2999      -----DKDCPQV--KNHTLKCRKGYCVH----
+Medtr|cluster2999_MtrunA17Chr7_01M_2                -----DKDCLQV--RNYIARCRKGICQQRP--
+Medtr|crp1520_MtrunA17Chr7_02M_06|cluster2999       -----DKDCSNG--RNYIGRCRKGHCKQSPLR
+Medtr|crp1520_MtrunA17Chr7_01M_08|cluster2999       -----DKDCLQV--RNY---------------
+Medsat|crp1520_GJLK01019149.1_0M_1|cluster2999      -----DKDCPNG--RNYIGRCRKGHCQQRL--
+Medsat|crp1520_GJLK01019149.1_0M_3|cluster2999      -----DKDCPNG--RNYIGRCRKGQCKHYM--
+Medtr|crp1520_MtrunA17Chr7_01M_04|cluster2999       -----DKDCPSV--KNYIGRCRKGYCQASK--
+Medsa|MsatMercedes_NRG003266g02172651_NCR           -----DKDCRQV--RNYIARCRKGQCLQSPVR
+Medsat|crp1520_GJLK01001914.1_0M_1|cluster2999      -----DKDCPQV--RNYIARCRKGHCLQRR--
+Medsat|crp1520_GJLK01032306.1_0M_2|cluster2999      -----DKDCAKV--KNYTSRCRKGRCVLRR--
+Medtr|MtNCR030                                      -----NKDCRQV--RNYIARCRKGQCLQSPVR
+Medtr|cluster2999_MtrunA17Chr7_02M_1                -----DKDCPNG--RNYIGRCRKGQCQQSP--
+Medtr|crp1520_MtrunA17Chr7_32M_1|cluster2999        RVCKSDKDCKDIIIYRYILKCR----------
+Medsat|cluster2999_GJLK01007560.1_0M_1              -----DKDCLQV--RNYIARCRKGICQQRP--
+                                                         :***                       

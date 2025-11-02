@@ -1,0 +1,28 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medtr|MtNCR306                                                           MAEIFKFVYSVILFVSLYLFV---------------------------IYAE---KECDT
+Medsa|MsatMercedes_NRG000534g01296461_NCR                                MAKILKFVYSAILFVFVYLLV---------------------------IYAE---KECDT
+Medtr|cluster29334_MtrunA17Chr4_13M_1                                    MGEILKFVYNVILFGSLYLLV---------------------------IYAE---RECDT
+Medsat|cluster29334_GJLK01028774.1_0M_2                                  MAEILQFVYNAIIFVSLYLLV---------------------------IYAE---RECDT
+Medsat|crp1530_GJLK01065643.1_0M_1|cluster29334                          ---MLKCVYNAILFVSLYLLV---------------------------IYGD---RECDT
+Medsat|crp1530_GJLK01019031.1_0M_1|cluster29334                          ---MLKCVYNAILFVSLYLLV---------------------------IYGD---RECDT
+Medsat|cluster29334_GJLK01059197.1_0M_1                                  MIEIFKFVYAVIFFVSVFLIV---------------------------VYSE---RECIS
+Medtr|crp1430_MtrunA17Chr4_13M_1|cluster29334                            MAEILKFVYNAILFVSLYLLV---------------------------IYGD---RECDT
+Medsa|MsatMercedes_NRG000312g00963711_NCR                                MAKILKFVYSAILFVFVYLLV---------------------------IYAE---KECDT
+TriPr|cluster29334_tripr.MilvusB.gnm2.scaf_271_0M_1                      MAESLKFVYIVILFVSLFISVVLFHSHNFLYLCYTQSFTHFSNIFLFLLYIT---GECVN
+MelOff|crp1530_GJLW01015051.1_0M_1=cluster29334_GJLW01015051.1_0M_1      -MGILKFVNIAILFVFLFIFV---------------------------FDIEQDLEECNT
+                                                                             :: *  .*:*  ::: *                           .       ** .
+
+Medtr|MtNCR306                                                           DADCRKKFAGANQHLLWCNNGYCECHTH-------
+Medsa|MsatMercedes_NRG000534g01296461_NCR                                DVDCQKKFPGANQHLLWCNNGYCECHTHEGYPQQD
+Medtr|cluster29334_MtrunA17Chr4_13M_1                                    DADCQKKFPGSNQHLLWCNNGFCDCRTH-------
+Medsat|cluster29334_GJLK01028774.1_0M_2                                  DADCQKKFSGSNQHLLWCNNGYCECRTH-------
+Medsat|crp1530_GJLK01065643.1_0M_1|cluster29334                          DIECQKKFPGVNAHHLWCDNGNCVSYPK-------
+Medsat|crp1530_GJLK01019031.1_0M_1|cluster29334                          DIECQKKFPGVNAHHLWCDNGNCVILMTKKMKC--
+Medsat|cluster29334_GJLK01059197.1_0M_1                                  DAVCYEKYPGPFNFIMNCVDGYCKAFPNYY-----
+Medtr|crp1430_MtrunA17Chr4_13M_1|cluster29334                            DTECQKKFPGVNAHHLWCDNGNCVSYPK-------
+Medsa|MsatMercedes_NRG000312g00963711_NCR                                DVDCQKKFPGANQHLLWCNNGYCECHTHEGYPQQD
+TriPr|cluster29334_tripr.MilvusB.gnm2.scaf_271_0M_1                      HSDCYKLYPSVTT-KMMCNNGHCECQMPT------
+MelOff|crp1530_GJLW01015051.1_0M_1=cluster29334_GJLW01015051.1_0M_1      DADCREKYPGPYQHLLECINGYCVSYTG-------
+                                                                         .  * : : .     : * :* *            

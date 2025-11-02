@@ -1,0 +1,24 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG000016g00126801_NCR                                MQMAENMTKAFKSTYVIIIFLSLFFLSMNIDA---AKCYQDSDCPKDMCSFL-SIPKCNF
+Medsa|MsatMercedes_NRG000082g00390111_NCR                                MQMAENMTKAFKSTYVIIIFLSLFFLSMNIDA---AKCYQDSDCPKDMCSFL-SIPKCNF
+Medtr|MtNCR645                                                           MQMVENM-----TTYVIIIFLSLFFLSMNID----AKCYQDSDCPKDMCSFL-FKPKCIF
+Medtr|crp1210_MtrunA17Chr4_28M_1|cluster16376                            ------MVKVFKFTYLMIIFFSLFLVAMNVDA--VIECNQHSDCPKDMCQFH-LKPNCIL
+TriPr|crp1130_tripr.MilvusB.gnm2.Tp7_17M_1|cluster16376                  ------MAEAIKFVYVMIIFFSLFLVAMNVDGAAFIMCTQDSDCPKDMCSSLSMNPKCHM
+TriPr|crp1210_tripr.MilvusB.gnm2.scaf_529_0M_1|cluster16376              ------MVEAIKFVYVMIIFFSLFLVAMNVDGAAFIMCTQDSDCPKDMCSSLSMNPKCHX
+MelOff|crp1190_GJLW01026466.1_0M_1=cluster16376_GJLW01026466.1_0M_1      ------MQENIKFVYFMIIFLSLFLVTMNFYV---LTCTQDSDCPKDMCSFV-LKPKCNF
+MelOff|crp1210_GJLW01020266.1_0M_1|cluster16376                          ------MVKVVKFVYLMVIFLSLFLVAMNVDA--TFECNQLSDCPKDMCSFV-LKPKCNF
+MelOff|crp1190_GJLW01007389.1_0M_1|cluster16376                          ------MVEAFKSVYVMIIFLSLFFLYMNIDA---AKCYQDSDCPKDMCSFV-LKPKCNF
+                                                                               *      .*.::**:***:: **.       * * ********.     *:*  
+
+Medsa|MsatMercedes_NRG000016g00126801_NCR                                -----TRYFPIFLGGICGCD-------------------------
+Medsa|MsatMercedes_NRG000082g00390111_NCR                                -----TRYFPIFLGGICGCD-------------------------
+Medtr|MtNCR645                                                           -----TRYFPIYLGGICGCDRKTCP--------------------
+Medtr|crp1210_MtrunA17Chr4_28M_1|cluster16376                            MKVRLSNFFPNFYDGICGCD-------------------------
+TriPr|crp1130_tripr.MilvusB.gnm2.Tp7_17M_1|cluster16376                  FEE--DDYF---PDPLCICARVMP--------LFPSP--------
+TriPr|crp1210_tripr.MilvusB.gnm2.scaf_529_0M_1|cluster16376              XXX--XXXX---XXXXXXXXXXXXXXXXXXXXXFKKKKKKGLQLM
+MelOff|crp1190_GJLW01026466.1_0M_1=cluster16376_GJLW01026466.1_0M_1      -----TKYLPIFLGGICGCD-------------------------
+MelOff|crp1210_GJLW01020266.1_0M_1|cluster16376                          -----TKYLPIFLGGICGCD-------------------------
+MelOff|crp1190_GJLW01007389.1_0M_1|cluster16376                          -----TKYLPIFLGGICGCD-------------------------
+                                                                                                                      

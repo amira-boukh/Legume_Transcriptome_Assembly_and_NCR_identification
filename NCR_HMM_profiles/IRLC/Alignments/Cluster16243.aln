@@ -1,0 +1,12 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medtr|NCR225|MtrunA17Chr7g0214021			      MVGTLKFLRVHISFLTILLMIIICAFYFIPDSGPCVTNKDCEQEIGYIVKCDTNTGFCVK
+Medsat|cluster16243_GJLK01004044.1_0M_1                     MVGTLKFLHVLISFLTIFLVIIICAFYYIPDSGPCTTDKDCQQEIGYIVKCDTNTGFCVK
+Medtr|MtNCR225                                              MVGTLKFLRVLISFLTIFLMIIICAFYFIPDSGPCVTDKDCEQEIGYIVKCDTNTGFCVK
+                                                            ********:* ******:*:*******:*******.*:***:******************
+
+Medtr|NCR225|MtrunA17Chr7g0214021			      ILQRS
+Medsat|cluster16243_GJLK01004044.1_0M_1                     -----
+Medtr|MtNCR225                                              ILQRS
+                                                                 

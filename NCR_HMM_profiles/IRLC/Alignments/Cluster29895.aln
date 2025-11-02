@@ -1,0 +1,26 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medtr|cluster29895_MtrunA17Chr3_35M_2                                    MTEIAKFIFAMVIFLKLFLVATNND-------------------------DDSCNYDYHC
+Medsa|MsatMercedes_NRG000474g01216361_NCR                                MTEIVKFVYAMIIFLKLFLVATNND-------------------------DDSCYNDYHC
+Medtr|MtNCR-new26                                                        MTEIVKFVYAMIIFFKLFLVATNND-------------------------DDSCYNDYHC
+Medsat|cluster29895_GJLK01023866.1_0M_1                                  MTEIVKFVYAMIIFLKLFLVATNNDSL---------LYSYIILFTLFITTDDSCYNDYHC
+Medtr|cluster29895_MtrunA17Chr3_34M_1                                    MAEIVKFVYLMIIFLSTFLVSTKILEKHK-----------CVTDGVEILEKGKCFTDWEC
+MelOff|cluster29895_GJLW01007790.1_0M_1                                  MVELVKFVFAMIIFLSLFLVSTNIVVDYK------------------------CKTIADC
+MelOff|crp1320_GJLW01054665.1_0M_1|cluster29895                          MAKIIKFVYVMIIFLNLFFK---------------------------------CNTVFDC
+MelOff|crp1320_GJLW01038184.1_0M_1=cluster29895_GJLW01038184.1_0M_1      MAKIVKFVYLMVIFLSLFLVSTKILEKHQ-----------CITDSIKIPENDQCYHEWDC
+MelOff|cluster29895_GJLW01005468.1_0M_1                                  MTEIVNFVYLMIIFLSLFLVSTKVLEKHQ-----------CITDLTEILEKELCKSDWDC
+MelOff|crp1240_GJLW01021518.1_0M_1|cluster29895                          MAEIVKFVYIMIVLYL-FLLSTNIDDKIFFYPFQILFTFYIILFSFLITTGNRCYNEYHC
+                                                                         *.:: :*:: *:::   *:                                  *    .*
+
+Medtr|cluster29895_MtrunA17Chr3_35M_2                                    IYKSWLCPFGLVVRCITHHCKCIKI-------------
+Medsa|MsatMercedes_NRG000474g01216361_NCR                                INKSWLCPTGLVVRCITRQCKCITILNPIDFMST----
+Medtr|MtNCR-new26                                                        INKSWLCPSGLVVRCITRQCKCITILNPIDFVST----
+Medsat|cluster29895_GJLK01023866.1_0M_1                                  INKSWLCPT-----------------------------
+Medtr|cluster29895_MtrunA17Chr3_34M_1                                    VRNSWLCPVDL---------------------------
+MelOff|cluster29895_GJLW01007790.1_0M_1                                  PRMSWWCPPGYVLTCVMEECVCIGFPYQLHLGPA----
+MelOff|crp1320_GJLW01054665.1_0M_1|cluster29895                          IRMNKYCPSDLELDCIKRKCTCR---------------
+MelOff|crp1320_GJLW01038184.1_0M_1=cluster29895_GJLW01038184.1_0M_1      IIKSFVCPTGLVVRCLKNICKCINILKPKDFVPT----
+MelOff|cluster29895_GJLW01005468.1_0M_1                                  IRKSFVCPPGLVVKCIKKICKCINILQPKDFVPT----
+MelOff|crp1240_GJLW01021518.1_0M_1|cluster29895                          TKNLWKCSTGLEVRCIMREYKCITILDTVNFVPTSVCI
+                                                                               *                               

@@ -1,0 +1,18 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Ps|Psat2g122960.1_NCR                                MQLQIREYIAQILMSFFAFIIFFFLFFVVTNSDPK--IPCIKDDDCPKVEF-PRYILCIN
+Medsat|crp1430_GJLK01000622.1_0M_1|cluster32048      --------MAQILISVYAFIIFFSLFVFFTN--GA--IPCGTHDDCPKTT----TYMCFN
+Ps|Psat2g122960.3_NCR                                MQLQIREYIAQILMSFFAFIIFFFLFFVVTNSDPK--IPCIKDDDCPKVEF-PRYILCIN
+Ps|Psat2g122960.2_NCR                                MQLQIREYIAQILMSFFAFIIFFFLFFVVTNSDPK--IPCIKDDDCPK------------
+TriPr|cluster32048_tripr.MilvusB.gnm2.Tp3_22M_1      ----MRNNITKISMSEYAMMIFIFLFFVVTNVNAGRRFICFANFICEPLCLPPLKGKCIN
+MelOff|crp1430_GJLW01009608.1_0M_1|cluster32048      --------MVQTSLFVYALIIFLSLFLVVTNG-VD--IPCISDEDCPILGF-PMYSLCIN
+                                                             :.:  :  :*::**: **...**      : *  .  *              
+
+Ps|Psat2g122960.1_NCR                                KFCENMPLAPVMTPLVENDVVGR
+Medsat|crp1430_GJLK01000622.1_0M_1|cluster32048      KICVLLR----------------
+Ps|Psat2g122960.3_NCR                                KFCEVLSQGKI------------
+Ps|Psat2g122960.2_NCR                                ----NMPLAPVMTPLVENDVVGR
+TriPr|cluster32048_tripr.MilvusB.gnm2.Tp3_22M_1      SACTCQTYD--------------
+MelOff|crp1430_GJLW01009608.1_0M_1|cluster32048      ELCLLFFY---------------
+                                                                            

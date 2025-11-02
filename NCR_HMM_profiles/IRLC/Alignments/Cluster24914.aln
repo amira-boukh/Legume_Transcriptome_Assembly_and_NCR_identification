@@ -1,0 +1,36 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|cluster24914_GJLK01043380.1_0M_1                                  -------------------------MAQIFNYVYVLLVFLSLFLMETNGRQ--FG-NCIQ
+Medsat|cluster24914_GJLK01008742.1_0M_1                                  -------------------------------------MFLSLFLIITNGMI--YS--CER
+Medsat|cluster24914_GJLK01036726.1_0M_1                                  -------------------------MAQVFNYVYALLVFLSLFLMETNGRH--IG--CDQ
+Ps|PsNCR294                                                              -------------------------MTQILSLFYALIIFISLFIIVTNGKY--II--CKN
+Medsat|cluster24914_GJLK01059445.1_0M_1                                  -------------------------MAQIPYYVYALIMFLSLFIMVTNGNYQLVTLAFKS
+Medsat|cluster24914_GJLK01020697.1_0M_1                                  -------------------------------------MFLSLFLMVTNGMH--IG--CDQ
+Medsat|cluster24914_GJLK01044863.1_0M_1                                  -------------------------MAQIESYVYALIIYFSLFLMVTNGMI--VS--CEH
+Medsat|cluster24914_GJLK01006433.1_0M_1                                  -------------------------MNHISKFVYALIIFLSIYLVVLDGLP--IS--CKD
+Medsat|cluster24914_GJLK01040374.1_0M_1                                  -------------------------MAQIFNYVYVLLVFLSLFLMETNGRH--IGFGCDQ
+Medtr|MtNCR176                                                           -------------------------MAHIFNYVYALLVFLSLFLMVTNGIH--IG--CDK
+TriPr|cluster24914_tripr.MilvusB.gnm2.Tp7_23M_1                          MGRVFLLRVRKLVSCDIFLGWAEKNMTRYSKCFYALILFISLFLVVTNCVEITDYTPCKK
+MelOff|crp1160_GJLW01056854.1_0M_1=cluster24914_GJLW01056854.1_0M_1      -------------------------MAQILNNVYALIMFFFLFLMVTNGVH--VG--CED
+MelOff|cluster24914_GJLW01001659.1_0M_1                                  -------------------------MAQILNYVYALIIFLSLFLMVTNGMH--IG--CEH
+MelOff|crp1160_GJLW01023069.1_0M_1=cluster24914_GJLW01023069.1_0M_1      -------------------------MAQISNYVYALIMFMSLFFMVTNANYEYVTIVCKT
+MelOff|crp1160_GJLW01023069.1_0M_2=cluster24914_GJLW01023069.1_0M_2      -------------------------MAQILNYVYALIMFMSLFFMVTNANYEYVTIVCKT
+                                                                                                              ::: ::::  :            
+
+Medsat|cluster24914_GJLK01043380.1_0M_1                                  DRDCPMHMC-GFVQ----------TPKCLKNFCECV-----
+Medsat|cluster24914_GJLK01008742.1_0M_1                                  DRHCPQQMCNNVFYFNNNPLIVFHRPKCLKSVCKRAFIAPK
+Medsat|cluster24914_GJLK01036726.1_0M_1                                  DRDCPKQMC-GLKQ----------TPKCLKHVCKCV-----
+Ps|PsNCR294                                                              HFECPRSMCYPFL-----------TPKCVRETCKCI-----
+Medsat|cluster24914_GJLK01059445.1_0M_1                                  SSVVPCNLRNR-------------WQNCLVRLRFMRFI---
+Medsat|cluster24914_GJLK01020697.1_0M_1                                  DRDCPKQMC-HLNQ----------KPKCLKHICKCV-----
+Medsat|cluster24914_GJLK01044863.1_0M_1                                  GRDCPRQMCPEAYFFDNK----CHTPNFDQKSC--------
+Medsat|cluster24914_GJLK01006433.1_0M_1                                  HFECRRKINILGCIYR------QEKPLCINSICTC------
+Medsat|cluster24914_GJLK01040374.1_0M_1                                  DRDCPEHMFCLDYQ----------KPKCLKHICDCGE----
+Medtr|MtNCR176                                                           DRDCPKQMC-HLNQ----------TPKCLKNICKCV-----
+TriPr|cluster24914_tripr.MilvusB.gnm2.Tp7_23M_1                          NYDCPRNLCVPYI-----------IPKCIAGVCICI-----
+MelOff|crp1160_GJLW01056854.1_0M_1=cluster24914_GJLW01056854.1_0M_1      DNDCPRQMC-PLSR----------IPKCLKHICKCV-----
+MelOff|cluster24914_GJLW01001659.1_0M_1                                  DRDCPPQMC-SLTQ----------TPKCLKNVCKCV-----
+MelOff|crp1160_GJLW01023069.1_0M_1=cluster24914_GJLW01023069.1_0M_1      NGNCPRHMCL-VSQ----------TPICVRGTCECR-----
+MelOff|crp1160_GJLW01023069.1_0M_2=cluster24914_GJLW01023069.1_0M_2      NGNCPRHMCL-VSQ----------TPICVRGTCECR-----
+                                                                                :                                 

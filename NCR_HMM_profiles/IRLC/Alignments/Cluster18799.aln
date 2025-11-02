@@ -1,0 +1,18 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medtr|MtNCR568                                                                                            MENTMFVIWKREEKNMYEILKYVYVMLIMIFIFLVACNAEAG----------------ER
+Medsat|cluster18799_GJLK01002887.1_0M_2                                                                   ---------------MYEILKYVYVMLIMIFIFLVVCNAEAG----------------ER
+Ps|PsNCR201                                                                                               ---------------MTNILKYAHAMTIIIFLFFVLSSVNAG------------------
+TriPr|cluster18799_tripr.MilvusB.gnm2.scaf_1053_0M_1                                                      ---------------MTKILKYVYAMNVFIYLFFVLSDANSG------------------
+MelOff|crp1130_GJLW01052781.1_0M_1=cluster18799_GJLW01043373.1_0M_1=cluster18799_GJLW01052781.1_0M_1      ---------------MHEILKYVYVMFILIFIFLVVSDVRAVQHTTT-----LIDEFYTK
+MelOff|crp1160_GJLW01030677.1_0M_1|cluster18799                                                           ---------------MAEFLKIVNSMKIFIFSFLVVTPQFLKANGEVLNPRSKILFQKKK
+                                                                                                                         * ::** .  * ::*: *:*                         
+
+Medtr|MtNCR568                                                                                            EEITPCNTDFNCPSSLCTFPLKLLKPICTNHQCICQHI-------
+Medsat|cluster18799_GJLK01002887.1_0M_2                                                                   EEIIPCNTDFNCPSSLCTIPLKLLKPICTNH--------------
+Ps|PsNCR201                                                                                               -YSEPCIGDNNCPDSVCVP---SMIAVCSNHMCFCLHSKKVKNSR
+TriPr|cluster18799_tripr.MilvusB.gnm2.scaf_1053_0M_1                                                      -SSVPCIGDKNCPDSLCFP---LMIAICSNHMCFCI---------
+MelOff|crp1130_GJLW01052781.1_0M_1=cluster18799_GJLW01043373.1_0M_1=cluster18799_GJLW01052781.1_0M_1      GETLPCNTDFNCPNSLCLYPLR-FKPICTNHQCICKHI-------
+MelOff|crp1160_GJLW01030677.1_0M_1|cluster18799                                                           KKKKRCKGDSDCKEEICFPPFL-SSPKCNGHACICTHYFEMLL--
+                                                                                                               *  * :* ..:*          *..*              

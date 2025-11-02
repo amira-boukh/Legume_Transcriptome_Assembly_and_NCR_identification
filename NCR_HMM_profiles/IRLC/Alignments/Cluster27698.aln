@@ -1,0 +1,22 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|cluster27698_GJLK01055252.1_0M_1                                  ------MAEILKIIYVFIILLSLILVVTS-QDS--SCATKAECKCPKNKRPACLW-----
+Medsa|MsatMercedes_NRG000628g01414661_NCR                                ------MAEILKIVYVFIILLSLILAVTS-EHTFAPCETKADCKCEGFKRPDCLW-----
+Medtr|MtNCR221                                                           ------MAEILKILYVFIIFLSLILAVIS-QHPFTPCETNADCKCRNHKRPDCLW-----
+Medsa|MsatMercedes_NRG000343g01018821_NCR                                ------MAEILKIVYVFIILLSLILAVTS-EHTFAPCETKADCKCEGFKRPDCLW-----
+Medsat|crp1190_GJLK01001055.1_0M_1|cluster27698                          ------MAEILKIVYVLIILLPLILAVTS-EHTFAPCETKADCKCEGFLRIKDQIVFGIN
+Medsat|cluster27698_GJLK01017082.1_0M_1                                  MLFGTFSIFLSKIMYAFIILISLIMVVTSYKHGSLPCATNHDCVCPTNTHPYCLI-----
+Medtr|cluster27698_MtrunA17Chr2_42M_1                                    ------MAEILKIVYFFIILLSLILVVTS-QYS--SCATKEECKCPDNKRPACLW-----
+MelOff|crp1310_GJLW01009758.1_0M_1=cluster27698_GJLW01009758.1_0M_1      ------MAEILKIIYAFTILLSLILVVTS-KHSKLPCVTKEDCKCPSNTNSACLW-----
+                                                                                  : **:* : *:: **:.* * :     * *: :* *    .          
+
+Medsat|cluster27698_GJLK01055252.1_0M_1                                  ---KQCYCY
+Medsa|MsatMercedes_NRG000628g01414661_NCR                                ---NKCYCY
+Medtr|MtNCR221                                                           ---HKCYCY
+Medsa|MsatMercedes_NRG000343g01018821_NCR                                ---HKCYCY
+Medsat|crp1190_GJLK01001055.1_0M_1|cluster27698                          VIAIKCN--
+Medsat|cluster27698_GJLK01017082.1_0M_1                                  ---EKGYC-
+Medtr|cluster27698_MtrunA17Chr2_42M_1                                    ---KQCYCY
+MelOff|crp1310_GJLW01009758.1_0M_1=cluster27698_GJLW01009758.1_0M_1      ---KQCYCH
+                                                                             :    

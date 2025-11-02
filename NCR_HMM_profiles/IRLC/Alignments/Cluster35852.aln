@@ -1,0 +1,24 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG000038g00229611_NCR                                --------MKREKNMTKILKFIYATL-VLF----------LFLVATK--A--S----DDE
+Medsa|MsatMercedes_NRG000090g00415231_NCR                                --------MKREKNMTKILKFIYATL-VLF----------LFLVATK--A--N----DDE
+Medtr|MtNCR090                                                           --------MKRGKNMSKILKFIYATL-VLY----------LFLVVTK--A--S----DDE
+Ps|crp1430_chr2LG1_144M_3|cluster35852                                   --------------MARLFKFVYVMNLLLF----------LSFVVVKGDGDGE----NYK
+TriPr|cluster35852_tripr.MilvusB.gnm2.scaf_22707_0M_1                    MIYHLLQIKARRKTMVQMFKFAYVTVFVLY----------LFLVVTKINSHDDDHDHPHP
+TriPr|crp1430_tripr.MilvusB.gnm2.scaf_519_0M_1|cluster35852              --------------MAKTLKFVYAIILFLF----------LFFVATE--AGTE----LVE
+MelOff|crp1410_GJLW01041918.1_0M_1=cluster35852_GJLW01041918.1_0M_1      --------------MAKIFKLSFAIILVLY----------LFLVAIK--VDGE----DTI
+MelOff|cluster35852_GJLW01015440.1_0M_1                                  --------------MAKPLKFSFMLCCYLFPYLFFFERLSLFFFVEEVYAN------GDR
+MelOff|crp1410_GJLW01014599.1_0M_1=cluster35852_GJLW01014599.1_0M_1      --------------MTEILKFVFAIILVLS----------LILVATK--VDSE----DIK
+                                                                                       * . :*: :     *           * :.. :             
+
+Medsa|MsatMercedes_NRG000038g00229611_NCR                                CKIDGDCPIS---WHKFHTYKCINQKCKWVLRFHEY------
+Medsa|MsatMercedes_NRG000090g00415231_NCR                                CKIDGDCPIS---WHKFHTYKCINQKCKWVLRFHEY------
+Medtr|MtNCR090                                                           CKIDGDCPIS---WQKFHTYKCINQKCKWVLRFHEY------
+Ps|crp1430_chr2LG1_144M_3|cluster35852                                   CKGDGDCPHS---WHKLYLYKCIALKCIKVKNWF--------
+TriPr|cluster35852_tripr.MilvusB.gnm2.scaf_22707_0M_1                    CILDSDCNHI---CPRSKIPVCVYKICFCHIPK---------
+TriPr|crp1430_tripr.MilvusB.gnm2.scaf_519_0M_1|cluster35852              CEKDSDCPIS---WHEFFHNKCYLNKCKWVFRFP--------
+MelOff|crp1410_GJLW01041918.1_0M_1=cluster35852_GJLW01041918.1_0M_1      CEIDADCPTS---WHEYFTFKCFDHKCKWVFRF---------
+MelOff|cluster35852_GJLW01015440.1_0M_1                                  CISKADCRIKPSTSYTFYTYLCIENRCRCFIPMWRSAIKPSY
+MelOff|crp1410_GJLW01014599.1_0M_1=cluster35852_GJLW01014599.1_0M_1      CKTDADCPPS---GHEFFIFKCFNKKCKWDFRF---------
+                                                                         *  ..**              *    *               

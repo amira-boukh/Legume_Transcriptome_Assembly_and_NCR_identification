@@ -1,0 +1,32 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medtr|crp1180_MtrunA17Chr7_09M_2|cluster29088                            ----MARILYFFYTLLIFVSLFMIAINGS-----LP--DAPPCLFTPECPPDMCPTDLTL
+Medsat|crp1180_GJLK01006411.1_0M_1|cluster29088                          ----MARILNFFYALLIFVSLFLVTTKGSEAFQTIPNKDAPPCLFTPECPPDLCPADLTL
+Medsat|cluster29088_GJLK01043826.1_0M_1                                  ----MARILFIFYALIIFISLFLMATNQS-----VP--EVLPCLFSPECPTDMCPTDLTP
+Medsat|cluster29088_GJLK01040153.1_0M_1                                  ----MARILFMFFALIIFVSLFLVATNQS-----IP--DTIPCLFTPECPTDLCATDLTP
+Ps|PsNCR22                                                               ----MARILC-SFALIMFVFLFLVVFINN--------IAAIPCLLSNDCPGDLCLPHLTP
+Medtr|MtNCR158                                                           ----MARILSFFYALLIFVSLFLVTTNGS-----LP--DAPPCLFTPECPPDMCPTDLTL
+TriPr|crp1190_tripr.MilvusB.gnm2.scaf_34595_0M_1|cluster29088            ----MAQILKICSIMIIIFLIFIIETDGD-------ITEKPPCRRTKDCPRDLCLPPFTV
+MelOff|crp1180_GJLW01005825.1_0M_2=cluster29088_GJLW01005825.1_0M_2      ----MARILSFFYALLIFVSLFLVTTNGS-----IPKKDAPPCLFTPECPPDLCPADLTL
+MelOff|cluster29088_GJLW01015639.1_0M_1                                  ----------MFFALIIFVSLFLVATNQS-----IP--DTIPCLFTPECPTDLCATDLTP
+MelOff|cluster29088_GJLW01000391.1_0M_1                                  MPGRYLGLLTIWFK-----V----------QFLAGAIPDVIPCLFSTECPTDLCPTDLTP
+MelOff|crp1180_GJLW01015639.1_0M_2=cluster29088_GJLW01015639.1_0M_2      ----MARILFMFFALIIFVSLFLVATNQS-----IP--DTIPCLFTPECPTDLCATDLTP
+MelOff|crp1180_GJLW01015639.1_0M_1|cluster29088                          ----MARILFMFFALIIFVSLFLVATNQS-----IP--DTIPCLFTPECPTDLCATDLTP
+MelOff|crp1180_GJLW01005825.1_0M_1=cluster29088_GJLW01005825.1_0M_1      ----MARILSFFYALLIFVSLFLVTTNGS-----IPKKDAPPCLFTPECPPDLCPADLTL
+                                                                                                                  **  : :** *:*   :* 
+
+Medtr|crp1180_MtrunA17Chr7_09M_2|cluster29088                            KCINLTCQCTS-----------
+Medsat|crp1180_GJLK01006411.1_0M_1|cluster29088                          KCIN------------------
+Medsat|cluster29088_GJLK01043826.1_0M_1                                  KCINLTCQCSA-----------
+Medsat|cluster29088_GJLK01040153.1_0M_1                                  KCINLACKCIS-----------
+Ps|PsNCR22                                                               KCINLFCQCYLEVDD-------
+Medtr|MtNCR158                                                           KCINLSCQCTIEYDIDPDVVPS
+TriPr|crp1190_tripr.MilvusB.gnm2.scaf_34595_0M_1|cluster29088            KCIKFYCRCSFI----------
+MelOff|crp1180_GJLW01005825.1_0M_2=cluster29088_GJLW01005825.1_0M_2      KCINLTCQCTSEYDID------
+MelOff|cluster29088_GJLW01015639.1_0M_1                                  KCINLACKCISEYDFD------
+MelOff|cluster29088_GJLW01000391.1_0M_1                                  KCINLTCQCSFEYDYYWD----
+MelOff|crp1180_GJLW01015639.1_0M_2=cluster29088_GJLW01015639.1_0M_2      KCINLTCQCSFEYDYYWD----
+MelOff|crp1180_GJLW01015639.1_0M_1|cluster29088                          KCINLACKCISEYDFD------
+MelOff|crp1180_GJLW01005825.1_0M_1=cluster29088_GJLW01005825.1_0M_1      KCINLTCQCTTEYDID------
+                                                                         ***:                  

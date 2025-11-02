@@ -1,0 +1,26 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|cluster42871_GJLK01028012.1_0M_1                                                                                              ------MTKTIMFVYIM-ILFIFPFYVVSE-FVSFHICKFDINCPWQSCSPGNIPACIFG
+Ps|PsNCR118                                                                                                                          --MKKNITKIIKFACIIMILFLSPILVVA-ELAPFHLCKGDMDCPWQNCSPGKVAVCIYR
+Medtr|MtNCR736                                                                                                                       --MMKNMTKAIKFVYIM-ILFLPPILVGAGE-IPYHQCKFDMECMLMKCVPGKVNVCSLG
+Ps|cluster42871_scaffold02263_0M_1                                                                                                   MPMSKNMVKVFKFVCVM-ILFSFPIFVLAN--AFFTSCETDVDCVNHKCTLPETSMCLIN
+TriPr|cluster42871_tripr.MilvusB.gnm2.Tp2_03M_1                                                                                      ------MNKILKFVYTI-ILFVSLFLAIV---KVGGKCIFDMHCAHILCNPEQHKVCILG
+TriPr|crp1190_tripr.MilvusB.gnm2.Tp7_21M_1|cluster42871                                                                              ------MTKIIKLFSIM-IIFLFPIHVVFESINPYQHCKVDVDCPGQKCSPSNVPVCIFG
+MelOff|crp1300_GJLW01018511.1_0M_1=crp1300_GJLW01018511.1_0M_2=cluster42871_GJLW01018511.1_0M_1=cluster42871_GJLW01018511.1_0M_      --MKKKNSNIIKFVYIITILLLSPILVGAGEVIPFHECEFDMDCMLKKCFPGQVKVCNLG
+MelOff|crp1300_GJLW01011345.1_0M_1=cluster42871_GJLW01011345.1_0M_1                                                                  --MKKKNSNIIKFVYIITILLLSPILVGAGEVIPFHECEFDMDCMLKKCFPGQVKVCNLG
+MelOff|crp1190_GJLW01004919.1_0M_1|cluster42871                                                                                      ------MTKIIMFVYIM-ILFIFPFHVVSE-FVSFDICKFDIDCPWQSCSPGNIPACIFG
+MelOff|crp1190_GJLW01003405.1_0M_1|cluster42871                                                                                      ------MTKIIMFVYIM-ILFIFPFHVVSE-FVSFDICKFDIDCPWQSCSPGNIPACIFG
+                                                                                                                                             : : :   : *::   : .          *  *:.*    *   :   *   
+
+Medsat|cluster42871_GJLK01028012.1_0M_1                                                                                              VCYCVQS---------
+Ps|PsNCR118                                                                                                                          LCYCNNSYFPDDR---
+Medtr|MtNCR736                                                                                                                       RCYCVNSFFPHGRKN-
+Ps|cluster42871_scaffold02263_0M_1                                                                                                   LCLCAFNMTSNSRQIF
+TriPr|cluster42871_tripr.MilvusB.gnm2.Tp2_03M_1                                                                                      KCYCIN----------
+TriPr|crp1190_tripr.MilvusB.gnm2.Tp7_21M_1|cluster42871                                                                              FCYCVAPSILK-----
+MelOff|crp1300_GJLW01018511.1_0M_1=crp1300_GJLW01018511.1_0M_2=cluster42871_GJLW01018511.1_0M_1=cluster42871_GJLW01018511.1_0M_      RCCCSDS---------
+MelOff|crp1300_GJLW01011345.1_0M_1=cluster42871_GJLW01011345.1_0M_1                                                                  RCCCSDSYFPHGRKN-
+MelOff|crp1190_GJLW01004919.1_0M_1|cluster42871                                                                                      ICYCVKS---------
+MelOff|crp1190_GJLW01003405.1_0M_1|cluster42871                                                                                      ICYCVKSYASGRFC--
+                                                                                                                                      * *            

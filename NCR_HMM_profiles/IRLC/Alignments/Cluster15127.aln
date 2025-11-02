@@ -1,0 +1,77 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medtr|crp1450_MtrunA17Chr4_19M_1|cluster15127                            --------------------MVQTPFFIYAFIIFLSLFPYVING----------------
+Medtr|MtNCR062                                                           --------------MQRRKNMAQILLFAYVFIISISLFLVVTN-G---------------
+Medsat|crp1450_GJLK01006271.1_0M_1|cluster15127                          --------------------MVQAHLFLYALIIFPSLFPYVING----------------
+Medsa|MsatMercedes_NRG001345g01941381_NCR_NCR                            --------------MQRRKNMAQILLFAYVFIIYISLFLVVTN-G---------------
+Medsat|crp1450_GJLK01024528.1_0M_1|cluster15127                          --------------------MAQILLFAYVFIISISLFLVVTN-G---------------
+Medsa|MsatMercedes_NRG182450g02690511_NCR_NCR                            --------------MQRRKNMAQILLFAYVFIIYISLFLVVTN-G---------------
+TriPr|crp1510_tripr.MilvusB.gnm2.Tp7_17M_1|cluster15127                  --------------------MDRIPMLVFAFIIFLSLFLVVTH-G---------------
+TriPr|cluster15127_tripr.MilvusB.gnm2.scaf_26659_0M_1                    --------------------MANI----FTILIILSLFLVVTNGH---------------
+TriPr|cluster15127_tripr.MilvusB.gnm2.scaf_732_0M_1                      --------------MQSRKNMTRI----FTFLVIFSLLLVVTKGR---------------
+TriPr|cluster15127_tripr.MilvusB.gnm2.scaf_732_0M_2                      --------------------MAQI----FTLLIIILLFLVVTNGY---------------
+MelOff|crp1430_GJLW01047555.1_0M_1|cluster15127                          --------------------MAQFLLFTYALIIFLSIFFVVTNSA--A------------
+MelOff|crp1190_GJLW01000631.1_0M_1|cluster15127                          --------------------MARIPLFVYALIIFLSLFFVVTNGGISF------------
+MelOff|crp1450_GJLW01014775.1_0M_1|cluster15127                          --------------------MAQTPLLVYTLTVFLSLFLVVTN-G---------------
+MelOff|crp1190_GJLW01016815.1_0M_1=cluster15127_GJLW01016815.1_0M_1      --------------------MIQMYLFVYIFIIFLSLFVAVTN-----------------
+MelOff|crp1190_GJLW01020943.1_0M_2|cluster15127                          --------------------MVQTPLFVYALIIFLSLFIVVTNG----------------
+MelOff|cluster15127_GJLW01009608.1_0M_1                                  ------------MFISLPHIIDHLILVNISNKIFLALFLVVTNG----------------
+MelOff|crp1470_GJLW01023135.1_0M_1|cluster15127                          --------------------MAKFLFFIYALIIFLSIFFVVTNSV--E------------
+MelOff|crp1450_GJLW01050046.1_0M_1|cluster15127                          -------------------------MFVFALIVFLSLFLVETSKQ---------------
+MelOff|cluster15127_GJLW01008566.1_0M_1                                  --------------MQRRKNMAQVLMYVYVCIIFISQILVVTN-----------------
+MelOff|cluster15127_GJLW01014775.1_0M_1                                  --------------MQRREKMAQTPLLVYTLTVFLSLFLVVTN-G---------------
+MelOff|crp1430_GJLW01020363.1_0M_1=cluster15127_GJLW01020363.1_0M_1      --------------------MTQILLFVHSLIFFLSLFLVVTNSV--E------------
+MelOff|cluster15127_GJLW01047555.1_0M_1                                  --------------MQRMKNMAQFLLFTYALIIFLSIFFVVTNSA--A------------
+LupAl|cluster15127_lupal.Amiga.gnm1.Lalb_Chr17_11M_1                     MRFIDIIKQSNQFWFFRERNMAKIMKFFYPFFLLLSLFLVQTNGVLSKQFFIVQKFLIYL
+                                                                                                         .    :                      
+
+Medtr|crp1450_MtrunA17Chr4_19M_1|cluster15127                            -------------------VDIPCIVDDDCPI-LFFP-RYSMCIDGLCLLFFLY------
+Medtr|MtNCR062                                                           -------------------VKIPCVKDTDCPT-LPCP-LYSKCVDGFFLR----------
+Medsat|crp1450_GJLK01006271.1_0M_1|cluster15127                          -------------------VDIPCIVDDDCPI-LFFP-IYSMCIDGLCLLFFLY------
+Medsa|MsatMercedes_NRG001345g01941381_NCR_NCR                            -------------------VKIPCVKDTDCPT-LPCP-LYSKCVDGFCKMLSMC------
+Medsat|crp1450_GJLK01024528.1_0M_1|cluster15127                          -------------------AKIPCVKDTDCPA-LPCP-LYSKCVDGFCKMLSMC------
+Medsa|MsatMercedes_NRG182450g02690511_NCR_NCR                            -------------------VKIPCVKDTDCPT-LPCP-LYSKCVDGFCKMLSMC------
+TriPr|crp1510_tripr.MilvusB.gnm2.Tp7_17M_1|cluster15127                  -------------------EKIPCVLDSDCPY-LKYP-LYNKCIDNFCKLFFY-------
+TriPr|cluster15127_tripr.MilvusB.gnm2.scaf_26659_0M_1                    ----------------------ECKRPGDCPTTMCIFPMIAICKNLLCQCTPLLDST---
+TriPr|cluster15127_tripr.MilvusB.gnm2.scaf_732_0M_1                      ---------------------WKCQGDGDCPINICDPPMVAKCIGNICDCDYAKKYRLI-
+TriPr|cluster15127_tripr.MilvusB.gnm2.scaf_732_0M_2                      ---------------------ESCNTVRDCPIDICPFTTVMKCVRSICQCYYDRFKGLDL
+MelOff|crp1430_GJLW01047555.1_0M_1|cluster15127                          ------------------APKIPCVRAADCPP-APPPLLYPICIAGFCVYVV--------
+MelOff|crp1190_GJLW01000631.1_0M_1|cluster15127                          ------------------VLEIRCINDTDCPI-FPPP-LHNRCIDEVCHLLTS-------
+MelOff|crp1450_GJLW01014775.1_0M_1|cluster15127                          -------------------AKIPCVKDADCPV-LPCP-LYSKCVDGFCKMLSIFVQKKML
+MelOff|crp1190_GJLW01016815.1_0M_1=cluster15127_GJLW01016815.1_0M_1      -------------------ALIFCFKDIDCPL-DKCLPLLPKCINSFCECV---------
+MelOff|crp1190_GJLW01020943.1_0M_2|cluster15127                          -------------------VDIPCINDEDCPI-LGFP-MYSLCINELCLLFFIGDICY--
+MelOff|cluster15127_GJLW01009608.1_0M_1                                  -------------------VDIPCIVDDDCPI-LGFP-MYSLCIDELCLLFFY-------
+MelOff|crp1470_GJLW01023135.1_0M_1|cluster15127                          ------------------IPKTPCVSDDDCEL-LPSP-LYEYCVDGFCQLFFV-------
+MelOff|crp1450_GJLW01050046.1_0M_1|cluster15127                          -------------------TKIPCKFITDCPY-LHPP-MHMKCLDGFCRIFY--------
+MelOff|cluster15127_GJLW01008566.1_0M_1                                  -------------------DVINCISIEDCPT-IPPP-QYYRCICDMCLLFG--------
+MelOff|cluster15127_GJLW01014775.1_0M_1                                  -------------------AKIPCVKDADCPV-LPCP-LYSKCVDGFCKMLSIFVQKKML
+MelOff|crp1430_GJLW01020363.1_0M_1=cluster15127_GJLW01020363.1_0M_1      ------------------IPERECTSDADCPY-YSP-SLYARCIDEFCVLFLS-------
+MelOff|cluster15127_GJLW01047555.1_0M_1                                  ------------------APKIPCVRAADCPP-APPPLLYPICIAGFCVYVV--------
+LupAl|cluster15127_lupal.Amiga.gnm1.Lalb_Chr17_11M_1                     TIKLPLPLTNITLFMLYLTVTIPCETAAECDP-YCPEGYFGHCRDHICMCLIS-------
+                                                                                                *    :*            *   .             
+
+Medtr|crp1450_MtrunA17Chr4_19M_1|cluster15127                            ---------
+Medtr|MtNCR062                                                           ---------
+Medsat|crp1450_GJLK01006271.1_0M_1|cluster15127                          ---------
+Medsa|MsatMercedes_NRG001345g01941381_NCR_NCR                            ---------
+Medsat|crp1450_GJLK01024528.1_0M_1|cluster15127                          ---------
+Medsa|MsatMercedes_NRG182450g02690511_NCR_NCR                            ---------
+TriPr|crp1510_tripr.MilvusB.gnm2.Tp7_17M_1|cluster15127                  ---------
+TriPr|cluster15127_tripr.MilvusB.gnm2.scaf_26659_0M_1                    ---------
+TriPr|cluster15127_tripr.MilvusB.gnm2.scaf_732_0M_1                      ---------
+TriPr|cluster15127_tripr.MilvusB.gnm2.scaf_732_0M_2                      MQSKHAAVM
+MelOff|crp1430_GJLW01047555.1_0M_1|cluster15127                          ---------
+MelOff|crp1190_GJLW01000631.1_0M_1|cluster15127                          ---------
+MelOff|crp1450_GJLW01014775.1_0M_1|cluster15127                          SI-------
+MelOff|crp1190_GJLW01016815.1_0M_1=cluster15127_GJLW01016815.1_0M_1      ---------
+MelOff|crp1190_GJLW01020943.1_0M_2|cluster15127                          ---------
+MelOff|cluster15127_GJLW01009608.1_0M_1                                  ---------
+MelOff|crp1470_GJLW01023135.1_0M_1|cluster15127                          ---------
+MelOff|crp1450_GJLW01050046.1_0M_1|cluster15127                          ---------
+MelOff|cluster15127_GJLW01008566.1_0M_1                                  ---------
+MelOff|cluster15127_GJLW01014775.1_0M_1                                  SI-------
+MelOff|crp1430_GJLW01020363.1_0M_1=cluster15127_GJLW01020363.1_0M_1      ---------
+MelOff|cluster15127_GJLW01047555.1_0M_1                                  ---------
+LupAl|cluster15127_lupal.Amiga.gnm1.Lalb_Chr17_11M_1                     ---------
+                                                                                  

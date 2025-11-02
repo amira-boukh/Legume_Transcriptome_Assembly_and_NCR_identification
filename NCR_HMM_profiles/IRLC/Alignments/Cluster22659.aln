@@ -1,0 +1,22 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG001308g01925621_NCR                ---------MSFVHYKEIKLYYIFLHTKKKNMAKILKFICV-IILFLSISLVGADFDSYT
+Medsa|MsatMercedes_NRG001638g02046351_NCR                ---------MSFVHYKEIKLYYIFLHTKKKNMAKILKFICV-IILFLSISLVGADFDSYT
+Medtr|MtNCR530                                           ---------MSFAHYKEIKLYYIFYIQRRKNMTKILKFICV-IILFLSVSLVGADFDSYT
+Medtr|cluster22659_MtrunA17Chr1_17M_1                    -------------------------------MTEILKFIFVIIILFLSISLVSADFDLHN
+TriPr|cluster22659_tripr.MilvusB.gnm2.Tp2_16M_1          ------------MHYKEIKLYYIFTL-KENNMVETLKFIFTMILFFLLF-LVPMKASGGK
+TriPr|cluster22659_tripr.MilvusB.gnm2.scaf_214_0M_1      MLHRCNLIPPIYIYYKSDQVIFYFYMQREKNMVKILMFFCIM-ILFLSIFIVATDI----
+MelOff|cluster22659_GJLW01028103.1_0M_1                  -------------------------------MAKIIKYICD-IILFLSISLVAANFDLYH
+MelOff|crp1520_GJLW01004954.1_0M_1|cluster22659          -------------------------------MTNILKFICV-IILFLSISLVAANFDSYT
+                                                                                        *.: : ::    ::** . :*  .     
+
+Medsa|MsatMercedes_NRG001308g01925621_NCR                DLHDNNPESYECEVDEDCPQD------PFTMKCINNICIG-----------
+Medsa|MsatMercedes_NRG001638g02046351_NCR                DLHDNNPESYECEVDEDCPQD------PFTMKCINNICIG-----------
+Medtr|MtNCR530                                           DLHDNNPESYECEVDEDCPQD------PFTMKCINNICIG-----------
+Medtr|cluster22659_MtrunA17Chr1_17M_1                    DSYDYLYEFQECEVDNDCPQD------PLPMKCINYICVVHNEEPSDNL--
+TriPr|cluster22659_tripr.MilvusB.gnm2.Tp2_16M_1          PFSHPFKAYIDCKTNEDCPESVNE---HYTIICIDYKCETIRIFPLSGLIW
+TriPr|cluster22659_tripr.MilvusB.gnm2.scaf_214_0M_1      -----EEDFLKCDTYSDCPSQMCYSFLNFIVKCINNRCDCVREKDLGP---
+MelOff|cluster22659_GJLW01028103.1_0M_1                  GLHDYLLEVYECEVDNDCPQD------PLPMACIDRVCVVQYAEPLDKL--
+MelOff|crp1520_GJLW01004954.1_0M_1|cluster22659          DLHNYNHESNECEVDEDCLQD------PFPMKCINNICIEGD---------
+                                                                   .*.. .** ..         : **:  *             

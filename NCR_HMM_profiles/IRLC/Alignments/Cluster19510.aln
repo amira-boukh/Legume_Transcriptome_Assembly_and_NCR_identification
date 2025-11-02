@@ -1,0 +1,22 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|cluster19510_GJLK01070895.1_0M_1              MAKTLEFFYAMLLFLSLFLIVKVV--SGNANLPECSTDVDCKQVSSKFYRHICHNKRCKI
+Ps|PsNCR273                                          MTKTLKFVYVMILF--LFLVARND-G-AESRLIICKTDVDCLDR-SEFHKYICIRKRCRI
+Ps|PsNCR334                                          MTKTLMIVYIMVSFLFLFLIARNN-GA-TPAAIDCITDADCPNR-TQIFRYKCVNKKCKG
+Medsat|cluster19510_GJLK01025187.1_0M_1              MTKTLKFVYVMILFFSLFLVAKND--T-TPKHIECTTNADCLNSQSKMYRLICEKNRCIY
+Ps|cluster19510_scaffold03725_0M_3                   MTKILKFVYAI--ILFLFLVPKNI-GA--AVAIGCVTDNDCPSR-TASRRYKCVRNKCRH
+Ps|crp1430_scaffold03725_0M_1|cluster19510           MGKTLMFVYVVVLFLFLFFVARND-GGSPRRFIPCKTRADCPDS-SEFQKYMCIESLCKL
+MelOff|crp1440_GJLW01020114.1_0M_1|cluster19510      ----------MILFLSLFLVAKERLAATSSNGDPCITEADCTHT---FYKYVCYENKCRF
+MelOff|crp1420_GJLW01003364.1_0M_1|cluster19510      MAKTLKTFYAMIYFFLCFLLQRRL-AVSSIEKSRCITDADCKHQVNTFYWYVCHRKRCRL
+                                                               :  :   *:: :            * *  **           * .. *  
+
+Medsat|cluster19510_GJLK01070895.1_0M_1              VM-------
+Ps|PsNCR273                                          FLVPF----
+Ps|PsNCR334                                          TRVTSITLL
+Medsat|cluster19510_GJLK01025187.1_0M_1              EFS------
+Ps|cluster19510_scaffold03725_0M_3                   TRVMH----
+Ps|crp1430_scaffold03725_0M_1|cluster19510           IRLK-----
+MelOff|crp1440_GJLW01020114.1_0M_1|cluster19510      FIPMWRKEC
+MelOff|crp1420_GJLW01003364.1_0M_1|cluster19510      VIRKFWND-
+                                                              

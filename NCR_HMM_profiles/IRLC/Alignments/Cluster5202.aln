@@ -1,0 +1,34 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|cluster5202_GJLK01002047.1_0M_1                      MQRGESMTKIVKFVYFMIIFISP-FVAA-NHEISGLLPKLPFGSCTSNLDCPRYI-CTHP
+Medsat|cluster5202_GJLK01017598.1_0M_2                      ------MTKIVKYVYIMIVFISP-FVVESLLEISGALPKLPRGMCTSNHDCATYNICTHP
+Medsa|MsatMercedes_NRG041770g02390511_NCR                   MQRGESMTKIVKFVYFMIIFISP-FVAA-NHEISGLLPKLPFGSCTSNLDCPRYI-CTHP
+Medtr|cluster5202_MtrunA17Chr7_25M_1                        MQRGESMAKIVMLVFVMIIFIFP-FVVATSSQ--------LFGVCFEDLDCMFWT-CAPL
+Medtr|cluster5202_MtrunA17Chr7_11M_2                        MQRGESMGKIVKFVYFMIIFISP-FVVA-NHAISGLLPKLPFGCCTSNLDCPRHM-CTHP
+Medtr|crp1290_MtrunA17Chr7_22M_1|cluster5202                ------MTKIIKFVYFMTIFISP-FVVASLHEISGYVLGLPAGYCTSNHHCPVYN-CTHP
+Medsa|MsatMercedes_NRG030281g02346141_NCR                   MQRGESMTKIVKFVYFMIIFISP-FVAA-NHEISGLLPKLPFGSCTSNLDCPRYI-CTHP
+Medtr|MtNCR454                                              MQMGESMAKIVKFVYFVIIFASP-FVVA-NHEISGWITELPFGMCTSILDCPMDS-CTHP
+Medtr|crp1290_MtrunA17Chr6_21M_1|cluster5202                ------MDKIAKFLYVMLILISP-FIVAMSN----------GTICDGDHDCSRNV-CSHP
+Medsat|cluster5202_GJLK01017598.1_0M_1                      MQRGESMTKIVKFVYIMIVFISP-FVVESLLEISETLPKLPRGWCTSNHDCATY--CPHP
+TriPr|crp1430_tripr.MilvusB.gnm2.Tp3_11M_1|cluster5202      ------MAKVYMFIYAMIIVFSI-FISTTNC---------------DNGDCHNYI-CTPP
+MelOff|crp1290_GJLW01023388.1_0M_1|cluster5202              ------MADIVKFVYLMIVFIFPNLYFAMNV------DARRVRYCYHINDCIGYW-CRHF
+MelOff|crp1290_GJLW01028104.1_0M_1|cluster5202              ------MSNIVKFVYLMTVFIS-LFVVTMNV------DGRPVRYCNNNHDCLGYR-CQQS
+MelOff|crp1170_GJLW01023120.1_0M_1|cluster5202              ------MAEIVKFVYVMIIFVS-LFFVAMN-----------YQLCSRKGDCPLSS-CQPH
+                                                                  * .:   :: : :.    :                        .*     *   
+
+Medsat|cluster5202_GJLK01002047.1_0M_1                      QQC-------------------------
+Medsat|cluster5202_GJLK01017598.1_0M_2                      HEPWCQL---------------------
+Medsa|MsatMercedes_NRG041770g02390511_NCR                   QQPWCIFYGNRIMYRGSKLGICECS---
+Medtr|cluster5202_MtrunA17Chr7_25M_1                        TNPKCGFFDG------------------
+Medtr|cluster5202_MtrunA17Chr7_11M_2                        QQP-------------------------
+Medtr|crp1290_MtrunA17Chr7_22M_1|cluster5202                KQPWCKLV--------------------
+Medsa|MsatMercedes_NRG030281g02346141_NCR                   QQPWCIFYGNRIMYRGSKLGICECS---
+Medtr|MtNCR454                                              QQPWCELHGVPILYHGSEIGLCICI---
+Medtr|crp1290_MtrunA17Chr6_21M_1|cluster5202                QQVWCIFITRVVPRLRRM----------
+Medsat|cluster5202_GJLK01017598.1_0M_1                      YET-------------------------
+TriPr|crp1430_tripr.MilvusB.gnm2.Tp3_11M_1|cluster5202      AVPNCAFNPDENIKLIVRRGICECIPYN
+MelOff|crp1290_GJLW01023388.1_0M_1|cluster5202              IQPLCRFFDERHNLSGPPIGLCSCI---
+MelOff|crp1290_GJLW01028104.1_0M_1|cluster5202              IQPLCRLTDGI-DKRGLQLGLCSCI---
+MelOff|crp1170_GJLW01023120.1_0M_1|cluster5202              EIPWCKFDEQL-YHRGLSLGVCNCL---
+                                                                                        

@@ -1,0 +1,28 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG000593g01372811_NCR                               MIKQFFIDYMQVRKNMVTILKLLYVIILFIYVLFTIEGFG-RFLLYNNCKQDADCPNICS
+Medtr|cluster3720_MtrunA17Chr5_31M_1                                    ---------------MATILKFVYVIMLFIYSLFVIESFGHRFLIYNNCKNDTECPNDCG
+Medsa|MsatMercedes_NRG000593g01372801_NCR                               ---------MQVRKNMATILKLLYFIILLIYLPFAIEGFG-RFLLYNNCKHDVDCPNICS
+Medtr|MtNCR633                                                          ---------------MVTTLKLLYVIILFIYVLFAIEGFG-RFLLYNNCKQDVDCPNICS
+Medsat|cluster3720_GJLK01019461.1_0M_1                                  ---------------MATTLKFVYVIILFIYALFVIESFGHRFLIYNNCKNDTECPNECA
+Medsa|MsatMercedes_NRG000034g00215071_NCR                               MIKQFFIDYMQVRKNMVTILKLLYVIILFIYVLFTIEGFG-RFLLYNNCKQDADCPNICS
+Medsa|MsatMercedes_NRG000055g00295201_NCR                               ---------MQVRKNMATILKLLYFIILLIYLPFAIEGFG-RFLLYNNCKHDVDCPNICS
+MelOff|crp1170_GJLW01023089.1_0M_1=cluster3720_GJLW01023089.1_0M_1      ---------------MATILKFVYVIILLIYVLLVTQSFGRFFIYYNKCKEDIDCSNECG
+MelOff|crp1220_GJLW01007324.1_0M_2=cluster3720_GJLW01007324.1_0M_2      ---------------MATILKFVYAIILFIYLLFVTQGFG-RLLIYNNCKQDSDCPNECA
+MelOff|crp1220_GJLW01007324.1_0M_1=cluster3720_GJLW01007324.1_0M_1      ---------------MATVFKSVYAIILFIYVLFVTGGFG-RLLLYNNCKQDTDCPNTCS
+AsSin|AsNCR088|cluster3720                                              ---------------MAKSLKFISRLILFFFLFLHLT-------DAFQCKDDMDCKNYCK
+                                                                                       *.. :* :  ::*:::  :             :**.* :* * * 
+
+Medsa|MsatMercedes_NRG000593g01372811_NCR                               PHEYSKCILY---VCYCVDK--------------
+Medtr|cluster3720_MtrunA17Chr5_31M_1                                    PHEQAKCILY---ACYCV----------------
+Medsa|MsatMercedes_NRG000593g01372801_NCR                               PHEYSKCILS---VCYCFDK--------------
+Medtr|MtNCR633                                                          PHEHSKCILY---VCYCVDK--------------
+Medsat|cluster3720_GJLK01019461.1_0M_1                                  PHEHAKCIVY---ACYCV----------------
+Medsa|MsatMercedes_NRG000034g00215071_NCR                               PHEYSKCILY---VCYCVDK--------------
+Medsa|MsatMercedes_NRG000055g00295201_NCR                               PHEYSKCILS---VCYCFDK--------------
+MelOff|crp1170_GJLW01023089.1_0M_1=cluster3720_GJLW01023089.1_0M_1      PHELSKCILY---ACYCVEYF-------------
+MelOff|crp1220_GJLW01007324.1_0M_2=cluster3720_GJLW01007324.1_0M_2      PHEDSKCILY---ACYCVDK--------------
+MelOff|crp1220_GJLW01007324.1_0M_1=cluster3720_GJLW01007324.1_0M_1      PHEDSKCILY---MRVTVLTNNFITYK-------
+AsSin|AsNCR088|cluster3720                                              GKHYRRFICNSDKTCTCIDRIRRAPALTVKVLRT
+                                                                         :.  : *         .                

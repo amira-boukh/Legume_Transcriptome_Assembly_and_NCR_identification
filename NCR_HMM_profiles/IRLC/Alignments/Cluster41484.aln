@@ -1,0 +1,14 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Ps|PsNCR120                                                      ------------MAQVLMFCYALIIFIASFSL--KETDLPCKSFIQCLNSYNLF---GYC
+Ps|PsNCR290                                                      ------------MAQALLFYYALIFFITKFHF--KQTGFPCKSDSQCRLFFTEL---SKC
+TriPr|crp1430_tripr.MilvusB.gnm2.scaf_715_0M_1|cluster41484      ------------MTQILLFVNTLIIFLSLFLIVTSRSDVPCNSDHDCPTALNRL---SKC
+AsSin|AsNCR128|cluster41484                                      MVLSIIHKLGEIWFVILKLVYVFVLFVSLFVMVINGNGIPCKKYSDCQNFWTPWGWEARC
+                                                                                 * :  .:::*:: * :  . ...**:.  :*    .     . *
+
+Ps|PsNCR120                                                      KDGFCHYLFLNRDD-------
+Ps|PsNCR290                                                      VDGFCQYKGPK----------
+TriPr|crp1430_tripr.MilvusB.gnm2.scaf_715_0M_1|cluster41484      NDGFCEYRKCGYMNMKGDIVT
+AsSin|AsNCR128|cluster41484                                      IDGFCIT--------------
+                                                                  ****                

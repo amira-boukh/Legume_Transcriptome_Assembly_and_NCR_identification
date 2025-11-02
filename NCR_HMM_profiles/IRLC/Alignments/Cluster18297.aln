@@ -1,0 +1,22 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG000787g01574451_NCR            MAQIVKLVYVMIIFISLFVVAMNVDAIPFRVCFHNLDCPRNMCPPSI-PYCRFREE-NVR
+Medtr|MtNCR536                                       MAQIVKLVYVMIIFISLFFVAINVDAIPFRVCFHNRDCPRNMCLPSI-PYCRFREK-NVR
+Ps|PsNCR186                                          MTKLFKVVHVMIILLSLFMVTMIVNAEDRRKCFIPADCPTSDCAPPLRPFCAFKYCLCG-
+Ps|PsNCR196                                          MVEIARIFYVMIIFLSLFFVATNVNATN-PRCVTAADCPKYFCGPTESRMCVFGFCLCGW
+Medsat|cluster18297_GJLK01024520.1_0M_1              MAQIVKLVYVMIIFISLFVVAMINIKLLPRICYEDIDCINCPCEPFMKPKCEFFDG-HGW
+Medsat|crp1430_GJLK01015709.1_0M_1|cluster18297      MTQTFKKNYTLIISLFLFVVVTNQK---------------KMCWPPRRKMCVDSYCECE-
+Ps|PsNCR126                                          MTKIINLVHVMIIFLFLFLVTINVNAAERRTCFTPADCPTSDCEPPTRPFCAFKYCLCG-
+Ps|crp1190_chr3LG5_061M_1|cluster18297               MAKIINLVHVMSIFLFLFLVIINVNAAERRTCFVLADCPTSDCEPPLRPFCAFKYCICG-
+                                                     *.:  .  :.: * : **.*                      * *     *         
+
+Medsa|MsatMercedes_NRG000787g01574451_NCR            FGSPLGVCSCD
+Medtr|MtNCR536                                       FGSPLGLCSCD
+Ps|PsNCR186                                          -----------
+Ps|PsNCR196                                          -----------
+Medsat|cluster18297_GJLK01024520.1_0M_1              R----------
+Medsat|crp1430_GJLK01015709.1_0M_1|cluster18297      -----------
+Ps|PsNCR126                                          -----------
+Ps|crp1190_chr3LG5_061M_1|cluster18297               -----------
+                                                                

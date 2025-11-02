@@ -1,0 +1,22 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|crp1520_GJLK01009686.1_0M_2|cluster23780                                  MAATQKFIYVLSLFLFIFLVTKITEFTA----SRLVKKCRSDKDCQV---S--MYRYIFK
+Medsat|crp1500_GJLK01001874.1_0M_1|cluster23780                                  MTETLKFVYVMFLFLSMFLVTKVTDCTQ--SVTDVSRPCTTDKDCPK---V--EYGYKLR
+Medsat|crp1520_GJLK01001874.1_0M_1|cluster23780                                  MNKTLKFAYVMFLFLSMFLFTKVTDCTPQKKVTDVSRPCTTDKDCPK---V--EYGYKLR
+Medtr|crp1520_MtrunA17Chr1_26M_3|cluster23780                                    MTETLKFVCVMFLFLSIFLVTIVTDCSSPIRVTDVSRPCTTDKDCSK---V--EYGYKLR
+TriPr|crp1430_tripr.MilvusB.gnm2.scaf_664_0M_1|cluster23780                      MDKSFKCVYVMIILLSLFIVSTQMS--------ALIIPCKRDHDCPDFF---LSHKYKYK
+TriPr|crp1190_tripr.MilvusB.gnm2.scaf_29952_0M_1|cluster23780                    MDKIFKFVYVMIILLSLVFVSTHVI------KLTFVHPCKTDRDCPQTPKGRFSRPKKVK
+MelOff|crp1520_GJLW01023780.1_0M_1=crp1520_GJLW01023780.1_0M_2|cluster23780      MVETLKFLYVLFLFLSIFLVTK---------VTDVSRPCLTDKDCPK---V--QYGYTLR
+AsSin|AsNCR066|cluster23780                                                      MVVILKFVYVLVIFVSLYLMTINV----------NAYLCKTDGDCRKIYEV--PYGFKHR
+                                                                                 *    *   *: ::: : :.:                 *  * **              :
+
+Medsat|crp1520_GJLK01009686.1_0M_2|cluster23780                                  CRKGECVKI-
+Medsat|crp1500_GJLK01001874.1_0M_1|cluster23780                                  CRKGWCV---
+Medsat|crp1520_GJLK01001874.1_0M_1|cluster23780                                  CRKGW-----
+Medtr|crp1520_MtrunA17Chr1_26M_3|cluster23780                                    CRKGR-----
+TriPr|crp1430_tripr.MilvusB.gnm2.scaf_664_0M_1|cluster23780                      CRKGYCS---
+TriPr|crp1190_tripr.MilvusB.gnm2.scaf_29952_0M_1|cluster23780                    CRNGICM---
+MelOff|crp1520_GJLW01023780.1_0M_1=crp1520_GJLW01023780.1_0M_2|cluster23780      CRKGRCVHI-
+AsSin|AsNCR066|cluster23780                                                      CNKGNCLILK
+                                                                                 *.:*      

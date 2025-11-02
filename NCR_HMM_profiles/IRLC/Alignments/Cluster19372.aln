@@ -1,0 +1,24 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medtr|crp1260_MtrunA17Chr1_16M_6|cluster19372                            ----MNLKEEKITHISKFAYALIIFLCIYLVVTDGDIISCIT-H----SYCLEKNHILGC
+Medsat|cluster19372_GJLK01038588.1_0M_1                                  -----------MTEFIKFVRVIILLISLFVVMVNGGFDSYCTNDSECEFYCSDPTY--AM
+Medtr|cluster19372_MtrunA17Chr2_35M_1                                    -----------MAEFINFVSVIILLISLFFVIVNGEFENYCTKDSDCESYCPNPKY--GK
+Medtr|MtNCR-new11                                                        -----------MAEFIKFVSVIILLISLFVVMVDGGFESYCTSDSECESYCSDPKY--AM
+Ps|PsNCR48                                                               ------------MRFIKFVGVTILLLSLVFVITYG--ISYCESDGECIFDCNSPKH--GV
+Medsa|MsatMercedes_NRG106525g02563821_NCR_NCR_NCR                        -----------MAEFIKFVSVIILLISLFFVIVNGGFESYCTHDSECESYCSDPKY--GV
+Ps|crp0310_chr5LG3_103M_1|cluster19372                                   -----------MAHFKLFFILLILLPSHMVIETEG----SECNDEECEWSCIDKGFLDGV
+Ps|cluster19372_chr5LG3_430M_2                                           MLLCLTSNILVNSSNFSFLHPILILLFEYVDVCLAEGILYCKKDQDCQPNCEDPNL--GR
+MelOff|crp1170_GJLW01014128.1_0M_1=cluster19372_GJLW01014128.1_0M_1      -----------MAEFIKFVSVIILLISLFVVITNGGFAGYCTYDNECGYYCSDPKF--GV
+                                                                                          *    :::    .    .        .      * .     . 
+
+Medtr|crp1260_MtrunA17Chr1_16M_6|cluster19372                            NMP-KELPMC--------
+Medsat|cluster19372_GJLK01038588.1_0M_1                                  C--WVNKCRCVFISF---
+Medtr|cluster19372_MtrunA17Chr2_35M_1                                    C--LDNKCICQLIWM---
+Medtr|MtNCR-new11                                                        C--LVNRCICDYT-----
+Ps|PsNCR48                                                               C--IENQCFCMKLS----
+Medsa|MsatMercedes_NRG106525g02563821_NCR_NCR_NCR                        C--LFNKCICDYT-----
+Ps|crp0310_chr5LG3_103M_1|cluster19372                                   CSPSSNQCFCVIHRVIIR
+Ps|cluster19372_chr5LG3_430M_2                                           C--LKGRC----------
+MelOff|crp1170_GJLW01014128.1_0M_1=cluster19372_GJLW01014128.1_0M_1      C--LMNKCICDYA-----
+                                                                                           

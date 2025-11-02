@@ -1,0 +1,34 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|crp1430_GJLK01033301.1_0M_1|cluster37145        -----------------MAQNHMLIYAMIICFFPYLVVTTK-TAIACVSNKDCLKFFTPL
+Medsa|MsatMercedes_NRG000312g00964141_NCR_NCR_NCR      -----------MQRRKNMAQNHMLIYAMIICLFPYLVVTTK-TAIACVSNKDCLKIFTPF
+Medsa|MsatMercedes_NRG000534g01295981_NCR_NCR_NCR      -----------MQMRKNMAQNHMLIYAMIICLFPYLVVTTK-TAIACVSNKDCLKIFTPF
+Medtr|MtNCR625                                         -----------MQRRKNMAQNYMLIYAMIICLFPYLVVTTK-TAIACVTNKDCLKFFTPL
+Medsat|cluster37145_GJLK01030766.1_0M_1                -----------MQRRKNMAHNHMLIYAMIICLFPYLVVTFK-TAITCVCNQDCLNFFTPL
+Medtr|cluster37145_MtrunA17Chr4_30M_1                  -----------MQRRKNMANNHMLIYAMIICLFPYLVVTFK-TAITCDCNEDCLNFFTPL
+Medsat|crp1430_GJLK01018103.1_0M_1|cluster37145        -----------------MSQVVMFVYTLIIFLFPSHVVTNK-IAIYCVSDDDCLKTFTPL
+Medsat|crp1430_GJLK01030766.1_0M_1|cluster37145        -----------------MAHNHMLIYAMIICLFPYLVVTFK-TAITCVCNQDCLNFFTPL
+Medtr|crp1430_MtrunA17Chr4_30M_1|cluster37145          -----------------MSQVVMFVYTLIIFLFPSHVITNK-IAIYCVSDDDCLKTFTPL
+TriPr|cluster37145_tripr.MilvusB.gnm2.Tp4_16M_1        -----------MQNKKNMAKTSMFVYAMMVFLFSYLALFKQIDDIPCKTVYDCPSAIGHY
+MelOff|crp1400_GJLW01026128.1_0M_1|cluster37145        -----------------MAQIVTFVYALIIFLFPSLVVNNK-IAIQCVSDDDCLKMFTPL
+MelOff|cluster37145_GJLW01026128.1_0M_1                -----------MQRRKNMAQIVTFVYALIIFLFPSLVVNNK-IAIQCVSDDDCLKMFTPL
+MelOff|cluster37145_GJLW01006206.1_0M_1                MRGNSQITYYYKQRRKNMAQNLMLVYALIICLFPYLVVTIK-TAISCGSDEDCRQMFTPL
+MelOff|crp1430_GJLW01006206.1_0M_2|cluster37145        -----------------MAQNLMLIYALIICLFPYFVVTIK-TAIPCISDDNCLKMFTPL
+                                                                        *::   ::*:::: :*   .:  :   * *    :* . :   
+
+Medsat|crp1430_GJLK01033301.1_0M_1|cluster37145        DNVK----CIGN---------VCEFFL------------
+Medsa|MsatMercedes_NRG000312g00964141_NCR_NCR_NCR      KNVK----CVGN---------VCEFFL------------
+Medsa|MsatMercedes_NRG000534g01295981_NCR_NCR_NCR      KNVK----CVGN---------VCEFFL------------
+Medtr|MtNCR625                                         DNVK----CVGN---------VCEFFL------------
+Medsat|cluster37145_GJLK01030766.1_0M_1                DNLKCIEKCVGN---------------------------
+Medtr|cluster37145_MtrunA17Chr4_30M_1                  DNLKCIDN-------------VCEV--------------
+Medsat|crp1430_GJLK01018103.1_0M_1|cluster37145        DL-----KCVDN---------VCEFNL------------
+Medsat|crp1430_GJLK01030766.1_0M_1|cluster37145        DNLKCIEKCVGN---------VCEFFL------------
+Medtr|crp1430_MtrunA17Chr4_30M_1|cluster37145          DL-----KCVDN---------VCEFNL------------
+TriPr|cluster37145_tripr.MilvusB.gnm2.Tp4_16M_1        EW-ECYDTRFSKIWTVRLKSDGSDFKPDCMVPEFMESNS
+MelOff|crp1400_GJLW01026128.1_0M_1|cluster37145        DL-----KCVDN---------VCEFNL------------
+MelOff|cluster37145_GJLW01026128.1_0M_1                DL-----KCVDN---------VCEFNL------------
+MelOff|cluster37145_GJLW01006206.1_0M_1                VL-----KCIDN---------VCEQFYMCIIL-------
+MelOff|crp1430_GJLW01006206.1_0M_2|cluster37145        VL-----KCIDN---------VCEFDL------------
+                                                                                              

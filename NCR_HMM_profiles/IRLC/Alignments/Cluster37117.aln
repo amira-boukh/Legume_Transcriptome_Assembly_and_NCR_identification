@@ -1,0 +1,18 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|cluster37117_GJLK01029411.1_0M_1                                  ----MAQIHKFVYTLIMFLSLYIMVTNGMVN---TNAYIHRCIHQDNCPRYMC-EISV--
+Medsa|MsatMercedes_NRG000327g00990311_NCR                                MKKNMVQSLNFVYILMMFLSLFLMVTNG---------MDILCKHDRNCPKNMC-LLTQ--
+Medsat|cluster37117_GJLK01030089.1_0M_1                                  ----MAQISNYVYALIMFMSLFFMVTNGNYE---Y--VTIVCKTNGNCPSHMC-LLDQ--
+Medsa|MsatMercedes_NRG003391g02174851_NCR                                MKKNMAQILNFVYILMMFLSLFLMVTNG---------MDILCKHDRNCPKNMC-LLTQ--
+TriPr|cluster37117_tripr.MilvusB.gnm2.Tp3_28M_1                          MKKKMIKILKFIYVLIIFLSLILLVTSYLYPIINGNGDHAPCITAHDCPNHRRCFLFFLA
+MelOff|crp1160_GJLW01027823.1_0M_1=cluster37117_GJLW01027823.1_0M_1      ----MAQISNYVYALIMFMSLFFMVTNANYE---Y--VTIVCKTNGNCPSHMC-LLDQ--
+                                                                             * :  :::* *::*:** ::**.              *    :**      :    
+
+Medsat|cluster37117_GJLK01029411.1_0M_1                                  --LPECINGFCT----
+Medsa|MsatMercedes_NRG000327g00990311_NCR                                --IPKCFKNVCKCV--
+Medsat|cluster37117_GJLK01030089.1_0M_1                                  --IPVCRYGRCECV--
+Medsa|MsatMercedes_NRG003391g02174851_NCR                                --IPKCFKNVCKCV--
+TriPr|cluster37117_tripr.MilvusB.gnm2.Tp3_28M_1                          KKPFFCFAMHCQ----
+MelOff|crp1160_GJLW01027823.1_0M_1=cluster37117_GJLW01027823.1_0M_1      --IPVCRYGRCECVKL
+                                                                              *    *     

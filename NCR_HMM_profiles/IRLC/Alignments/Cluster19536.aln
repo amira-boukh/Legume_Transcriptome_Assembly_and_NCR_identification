@@ -1,0 +1,47 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medtr|crp1190_MtrunA17Chr3_23M_1|cluster19536                            ------MAQLHKLIYAL--------TIFLSLFIVGAVR----------------------
+Ps|PsNCR274                                                              ------MVQLSKSAYVL--------IIIISLFFTLING----------------------
+Medtr|MtNCR108                                                           MQKVDNMAEIPKFSYTL--------IIFISLFVVITCF----------------------
+Ps|Psat5g178720.1                                                        ------MSQIVKFIYPL--------IVVLSLYFVVTNAIK--------------------
+Medsat|cluster19536_GJLK01078718.1_0M_1                                  ------MTEISKFIYAL--------IIFISLFVVITCY----------------------
+Ps|PsNCR220                                                              ------MSQILKFIYPL--------IVFLSLCFVVTNAVR--------------------
+TriPr|crp1230_tripr.MilvusB.gnm2.scaf_617_0M_2|cluster19536              ------MIKLLKFIYTL--------IICISMFLVVTNGVL--------------------
+TriPr|crp1230_tripr.MilvusB.gnm2.scaf_617_0M_1|cluster19536              ------MTKLLKFIYTL--------IIFISIFLVVLDGLR--------------------
+TriPr|cluster19536_tripr.MilvusB.gnm2.scaf_1513_0M_1                     ------MAQILKFLSVAYCMPFLHTIIILSFIMMFQ------------------------
+TriPr|crp1160_tripr.MilvusB.gnm2.scaf_617_0M_1|cluster19536              -----MTKLLLKFIYTL--------IIFMSIFLVVLDGFR--------------------
+MelOff|cluster19536_GJLW01032001.1_0M_1                                  ------MVEIPKFIYAL--------IIFISLFVVVTSF----------------------
+MelOff|crp1510_GJLW01008992.1_0M_1=cluster19536_GJLW01008992.1_0M_1      ------MAKIFKLIYAF--------IILFSLTFLVTSEDV--------------------
+AsSin|AsNCR094|cluster19536                                              ------MTKTLKFISTL--------ILFFFLFVNLSNGYHFSKSNSVLGNEDEGEDVKRW
+                                                                                    *              : : : .                           
+
+Medtr|crp1190_MtrunA17Chr3_23M_1|cluster19536                            --------IPRPLIDPLNCHIDIHCIYK---------ECRRPFKPSCLNFKCD-------
+Ps|PsNCR274                                                              --------GRK-PYIPFLCLIDADCFNK---------ACHRPLKPKCVCYNCECR-----
+Medtr|MtNCR108                                                           --------RK--PFNPIDCEIIADCKYK---------ACHRPLTAKCVNYKCECVKRGTI
+Ps|Psat5g178720.1                                                        ----GDRGGRRRIFYPFPCKYNWDCYNK---------ACHVPLRPRCISSNCECMEVE--
+Medsat|cluster19536_GJLK01078718.1_0M_1                                  --------------NIIDCETIADCKYK---------ACHHPLTRKCIDYE---------
+Ps|PsNCR220                                                              --------GRYKVYYPFPCKIHRDCYNK---------ACHIPFIPMCISSNCECMEVE--
+TriPr|crp1230_tripr.MilvusB.gnm2.scaf_617_0M_2|cluster19536              ---------RPAVKQPWSCEQDDDCETM---------ACHKPLIPYCIYYKCLCMERFSD
+TriPr|crp1230_tripr.MilvusB.gnm2.scaf_617_0M_1|cluster19536              ---------TP-SLIPWPCERDEDCETR---------ACHRPLIRKCISSNCDCVKRSFS
+TriPr|cluster19536_tripr.MilvusB.gnm2.scaf_1513_0M_1                     ---------FDISVAPFPCYSQADCVNK---------ACHYPLKLRCLYYNCECV-----
+TriPr|crp1160_tripr.MilvusB.gnm2.scaf_617_0M_1|cluster19536              ---------TP-SRNPWPCGQDEDCETK---------ACHRPLTRKCISSNCDCVKRAFS
+MelOff|cluster19536_GJLW01032001.1_0M_1                                  --------GSKPLIHPINCQTIADCIYK---------ACHRPLTRKCINYKCECVKKVYL
+MelOff|crp1510_GJLW01008992.1_0M_1=cluster19536_GJLW01008992.1_0M_1      ------LPYITISGAPIHCITAYDCPN----------VCVDFLISRCINNKCYCM-----
+AsSin|AsNCR094|cluster19536                                              LSRRKKFDYTRAVYTEIPCIVDKDCKIHCKKRGYKKFKCHTNLTMKCFCHRPIVVN----
+                                                                                           *    .*             *   :   *.  .         
+
+Medtr|crp1190_MtrunA17Chr3_23M_1|cluster19536                            -----------
+Ps|PsNCR274                                                              -----------
+Medtr|MtNCR108                                                           VENNYRLMPNV
+Ps|Psat5g178720.1                                                        -----------
+Medsat|cluster19536_GJLK01078718.1_0M_1                                  -----------
+Ps|PsNCR220                                                              -----------
+TriPr|crp1230_tripr.MilvusB.gnm2.scaf_617_0M_2|cluster19536              RGY--------
+TriPr|crp1230_tripr.MilvusB.gnm2.scaf_617_0M_1|cluster19536              IKK--------
+TriPr|cluster19536_tripr.MilvusB.gnm2.scaf_1513_0M_1                     -----------
+TriPr|crp1160_tripr.MilvusB.gnm2.scaf_617_0M_1|cluster19536              IDSVNKDVT--
+MelOff|cluster19536_GJLW01032001.1_0M_1                                  IEK--------
+MelOff|crp1510_GJLW01008992.1_0M_1=cluster19536_GJLW01008992.1_0M_1      -----------
+AsSin|AsNCR094|cluster19536                                              -----------
+                                                                                    

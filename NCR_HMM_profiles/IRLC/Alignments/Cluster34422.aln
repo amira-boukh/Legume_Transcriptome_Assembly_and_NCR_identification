@@ -1,0 +1,22 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Ps|PsNCR135                                                              ---MKIMVATLKFFYFMILIFPLFLVTMNVDE----IGDCVTERDCPRNMCL----FRFI
+Ps|PsNCR288                                                              ------MAKTLSFTYAMILIFFLFLTAKDVNA----QNRCKKDADCPADFCM----FRFV
+Ps|PsNCR78                                                               MQRVKNMIPTLKFMYDIIILIFLFFSTMNINA----ISDCDTDGDCPINMCL----FHFL
+Medtr|crp1510_MtrunA17Chr7_07M_1|cluster34422                            ------MTKILMLFYAMIVFHSIFLVASYT-------DECSTDADCEYILCL----FPII
+Medtr|crp1430_MtrunA17Chr5_21M_3|cluster34422                            ------MAQILKLVYAFTIFLFIFLVVTNG-------QECKDDGDCPTNMCL----PSLV
+Ps|crp1250_chr3LG5_036M_1|cluster34422                                   ------MTK---IIKVVIIFLSLFLIATNGST-----IRCRKKKDCPEDLCM----FGFI
+Ps|crp1160_scaffold02164_0M_1|cluster34422                               ------MTAILKYICTIVLFLSVALIAAEDAK---GEYTCDNILDCPSDMCR----IRYV
+MelOff|crp1410_GJLW01061441.1_0M_1=cluster34422_GJLW01061441.1_0M_1      ------MAKTLKCFYATLLLFSLFLVAMPVSKIPRTLGECTTDADCPQELEISFVGNIFL
+                                                                               *           ::  : : .            *    **   :         :
+
+Ps|PsNCR135                                                              LKCNNQRCECVPKMPLVL----------------
+Ps|PsNCR288                                                              SKCIYHKCKCDRVMPHIV----------------
+Ps|PsNCR78                                                               VRCHNHDCECVHMTPLVL----------------
+Medtr|crp1510_MtrunA17Chr7_07M_1|cluster34422                            KRCIHNHCKCVPMGSIEPMSTIPNGVHKFHIINN
+Medtr|crp1430_MtrunA17Chr5_21M_3|cluster34422                            SKCINFICECTHSMSTD-----------------
+Ps|crp1250_chr3LG5_036M_1|cluster34422                                   QICKSGYCNCVSGLPVKLFNSVN-----------
+Ps|crp1160_scaffold02164_0M_1|cluster34422                               LRCIDNTCECDFYKNYRSK---------------
+MelOff|crp1410_GJLW01061441.1_0M_1=cluster34422_GJLW01061441.1_0M_1      YKCIQYKCTL------------------------
+                                                                           *    *                          

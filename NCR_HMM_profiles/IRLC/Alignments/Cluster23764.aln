@@ -1,0 +1,26 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG000166g00641711_NCR                                MGQIEKFVYSLIIILSLALVVTGNGI-------------PICQTYMDCPSDMCTRPKHAY
+Medsat|cluster23764_GJLK01012855.1_0M_1                                  MGQIEKFVYSLIIILSLALVVTGSGI-------------PICQTYVDCPRNMCTRPKHAY
+Medtr|cluster23764_MtrunA17Chr2_51M_1                                    MGQIQKFISSLIIIISLVLVVTCNCIPMIHPLLYKKRVVPNCQTIVDCPDNMCTHPKEVY
+Medsa|MsatMercedes_NRG000106g00471601_NCR                                MGQIEKFVYSLIIILSLALVVTGNGI-------------PICQTYMDCPSDMCTRPKHAY
+Medtr|MtNCR205                                                           MGQIEKFVYSLIIILSLALVVTCNGI-------------PICQTYMDCPSDMCTRPKHAY
+Medsat|cluster23764_GJLK01063098.1_0M_1                                  MGQIQKFISSLIIIIFLILVVTCNCI---------KRVVPNCRTIADCPDNMCSHPKQVY
+Medsa|MsatMercedes_NRG001464g01990691_NCR_NCR                            MGQIEKFVYSLIIILSLALVVTGNGI-------------PICQTYMDCPSDMCTRPKHAY
+MelOff|crp1270_GJLW01030566.1_0M_1=cluster23764_GJLW01030566.1_0M_1      MDQIHNFFYSLIIILYLILVVTSECV-------------HICRTYADCPSDMCTRPKHSY
+MelOff|crp1190_GJLW01003770.1_0M_2|cluster23764                          MVQIPNCLYALIIFLSLFVVVTYGIR------------AHLCESSLDCPEDLCVDPRQAF
+MelOff|crp1190_GJLW01001988.1_0M_1|cluster23764                          MVQIPNCLYALIIFLSLFVVVTYG--------------THLCESSLDCPEDLCVDPRQAF
+                                                                         * ** : . :***:: * :***                   *.:  *** ::*  *:. :
+
+Medsa|MsatMercedes_NRG000166g00641711_NCR                                CVSYKCYCV---------------------------------
+Medsat|cluster23764_GJLK01012855.1_0M_1                                  CVSYKCYCV---------------------------------
+Medtr|cluster23764_MtrunA17Chr2_51M_1                                    ------------------------------------------
+Medsa|MsatMercedes_NRG000106g00471601_NCR                                CVSYKCHCV---------------------------------
+Medtr|MtNCR205                                                           CVSYKCYCV---------------------------------
+Medsat|cluster23764_GJLK01063098.1_0M_1                                  CIGYRCYCL---------------------------------
+Medsa|MsatMercedes_NRG001464g01990691_NCR_NCR                            CVSYKCYCV---------------------------------
+MelOff|crp1270_GJLW01030566.1_0M_1=cluster23764_GJLW01030566.1_0M_1      CVSNKCYCL---------------------------------
+MelOff|crp1190_GJLW01003770.1_0M_2|cluster23764                          CVAK--------------------------------------
+MelOff|crp1190_GJLW01001988.1_0M_1|cluster23764                          CVAKSKKKKKPHFFSTFIFHLCSLRVSNGRRVVRTHAARQNP
+                                                                                                                   

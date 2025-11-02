@@ -1,0 +1,30 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG000121g00517341_NCR                                ----------------MIFFISLFCFLNGVIAGKPLLSSFSNNFLYYTPLLSYFVDISII
+Medtr|MtNCR660                                                           ------MFEILKFVYVMIFFISLFCFLNGVIA----------------------------
+Medsat|cluster26661_GJLK01011094.1_0M_1                                  ----------------MIFFISLFRFLNGVIA----------------------------
+Medsat|cluster26661_GJLK01011094.1_0M_2                                  ----------------MIFFISLFRFLNGVIA----------------------------
+Medsa|MsatMercedes_NRG000131g00545111_NCR                                ----------------MIFFISLFCFLNGVIAGKPLLSSFSNNFLYYTPLLSYFVDISII
+TriPr|crp1130_tripr.MilvusB.gnm2.scaf_904_0M_1|cluster26661              -MNTDMVSNILHFLLI-IF------------------------FIFIHNISSNFNDTHLI
+MelOff|cluster26661_GJLW01014191.1_0M_3                                  MKRRSNMSKILKFVYVMIFFISLFCFLNDVSAGYK-------------------------
+MelOff|cluster26661_GJLW01014191.1_0M_1                                  ----------------MIFFISLFCFLNDVSAG---------------------------
+MelOff|crp1170_GJLW01005072.1_0M_1|cluster26661                          MKRINNMSEILKFVYVMIFFISLFCFLNDVSAG---------------------------
+MelOff|cluster26661_GJLW01014191.1_0M_2                                  ----------------MIFFISLFCFLNDVSAG---------------------------
+MelOff|crp1230_GJLW01014191.1_0M_1=cluster26661_GJLW01005072.1_0M_1      ------MSEILKFVYVMIFFISLFCFLNDVSAG---------------------------
+MelOff|crp1230_GJLW01014191.1_0M_2|cluster26661                          ------MSEILKFVYVMIFFISLFCFLNDVSAG---------------------------
+                                                                                          **                                         
+
+Medsa|MsatMercedes_NRG000121g00517341_NCR                                MLYITGDYYSCHYDKQC-DEDCPFPFKGYCVEQHCLCKRWLH
+Medtr|MtNCR660                                                           -----GDYYSCHYDKQC-DEDCPFPFKGYCVEQHCLCKRWLQ
+Medsat|cluster26661_GJLK01011094.1_0M_1                                  -----GDYYSCHYDKQC-E-DCPFHFKGYCVEQHCLCKRWFQ
+Medsat|cluster26661_GJLK01011094.1_0M_2                                  -----GDYYSCHYDKQC-E-DCPFHFKGYCVEQHCLCKRWLH
+Medsa|MsatMercedes_NRG000131g00545111_NCR                                MLYITGDYYSCHYDKQC-DEDCPFPFKGYCVEQHCLCKRWLH
+TriPr|crp1130_tripr.MilvusB.gnm2.scaf_904_0M_1|cluster26661              LFYITALGEFCCFNGDCSSSDCDIPKVGTCIKRHCLCL----
+MelOff|cluster26661_GJLW01014191.1_0M_3                                  -----RFTYFCYYDESC-DEDCPLPFKGYCVDQQCTCKR---
+MelOff|cluster26661_GJLW01014191.1_0M_1                                  ------ETYFCYYDKFC-DDECPLPLQGYCVDQQCTCKRVLH
+MelOff|crp1170_GJLW01005072.1_0M_1|cluster26661                          ------FTYFCYYDESC-DEDCPLPFKGYCVDQQCTCKRVLH
+MelOff|cluster26661_GJLW01014191.1_0M_2                                  ------FTYFCYHDESC-DEDCPLPFKGYCVDQQCTCKRVLH
+MelOff|crp1230_GJLW01014191.1_0M_1=cluster26661_GJLW01005072.1_0M_1      ------ETYFCYYDKFC-DDECPLPLQGYCVDQQCTCKRVLH
+MelOff|crp1230_GJLW01014191.1_0M_2|cluster26661                          ------FTYFCYHDESC-DEDCPLPFKGYCVDQQCTCKRVLH
+                                                                                   * .:  * . :* :   * *:.::* *     

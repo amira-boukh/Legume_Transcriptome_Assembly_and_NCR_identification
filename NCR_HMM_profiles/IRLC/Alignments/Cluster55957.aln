@@ -1,0 +1,32 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|crp1190_GJLK01030448.1_0M_1|cluster55957              -----------------------------------------MAYIAKFLCIMIIFLSL--
+Medsa|MsatMercedes_NRG000877g01653171_NCR                    ----------MIIFL-------------------------------------SLLSFT--
+Medsat|cluster55957_GJLK01012599.1_0M_2                      ----------MIIFL-------------------------------------SLSSFA--
+Medsat|cluster55957_GJLK01030448.1_0M_1                      ---------------------------------------------------MIIFLSL--
+Medsa|MsatMercedes_NRG000393g01098521_NCR                    ----------MIIFLSLFSFAATNVHGKFILFLSFHISIFTMSTIYFLPIYTIVLNSF--
+Ps|crp1130_chr5LG3_275M_1|cluster55957                       MTIIIKFLSFLIIFLF-LSIVLIKFEGKPF--LSFSSFLLYFSK-IFLLFYYIVLSPF--
+TriPr|crp1130_tripr.MilvusB.gnm2.Tp1_03M_1|cluster55957      -----MFFQIMFTFIFIFTIVIEGFPSKIVF-FSFKFFLYVLF-----PIINIRFFLFDI
+TriPr|crp1190_tripr.MilvusB.gnm2.Tp1_03M_1|cluster55957      MVKILMFFQIMFTFIFIFTVVIEGFPSKIIF-FSSNFLYMFRS-----LSLTLVFFLFDI
+                                                                                                                         
+
+Medsat|crp1190_GJLK01030448.1_0M_1|cluster55957              FIVDAAETCESDSDCSPYMCAPPLKPKCV--TYRCKCVQLNVLDN---------------
+Medsa|MsatMercedes_NRG000877g01653171_NCR                    TNVHAAVKCESDSDCSPYLCAPPMTSKCI--RGSCKCVQLVST-----------------
+Medsat|cluster55957_GJLK01012599.1_0M_2                      TNVHAAIKCERDSDCSPYLCAPPMTSKCI--RGSCKCVQL--------------------
+Medsat|cluster55957_GJLK01030448.1_0M_1                      FIVDAAETCESDSDCSPYMCAPPLKPKCV--TYRCKCVQLNVLDNF--VPT---------
+Medsa|MsatMercedes_NRG000393g01098521_NCR                    FFITAAVKCESDSDCSPYLCAPPMTSKCI--RGSCKCVQLVYT-----------------
+Ps|crp1130_chr5LG3_275M_1|cluster55957                       LITAFRHQCLEHSHCYRVLCRRPAIPKCDFRRGLCKCV----------------------
+TriPr|crp1130_tripr.MilvusB.gnm2.Tp1_03M_1|cluster55957      TEFNSDQKCYGDKDCPKFLCMPPSVPKCL--RNHCRCVDN--------------------
+TriPr|crp1190_tripr.MilvusB.gnm2.Tp1_03M_1|cluster55957      TEYNHYQKCYNDKDCPVFLCIPPRVPKCI--RKSCRXXXXXXXQVQKYVCGTYKSILVFV
+                                                                     *  ...*   :*  *   **      *:                        
+
+Medsat|crp1190_GJLK01030448.1_0M_1|cluster55957              --
+Medsa|MsatMercedes_NRG000877g01653171_NCR                    --
+Medsat|cluster55957_GJLK01012599.1_0M_2                      --
+Medsat|cluster55957_GJLK01030448.1_0M_1                      --
+Medsa|MsatMercedes_NRG000393g01098521_NCR                    --
+Ps|crp1130_chr5LG3_275M_1|cluster55957                       --
+TriPr|crp1130_tripr.MilvusB.gnm2.Tp1_03M_1|cluster55957      --
+TriPr|crp1190_tripr.MilvusB.gnm2.Tp1_03M_1|cluster55957      II
+                                                               

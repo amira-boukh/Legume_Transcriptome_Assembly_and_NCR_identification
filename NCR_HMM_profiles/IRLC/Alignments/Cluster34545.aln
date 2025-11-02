@@ -1,0 +1,38 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|crp1430_GJLK01012048.1_0M_1|cluster34545                          --MTQILKFIYIFIIFLSLFFVEINGA-----------PKPCVTAKDCPK------TFFP
+Medtr|MtNCR537                                                           --MAKTLKFVYAMILFIYIFLVIKNTEA----------YPPCETVADCPE------SYFR
+Medsa|MsatMercedes_NRG000065g00330411_NCR                                --MAKTLKFVYAMILFIYIVLVTKNTEA----------YPPCETVADCPK------SWFR
+Medtr|crp1440_MtrunA17Chr1_30M_1|cluster34545                            --MAKTLKVMYTMVLFFSLFLVAKNVDA----------YVWCETVEDCFK------SQYF
+Medsat|crp1420_GJLK01012842.1_0M_1|cluster34545                          --MAKTLMFVYTMILFFSLFLVAKNVEA----------YVWCETVEDCFK------SQYY
+Medsat|cluster34545_GJLK01004106.1_0M_1                                  --MAKTLKFVYAIILFMCIFHVSKNVEA----------FLDCETVADCPT------HWAY
+CicerAr|CaNCR09                                                          --MVKILKFVYAAILFLVVTHVG-------------CSGESCESASDCPS------LWYK
+Medsat|cluster34545_GJLK01049932.1_0M_1                                  --MSKTPKLVYAMILFIYIFLVEKNAEVIA--------YP----RADCPE------DPLC
+TriPr|cluster34545_tripr.MilvusB.gnm2.scaf_586_0M_1                      --MVKILKFVYYIILFFFIFIVATEGLNCKSFFHLYQIFLICTNHQFGPVMIGAEFSRMD
+TriPr|crp1420_tripr.MilvusB.gnm2.Tp3_28M_3|cluster34545                  --MTKTLQFVYTMIFYF--FLIANEVDCGFT-NLLGKSIIYCHTVDDCPK------SWVR
+MelOff|crp1430_GJLW01020369.1_0M_1|cluster34545                          --MAKTLKCFYFMILFLYLFLVPTEAVRQY--------YSECTTNADCKNH-SKWFSW--
+MelOff|crp1430_GJLW01005418.1_0M_1|cluster34545                          --MAKSLKFVFAKILFLTLFLVANNIDGEL-------SMDRCRNVDDCPR------SLFR
+MelOff|crp1440_GJLW01006097.1_0M_1|cluster34545                          --MTKTLKFVYAMIFFIYIFLIGKNNVEG---------RPPCKSVDDCPK------SFSR
+MelOff|crp1420_GJLW01016188.1_0M_1|cluster34545                          --MAITLKFVYAM-LFFSLFLVAKNVDA----------YVWCETVQDCFQ------SQYY
+MelOff|crp1440_GJLW01039961.1_0M_1=cluster34545_GJLW01039961.1_0M_1      --MANTLKFVYAMILFIYIFLVAKNIEGAF--------PPPCETVDDCPK------SWRR
+LupAl|cluster34545_lupal.Amiga.gnm1.Lalb_Chr05_04M_1                     MNMAKTLTFVYAMILLFSIILHVTKG------------LIDCQDDKDCQG-------WIS
+                                                                           *      .:   : :                                           
+
+Medsat|crp1430_GJLK01012048.1_0M_1|cluster34545                          I---GYKC-IKNLCILVI--------------------
+Medtr|MtNCR537                                                           ----IYRC-ENNFCRYREAVRRLRP-PLRKK-------
+Medsa|MsatMercedes_NRG000065g00330411_NCR                                ----IYRC-EDNFCRYSKKVRRLKP-PLRKKIQNKMDN
+Medtr|crp1440_MtrunA17Chr1_30M_1|cluster34545                            ----IFDC-INNQCINVGKNPKE---------------
+Medsat|crp1420_GJLK01012842.1_0M_1|cluster34545                          ----IFDC-INNQCINVGKNPKE---------------
+Medsat|cluster34545_GJLK01004106.1_0M_1                                  ----IYVC-EKNKCRYHFKSGRV---------------
+CicerAr|CaNCR09                                                          -------C-IDHICIWLPISTRQK--------------
+Medsat|cluster34545_GJLK01049932.1_0M_1                                  QGYPPPNCPLNPWCQDNFWK------------------
+TriPr|cluster34545_tripr.MilvusB.gnm2.scaf_586_0M_1                      HGSIPRNC------DWEEAETTCCS------------N
+TriPr|crp1420_tripr.MilvusB.gnm2.Tp3_28M_3|cluster34545                  ----KYKC-IDNRCRCYTVFV-----------------
+MelOff|crp1430_GJLW01020369.1_0M_1|cluster34545                          -----YEC-INNICTLMQVKYRIPIVI--P--------
+MelOff|crp1430_GJLW01005418.1_0M_1|cluster34545                          ----NYKC-IRGWCRYTKVKLS----------------
+MelOff|crp1440_GJLW01006097.1_0M_1|cluster34545                          ----IYRC-ENNECRYRANKPKR------PKV------
+MelOff|crp1420_GJLW01016188.1_0M_1|cluster34545                          ----IYDC-INNQCINVGKNPKALVFPGLPRDQVTLTT
+MelOff|crp1440_GJLW01039961.1_0M_1=cluster34545_GJLW01039961.1_0M_1      ----LYRC-EDNKCKYSMI-------------------
+LupAl|cluster34545_lupal.Amiga.gnm1.Lalb_Chr05_04M_1                     ----GAVC-ISGWCHPPG--------------------
+                                                                                *                              

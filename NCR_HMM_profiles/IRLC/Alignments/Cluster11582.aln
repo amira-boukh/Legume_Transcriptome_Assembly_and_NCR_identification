@@ -1,0 +1,29 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG002596g02153531_NCR            MASVKLAS--TVVFLATILMFPMTKIE--ACE---NFWCTIFNGYHCSS--GCGCIAAAG
+Medsat|cluster11582_GJLK01041192.1_0M_1              MASVKLAPFAGVFLLAAFLMFPMKKIEG-GGC---ASFCGSAVAESCPD--GCWCSIFTP
+Medsat|cluster11582_GJLK01050945.1_0M_1              MANVNLASF-AVFLLAAFLMFPMKKIEG-GGC---ASFCGSAVAESCPD--GCWCSIFTP
+Medsa|MsatMercedes_NRG000799g01583171_NCR            MASVKLAS--TVVFLATILMFPMTKIE--ACE---NFWCTIFNGYHCSS--GCGCIAAAG
+Medsat|cluster11582_GJLK01001885.1_0M_3              MAYLKHAL--TVVFLATLLISPMKKVEA-GCE---RTVCTVFEVYYCGP--SCSCIIFGI
+Ps|crp1650_chr1LG6_116M_1|cluster11582               MASVKLAS--LIV-------------------------------LFATL--ACRCIPVGL
+MelOff|crp1640_GJLW01005529.1_0M_1|cluster11582      MTYVKLPTL-AVFLVTTLLIFQTKNVVEAGRCSSAGSVCSPFDPKPCGNTIDCRCIPWFI
+                                                     *: ::      :.                                 .     * *     
+
+Medsa|MsatMercedes_NRG002596g02153531_NCR            LA-GFCRPQL---TITKAVEEHPNLCQSHHDCIKKGTGSLCAYYPNSELQHGWCFTSNVE
+Medsat|cluster11582_GJLK01041192.1_0M_1              WGLGTC------------------------------------------------------
+Medsat|cluster11582_GJLK01050945.1_0M_1              WGLGTCE-----------------------------------------------------
+Medsa|MsatMercedes_NRG000799g01583171_NCR            LA-GFCRPQL---TITKAVEEHPNLCQSHHDCIKKGTGSLCAYYPNSELQHGWCFTSNVE
+Medsat|cluster11582_GJLK01001885.1_0M_3              VG-GVCFPT---------------------------------------------------
+Ps|crp1650_chr1LG6_116M_1|cluster11582               VI-GYCRNPSG--VFLRTNDEHPNLCESDADCRKKGSGKFCGHYPNPDIEYGWCFASKSE
+MelOff|crp1640_GJLW01005529.1_0M_1|cluster11582      FG-GICSNPSSFEHNMKMIEEHPNLCQTHGELSVS-------------------------
+                                                        * *                                                      
+
+Medsa|MsatMercedes_NRG002596g02153531_NCR            AEQYFEVLSNLAINKFLKNIFYSNGKGFLKMPVEIAT
+Medsat|cluster11582_GJLK01041192.1_0M_1              -------------------------------------
+Medsat|cluster11582_GJLK01050945.1_0M_1              -------------------------------------
+Medsa|MsatMercedes_NRG000799g01583171_NCR            AEQYFEVLSNLAINKFLKNIFYSNGKGFLKMPVEIAT
+Medsat|cluster11582_GJLK01001885.1_0M_3              -------------------------------------
+Ps|crp1650_chr1LG6_116M_1|cluster11582               AEDFFSKITQKDLLKSVSTA-----------------
+MelOff|crp1640_GJLW01005529.1_0M_1|cluster11582      -------------------------------------
+                                                                                          

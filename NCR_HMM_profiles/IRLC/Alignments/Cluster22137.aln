@@ -1,0 +1,20 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG022012g02308731_NCR                    YKEIKSYHIIYIRRGKNMAKTMM--CVNVLILSILLVLTVYDSVY---YHTPPPCITDKD
+Medsa|MsatMercedes_NRG001125g01826071_NCR                    -----------------MAKTMM--CVNVLILSILLVLTVYDSVY---YHTPPPCITDKD
+Medtr|crp1520_MtrunA17Chr7_10M_1|cluster22137                -----------------MDETLKFVYLLIRFLSIFFLIIKSNSFY---SHVPNPCITDKD
+TriPr|crp1190_tripr.MilvusB.gnm2.Tp3_28M_1|cluster22137      -----------------MIKILKFIYVLIIFLSLILLVTSYLYPIINGNGDHAPCITAHD
+                                                                              * : :    : : :**:::::               **** :*
+
+Medsa|MsatMercedes_NRG022012g02308731_NCR                    CPN-IRKNIRCRKGF---CVEIIKM-----------------------------------
+Medsa|MsatMercedes_NRG001125g01826071_NCR                    CPN-IRKTIRCRKGF---CVEIIKM-----------------------------------
+Medtr|crp1520_MtrunA17Chr7_10M_1|cluster22137                CIRRAGMNIRCRKGY---CVNLILR-----------------------------------
+TriPr|crp1190_tripr.MilvusB.gnm2.Tp3_28M_1|cluster22137      CPNHRQMVNFISARVRVACPWLEVHEGEAHALWHAIVWIGSNVPWVCTMFSLRLIVVDVD
+                                                             * .               *  :                                      
+
+Medsa|MsatMercedes_NRG022012g02308731_NCR                    -----------------
+Medsa|MsatMercedes_NRG001125g01826071_NCR                    -----------------
+Medtr|crp1520_MtrunA17Chr7_10M_1|cluster22137                -----------------
+TriPr|crp1190_tripr.MilvusB.gnm2.Tp3_28M_1|cluster22137      AIYSYMTYVSESQGRVE
+                                                                              

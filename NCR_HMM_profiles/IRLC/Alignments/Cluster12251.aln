@@ -1,0 +1,40 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Ps|PsNCR234                                                              MAEIFKFVYVIILFFSLFLAAINVDAL------------INCEADFDCPAS-MCVLPTVA
+Medsat|cluster12251_GJLK01011026.1_0M_1                                  MAKVIKFVYIMIYFLSLFFIAMNDAAI------------HECRADSHCVARINCVLPEKP
+Medsat|crp1230_GJLK01041715.1_0M_1|cluster12251                          MGKVTNFVYITILILSLFFIAMNDAVF------------FECREHSHCVAKIKCILPRIP
+Medtr|MtNCR200                                                           MAKVTKFGYIIIHFLSLFFLAMNVAGG------------RECHANSHCVGKITCVLPQKP
+Medsat|crp1230_GJLK01014728.1_0M_1|cluster12251                          MAKVTMFGYIIIHFLSLFFIAMNVAGNNIFIFSFIITAILECREDSHCVTKIKCVPPRKP
+Medsat|cluster12251_GJLK01011026.1_0M_3                                  MAKVTKFVYITIHFLSLFFIAMNVAAI------------PECHADSHCVAKIDCC----S
+Medsat|cluster12251_GJLK01014728.1_0M_1                                  MAKVTMFGYIIIHFLSLFFIAMNVAGG------------RECHQNSHCVGKINCVLPQMQ
+Medsat|crp1230_GJLK01051447.1_0M_1|cluster12251                          MGKVTNFVYITILFLSHFFIAMNDA-I------------FEFHEDCHCVTKIKCVLPRQP
+Medsat|cluster12251_GJLK01052710.1_0M_1                                  MAKVTNLFYTTIFFLSLFFIAMNDAAR------------YECREHSHCVTKVKCGLPRTP
+Medsat|crp1230_GJLK01011026.1_0M_2|cluster12251                          MAKVTMFGYIIIHFLSLFFIAMNVAGG------------RECHQNSHCVGKINCVLPQKP
+Medtr|crp1230_MtrunA17Chr6_41M_02|cluster12251                           MAKVTNLFYITILFLSLFFIAMNDAAR------------YECREDSHCVTKVKCGLPRTP
+Medtr|MtNCR-new63                                                        MAKVTKFGYIIIHFLSLFFLAMNVAGG------------RECHANSHCVGKITCVLPQKP
+Medsat|crp1230_GJLK01066588.1_0M_1|cluster12251                          MAKVTNLFYTTIFFLSLFFIAMNDA-I------------FEFHEDCHCVTKIKCVLPRQP
+Medsat|crp1230_GJLK01011026.1_0M_3|cluster12251                          MAKVTKFVYITIHFLSLFFIAMNVAAI------------PECHADSHCVAKIDCVLPQKP
+TriPr|cluster12251_tripr.MilvusB.gnm2.Tp2_27M_1                          MAKLMKFFYVIFHLLSLFLVAMSVKET------------ISCVDDSECQRKLYCKLPKLP
+MelOff|crp1230_GJLW01048377.1_0M_1=cluster12251_GJLW01048377.1_0M_1      MVKVMKFVYVTIHFLSLFLISMNVAGN------------YECQNHSDCDKKIKCMLPRVP
+MelOff|crp1230_GJLW01001424.1_0M_1=cluster12251_GJLW01001424.1_0M_1      MAKVMKFVYVTIHLL--FLIAMTSAS-------------FECMSDSDCIGRRDCTPPEIP
+                                                                         * ::  : *  : ::  *: ::.                 .   . .*     *      
+
+Ps|PsNCR234                                                              KCIGRK-CTCIRK---------------
+Medsat|cluster12251_GJLK01011026.1_0M_1                                  QCRNFV-CGCYDS---------------
+Medsat|crp1230_GJLK01041715.1_0M_1|cluster12251                          QCTRDR-CVCFK----------------
+Medtr|MtNCR200                                                           ECWNYA-CVCYDSNKYR-----------
+Medsat|crp1230_GJLK01014728.1_0M_1|cluster12251                          ----------------------------
+Medsat|cluster12251_GJLK01011026.1_0M_3                                  MCRNYT-CVCYNSNKYH-----------
+Medsat|cluster12251_GJLK01014728.1_0M_1                                  KGKIWLKSLCLV----------------
+Medsat|crp1230_GJLK01051447.1_0M_1|cluster12251                          KCRNDI-CGL------------------
+Medsat|cluster12251_GJLK01052710.1_0M_1                                  QCRNYI-CFCYNP---------------
+Medsat|crp1230_GJLK01011026.1_0M_2|cluster12251                          ECWNYA-CVCYDS---------------
+Medtr|crp1230_MtrunA17Chr6_41M_02|cluster12251                           KCRNYI-CFCHNP---------------
+Medtr|MtNCR-new63                                                        ECWNYV-CVCYDSNKYR-----------
+Medsat|crp1230_GJLK01066588.1_0M_1|cluster12251                          KCRNDI-CGL------------------
+Medsat|crp1230_GJLK01011026.1_0M_3|cluster12251                          QCRNYT-CVCYDS---------------
+TriPr|cluster12251_tripr.MilvusB.gnm2.Tp2_27M_1                          RCIKQK-CVCYGARNVYLTKKNDFLH--
+MelOff|crp1230_GJLW01048377.1_0M_1=cluster12251_GJLW01048377.1_0M_1      RCNNNYNCICGVRL--------------
+MelOff|crp1230_GJLW01001424.1_0M_1=cluster12251_GJLW01001424.1_0M_1      QCTITGWCICDYPLPHNKPMTRADSHAI
+                                                                                                     

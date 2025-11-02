@@ -1,0 +1,38 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Ps|PsNCR199                                        MQKRKNMTGIAKFVYVNIIFLSIFLFATIV---------------EGDIRCFQNSECPIL
+Medtr|MtNCR398                                     MQSNKSMTNSIKFVYVMMYFLSIFLISTYF---------------ETKLNCIDDSDCPYD
+Medsa|MsatMercedes_NRG000702g01491801_NCR          MQSEGSMTNIMKFVYVMIYFLSIFLISKYA---------------EAKLNCIDESDCPYD
+Medsa|MsatMercedes_NRG000148g00592611_NCR          MQSEGSMTNIMKFVYVMIYFLSIFLISKYA---------------EAKLNCIDESDCPYD
+Medsa|MsatMercedes_NRG000171g00653361_NCR          MQSEGSMANIMKFVYVMIYFLSIFLISKYA---------------EAKLNCIDESDCPYD
+Medtr|crp1430_MtrunA17Chr5_26M_1|cluster13459      ------MAQIQKFVYTLIMFLSLFVMVTNGMVST----------NAYIHRCIHQDDCPKY
+Medtr|cluster13459_MtrunA17Chr2_21M_1              MQSGGNMTNIIKFVKVMIYFLSIFLISTYF---------------KVKLSCFEDSDCPYD
+Medtr|cluster13459_MtrunA17Chr7_10M_1              ------MADIIKFIYVIIIVLFVFFSGKNT---------------DAKNICIDDVHCQKY
+Medtr|cluster13459_MtrunA17Chr7_10M_3              ------MADIIKFVYVIIIVLFIFFSGKNI---------------DAKNICIDDVHCQKY
+Ps|crp1190_scaffold02535_0M_1|cluster13459         ------MGEIVKFIYIMIILFFLFSVVVNI---------------DAAAECVSFHSCQVN
+AsSin|AsNCR006|cluster13459                        ------MVVVVKLVYVIVLLISLFIMAINV---------------NALLACVDDSDCVFW
+AsSin|AsNCR032|cluster13459                        ------MIVILKCVSII-LFLSL----AT----------------IHARPCVSTPDCPKY
+AsSin|AsNCR056|cluster13459                        --MGGNMAANLKFIYVMVLFLSLFFMSTTV----------------DSYQCIQDSNCPQN
+AsSin|AsNCR078|cluster13459                        ------MIVILKFVYVLVTFLSFFIMTINVDARPLEPPKFKPKILEKSHRCFQVSDCPPD
+AsSin|AsNCR096|cluster13459                        ------MVVILKLLYVIVLFVSLFLMTISV---------------NATLRCKQDSDCTPW
+AsSin|AsNCR143|cluster13459                        -----MVVIDMKLVYVLVLYISLFLMTINI---------------NAFLCETDDCCKKGY
+                                                         :    * :      . .                                     
+
+Ps|PsNCR199                                        MCPPGLLPRCIYGHCVCVKLML---------------------
+Medtr|MtNCR398                                     MCDPGLLPRCLNGWCDCSRFQPWPMDSMSSNLREFTLPN----
+Medsa|MsatMercedes_NRG000702g01491801_NCR          MCDPGFLPRCLNGWCDCFRY----MDSMSSNPREYALPN----
+Medsa|MsatMercedes_NRG000148g00592611_NCR          MCDPGFLPRCLNGWCDCFRY----MDSMSSNPREYALPN----
+Medsa|MsatMercedes_NRG000171g00653361_NCR          MCDPGFLPRCLNGWCDCFRY----MDSMSSNPREYALPN----
+Medtr|crp1430_MtrunA17Chr5_26M_1|cluster13459      MCEISVLPECINGFCTCV-------------------------
+Medtr|cluster13459_MtrunA17Chr2_21M_1              MCYAGFQPKCVNGWCDS-------MNSMSSNLREYTLP-----
+Medtr|cluster13459_MtrunA17Chr7_10M_1              KCSPGLYPTCINGWCECK-------------------------
+Medtr|cluster13459_MtrunA17Chr7_10M_3              KCSPGLYPTCINGWCECK-------------------------
+Ps|crp1190_scaffold02535_0M_1|cluster13459         YCPPSLLSRCVNGWCKCLKRKMLRRSIPYVRTQVIAIHGARDT
+AsSin|AsNCR006|cluster13459                        TTWPGWELRCIDGCCESVKIRSEPT------------------
+AsSin|AsNCR032|cluster13459                        MCAVGFKPQCVKGECQCNDRGIRI--IMSSNLTYSHLP-----
+AsSin|AsNCR056|cluster13459                        LGNPGLISLCIEGMCHLVVIIPLDIKKFSP-------------
+AsSin|AsNCR078|cluster13459                        MCPPTFTPKCIWGHCICVKYMSR--------------------
+AsSin|AsNCR096|cluster13459                        RLPPGFEMRCKDGFCLTFLWQ----------------------
+AsSin|AsNCR143|cluster13459                        VPMLGWDMMCINGHCVCVKFVPYKK------------------
+                                                            *  * *                            

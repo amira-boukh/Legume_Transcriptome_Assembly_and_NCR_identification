@@ -1,0 +1,18 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG000014g00115291_NCR_NCR                            ----MKFVHGMILFLFLFLFAI---NVTAFRDPCNFDLDCKNSSCTAPYVATCMY----E
+Medtr|MtNCR204                                                           MAKIMKFVHAMILFL--FLFAI---NVTAFRDPCNFDFDCRNSNCTAPYVATCMY----E
+Ps|PsNCR158                                                              MTKILMFVYTMILFLFLFFIVT---NVDALRKPCNIDADCRNSSCTLPDVERCMTGQYSG
+Ps|crp1430_chr1LG6_025M_1|cluster33014                                   MTKILMFVYTMILFLFLFFIVT---NVDALRKPCNIDADCRNSSCTLPDAGRCMTGQYSG
+MelOff|crp1430_GJLW01025666.1_0M_1=cluster33014_GJLW01025666.1_0M_1      MAKIIKFMHAMILFL--FLLPT---NITAFRMPCNYDFECSNTSCTPPYVATCMY----E
+MelOff|crp1150_GJLW01008941.1_0M_1=cluster33014_GJLW01008941.1_0M_1      MTKLFQFMYPMLIFLFVFNFFKATIDPEIIPGFCKLVSDCGDLGCTSPEIASCMF----G
+                                                                             : *:: *::**  * :     :   :   *:   :* : .** *    **      
+
+Medsa|MsatMercedes_NRG000014g00115291_NCR_NCR                            RCYC-
+Medtr|MtNCR204                                                           HCYC-
+Ps|PsNCR158                                                              HCYCM
+Ps|crp1430_chr1LG6_025M_1|cluster33014                                   HCYCM
+MelOff|crp1430_GJLW01025666.1_0M_1=cluster33014_GJLW01025666.1_0M_1      RCYC-
+MelOff|crp1150_GJLW01008941.1_0M_1=cluster33014_GJLW01008941.1_0M_1      RCYCW
+                                                                         :*** 

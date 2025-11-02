@@ -1,0 +1,23 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG001391g01960601_NCR                 MNVRRELVYKVIKLYNISYMHKREIMAKVLKFVNVMIIFLSLVLVAMNVDADVINCTQDS
+Medtr|MtNCR-new36                                         MNVRRELVYKVIKLYNISYMHKKEIMAKVLKLVNVMIIFLALVLVAMNVNADVINCTQDS
+TriPr|cluster47574_tripr.MilvusB.gnm2.scaf_2855_0M_1      -------------------MQKGKYIARLMKFIYIMIYFLFLFLVATNSK---LDCRNDL
+MelOff|crp1210_GJLW01027868.1_0M_1|cluster47574           -------------------------MAKVFKFVNLMIIFLSLFFITMKVEGNGINCTQDS
+MelOff|cluster47574_GJLW01009992.1_0M_1                   -------------------------MAKIFKFLYVVIILIFQSIVAMNIEAG--ICFSNS
+                                                                                   :*:::*:: ::* ::   ::: : .     * .: 
+
+Medsa|MsatMercedes_NRG001391g01960601_NCR                 DCQSIGCLSHLKPKCTMLG-FFFNAFVGICECDQVM------------------------
+Medtr|MtNCR-new36                                         DCHSIGCLSHLKPKCTMLG-FFFNAFVGICECDQVM------------------------
+TriPr|cluster47574_tripr.MilvusB.gnm2.scaf_2855_0M_1      DCKDIKCKPGWVAQCSVTN---------RCRCVPSSKPGSGHPWRTRPKKVRKFFMRVED
+MelOff|crp1210_GJLW01027868.1_0M_1|cluster47574           DCQTIGCSSHLKPKCIMLG-IFFNSFDGICGCD---------------------------
+MelOff|cluster47574_GJLW01009992.1_0M_1                   DCTMEICTPPEKPWCDLFTHISFEQPLGICQCI---------------------------
+                                                          **    *       * :            * *                            
+
+Medsa|MsatMercedes_NRG001391g01960601_NCR                 ---------
+Medtr|MtNCR-new36                                         ---------
+TriPr|cluster47574_tripr.MilvusB.gnm2.scaf_2855_0M_1      HVDNIKIAT
+MelOff|crp1210_GJLW01027868.1_0M_1|cluster47574           ---------
+MelOff|cluster47574_GJLW01009992.1_0M_1                   ---------
+                                                                   

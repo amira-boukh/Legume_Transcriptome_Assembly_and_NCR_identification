@@ -1,0 +1,18 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medtr|cluster12150_MtrunA17Chr6_12M_1        ---------------------------MFNSTFFSLFYIIGITICTGERDCRSYHCIPHE
+Medtr|MtNCR239                               MQMKKMATILKFVYLIILLIYPLLVVTEESH-------YMKFSICKDDTDCPTLFCVLPN
+Medtr|MtNCR-new1                             MQMKKMATILKFVYLIILLIYPLLVVTEESH-------YMKFSICKDDTDCPTLFCVLPN
+Medsat|cluster12150_GJLK01026704.1_0M_1      -MRKNMATILKFLFVIILFISLLLVVTKGYREPFSS--FIEGPTCKEDADCPSISCVNPQ
+Medsat|cluster12150_GJLK01005919.1_0M_1      MQMRKMVTILKFVYLIILLIYPLLVVTEGSL-------DMKFSFCKDDTDCPTLFCVLPN
+Medsat|cluster12150_GJLK01004203.1_0M_1      -----MAKILKFVDIVILFVFLLLVLVPAEKHFATL--YKKKEKCATHTDCHELFPNNKH
+                                                                                         *  . **        .
+
+Medtr|cluster12150_MtrunA17Chr6_12M_1        FPRCIRGMCRCKYSGN
+Medtr|MtNCR239                               VPKCIGSKCHCKLMVN
+Medtr|MtNCR-new1                             VPKCIGSKCHCKLMVN
+Medsat|cluster12150_GJLK01026704.1_0M_1      VPK-------------
+Medsat|cluster12150_GJLK01005919.1_0M_1      VPKCIGS---------
+Medsat|cluster12150_GJLK01004203.1_0M_1      LMKCVGG---------
+                                             . :             

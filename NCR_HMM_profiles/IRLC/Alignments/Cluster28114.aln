@@ -1,0 +1,18 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG000446g01178721_NCR                                MAEISKFVYALIIFLSLIMAVISE--------------------------D-IENCETHS
+Medsa|MsatMercedes_NRG049343g02416731_NCR_NCR                            MAEISKFVYALIIFLSLIMAVISE--------------------------D-IENCETHS
+Medtr|MtNCR564                                                           MAEILKFVYALIIFLSFILAVISE--------------------------D-IENCETHS
+TriPr|crp1150_tripr.MilvusB.gnm2.scaf_177_0M_1|cluster28114              MAEIVKCVYVMAIFVFLFLVAANV--------------------------DVNIPCENHA
+MelOff|crp1160_GJLW01051894.1_0M_1=cluster28114_GJLW01051894.1_0M_1      MTEISKFVYSLIIFLSLILVVISE--------------------------E-IEKCETHS
+MelOff|crp1150_GJLW01020174.1_0M_1|cluster28114                          MAEVVKLVYIMIIFIFIAVLATNVVNYYPSQIFSITTYIKFYLILVTFFFVTAKLCFRHS
+                                                                         *:*: * ** : **: : : . .                                *  *:
+
+Medsa|MsatMercedes_NRG000446g01178721_NCR                                DCPHYMCTSPETPWCIAYQCGCY-----------
+Medsa|MsatMercedes_NRG049343g02416731_NCR_NCR                            DCPHYMCTSPETPWCIAYQCGCY-----------
+Medtr|MtNCR564                                                           DCPHYMCTSPETPWCVAYQCGCY-----------
+TriPr|crp1150_tripr.MilvusB.gnm2.scaf_177_0M_1|cluster28114              DCPHYMCAHPLKPRCVRLRCECIDHWNPLKLVPT
+MelOff|crp1160_GJLW01051894.1_0M_1=cluster28114_GJLW01051894.1_0M_1      DCPHYMCTSPQTPWCVAYQCWCY-----------
+MelOff|crp1150_GJLW01020174.1_0M_1|cluster28114                          DCQDYLCVPPENPWCVIFTEG-------------
+                                                                         ** .*:*. * .* *:                  

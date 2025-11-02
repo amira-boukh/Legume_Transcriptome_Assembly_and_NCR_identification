@@ -1,0 +1,38 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG000428g01153321_NCR                                ----MAKIVDFVYSMIIFLSLFLVATK-AE-----------------------RIYRCLD
+Medsat|cluster29062_GJLK01002004.1_0M_1                                  ----MAKIVDFVYSMIIFLSPFLVATK-AE-----------------------RFYQCIN
+Medtr|cluster29062_MtrunA17Chr6_19M_1                                    ----MAKIINFVYNMIIFFSLFLVATNAGG------------------------CNPCLV
+Medsat|cluster29062_GJLK01010680.1_0M_1                                  ----MAKIVDFVYSMIIFLSLFLVATK-AQ-----------------------RVYQCIK
+Medsat|cluster29062_GJLK01002631.1_0M_1                                  ----MAKLINFICSMIIFLSVFLVATKAE------------------------LGYPCVY
+Medtr|cluster29062_MtrunA17Chr3_03M_1                                    ----MAKFVIVVCSVIIFLSSFLVAENSQ---------------------------PCNL
+Medtr|cluster29062_MtrunA17Chr3_10M_1                                    ----MAKIVNFVYSMIIFVSLFLVATKGGS------------------KPFLTRPYPCNT
+Medtr|MtNCR098                                                           ----MAKIVYFVYSMIIFLSLFLVTTKAAE-----------------------RIYRCLD
+Medtr|cluster29062_MtrunA17Chr8_25M_1                                    ----MAKIANFVYSMIIFLSLFLVATKAE------------------------WYYPCNT
+Medtr|cluster29062_MtrunA17Chr3_00M_1                                    ----MTKSVNFIYSMVIFISLFMVAMQ-TQ-----------------------RIYQCIK
+Medsa|MsatMercedes_NRG001221g01881731_NCR                                ----MAKIVDFVYSMIIFLSLFLVATK-AE-----------------------RIYRCLD
+MelOff|crp1200_GJLW01025422.1_0M_1=cluster29062_GJLW01025422.1_0M_1      ----MAKIVIFVYSVIIFLSLFLVATKGQ------------------------RGFSCRN
+MelOff|crp1200_GJLW01018354.1_0M_2=cluster29062_GJLW01018354.1_0M_2      ----MAKIVIFVYSVIIFLSLFLVATKGQ------------------------RRYSCRT
+MelOff|crp1200_GJLW01004692.1_0M_1=cluster29062_GJLW01004692.1_0M_1      ----MAKIVNFVYSMFIFLSLFLFATK--------------------------GVYQCIN
+AsSin|AsNCR048|cluster29062                                              ----MAKSLKYIFTLILSIFLFLHFTNGYRIAKNNSNLADEEVGVEQKGNLHHSKFRCLD
+AsSin|AsNCR152|cluster29062                                              MGRNTIYIINFVYFLFLFLSQFLIETKVD-------------------------AIPCND
+                                                                                    :  :.: .  *:   :                              *  
+
+Medsa|MsatMercedes_NRG000428g01153321_NCR                                HSHCPTF---MCSPGFKPK-CM-NPRVCKCVHV---------
+Medsat|cluster29062_GJLK01002004.1_0M_1                                  HSDCPPY---MCSHGFIPK-CW-Q-RLCKCVPIW--------
+Medtr|cluster29062_MtrunA17Chr6_19M_1                                    --TCPDDLLNRCPPGMEPI-CE-Y-GVIKCYPI---------
+Medsat|cluster29062_GJLK01010680.1_0M_1                                  ESDCPQY---MCSAGLKAN-CA-DRGVCKCIPV---------
+Medsat|cluster29062_GJLK01002631.1_0M_1                                  NSDCTL--PNICPDGMTPK-CV-H-KECECLML---------
+Medtr|cluster29062_MtrunA17Chr3_03M_1                                    SVTDTRD---ICPPGTTLQ-FV-Y-KVCRCYPMKWRL-----
+Medtr|cluster29062_MtrunA17Chr3_10M_1                                    GSDCPQN---MCPPGYKPG-CE-DGYC---------------
+Medtr|MtNCR098                                                           HSHCPTF---MCSPGLKPK-CM-NPKVCKCVPVQSRKYYALT
+Medtr|cluster29062_MtrunA17Chr8_25M_1                                    DSDCPQN---MCPPDMEPR-CW-TGYCSSCYIR---------
+Medtr|cluster29062_MtrunA17Chr3_00M_1                                    ESDCPQY---MCSAGLRAN-CV-DRGVCKCVPV---------
+Medsa|MsatMercedes_NRG001221g01881731_NCR                                HSHCPTF---MCSPGFKPK-CM-NPRVCKCVHV---------
+MelOff|crp1200_GJLW01025422.1_0M_1=cluster29062_GJLW01025422.1_0M_1      RYDCPPR---MCGSDVKPF-CL-LMIVYKRY-----------
+MelOff|crp1200_GJLW01018354.1_0M_2=cluster29062_GJLW01018354.1_0M_2      TNDCLPT-LMMCGPNLKPK-CV-HPGKCKCVPLWL-------
+MelOff|crp1200_GJLW01004692.1_0M_1=cluster29062_GJLW01004692.1_0M_1      DSDCPPN---MCPLNMKPK-CV-H-PVCKCFPIVWGEYHVHT
+AsSin|AsNCR048|cluster29062                                              HEDCKDY---CKSKGYKQYKCTFVQKYCLCWNYHN-------
+AsSin|AsNCR152|cluster29062                                              HSDCFKK---ICSIGFKPW-CN-KKGVCMCAKFIM-------
+                                                                                       .                           

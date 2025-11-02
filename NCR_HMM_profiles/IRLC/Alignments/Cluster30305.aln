@@ -1,0 +1,42 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|cluster30305_GJLK01020803.1_0M_3                   ---MHYCRLHILLKRFCLLHSNDNNMAKFFMFVYVLIIFLSLFLVQAKP-----------
+Medtr|MtNCR495                                            ----MTFLLIKLLKRFCLLHSNDNNMAKIFMFVYVLIIFLSLFMVEANIP----------
+Medsat|crp1430_GJLK01020803.1_0M_1|cluster30305           -------------------------MAKFFMFVYVLIIFLSLFLVQAEP-----------
+Medsat|crp1430_GJLK01020803.1_0M_3|cluster30305           -------------------------MAKFFMFVYVLIIFLSLFLVQAEP-----------
+Medsat|crp1430_GJLK01009165.1_0M_1|cluster30305           -------------------------MAKIFLFVYALIIFLSLFQVEASIG----------
+Medsat|cluster30305_GJLK01009165.1_0M_1                   ----------------------MNNMAKIFLFVYALIIFLSLFQVEASIG----------
+Medsat|crp1430_GJLK01020803.1_0M_2|cluster30305           -------------------------MAKFFMFVYVLIIFLSLFLVQAKP-----------
+Medsa|MsatMercedes_NRG000076g00368481_NCR                 MLTKHNIFTYKLLKRFCLLHSNNNNMAKFFMFVYVLIIFLSLFLVQAKP-----------
+Medsat|crp1450_GJLK01020803.1_0M_1|cluster30305           ------------------------------MFVYVLIIFLSLFLVQAKP-----------
+Medsat|cluster30305_GJLK01020803.1_0M_1                   ---MHYCRLHILLKRFCLLHSNDNNMAKFFMFVYVLIIFLSLFLVQAKP-----------
+TriPr|cluster30305_tripr.MilvusB.gnm2.Tp4_07M_1           -------------------MQMVENMDKFFKFVYVIIILLSQFLVSMQY-----------
+TriPr|cluster30305_tripr.MilvusB.gnm2.scaf_715_0M_1       -------------------------MAQFFMFASALIIFLSLFVVVMGIT----------
+TriPr|cluster30305_tripr.MilvusB.gnm2.scaf_1453_0M_1      -------------------------MAQISYFIYTLIVFLSLFIIAANSQIT--------
+MelOff|crp1430_GJLW01028117.1_0M_1|cluster30305           -------------------------MAQIFLFVYALVIFLSLFLVKANI-----------
+MelOff|crp1450_GJLW01021231.1_0M_1|cluster30305           ------------------------------MFVYVLIIFLSLFLVQARP-----------
+MelOff|crp1430_GJLW01033890.1_0M_1|cluster30305           -------------------------MAKIFLFVYALIIFLSLFQVEASIG----------
+MelOff|cluster30305_GJLW01061605.1_0M_1                   -------------------------MAQFFMFIYALIVFLSPFLVETT------------
+MelOff|cluster30305_GJLW01028117.1_0M_1                   -------------------------MAQIFLFVYALVIFLSLFLVKANIRMSFFNTFLNF
+                                                                                         *  .::::** * :               
+
+Medsat|cluster30305_GJLK01020803.1_0M_3                   ------GARCATVKDCYVD-------E----------------------
+Medtr|MtNCR495                                            ------GARCATDEDCPVG-------EKCIGGNCVE-------------
+Medsat|crp1430_GJLK01020803.1_0M_1|cluster30305           ------GARCATDKDCYDD-------ETCVDGYCSPLAVN---------
+Medsat|crp1430_GJLK01020803.1_0M_3|cluster30305           ------GARCATDKDCYDD-------ETCTGGFCSPLAI----------
+Medsat|crp1430_GJLK01009165.1_0M_1|cluster30305           ------GARCINDDECPVG-------EICIDGSCVE-------------
+Medsat|cluster30305_GJLK01009165.1_0M_1                   ------GARCINDDECPVG-------EICIDGSCVE-------------
+Medsat|crp1430_GJLK01020803.1_0M_2|cluster30305           ------GARCATDKDCYYD-------ETCVEGFCNTLFIEYVNFFFAQI
+Medsa|MsatMercedes_NRG000076g00368481_NCR                 ------GSRCATDKDCYAD-------ETCVDGHCIYK------------
+Medsat|crp1450_GJLK01020803.1_0M_1|cluster30305           ------GARCATVKDCYVD-------ETCVDGYCNTFAYINK--FN---
+Medsat|cluster30305_GJLK01020803.1_0M_1                   ------GARCATDKDCYYD-------E----------------------
+TriPr|cluster30305_tripr.MilvusB.gnm2.Tp4_07M_1           ---FQPSKPCIRDRDCPNCHYIS-----CKKEVS---------------
+TriPr|cluster30305_tripr.MilvusB.gnm2.scaf_715_0M_1       -----STIPCTSNADCKVV---DGFVGECANGFCEYYRT----------
+TriPr|cluster30305_tripr.MilvusB.gnm2.scaf_1453_0M_1      ----SSSTPCKLPGHCPANLCTAPLIRQCIDRLCSCSEVYSLHI-----
+MelOff|crp1430_GJLW01028117.1_0M_1|cluster30305           ------PIRCIVDDDCPVG-------GKCIDGSCVFSNN----------
+MelOff|crp1450_GJLW01021231.1_0M_1|cluster30305           ------GSRCATDKDCYAD-------ETCVDGHCNTFVYNEN-------
+MelOff|crp1430_GJLW01033890.1_0M_1|cluster30305           ------GARCINDDECPVG-------EICIDGSCVE-------------
+MelOff|cluster30305_GJLW01061605.1_0M_1                   ------SLPCITDADCPYL-------GKCVSGFCRFNLKS---------
+MelOff|cluster30305_GJLW01028117.1_0M_1                   VIYIRHTIRCIVDDDCPVG-------GKCIDGSCVFSNN----------
+                                                                   *    .*                                 

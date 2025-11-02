@@ -1,0 +1,16 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|cluster40949_GJLK01018415.1_0M_1              MAKILKYVHVMFIFLSLFLVVTDASTSSFP---------------------IKTNTFVIE
+Medtr|MtNCR477                                       MAKILKYVQVMFIFLSLFLVVTDASTSSFL---------------------IKENTFVIE
+Medsa|MsatMercedes_NRG000763g01552251_NCR            MAKILKYVHVMFIFLSLFLVVTNASTSSFL---------------------IKTETFVIE
+MelOff|crp1130_GJLW01014007.1_0M_1|cluster40949      MTKISKFVHAIIIFLSLFVIVTYTS------------------------------TFDIE
+MelOff|cluster40949_GJLW01014007.1_0M_1              MTKISKFVHAIIIFLSLFVIVTYTSKSTLNFFSFSYTKSFIPVINIPLLLFYIIGTFDIE
+                                                     *:** *:*:.::******::** :*                              ** **
+
+Medsat|cluster40949_GJLK01018415.1_0M_1              CYTNTDCKHRVCKPPASPKCL--------
+Medtr|MtNCR477                                       CYTNTDCVHRVCKPPAAPKCLNCLRCICL
+Medsa|MsatMercedes_NRG000763g01552251_NCR            CYTNTDCAHRVCKPPASPKCLNCLRCICL
+MelOff|crp1130_GJLW01014007.1_0M_1|cluster40949      CYNDKDCAHRKCKFPLVPKCLNVLKCYCL
+MelOff|cluster40949_GJLW01014007.1_0M_1              CYNDKDCAHRKCKFPLVPKCLNVLKCYCL
+                                                     **.:.** ** ** *  ****        

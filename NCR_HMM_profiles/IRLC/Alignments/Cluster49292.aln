@@ -1,0 +1,22 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|cluster49292_GJLK01033730.1_0M_1                                  --------------MAQILIFVYTFIIFFSLFFVVTNGATSCITDDDCPKVATSCISDDD
+Medsat|cluster49292_GJLK01058252.1_0M_1                                  --------------MAQILIFVYTFIIFFSLFFVVTNGATSCISD-------------DD
+Medtr|cluster49292_MtrunA17Chr7_39M_1                                    --------------MPQILMFVYTFIIFFSPFFVVTNGTTSCITD-------------DD
+Medsa|MsatMercedes_NRG000004g00040821_NCR_NCR_NCR                        -------MQRNI-NMAQILMFVYTFIIFFSLFFVVTNGATSCITD-------------DD
+Medsat|cluster49292_GJLK01038784.1_0M_1                                  --------------MDQTLMFVYAFIIFHSLFLVVTNAI--------------PCITLDD
+Medtr|MtNCR387                                                           --------------MPQILMFVYTFIIFFSPFFVVTNGTTSCITD-------------DD
+MelOff|crp1430_GJLW01037391.1_0M_1=cluster49292_GJLW01037391.1_0M_1      --------------MAQTLMFVYAFIIFHSLFLVVTNAI--------------PCITLDD
+LupAl|cluster49292_lupal.Amiga.gnm1.Lalb_Chr08_02M_1                     MDLRHGCYHHSLQTLNFFGLICFAKITFFVLCWVDYIE-------------ATSCLTPRN
+                                                                                       :    :: :: * *.    *                         :
+
+Medsat|cluster49292_GJLK01033730.1_0M_1                                  CPKAVSFLVFKCIN----------------
+Medsat|cluster49292_GJLK01058252.1_0M_1                                  CPKAVSFLVFKCINNICVRV----------
+Medtr|cluster49292_MtrunA17Chr7_39M_1                                    CPKAVSFLVFKCIDNICVRVEIL-------
+Medsa|MsatMercedes_NRG000004g00040821_NCR_NCR_NCR                        CPKAVSFLVFKCINNICERVETL-------
+Medsat|cluster49292_GJLK01038784.1_0M_1                                  CPGKLFNLVFKCVNKVCVLIEKRKNMHI--
+Medtr|MtNCR387                                                           CPKAVSFLVFKCIDNICVERLVLSKCKSDQ
+MelOff|crp1430_GJLW01037391.1_0M_1=cluster49292_GJLW01037391.1_0M_1      CPGKLFNLVFKCVNKVCVLIEKRKNMHIY-
+LupAl|cluster49292_lupal.Amiga.gnm1.Lalb_Chr08_02M_1                     CAKMVSFSLFVCGLSICRH-----------
+                                                                         *   :   :* *                  

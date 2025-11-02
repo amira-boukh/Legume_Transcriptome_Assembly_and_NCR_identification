@@ -1,0 +1,24 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|cluster33109_GJLK01019460.1_0M_1                                  MAEMFKFFYTIIILVSLFLVVAFS---------------------NEECTCNADCYTIYP
+Medtr|MtNCR-new85                                                        MAEMFKFFYTMIILVSLFLVVSFS---------------------NEECTSDADCYKIYP
+Medsa|MsatMercedes_NRG000350g01027281_NCR_NCR                            MAEMFKFFYTIIILVSLFLVVAFSHGNLSSHFRNVSCVLFYII--DQECTCNADCYTIYP
+Medtr|crp1440_MtrunA17Chr7_20M_1|cluster33109                            MVKIFNLVYTMILFSFLFLVVANIE----------VFFLFYIIEEIKECVTDADCYKKYP
+Medsa|MsatMercedes_NRG001589g02033161_NCR_NCR                            MAEMFKFFYTIIILVSLFLVVAFSH--------------------DQECTCNADCYTIYP
+Medsat|crp1530_GJLK01019460.1_0M_1|cluster33109                          ---MFKFFYTIIILVSLFLVVAFS---------------------NEECTCNADCYTIYP
+Medtr|cluster33109_MtrunA17Chr8_25M_2                                    MAEMFKIFYIMIIFVSLFLVVTFS---------------------KEECTYAADCYKRYP
+TriPr|cluster33109_tripr.MilvusB.gnm2.scaf_3045_0M_1                     MTKSLKFVSALILFLTLFLTTMTV---------------------YNECESDIDCYRIYH
+MelOff|crp1530_GJLW01016366.1_0M_1=cluster33109_GJLW01016366.1_0M_1      MTEILKLDYNVILFVVLFLVVVYC---------------------EKECVHDANCYEIFP
+                                                                             :::   :*::  ***..                         :**    :**  : 
+
+Medsat|cluster33109_GJLK01019460.1_0M_1                                  HLSLLPN---KCIEGICHFKF----------
+Medtr|MtNCR-new85                                                        HLSLLHI---RCFEGICFFTFFLPGYPIGHA
+Medsa|MsatMercedes_NRG000350g01027281_NCR_NCR                            HLSLLPN---KCIEGICHFKF----------
+Medtr|crp1440_MtrunA17Chr7_20M_1|cluster33109                            KQSFLIL---TCR------------------
+Medsa|MsatMercedes_NRG001589g02033161_NCR_NCR                            HLSLLPN---KCIEGICHFKF----------
+Medsat|crp1530_GJLK01019460.1_0M_1|cluster33109                          HLSLLPN---KCIEGICHFKF----------
+Medtr|cluster33109_MtrunA17Chr8_25M_2                                    RWSLLPN---YCIEGSCYSDFLNS-------
+TriPr|cluster33109_tripr.MilvusB.gnm2.scaf_3045_0M_1                     DKKLLNGERIECQSGVCVHITTGKSST-GSN
+MelOff|crp1530_GJLW01016366.1_0M_1=cluster33109_GJLW01016366.1_0M_1      GPPLVPM---KCIDGECKRML----------
+                                                                            ::      *                   

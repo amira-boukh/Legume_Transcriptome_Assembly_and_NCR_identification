@@ -1,0 +1,18 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG001434g01978701_NCR_NCR                            ---------MQRRKIMVQIRCFFYALIILLSPFLVAT--HQSIDDVIPCVLNTDCPRDMC
+Medsa|MsatMercedes_NRG001397g01963431_NCR                                ---------MQRRKIMVQIRCFFYALIILLSPFVVAT--HQSIDDVIPCVLNTDCPRDMC
+Medtr|MtNCR180                                                           MIKQFLFIVMQRRKIMVQIGCFFYALIILLSPFLVAT--HQSIDDVIPCVLNTDCPRDMC
+TriPr|cluster24015_tripr.MilvusB.gnm2.scaf_25948_0M_1                    ---------------MTKINKFFYTMIIFLFPFHVVF----ESIPFQLCKVDVNCPWQKC
+MelOff|crp1180_GJLW01017780.1_0M_1=cluster24015_GJLW01017780.1_0M_1      ---------------MAPILCSFYALIIFISLFLVAT--HQNNKDVIPCVSSMDCPRDMC
+AsSin|AsNCR118|cluster24015                                              -----------MGKNMVVILKLIYVMVLFLSLYLMAINIDATNIDVSPCTTNSDCPKNMC
+                                                                                        *. *   :*.:::::  : :.         .  *  . :** : *
+
+Medsa|MsatMercedes_NRG001434g01978701_NCR_NCR                            PIHLFPKCINLLCRCSFWEDN
+Medsa|MsatMercedes_NRG001397g01963431_NCR                                PIHLFPKCINLLCRCSFWEDN
+Medtr|MtNCR180                                                           PIHLFPKCINLLCRCSYWEDN
+TriPr|cluster24015_tripr.MilvusB.gnm2.scaf_25948_0M_1                    SPSNVPVCIFGLCYCVNS---
+MelOff|crp1180_GJLW01017780.1_0M_1=cluster24015_GJLW01017780.1_0M_1      PIHLFPKCKNLVCRCTYYEDN
+AsSin|AsNCR118|cluster24015                                              PLFTIPKCIEKVCECELIHLS
+                                                                             .* *   :* *      

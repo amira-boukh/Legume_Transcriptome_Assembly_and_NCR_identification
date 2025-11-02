@@ -1,0 +1,20 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|cluster52831_GJLK01009759.1_0M_1              -------------------MDETLKFVYIVILFVSLYLVVADGVKNI--NRECIQTSDCY
+Medtr|cluster52831_MtrunA17Chr1_41M_1                -------------------MVATLKFVYIVIFLVSLCLVVVDSLK-S--NRECILTDDCY
+Medsa|MsatMercedes_NRG000950g01710421_NCR            -------------------MVATLKFIYIVIFLVSLCLVVVDSLK-S--NRECILTDDCY
+Medsa|MsatMercedes_NRG001507g02006241_NCR            MFLLYNVIKAFYICYKGGKMVATLKFIYIVIFLVSLCLVVVDSLK-S--NRECILTDDCY
+Medsat|cluster52831_GJLK01071168.1_0M_1              -----------------------------MIIFVFLCLVVVDGVSELPQTQSCTQDYECY
+MelOff|crp1530_GJLW01027853.1_0M_1|cluster52831      -----------------------------MILFVSLCLVVADSLRNI--NRECRQTGDCY
+MelOff|cluster52831_GJLW01027853.1_0M_1              -------------------MARTLKFIYTMILFVSLCLVVADSLRNI--NRECRQTGDCY
+                                                                                  :*::* * ***.*.:     .:.*    :**
+
+Medsat|cluster52831_GJLK01009759.1_0M_1              KKYQFIPWGKVRCVKGRCRLE--------------
+Medtr|cluster52831_MtrunA17Chr1_41M_1                K---NAPFGKLACIKGYCKVLNSLR----------
+Medsa|MsatMercedes_NRG000950g01710421_NCR            KRYPNAPFGKLACIKGYCKVLNSLRYGTTWLKEGL
+Medsa|MsatMercedes_NRG001507g02006241_NCR            KRYPNAPFGKLACIKGYCKVLNSLR----------
+Medsat|cluster52831_GJLK01071168.1_0M_1              IRNPNIPFGELACVKGVCQRVKEFE----------
+MelOff|crp1530_GJLW01027853.1_0M_1|cluster52831      KIYPFVPHGKMRCIKGYCKLEM-------------
+MelOff|cluster52831_GJLW01027853.1_0M_1              KIYPFVPHGKMRCIKGYCKLEM-------------
+                                                           * *:: *:** *:                

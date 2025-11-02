@@ -1,0 +1,20 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|cluster50849_GJLK01012792.1_0M_1              MFVYNIILFVSLFLVVVNSEKECECVADCINKYPTLRGLVVKCIGGYCKAILYRGGMGRR
+Medsa|MsatMercedes_NRG000033g00211451_NCR            MFVYNIILFVSLFLVVVNSEKECECVADCIYKYPTLRGLVVKCIGGYCKAILYRGGWVDG
+Medtr|MtNCR705                                       MFVYNMILFVSLFLVVVDGEKECACVADCIYKYPTLRDLVVKCIEGYCKAILYRKDSLTV
+MelOff|crp1530_GJLW01039289.1_0M_1|cluster50849      MFVYNMILFVSLFLVVADGEEECEDYEDCFIKYPILRGSVVKCIDGYCKDKTEQ------
+MelOff|crp1530_GJLW01012350.1_0M_1|cluster50849      -----MILFVFLFLVVVNGEEECKIIADCYIKYPVLRGLVVKCIEGYCKAILYRRVPLWS
+MelOff|cluster50849_GJLW01039289.1_0M_1              MFVYNMILFVSLFLVVADGEEECEDYEDCFIKYPILRGSVVKCIDGYCKVILYSPEGTQF
+MelOff|cluster50849_GJLW01012350.1_0M_1              MFVYSMILFVFLFLVVVNGEEECKIIADCYIKYPVLRGLVVKCIEGYCKAILYRRVPLWS
+                                                          :**** *****.:.*:**    **  *** **. ***** ****           
+
+Medsat|cluster50849_GJLK01012792.1_0M_1              ----------------------------------------
+Medsa|MsatMercedes_NRG000033g00211451_NCR            VQD-------------------------------------
+Medtr|MtNCR705                                       KLS---SES-------------------------------
+MelOff|crp1530_GJLW01039289.1_0M_1|cluster50849      ----------------------------------------
+MelOff|crp1530_GJLW01012350.1_0M_1|cluster50849      KSK---FKF---CIA-------------------------
+MelOff|cluster50849_GJLW01039289.1_0M_1              LNYNRVFKLFKTALSIFRTRLNNNIELFVHENKLGNYSLT
+MelOff|cluster50849_GJLW01012350.1_0M_1              KSK---FKF---CIA-------------------------
+                                                                                             

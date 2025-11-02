@@ -1,0 +1,14 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medtr|MtNCR131                                                           MAQIFKFFYVMTIFIYLFLVSTTVDAGMRCNHVSDCPKDTFCWLDSH-MQCIKHQCKCVR
+Medtr|MtNCR133                                                           MAQILILFYVMTIFIYLFLVSTNVDAGIRCRNVYDCPKATYCRAGSHRVQCIKHQCKCVR
+TriPr|crp1210_tripr.MilvusB.gnm2.scaf_1741_0M_1|cluster51311             MAEAIKIVYVIIIFFSLFLIAMNVDALIKCTHVSDCPNEISTCAGAMEVKCHAFNS----
+MelOff|crp1200_GJLW01027734.1_0M_1=cluster51311_GJLW01027734.1_0M_1      MTEIIKFIYVMI--ISLFLVSSNVYAGIRCNKVSDCPKTFYCNVGTQ-VRCVKHQCKCVK
+                                                                         *:: : :.**:   : ***:: .* * ::* :* ***:      .:  ::*  .:.    
+
+Medtr|MtNCR131                                                           IFEPIDPA-------------
+Medtr|MtNCR133                                                           IFESIDPA-------------
+TriPr|crp1210_tripr.MilvusB.gnm2.scaf_1741_0M_1|cluster51311             -LLFPDPVCVCSGEMSLFLIS
+MelOff|crp1200_GJLW01027734.1_0M_1=cluster51311_GJLW01027734.1_0M_1      IIELIEFVHI-----------
+                                                                          :   : .             

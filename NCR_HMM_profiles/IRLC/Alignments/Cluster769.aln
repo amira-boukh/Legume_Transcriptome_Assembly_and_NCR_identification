@@ -1,0 +1,44 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG001076g01797651_NCR          ----MAEILKSI--YVIITSFSLFLVATN-------------------------------
+Medsat|crp1190_GJLK01025883.1_0M_1|cluster769      ----MTEIVKYV--YVIIIFLSLFLVATN-------------------------------
+Ps|PsNCR323                                        ----MVEITKFA--YVRILLLFLCLIGMETE-----------------------------
+Ps|PsNCR314                                        ----MVQIVKFA--YVMIMLVSLFLIGTKIK-----------------------------
+Medsa|MsatMercedes_NRG000140g00572411_NCR          ----MAEILKSI--YVIITSFSLFLVATN-------------------------------
+Medtr|MtNCR741                                     ----MAEILKLV--YVIITFISLFLIATK-------------------------------
+Ps|PsNCR277                                        ----MVEITKFA--YVRILLLFLCLIGMETE---------------------------VF
+Ps|PsNCR286                                        MRRNMVEIIKSA--YVVIILFFLFLIGTKIE-----------------------------
+Medtr|MtNCR531                                     ---MMVEIVKYV--YVIIIFLSLFLVATN-------------------------------
+Ps|PsNCR287                                        ----MVEIRKSA--YVVIILFFLFLIGTKIE-----------------------------
+Medsat|cluster769_GJLK01032030.1_0M_1              ----MVEIGKYV--YVIIIFLSLFLVAIY----V--------------------------
+Ps|cluster769_scaffold01283_0M_1                   ----MVEIIKFA--YVVIILFFLFIIGTKIE-----------------------------
+Ps|crp1130_chr4LG4_417M_1|cluster769               ----MVEIIKFP--YVVIILFFLFLIGTKIE-----------------------------
+Ps|cluster769_scaffold01512_0M_1                   ----MVEIIKFA--YIVIILFFLFLIGTKIE-----------------------------
+Ps|cluster769_scaffold00634_0M_2                   ----MVEVINFP--YVMIILFFLFFIGTKIK-----------------------------
+Ps|crp1130_chr2LG1_413M_1|cluster769               ----MVEIRKFS--YVMIILFFLFLIGTKTEGKFNSFILNFLFYFYILFFIIVITLLCVF
+MelOff|crp1130_GJLW01000377.1_0M_1|cluster769      ----MDEIGKYV--YVIIIFLSLFLVAIY----IKS-------------YFSYIFFFSFF
+MelOff|cluster769_GJLW01010690.1_0M_1              ----MAKIVKYVSSYVIIIFLYLFLVATN-------------------------------
+MelOff|crp1130_GJLW01010690.1_0M_1|cluster769      ----MAKIVKYVSSYVIIIFLYLFLVATNFIQSILS-------------YFGYIILISFF
+                                                       * :: :    *: *  . * ::.                                 
+
+Medsa|MsatMercedes_NRG001076g01797651_NCR          IEGVHFRCFKDSDCVK-LYCRPPLKSKCMYRTNCKCIAVYTQEDYVLT
+Medsat|crp1190_GJLK01025883.1_0M_1|cluster769      IEGTYYRCFRDSDCVKKLFCRPPLKPKCMYITMCKCK-----------
+Ps|PsNCR323                                        --GERIKCFGDSDCKNRMFCRSPFKVTCINNNHCKCVLARELLNPRI-
+Ps|PsNCR314                                        --AEKIKCFDDSDCENKIYCRPPYRGKCMNRTNCKCIIVRELLNPRR-
+Medsa|MsatMercedes_NRG000140g00572411_NCR          IEGVHFRCFKDSDCVK-LYCRPPLKSMCMYRTNCKCIAVYTQEDYVLT
+Medtr|MtNCR741                                     TEGVHFRCFRDSDCVK-LYCRPPLKSKCMYKTNCKCIAVYTQEDYGLT
+Ps|PsNCR277                                        VAGERIKCFGDSDCKNRMFCRSPFKVTCINNNHCKCVLARELLNPRI-
+Ps|PsNCR286                                        --ADRFNCFDDLDCKNRFYCRPPLKRKCINHKYCKCILEHSA------
+Medtr|MtNCR531                                     IEGKFQKCCKDSDCLDLLYCRTPLKPKCIHERMCKCKAVFTSNDYVLT
+Ps|PsNCR287                                        --ADRFNCFDDLDCKNRFYCRPPLKRKCINHKYCKCILEHSA------
+Medsat|cluster769_GJLK01032030.1_0M_1              -EANHKKCFDDSDCKN-NWCGPFSKPRCIHNSQCKCVA----------
+Ps|cluster769_scaffold01283_0M_1                   --ADRFNCFNDLDCKNRIYCRPPLKRKCINQKYCKCVPPHIA------
+Ps|crp1130_chr4LG4_417M_1|cluster769               --ADRLNCFDDLDCKNKIYCRPPLKRKCMYKNYCKCILAHELLNPIR-
+Ps|cluster769_scaffold01512_0M_1                   --ADRYKCFDDSDCKNRIYCQPPLKRKCINKNYCKCVLARELLNPRR-
+Ps|cluster769_scaffold00634_0M_2                   --AERIECFDDSDYQNKIYCRPPYRGKCISNTYCKCKIVRGLLNPRR-
+Ps|crp1130_chr2LG1_413M_1|cluster769               IAAERIKCFDDSDCKNKIFCRTPYKRKCINKNHCKCVLAHELLNPRR-
+MelOff|crp1130_GJLW01000377.1_0M_1|cluster769      ITANHKKCFDDSDCKN-NWCGPYSKPRCIDNSQCKCVALIKS------
+MelOff|cluster769_GJLW01010690.1_0M_1              IEGKFHRCFKDSDCVNLLFCRTPLKPKCMFRSMCKCKTVFTLNDYLLT
+MelOff|crp1130_GJLW01010690.1_0M_1|cluster769      ITGKFHRCFKDSDCVNLLFCRTPLKPKCMFRSMCKCKTVFTLNDYLLT
+                                                     .   .*  * *  .  :*    :  *:    ***            

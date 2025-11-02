@@ -1,0 +1,24 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG000002g00019871_NCR            -------------------------------MTQTLIFIYALFI-------------FVS
+Medsat|crp1510_GJLK01013957.1_0M_1|cluster17349      -------------------------------MTQILMFLYFFIIF------------VSL
+Medsa|MsatMercedes_NRG000790g01576421_NCR            MNFPIYKAIVIIKFTTCKGGQISIQNKRRMNMTQTLIFIYALFI-------------FVS
+Medsa|MsatMercedes_NRG000065g00332121_NCR_NCR        -----------------------------MNMTQTLISIYALFI-------------FVS
+Medtr|MtNCR110                                       -------------------------MQRRTNMTQTLIFIYALFI-------------VVS
+Ps|crp1400_scaffold01925_0M_1|cluster17349           -------------------------------MTQMIMFYYALIV-------------FSS
+MelOff|crp1400_GJLW01013962.1_0M_1|cluster17349      -------------------------------MTQNLIFVYALII-------------FLY
+MelOff|crp1450_GJLW01014022.1_0M_1|cluster17349      ------------------------------------MFVYALIIF------------HS-
+MelOff|cluster17349_GJLW01024690.1_0M_1              -----------------------------------MSFFTSFFIFLIYVITNIISSFSNI
+                                                                                              :::                
+
+Medsa|MsatMercedes_NRG000002g00019871_NCR            LFLVVTSETRIPCVSRNDCPKRPYPLFMKCVDNFCEIWKIGKE
+Medsat|crp1510_GJLK01013957.1_0M_1|cluster17349      SFVVTSYRTRIPCVSDYDCPKAPYPLFIKCIYKFCEIWGSP--
+Medsa|MsatMercedes_NRG000790g01576421_NCR            LFLVVTSETRIPCVSRNDCPKRPYPLFMKCVDNFCEIWKIGKE
+Medsa|MsatMercedes_NRG000065g00332121_NCR_NCR        LFLVVTSETRIPCVSRNDCPKRPYPLFMKCVDNFCEIWKIGKE
+Medtr|MtNCR110                                       LFLVVTCETRIPCVSRNDCPKRPYPLFMKCIDNFCEIWKIGKE
+Ps|crp1400_scaffold01925_0M_1|cluster17349           LFFVVTSRTRVPCTSDHDCPKSTYPTLVKCVYNFCEIWNTQ--
+MelOff|crp1400_GJLW01013962.1_0M_1|cluster17349      LFLVVTSETRISCVSHNDCPKRSYPLFMKCVDNFCETWMIGWE
+MelOff|crp1450_GJLW01014022.1_0M_1|cluster17349      LFLVESFRTRIPCVSDDDCPKAVYPLYIKCIRDFCNIWGSPF-
+MelOff|cluster17349_GJLW01024690.1_0M_1              LFFLFGNVDRIPCVSRDDCPKRPYPLFMKCIDNFCEIWRIGKE
+                                                      *.:     *: *.*  ****  **  :**: .**: *     

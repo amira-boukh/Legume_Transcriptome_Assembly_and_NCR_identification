@@ -1,0 +1,24 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medtr|MtNCR277                                                                                                                       MNNMVETCKYFYVVILF--LFIFIMATDGVYLCEDDEDCHIMPCMVPEYAKCIRMI----
+Medsat|cluster17830_GJLK01014015.1_0M_1                                                                                              ---MVETCKFVYVVIFF--LFIFIMATD-VYLCEDDEDCHIMPCIVPEYAKCIRMI----
+Ps|PsNCR161                                                                                                                          ---MGEILKFIYIIFIFVFVFIFITLTDGIYLCSEDSDCHEKYCILPKVAKCVRQI----
+Medsat|cluster17830_GJLK01014015.1_0M_2                                                                                              ---MAENSKFVYAVLIF--LFIFIMTTDGVYLCEDNKDCKPMPCFYPKVKKCANMV----
+TriPr|cluster17830_tripr.MilvusB.gnm2.Tp7_28M_1                                                                                      ---MAKGYIFIYAMVIIFSIFISI-TNCSLHLCEKTEDCHDLVCFPPKVLNCNFNIVEGL
+MelOff|crp1190_GJLW01016870.1_0M_1=cluster17830_GJLW01016870.1_0M_1                                                                  ---MAKNSKFVYVVIIF--LFIFIMATEGVYFCEDDKDCARVPCFFPEVAKCIRTI----
+MelOff|crp1190_GJLW01025232.1_0M_1=cluster17830_GJLW01025232.1_0M_1                                                                  ---MAKNSKFVYVVIIF--LFIFIMATEGVYFCEDDKDCARVPCFFPEVAKCIRTI----
+MelOff|crp1160_GJLW01023927.1_0M_1=crp1160_GJLW01023927.1_0M_2=cluster17830_GJLW01023927.1_0M_2=cluster17830_GJLW01023927.1_0M_      ---MAKNSKFVYVVIIF--LFIFIMTTDGVYLCEDNKDCKPMPCFYPKVKKCINMM----
+MelOff|crp1220_GJLW01023927.1_0M_1=cluster17830_GJLW01023927.1_0M_1                                                                  ---MAENSKFVYAVLIF--LFIFIMTTDGVYLCEDNKDCKPMPCFYPKVKKCANMV----
+                                                                                                                                        * :   :.* :.::  :** *  .  :::*.. .**    *: *:  :*   :    
+
+Medtr|MtNCR277                                                                                                                       --------CQCC---------
+Medsat|cluster17830_GJLK01014015.1_0M_1                                                                                              --------CQCC---------
+Ps|PsNCR161                                                                                                                          --------CICG---------
+Medsat|cluster17830_GJLK01014015.1_0M_2                                                                                              --------CVCF---------
+TriPr|cluster17830_tripr.MilvusB.gnm2.Tp7_28M_1                                                                                      KSILGYGVCECT---------
+MelOff|crp1190_GJLW01016870.1_0M_1=cluster17830_GJLW01016870.1_0M_1                                                                  --------CTCSFIYSLRPFL
+MelOff|crp1190_GJLW01025232.1_0M_1=cluster17830_GJLW01025232.1_0M_1                                                                  --------CTCW---------
+MelOff|crp1160_GJLW01023927.1_0M_1=crp1160_GJLW01023927.1_0M_2=cluster17830_GJLW01023927.1_0M_2=cluster17830_GJLW01023927.1_0M_      --------CKCF---------
+MelOff|crp1220_GJLW01023927.1_0M_1=cluster17830_GJLW01023927.1_0M_1                                                                  --------CVCF---------
+                                                                                                                                             * *          

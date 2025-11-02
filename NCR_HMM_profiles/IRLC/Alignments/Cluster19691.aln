@@ -1,0 +1,28 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Ps|PsNCR28                                                               ---------MFVYVMIVLIFLIFVVSDISAGQ-------------------AFLCFEDED
+Medtr|MtNCR735                                                           MENNKTEIIKFVYAMIIFIFVFFDVSDVIAGE-------------------SWFCFQDMT
+Medsa|MsatMercedes_NRG000244g00820751_NCR_NCR_NCR                        MENNKTEILKFVYVMIIFIFLFFDVSDVIAGE-------------------SWFCLQDMT
+Ps|PsNCR265                                                              ----MIKTFKFVYVMIVYIVLFFGL----NGR-------------------TWPCRVDIH
+CicerAr|CaNCR49                                                          ----MAEVFKFVYVKIILIFLFFLVNGVSSGK-------------------CVFCFAHFV
+Medtr|crp1410_MtrunA17Chr2_32M_2|cluster19691                            -----MAIIKFIYTMFLFIFLFVIPTKVDGRITHETLRNMPLPGSKPIPILRGECISDAE
+TriPr|cluster19691_tripr.MilvusB.gnm2.Tp2_21M_1                          ----MNKIFKFVNVVVASIFLFFVASVVSYGS-------------------PYPCLADND
+TriPr|cluster19691_tripr.MilvusB.gnm2.Tp2_19M_1                          ----MTEILKFIYVMIVCIFLFFVASGISTGR-------------------TWPCDVDKH
+TriPr|cluster19691_tripr.MilvusB.gnm2.scaf_32254_0M_1                    ----MTESIKNIYVMIIVIYLCFVISVTNSDH-------------------TIFCLNDLF
+TriPr|cluster19691_tripr.MilvusB.gnm2.scaf_29299_0M_1                    ----MTANVLFVYVMIILISLFFILSGVSAGK-------------------GYRCKEDED
+MelOff|crp1190_GJLW01004539.1_0M_1=cluster19691_GJLW01004539.1_0M_1      ----MIGIFKLVYAMIIFIFLFSVVSDVIAGE-------------------SWFCYKDMT
+                                                                                    : . .  * :                                 *  .  
+
+Ps|PsNCR28                                                               CPIPLCRP--LLSVCNGQLCVCIKV------------
+Medtr|MtNCR735                                                           CPHNLCFP--SKAVCISSQCICI--------------
+Medsa|MsatMercedes_NRG000244g00820751_NCR_NCR_NCR                        CPHNLCFP--SKAVCISSQCICI--------------
+Ps|PsNCR265                                                              CLPNLCQP--YKSICTNYQCTCFKS------------
+CicerAr|CaNCR49                                                          CK-EPCEP--YKGLCINEQCRCYK-------------
+Medtr|crp1410_MtrunA17Chr2_32M_2|cluster19691                            CKHPECDN--CRGICLNSRCVCMMR--LGWTYTTPQN
+TriPr|cluster19691_tripr.MilvusB.gnm2.Tp2_21M_1                          CSPSLCSSPTMKIICSDTNCICI--------------
+TriPr|cluster19691_tripr.MilvusB.gnm2.Tp2_19M_1                          CLPYFCLP--YKAICTNRQCICYKVEN----------
+TriPr|cluster19691_tripr.MilvusB.gnm2.scaf_32254_0M_1                    CYPLCTYP--RRGNCSNFQSTCVEQIWLSWKFNDI--
+TriPr|cluster19691_tripr.MilvusB.gnm2.scaf_29299_0M_1                    CPIPWCRP--LLSVCTNHQCICMEV------------
+MelOff|crp1190_GJLW01004539.1_0M_1=cluster19691_GJLW01004539.1_0M_1      CPHNLCFP--SKAVCISFQCVCI--------------
+                                                                         *             * .  . *               

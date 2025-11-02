@@ -1,0 +1,50 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Ps|PsNCR72                                                      MKKNMTKIIKFVYIMIFFLSPFIV-AIEFP------------------------PF---H
+Medsa|MsatMercedes_NRG000097g00439781_NCR                       MLKNMTKIIKFVYIMILFLSPILVEAGEVI------------------------P----F
+Medsa|MsatMercedes_NRG000201g00725061_NCR                       MLKNMTKIIKFVYIMILFLSPILVGAGEVI------------------------P----F
+Ps|PsNCR114                                                     ----MTKIMKYIYFMILFLSPFLA-AFDFP------------------------PF---H
+Medsat|crp1300_GJLK01005936.1_0M_1|cluster9719                  ----MTKIIKFVYIMILFLSPILVGAGEVI------------------------PVGKAF
+Ps|PsNCR143                                                     MKKNMTKIIKFVYIMIFFLSPFIV-AIEFP------------------------PF---H
+Ps|PsNCR223                                                     -------MYKFVYIMILFLTPFLAFELPL-------------------------ES---P
+Ps|PsNCR137                                                     ----MTKIMKYIYFMILFLSPFLA-AFDFP------------------------PF---H
+TriPr|crp1300_tripr.MilvusB.gnm2.scaf_605_0M_1|cluster9719      ----MTKIIKFVYIMILFLSSFLVVAEDFP------------------------PF---H
+AsSin|AsNCR010|cluster9719                                      ----MTKSLKCISTLILFFFLFIHLTNGYQFSKNNPTLGDEDAEQMRMNGRYKQHDYITD
+                                                                         * :  :*:*:  ::                                     
+
+Ps|PsNCR72                                                      YPCKFDFNCL-WIDCAPGK-VGMCHF-GTCCCDDS-------------------------
+Medsa|MsatMercedes_NRG000097g00439781_NCR                       RQCDFDMECIKLIRCPPSK-VKVCNS-GRCDCFDSKLKNNYVLHLSIYFYFF--HHNV--
+Medsa|MsatMercedes_NRG000201g00725061_NCR                       RQCDFDMECIKLIRCPPGK-VKVCNS-GRCDCFDSLLATSCIAQAPAPSPTQSLSPNSAP
+Ps|PsNCR114                                                     FPCSSDSKCH-WITCPPHREVAVCEF-GTCCCADS-------------------------
+Medsat|crp1300_GJLK01005936.1_0M_1|cluster9719                  RQCDFDMECIKLIRCPPGK-VKVCNS-GRC------------------------------
+Ps|PsNCR143                                                     YPCKFDFNCL-WIDCAPGK-VGMCHF-GTCCCDDRKPSTW--------------------
+Ps|PsNCR223                                                     YPCNFNSNCK-WIGCPLGK-IGECHF-GACFCIDRKVKK---------------------
+Ps|PsNCR137                                                     FPCSSDSKCH-WITCPPHREVAVCEF-GTCCCADRNFLHDN-------------------
+TriPr|crp1300_tripr.MilvusB.gnm2.scaf_605_0M_1|cluster9719      YPCNFDFNCL-WIDCPLGK-NPACNF-GTCCCAHS-------------------------
+AsSin|AsNCR010|cluster9719                                      FPCEVDRECKTICQ-MTGYQRFLCNSKNTCTCTDKEEAGPAQGQATKTRVWG--------
+                                                                  *. : :*              *.  . *                              
+
+Ps|PsNCR72                                                      ------------------------------------------------------------
+Medsa|MsatMercedes_NRG000097g00439781_NCR                       ----------------------------------------------------------VH
+Medsa|MsatMercedes_NRG000201g00725061_NCR                       APSPSTKSPTPSPASPPSTSSSPGPSPNTSSPPAPGSNSPASGPGGPGLEQPGAESPSAA
+Ps|PsNCR114                                                     ------------------------------------------------------------
+Medsat|crp1300_GJLK01005936.1_0M_1|cluster9719                  ------------------------------------------------------------
+Ps|PsNCR143                                                     ------------------------------------------------------------
+Ps|PsNCR223                                                     ------------------------------------------------------------
+Ps|PsNCR137                                                     ------------------------------------------------------------
+TriPr|crp1300_tripr.MilvusB.gnm2.scaf_605_0M_1|cluster9719      ------------------------------------------------------------
+AsSin|AsNCR010|cluster9719                                      ----------------PIKKEKKGPQKN--------------------------------
+                                                                                                                            
+
+Ps|PsNCR72                                                      -------------------------------------------
+Medsa|MsatMercedes_NRG000097g00439781_NCR                       FSNTSIYIYIYIYIYIYIYIYSTSQYFHCLRIVLYHLLWLLNI
+Medsa|MsatMercedes_NRG000201g00725061_NCR                       FSITNTFVAVTAFAGIFVSMVLA--------------------
+Ps|PsNCR114                                                     -------------------------------------------
+Medsat|crp1300_GJLK01005936.1_0M_1|cluster9719                  -------------------------------------------
+Ps|PsNCR143                                                     -------------------------------------------
+Ps|PsNCR223                                                     -------------------------------------------
+Ps|PsNCR137                                                     -------------------------------------------
+TriPr|crp1300_tripr.MilvusB.gnm2.scaf_605_0M_1|cluster9719      -------------------------------------------
+AsSin|AsNCR010|cluster9719                                      -------------------------------------------
+                                                                                                           

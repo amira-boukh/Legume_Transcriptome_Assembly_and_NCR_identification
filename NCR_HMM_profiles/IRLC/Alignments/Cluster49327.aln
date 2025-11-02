@@ -1,0 +1,50 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|cluster49327_GJLK01019499.1_0M_1                                                              MQLRKNMAQYLMFLYAFIIFLSLIV-------------------------------VEKA
+Medtr|crp1400_MtrunA17Chr6_28M_2|cluster49327                                                        ------MVQYLMFLYAFIIFLSLFVVQKAQIYITFFTIFSIFVFYTTFYHLTLTTFFSFH
+Medsat|crp1400_GJLK01004393.1_0M_1|cluster49327                                                      ------MAQYLMFVYVLIILLSLFDSFL----------------------L-----SNFE
+Medsat|crp1400_GJLK01009430.1_0M_1|cluster49327                                                      -----------MFFYALINFLSLFL--------------------------------VET
+Medtr|crp1400_MtrunA17Chr6_39M_2|cluster49327                                                        ------MVQYLMFVYVLIILLSIFL-------------------------------VEKA
+Medsa|MsatMercedes_NRG000484g01230681_NCR                                                            MQCKKNMAQYFVFLSALIIFLSIFI-------------------------------VEKA
+Medsat|crp1400_GJLK01024681.1_0M_1|cluster49327                                                      -----------MFVYSLIIFLSLFLIETK-------------------------------
+Medsat|cluster49327_GJLK01024681.1_0M_1                                                              ------MAQILMFVYSLIIFLSLFLIETKRS-MPFFKLFLNFLIYLIHNIL-----SPLN
+Medsat|cluster49327_GJLK01004393.1_0M_1                                                              MQRRRSMAQYLMFVYVLIILLSLFDSFL----------------------L-----SNFE
+Medtr|crp1430_MtrunA17Chr5_27M_3|cluster49327                                                        ------MAKFSMFVYALINFLSLFL--------------------------------VET
+Medtr|MtNCR684                                                                                       MQCRKNMAQYLVFLYALIILLSQFI-------------------------------VEKA
+Medsat|crp1400_GJLK01017769.1_0M_1|cluster49327                                                      ------MAQILMFVYSLIIFLSLFLVE---------------------------------
+Medtr|crp1470_MtrunA17Chr6_30M_3|cluster49327                                                        ------MAQFLLFVYSLIIFLSLFFGEAAFE-R------------------------TET
+Medsat|cluster49327_GJLK01005291.1_0M_1                                                              ------MAQYLMMVYVLIILLALFL-------------------------------VKKA
+Medtr|crp1400_MtrunA17Chr6_39M_1|cluster49327                                                        ------MAQYLMFVFVLIILLSQFL-------------------------------VKKA
+Medtr|cluster49327_MtrunA17Chr7_14M_1                                                                MRRRKNMAQILMFFYSLIIFFFLFLVETKRS-MPFFKLFLNFLIYLIHNI----------
+MelOff|crp1470_GJLW01000490.1_0M_1|cluster49327                                                      ------MARFILFVYFLIIFHSLFLGEA-----------------------------TTT
+MelOff|crp1450_GJLW01020635.1_0M_1|cluster49327                                                      -----------MFVFSLIIFHSLFL-------------------------------VETA
+MelOff|crp1400_GJLW01010165.1_0M_1=crp1430_GJLW01017017.1_0M_1=cluster49327_GJLW01010165.1_0M_1      ------MTQYLMFVYVMIIFLSLFL-------------------------------VRKA
+MelOff|crp1400_GJLW01023512.1_0M_1|cluster49327                                                      ------MAKYLIFVYALIIFISLFI-------------------------------VGKA
+MelOff|cluster49327_GJLW01023512.1_0M_1                                                              ---MRNMAKYLIFVYALIIFISLFI-------------------------------VGKA
+MelOff|crp1430_GJLW01000694.1_0M_1|cluster49327                                                      ------MAQIIMFVYALIIIFSLFLVETTT----------------------------TN
+                                                                                                                ::.  :* :   :                                    
+
+Medsat|cluster49327_GJLK01019499.1_0M_1                                                              QISHLPCFSDDECPKEIKP------CIHNFCEYFMEG-------------
+Medtr|crp1400_MtrunA17Chr6_28M_2|cluster49327                                                        NAGYLP--------------------------------------------
+Medsat|crp1400_GJLK01004393.1_0M_1|cluster49327                                                      NAANISCVSKDDCPKVVKPL--VIKCIDHFCEYFW---------------
+Medsat|crp1400_GJLK01009430.1_0M_1|cluster49327                                                      AITNIHCVSDDDCPKVIKPL--VMKCIGTYCYFFMI--YEGP--------
+Medtr|crp1400_MtrunA17Chr6_39M_2|cluster49327                                                        EITNIPCVSKDDCPKVVKPL--VIKCIDHFCEYFWLNMM-----------
+Medsa|MsatMercedes_NRG000484g01230681_NCR                                                            EITNIPCVSDDSCPKVIKPL--VIKCIDKFCEYFMEGEYEGP--------
+Medsat|crp1400_GJLK01024681.1_0M_1|cluster49327                                                      -RTNIPCFSDDDCPKPSPPL--VLKCVDYCCQYFREENSF----------
+Medsat|cluster49327_GJLK01024681.1_0M_1                                                              NIYNIPCFSDDD--------------------------------------
+Medsat|cluster49327_GJLK01004393.1_0M_1                                                              NAANISCVSKDDCPKVVKPL--VIKCIDH---------------------
+Medtr|crp1430_MtrunA17Chr5_27M_3|cluster49327                                                        AITNIRCVSDDDCPKVIKPL--VMKCIGNYCYFFMI--YEGP--------
+Medtr|MtNCR684                                                                                       EITNIPCVSDESCPQVIKPL--VIKCIDKFCEYFMEGEYEGP--------
+Medsat|crp1400_GJLK01017769.1_0M_1|cluster49327                                                      --TNIPCFSDDDCPKTSPPL--VLKCDDNFCRYFREKNLI----------
+Medtr|crp1470_MtrunA17Chr6_30M_3|cluster49327                                                        RMLTIPCTSDANCPKVISPC--HTKCFDGFCGW-----------------
+Medsat|cluster49327_GJLK01005291.1_0M_1                                                              EITNIPCDSKDDCPKVITPL--VIKCIDHFCEYFWLNMR-----------
+Medtr|crp1400_MtrunA17Chr6_39M_1|cluster49327                                                        EITNIPCVSKDDCPKVITPL--VIKCIDHFCEYFWLNMR-----------
+Medtr|cluster49327_MtrunA17Chr7_14M_1                                                                --ANIPCFSDDDC-------------------------------------
+MelOff|crp1470_GJLW01000490.1_0M_1|cluster49327                                                      TMLTIPCTSDSDCPKVVSPL--HTECVGGFCGYYVEGSYEGGQYEGP---
+MelOff|crp1450_GJLW01020635.1_0M_1|cluster49327                                                      ERTSIPCVSDDDCPKVIKPLILVIKCIDHVCQFYVEGTYKGYNHAIEIRR
+MelOff|crp1400_GJLW01010165.1_0M_1=crp1430_GJLW01017017.1_0M_1=cluster49327_GJLW01010165.1_0M_1      EITNIPCISYDDCPKVIQPL--IIKCIDHLCEYFWGS-------------
+MelOff|crp1400_GJLW01023512.1_0M_1|cluster49327                                                      ELTNIPCVSDDSCPKLIKPL--VIKCINNFCEYFMEDKYDGP--------
+MelOff|cluster49327_GJLW01023512.1_0M_1                                                              ELTNIPCVSDDSCPKLIKPL--VIKCINNFCEYFMEDKYDGP--------
+MelOff|crp1430_GJLW01000694.1_0M_1|cluster49327                                                      TKTNIPCVFDNDCPEVSYPL--VLMCIDDVCEYLLA--------------
+                                                                                                         :                                             

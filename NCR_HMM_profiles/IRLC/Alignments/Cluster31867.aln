@@ -1,0 +1,23 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|cluster31867_GJLK01016864.1_0M_1                                  --------------MAQIYMFVYALIIFLSLFLVIINCTPIPCNTPADCPKRVCIYPLRA
+Ps|Psat0s3945g0040.1_NCR                                                 --------------MAQILKFVYALMMFLSFFINVTNGGLFRCSSATDCPKQLCIRPLIA
+Medtr|MtNCR372                                                           --------------MAQIYMFVYVLIIFLSLFLVIINCTPIPCNTPADCPKRVCIYPLRA
+TriPr|cluster31867_tripr.MilvusB.gnm2.Tp4_24M_1                          MLTCAYMAHVKRRNMAQIHKIVYSLIIFFSLFVFVIDGGFIPCNHWTDCPKQFCLHPRRK
+MelOff|crp1160_GJLW01005777.1_0M_1=cluster31867_GJLW01005777.1_0M_1      --------------MTHIFMFVYALIIFFSLFLVVTNAGVFVCKVDPDCPHILCFRKQIA
+                                                                                       *::*  :** *::*:*:*: : :   : *.   ***: .*:     
+
+Medsat|cluster31867_GJLK01016864.1_0M_1                                  KCINFNCECDYVYK----------------------------------------------
+Ps|Psat0s3945g0040.1_NCR                                                 TCIDFNCECDVKIKNNYEN-----------------------------------------
+Medtr|MtNCR372                                                           KCINFNFRFELKTSSKEKKIEKSTKRQKKEITRLQLAMASSKGEQFQNATKITRHQLAMA
+TriPr|cluster31867_tripr.MilvusB.gnm2.Tp4_24M_1                          ICVDFFCECE--------------------------------------------------
+MelOff|crp1160_GJLW01005777.1_0M_1=cluster31867_GJLW01005777.1_0M_1      KCIDGMCECD--------------------------------------------------
+                                                                          *::   . :                                                  
+
+Medsat|cluster31867_GJLK01016864.1_0M_1                                  ---------------------
+Ps|Psat0s3945g0040.1_NCR                                                 ---------------------
+Medtr|MtNCR372                                                           SRRRAYSPWRMEGLARRVRAV
+TriPr|cluster31867_tripr.MilvusB.gnm2.Tp4_24M_1                          ---------------------
+MelOff|crp1160_GJLW01005777.1_0M_1=cluster31867_GJLW01005777.1_0M_1      ---------------------
+                                                                                              

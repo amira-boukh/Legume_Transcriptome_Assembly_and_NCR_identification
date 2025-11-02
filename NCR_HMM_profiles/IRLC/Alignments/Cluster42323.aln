@@ -1,0 +1,18 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|crp1130_GJLK01024900.1_0M_1|cluster42323              ------MTAIVKFVCVMIIFLSLCVFSMHNEITSFYYFIIAAVTTCIHDSDCPEDM-CYP
+Ps|PsNCR80                                                   MHKEEHMAEIIKFIYVMIMILLIS----------K--NVDAAVFSCLQDSECPHNL-CPA
+Medtr|crp1310_MtrunA17Chr1_28M_1|cluster42323                ------MAQISKSFYALIIFLSLILV-----------VTGIKLIKCTVSDDCPMNFRCPP
+Medsat|crp1310_GJLK01026684.1_0M_4|cluster42323              ------MAQISMSFYALIIFLSLIL----------------KILKCTDDGDCPNNFKCPP
+Ps|PsNCR128                                                  MRKEEVMTKIVIFLYVMMIF-IIS----------KNVEVIAAIISCLEDSDCPQKF-CPP
+TriPr|crp1130_tripr.MilvusB.gnm2.Tp3_25M_1|cluster42323      ---------MVNYLFILCKFSLITSYTIFYPSNIFLSFFITAIFKCSQDSDCPPTL-CPP
+                                                                      :   .  :  :  :                   : .*  ..:**  : *  
+
+Medsat|crp1130_GJLK01024900.1_0M_1|cluster42323              PQKSWCS------------------
+Ps|PsNCR80                                                   PSESNCIYGVCNCVIKTTDYHDRGN
+Medtr|crp1310_MtrunA17Chr1_28M_1|cluster42323                NTFVRCISDLCTCRLVY--------
+Medsat|crp1310_GJLK01026684.1_0M_4|cluster42323              NTFVRCISDICTCRSLLHLEP----
+Ps|PsNCR128                                                  PTVSRCIYDECSCVIKTIKYHDRGY
+TriPr|crp1130_tripr.MilvusB.gnm2.Tp3_25M_1|cluster42323      PIIPRCATNVCLCIRRNPFIK----
+                                                                  *                   

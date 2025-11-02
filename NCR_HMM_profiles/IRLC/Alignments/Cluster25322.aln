@@ -1,0 +1,62 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsat|crp1160_GJLK01000253.1_0M_1|cluster25322                  ------MTQISK-FVYALIIFFSLILVVTN------------------------------
+Medtr|MtNCR549                                                   MQTRESMVEILK-CFYVMITFLFLFFILT-------------------------------
+Medsat|crp1190_GJLK01022192.1_0M_1|cluster25322                  ------MVEILK-CFYVMITFLFLFFILT-------------------------------
+Medsat|crp1240_GJLK01010110.1_0M_1|cluster25322                  ------MAAILK-FVYIMIIFLFLLHVVN-------------------------------
+Ps|PsNCR124                                                      MQMRKYMAQISS-VFHHSIIFIFLFVV-VKGNL---------------------------
+Medtr|crp1190_MtrunA17Chr2_32M_1|cluster25322                    ------MAQIPR-YFYAFIIFLYLFHVATTNRF---------------------------
+Medsat|cluster25322_GJLK01022192.1_0M_1                          MQTRESMVEILK-CFYVMITFLFLFFILT-------------------------------
+Ps|crp1160_chr1LG6_028M_1|cluster25322                           -----------------MIVFIFLFNTVI-------------------------------
+Ps|crp1190_chr7LG7_477M_1|cluster25322                           ------MTQIPK-IVYGLIIFLSLFV----------------------------------
+Ps|cluster25322_scaffold01586_0M_1                               MQRREYMAQILK-IFNVIIIFLFIFIVVTDGITIT-------------------------
+TriPr|crp1190_tripr.MilvusB.gnm2.Tp3_12M_1|cluster25322          ------MTQILKFVVYALIIFLSLFLVVAN------------------------------
+TriPr|crp1160_tripr.MilvusB.gnm2.scaf_565_0M_1|cluster25322      -----------------MFTFLFIFTIVI-------------------------------
+TriPr|cluster25322_tripr.MilvusB.gnm2.Tp7_18M_1                  -----MAAGIPS-FFYALFIFLSLFLVATGENF---------------------------
+MelOff|crp1310_GJLW01002008.1_0M_1|cluster25322                  ------MAQISN-YFYALIIFLSLFVVVTYRSLIADALGVARIRLNRTQVLLKNSSLVDL
+MelOff|crp1190_GJLW01021398.1_0M_1|cluster25322                  ------MANIPK-LFYALVIFLSLFVVVT-------------------------------
+MelOff|crp1190_GJLW01019814.1_0M_1|cluster25322                  ------MAEIFK-FFYIMIIFLFLFIILT-------------------------------
+MelOff|crp1190_GJLW01003959.1_0M_1|cluster25322                  ------MTHIFR-KNYALIISLFLFVVLT-------------------------------
+MelOff|cluster25322_GJLW01003959.1_0M_1                          MHRRKTMTHIFR-KNYALIISLFLFVVLT-------------------------------
+                                                                                   .  : ::                                   
+
+Medsat|crp1160_GJLK01000253.1_0M_1|cluster25322                  -------------------------AGMFVCQVDIDCP--QILCFEKQIAKCIDRMCECV
+Medtr|MtNCR549                                                   -------------------------DELLVCESDEECP--KSTCLPPQIPKCLRMICECV
+Medsat|crp1190_GJLK01022192.1_0M_1|cluster25322                  -------------------------DELLVCECDEDCP--KSTCLPPQIPKCLRMICECV
+Medsat|crp1240_GJLK01010110.1_0M_1|cluster25322                  -------------------------G--TRCNSDEDCP--F-DCTGPQIPKCVSHICFCL
+Ps|PsNCR124                                                      ----------------------------ILCNTKDDCP--KNMCFPPEIPKCVEYYCKCI
+Medtr|crp1190_MtrunA17Chr2_32M_1|cluster25322                    -------------------------LYRIGCDTSNDCP--SYMCPPPLSPRCTKFYCKCI
+Medsat|cluster25322_GJLK01022192.1_0M_1                          -------------------------DELLVCECDEDCP--KSTCLPPQIPKCLRMICEC-
+Ps|crp1160_chr1LG6_028M_1|cluster25322                           -------------------------GGIITCHSDADCP--ESMCQFPEFPKCKKNICECV
+Ps|crp1190_chr7LG7_477M_1|cluster25322                           --------------------------GYFLCKHWWHCP--KNLCFRPQRRKCVDFYCECG
+Ps|cluster25322_scaffold01586_0M_1                               -------------------------SGTIKCQSNEICHNRRPTCKLPKMSRCVEGICKCL
+TriPr|crp1190_tripr.MilvusB.gnm2.Tp3_12M_1|cluster25322          -------------------------GGFFICKDVDDCP--KQLCFESQTSLCMYFRCECI
+TriPr|crp1160_tripr.MilvusB.gnm2.scaf_565_0M_1|cluster25322      -----------------EC--LPEYNHFHKCYNDNSCP--KTMCIPPRVPKCIRKSCRCI
+TriPr|cluster25322_tripr.MilvusB.gnm2.Tp7_18M_1                  ----------------------------ILCYTTKDCP--KNMCFPPQTPRCMEYYCKCM
+MelOff|crp1310_GJLW01002008.1_0M_1|cluster25322                  INHLSLITCREISKVYSRIIPPKNRTQFITCESSRDCP--GNMCLPPLKPNCRENLCECI
+MelOff|crp1190_GJLW01021398.1_0M_1|cluster25322                  -----------------------EGSGFISCKNWRDCP--KDLCWPPRYPKCIFYYCECY
+MelOff|crp1190_GJLW01019814.1_0M_1|cluster25322                  -------------------------DGLLVCETDEDCP--KSTCHPPQIPKCLRMLCECV
+MelOff|crp1190_GJLW01003959.1_0M_1|cluster25322                  ---------------------EGNLPGLIPCNSWLDCP--KRMCWPPRRKICVDSYCECE
+MelOff|cluster25322_GJLW01003959.1_0M_1                          ---------------------EGNLPGLIPCNSWLDCP--KRMCWPPRRKICVDSYCECE
+                                                                                               *     *      *       *    * * 
+
+Medsat|crp1160_GJLK01000253.1_0M_1|cluster25322                  NC-----
+Medtr|MtNCR549                                                   -------
+Medsat|crp1190_GJLK01022192.1_0M_1|cluster25322                  -------
+Medsat|crp1240_GJLK01010110.1_0M_1|cluster25322                  NSGKEAY
+Ps|PsNCR124                                                      -------
+Medtr|crp1190_MtrunA17Chr2_32M_1|cluster25322                    -------
+Medsat|cluster25322_GJLK01022192.1_0M_1                          -------
+Ps|crp1160_chr1LG6_028M_1|cluster25322                           YF-----
+Ps|crp1190_chr7LG7_477M_1|cluster25322                           -------
+Ps|cluster25322_scaffold01586_0M_1                               -------
+TriPr|crp1190_tripr.MilvusB.gnm2.Tp3_12M_1|cluster25322          -------
+TriPr|crp1160_tripr.MilvusB.gnm2.scaf_565_0M_1|cluster25322      -------
+TriPr|cluster25322_tripr.MilvusB.gnm2.Tp7_18M_1                  -------
+MelOff|crp1310_GJLW01002008.1_0M_1|cluster25322                  -------
+MelOff|crp1190_GJLW01021398.1_0M_1|cluster25322                  -------
+MelOff|crp1190_GJLW01019814.1_0M_1|cluster25322                  -------
+MelOff|crp1190_GJLW01003959.1_0M_1|cluster25322                  -------
+MelOff|cluster25322_GJLW01003959.1_0M_1                          -------
+                                                                        

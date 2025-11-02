@@ -1,0 +1,20 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Ps|PsNCR167                                                                                                                          MAKILKFVYAFILCISLFIVATKADG-S-VECESDVDCKPNYCMFFSGMCI-DNKCLCSV
+Medtr|MtNCR083                                                                                                                       MAEIIKFVYTMILLLSLFLVTTKV-GAY-IACQSEIDCPPNYSFLFAIRCI-KQKCVTVG
+Medtr|cluster11543_MtrunA17Chr1_36M_1                                                                                                MAHILKFVYATILVLFLFFVATKVDGAVHKECKTDVDCRQ---IWFVTKCI-NHECQPIL
+Medsat|crp1440_GJLK01000287.1_0M_1|cluster11543                                                                                      MAEIIKFVYAMILLLFLFLVATEVGGAY-IACQSEIDCPPNYSLLFAIKCI-KQKCVTIG
+Medsat|cluster11543_GJLK01003548.1_0M_1                                                                                              MVQILKFVYTMILFISIFLIATKFG------CKTSLHCQPIIIIQLNDECKIDDDCP---
+Ps|crp1500_chr5LG3_443M_2|cluster11543                                                                                               MNKTLKFVYVVTLFLSLFVVVKTVYE--FIYCEKDFDCPPIF--FLNHMCM-DNRCVYDY
+MelOff|crp1440_GJLW01001144.1_0M_1=crp1440_GJLW01001144.1_0M_2=cluster11543_GJLW01001144.1_0M_1=cluster11543_GJLW01001144.1_0M_      MAEIIKFVNAIILLLSLFLVTTKI-GAY-IECKTEVDCPRNFSMLFAIKCI-KQKCVTVG
+                                                                                                                                     * . :*** .  * : :*.:..         *:....*       :   *  .. *    
+
+Ps|PsNCR167                                                                                                                          KNPKETNVYAEKRLSDSSSIRFKGVYKQHAEKNEILH
+Medtr|MtNCR083                                                                                                                       RYL----------------------------------
+Medtr|cluster11543_MtrunA17Chr1_36M_1                                                                                                -------------------------------------
+Medsat|crp1440_GJLK01000287.1_0M_1|cluster11543                                                                                      RY-----------------------------------
+Medsat|cluster11543_GJLK01003548.1_0M_1                                                                                              ---KSGNLFYIY-------------------------
+Ps|crp1500_chr5LG3_443M_2|cluster11543                                                                                               MEKK---------------------------------
+MelOff|crp1440_GJLW01001144.1_0M_1=crp1440_GJLW01001144.1_0M_2=cluster11543_GJLW01001144.1_0M_1=cluster11543_GJLW01001144.1_0M_      RYL----------------------------------
+                                                                                                                                                                          

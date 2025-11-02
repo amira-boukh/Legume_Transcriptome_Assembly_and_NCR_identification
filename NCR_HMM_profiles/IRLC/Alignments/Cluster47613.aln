@@ -1,0 +1,18 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medtr|MtNCR111                                       MYVYYIQMGKNMAQRFMFIYALIIFLSQFFVVINTSDIPNNSNR---NSPKEDVFCNSND
+Medsat|crp1510_GJLK01007214.1_0M_1|cluster47613      -----------MAQIIMFFYVLIIFFSPFLVDRRSFP----SSFVQPKSYSSEIRCNADR
+Medsa|MsatMercedes_NRG000175g00660491_NCR_NCR        -------MGKNMAQTFMFIYVSIIFLSQFFVVINTSDIPNNSNR---DSPKEDVSCNSND
+Ps|crp1510_super-scaffold2518_0M_1|cluster47613      -----------MTQILIFIYALIIFHFVFVTETNET-------NEASEEKIKKIPCFTRS
+MelOff|cluster47613_GJLW01010094.1_0M_1              -----------MAQIIIIVYTLTIFISQLFVVSITSDVPWNPYRTSSKKPKEDISCFCDD
+MelOff|crp1510_GJLW01012559.1_0M_1|cluster47613      -----------MAQIIMFFYVLIIILSPFLVNHRSFP----SSFIEPKPWTSEIPCNSNR
+                                                                *:* :::.*.  *:   :..                .   ..: *    
+
+Medtr|MtNCR111                                       DCPTILYYVSKCVYNFCEYW
+Medsat|crp1510_GJLK01007214.1_0M_1|cluster47613      DCPYELYYETKCVEN-----
+Medsa|MsatMercedes_NRG000175g00660491_NCR_NCR        DCPTILYYVSKCVYNFCEYW
+Ps|crp1510_super-scaffold2518_0M_1|cluster47613      DCPTVLYYLSKCVRYVCVYF
+MelOff|cluster47613_GJLW01010094.1_0M_1              DCPTELFYFSKCVGTFCKYF
+MelOff|crp1510_GJLW01012559.1_0M_1|cluster47613      DCPYELYYESKCVDKLCTYW
+                                                     ***  *:* :***       

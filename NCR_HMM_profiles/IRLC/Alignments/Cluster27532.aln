@@ -1,0 +1,24 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+CicerAr|CaNCR10                                                  ----MVGIVKFVRVMVFFFFLFNIGM---------NLVE--------AHPRHPCTKDEDC
+Medsa|MsatMercedes_NRG000119g00510091_NCR                        ----MAELVKFFYVMINFLSIFVVAK---------KF------------PRHICFKDADC
+CicerAr|CaNCR11                                                  ----MVGIVKFVCVMVFFFFLFNIGM---------NLVE--------AHPRYPCTKDEDC
+Medtr|MtNCR-new86                                                ----MVELVKFVYVMITLLSIVVVAK---------NSQG---------NKENICFKDADC
+Medsat|cluster27532_GJLK01031237.1_0M_1                          ----MAELVKFFYVMINFLSIFVVAK---------EV------------PRNICFKDADC
+TriPr|crp1190_tripr.MilvusB.gnm2.scaf_177_0M_1|cluster27532      ----MVEFVKFVHVMIIFLSLFLFAK---------NVVVTL-IIYLCITTGIICFQDSDC
+TriPr|crp1430_tripr.MilvusB.gnm2.scaf_410_0M_1|cluster27532      ----MSEIIKFVHVMIILFYLFLVAT---------IID----------AARTPCLQDSDC
+AsSin|AsNCR123|cluster27532                                      ----MAKSFKCIFALLLFIVLFLHFTTGFQFSLNNSLYGWITYRPKVHHSRHPCKADKDC
+AsSin|AsNCR149|cluster27532                                      MEKNRFVILKFTYVMVLFLVLFLIGT---------NVY-----------AKFPCKGDSDC
+                                                                         .*   .:: :: :.                               *  * **
+
+CicerAr|CaNCR10                                                  PKDMCKHPG--SIPQCHWGWCICVIMMGPLPHPTIHNQLQ
+Medsa|MsatMercedes_NRG000119g00510091_NCR                        PQDMCSYPF--IPKCNIYGYCSC-----------------
+CicerAr|CaNCR11                                                  PKDMCKYPG--SYPRCVWGWCECFVKMRPLRRPIKRKQLQ
+Medtr|MtNCR-new86                                                PQDICSYPF--KPKCNIYGYCSC-----------------
+Medsat|cluster27532_GJLK01031237.1_0M_1                          PQDMCSYPF--IPKCNIYGYCSC-----------------
+TriPr|crp1190_tripr.MilvusB.gnm2.scaf_177_0M_1|cluster27532      PQDMCPYPF--KPKCNNYGYCTC-----------------
+TriPr|crp1430_tripr.MilvusB.gnm2.scaf_410_0M_1|cluster27532      PQNMCIYPF--IPGCF-SGYCRC-----------------
+AsSin|AsNCR123|cluster27532                                      KD-YCKHKGYKRYACNLQKKCDCMTPIRTQGY--------
+AsSin|AsNCR149|cluster27532                                      VEHICPFWA--TPWCNEFGICMCEVTIH------------
+                                                                  .  * .             * *                 

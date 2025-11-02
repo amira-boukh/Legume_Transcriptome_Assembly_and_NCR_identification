@@ -1,0 +1,14 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Ps|PsNCR249                                 MARIQNYVYTLIPFLVLFIVKTIESTYILQHVNTSNNILYSIFFYTFITLILFLLDFTDR
+Ps|PsNCR318                                 MARIQNYVYTLIPFLVLFIVKTIE----------------------------------NR
+Ps|crp1160_chr1LG6_256M_1|cluster41648      MARIQNYVYTLIPFLVLFIVKTIE----------------------------------NR
+Ps|cluster41648_chr1LG6_256M_1              MARIQNYVYTLIPFLVLFIVKTIE----------------------------------SR
+                                            ************************                                  .*
+
+Ps|PsNCR249                                 IPCHNNHGCTRYLSCPPPLVAKCYNFYCKCR--
+Ps|PsNCR318                                 IPCHNNHGCTRYLSCPPPLVAKCYNFYCKCR--
+Ps|crp1160_chr1LG6_256M_1|cluster41648      IPCHSNHGCTRYLSCSPPLVAKCYNFYCKCR--
+Ps|cluster41648_chr1LG6_256M_1              IPCYNDGGCLKYLGCPRPLVPKCYNFYCKCKKV
+                                            ***:.: ** :**.*  *** *********:  

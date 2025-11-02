@@ -1,0 +1,20 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Medsa|MsatMercedes_NRG000570g01344621_NCR                                MAKIFMFVYALIIFVSPFLLAT-FRTRLPCEKDDDCPEAFLPPV---MKCVNRFCQYEIL
+Medtr|MtNCR312                                                           MAKVYMFVYALIIFVSPFLLAT-FRTRLPCEKDDDCPEAFLPPV---MKCVNRFCQYEIL
+Ps|PsNCR47                                                               MVQLLTFVYALIIFLSLFLVIT-SRTRMPCEKDDDCPEAFLPPI---MKCVNNYCESEIQ
+Ps|crp1430_chr7LG7_447M_1|cluster34653                                   MAQFLMFVYALIFSLSIFLATT-SKTLYKCEKIGDCPDMFMHPV---KKCINNYCEYEME
+MelOff|crp1400_GJLW01003285.1_0M_1=cluster34653_GJLW01003285.1_0M_1      MAKILMFIYALIIFLSPFLLAT-FRTRLPCEKDEDCPEAFLPPV---MKCVSGFCEHEIP
+MelOff|crp1430_GJLW01007231.1_0M_1|cluster34653                          MTQILMFVYALIIFHSLFLVES-FRTRIPCVSDDDCPKICIFSL---H-CH-SWLPEKIP
+AsSin|AsNCR145|cluster34653                                              MVVIMKLVYVLVVFISLFLMTINVNAYMPCEKDDDCKKKYLSPPGWKGRCINGLCEY---
+                                                                         *. .  ::*.*:.  * **     .:   * .  ** .  :        *          
+
+Medsa|MsatMercedes_NRG000570g01344621_NCR                                E------
+Medtr|MtNCR312                                                           E------
+Ps|PsNCR47                                                               -------
+Ps|crp1430_chr7LG7_447M_1|cluster34653                                   SNNEV--
+MelOff|crp1400_GJLW01003285.1_0M_1=cluster34653_GJLW01003285.1_0M_1      E------
+MelOff|crp1430_GJLW01007231.1_0M_1|cluster34653                          NSEEISL
+AsSin|AsNCR145|cluster34653                                              -------
+                                                                                
